@@ -1,0 +1,81 @@
+{
+	quest.057E1CA0860D5A6E.quest_desc: ["The best frame."]
+	quest.057E1CA0860D5A6E.title: "Supreme Frame"
+	quest.0B2F6A54F5225AD8.quest_desc: ["Made with pink slime."]
+	quest.0B2F6A54F5225AD8.title: "Advanced Frame"
+	quest.101D9AB0E7E10BE3.quest_desc: ["Extract latex from logs with a Fluid Extractor."]
+	quest.101D9AB0E7E10BE3.title: "Latex"
+	quest.108357979B7D447C.quest_desc: ["A crafting machine for many IF items."]
+	quest.108357979B7D447C.title: "Dissolution Chamber"
+	quest.10EA06CCDF6D9791.quest_desc: ["Dried rubber smelts into plastic. You'll need tons."]
+	quest.10EA06CCDF6D9791.title: "Plastic"
+	quest.124AFE8514D57A14.quest_desc: ["Place these around the base, pointing in."]
+	quest.124AFE8514D57A14.title: "Laser Drill"
+	quest.127BACD8022EB089.quest_desc: ["The first machine frame."]
+	quest.127BACD8022EB089.title: "Pity Frame"
+	quest.12FDFCF20910123B.quest_desc: ["A drill that grows its dig area as you charge it."]
+	quest.12FDFCF20910123B.title: "Infinity Drill"
+	quest.133EBC0B0C495367.quest_desc: ["Place it next to a log to drain latex."]
+	quest.133EBC0B0C495367.title: "Fluid Extractor"
+	quest.1423A7058C29B35D.quest_desc: ["Stores a huge amount of a few items."]
+	quest.1423A7058C29B35D.title: "Infinity Backpack"
+	quest.1611DFDFC25C2140.quest_desc: ["Burns biofuel for power."]
+	quest.1611DFDFC25C2140.title: "Biofuel Generator"
+	quest.16DC281643A767FC.quest_desc: [
+		"A void miner. Aim laser drills at it to pull ores out of nothing."
+	]
+	quest.16DC281643A767FC.title: "Laser Drill Base"
+	quest.173663E8897B5066.quest_desc: ["A strange alloy used for advanced frames."]
+	quest.173663E8897B5066.title: "Pink Slime Ingot"
+	quest.1A1C9BD1CB971284.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1A1C9BD1CB971284.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1A1C9BD1CB971284.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1B8391BD98DD304D.quest_desc: ["Machines work faster."]
+	quest.1B8391BD98DD304D.title: "Speed Addon"
+	quest.1B9E0604EC6E01E0.quest_desc: ["Harvests crops and trees."]
+	quest.1B9E0604EC6E01E0.title: "Plant Gatherer"
+	quest.1DD6F9855278B3D5.quest_desc: ["Collects animal waste. Yes, really."]
+	quest.1DD6F9855278B3D5.title: "Sewer"
+	quest.1EDEC265561EEA31.quest_desc: ["The second tier."]
+	quest.1EDEC265561EEA31.title: "Simple Frame"
+	quest.1F1B608D4D4A6C19.quest_desc: [
+		"Industrial Foregoing has machines for farming, mobs, fluids and laser mining."
+	]
+	quest.1F1B608D4D4A6C19.title: "Automate Everything"
+	quest.1FBEB21AC9A59536.quest_desc: ["Clones a captured mob using essence."]
+	quest.1FBEB21AC9A59536.title: "Mob Duplicator"
+	quest.248C3721C467E845.quest_desc: ["Turns plant matter into biofuel."]
+	quest.248C3721C467E845.title: "Bioreactor"
+	quest.292BD5DF7D1E31B8.quest_desc: ["Move items and mobs along the ground."]
+	quest.292BD5DF7D1E31B8.title: "Conveyor Belts"
+	quest.33953AB8933C0789.quest_desc: ["Plants seeds in an area."]
+	quest.33953AB8933C0789.title: "Plant Sower"
+	quest.3EE94D728076DB6A.quest_desc: ["Kills mobs in front of it and collects drops and essence."]
+	quest.3EE94D728076DB6A.title: "Mob Crusher"
+	quest.3FF58268D09154F4.quest_desc: ["Speeds growth with bonemeal or fertilizer."]
+	quest.3FF58268D09154F4.title: "Plant Fertilizer"
+	quest.46D44C8CA5DFAFF0.quest_desc: ["Lens colors bias which ores come out."]
+	quest.46D44C8CA5DFAFF0.title: "Laser Lens"
+	quest.4F2241B4AA7AA0E7.quest_desc: ["Turns sewage into fertilizer."]
+	quest.4F2241B4AA7AA0E7.title: "Sewage Composter"
+	quest.5108BE8C30EDE0AB.quest_desc: ["Captures a mob to use in the duplicator."]
+	quest.5108BE8C30EDE0AB.title: "Mob Imprisonment Tool"
+	quest.56CB24B2D9F0451D.quest_desc: ["Bigger working area for area machines."]
+	quest.56CB24B2D9F0451D.title: "Range Addon"
+	quest.5738D0D4B70A311F.quest_desc: ["Burns anything. Just enough to start."]
+	quest.5738D0D4B70A311F.title: "Pitiful Generator"
+	quest.74C7D09552E7817B.quest_desc: ["The same trick for fluids."]
+	quest.74C7D09552E7817B.title: "Fluid Laser Base"
+	quest.787F9733003659D6.quest_desc: ["Turns mobs into meat and pink slime."]
+	quest.787F9733003659D6.title: "Slaughter Factory"
+}

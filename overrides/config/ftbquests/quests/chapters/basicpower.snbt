@@ -1,0 +1,518 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "basicpower"
+	group: "52EFC26130EB4672"
+	icon: {
+		id: "generatorgalore:iron_generator"
+	}
+	id: "119DA2050361496B"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/basicpower.png"
+			rotation: 0.0d
+			width: 11.25d
+			x: 4.625d
+			y: -8.0d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:generatorgalore:magmatic_generator"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:powah:energy_cell_starter"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 21.5d
+			y: -2.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:mekanismgenerators:solar_generator"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:minecraft:redstone_block"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 21.5d
+			y: 2.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0405A8F0D82D9834"
+			rewards: [
+				{
+					id: "117E54FF8F76E651"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "171EE3F775422FCC"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "3311D00C20D002BF"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0405A8F0D82D9834"]
+			id: "01209F6BE7124B04"
+			rewards: [
+				{
+					id: "56B1A32567D0A48C"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2A12446E32A186AA"
+					item: {
+						count: 1
+						id: "powah:furnator_starter"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["01209F6BE7124B04"]
+			id: "402221BC6127FF8E"
+			rewards: [
+				{
+					id: "5C1391433F88432F"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "16BFE1475CDAB04C"
+					item: {
+						count: 1
+						id: "powah:energy_cell_starter"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["402221BC6127FF8E"]
+			id: "30FAAEC062912051"
+			rewards: [
+				{
+					id: "2C76F3DE7D1167F9"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "16C2BDD6ED3BBB01"
+					item: {
+						count: 1
+						id: "powah:energy_cable_starter"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0405A8F0D82D9834"]
+			id: "104BF845CFD109F7"
+			rewards: [
+				{
+					id: "7269334372E6CD9D"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1D968994508A5AAA"
+					item: {
+						count: 1
+						id: "powah:solar_panel_starter"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0405A8F0D82D9834"]
+			id: "16A80336D90FF474"
+			rewards: [
+				{
+					id: "1AB01C1A1C99EEC2"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "13251CD4831C0B3D"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "4EDD6CD5310BD96E"
+					item: {
+						count: 1
+						id: "generatorgalore:copper_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["16A80336D90FF474"]
+			id: "1E8BE008E3ECEC62"
+			rewards: [
+				{
+					id: "140289F533A28CBF"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "1EFCEFB436740DB6"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "4C9C4799E1DFF78C"
+					item: {
+						count: 1
+						id: "generatorgalore:iron_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1E8BE008E3ECEC62"]
+			id: "144C60B75B73BB5C"
+			rewards: [
+				{
+					id: "3866CFBA5F4961FF"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					id: "51E5DF252B1E5415"
+					item: {
+						count: 1
+						id: "minecraft:lava_bucket"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "581E6ABD7AEDD7AF"
+					item: {
+						count: 1
+						id: "generatorgalore:gold_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["16A80336D90FF474"]
+			id: "13F658ACE9851265"
+			optional: true
+			rewards: [
+				{
+					id: "1171B5832DA6A63B"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "42C7404FC85AF059"
+					item: {
+						count: 1
+						id: "generatorgalore:culinary_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["16A80336D90FF474"]
+			id: "59379F87617334AE"
+			optional: true
+			rewards: [
+				{
+					id: "085E38E055BAA052"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "15BDECE18607F019"
+					item: {
+						count: 1
+						id: "generatorgalore:honey_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["144C60B75B73BB5C"]
+			id: "1582D8953EC02956"
+			rewards: [
+				{
+					id: "110441644377C332"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4D397FFCB04C5832"
+					item: {
+						count: 1
+						id: "generatorgalore:magmatic_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1582D8953EC02956"]
+			id: "1CFA890C9DF855EE"
+			rewards: [
+				{
+					id: "42FEEADDA55A769F"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "160D102522CF6A57"
+					item: {
+						count: 1
+						id: "generatorgalore:magmatic_generator_8x"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1CFA890C9DF855EE"]
+			id: "5485BBC23F4A1052"
+			rewards: [
+				{
+					id: "1BE39B038AA325C0"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "13581B178E33E490"
+					item: {
+						count: 1
+						id: "generatorgalore:magmatic_generator_64x"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["144C60B75B73BB5C"]
+			id: "1768B27E3FA6DFFE"
+			optional: true
+			rewards: [
+				{
+					id: "158C8C46BE9ECF13"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "175E44B01611FF23"
+					item: {
+						count: 1
+						id: "generatorgalore:netherstar_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["104BF845CFD109F7"]
+			id: "1A4C0918FDAAA6A5"
+			optional: true
+			rewards: [
+				{
+					id: "124F2B092257501F"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5EAD2E20F160CED4"
+					item: {
+						count: 1
+						id: "mekanismgenerators:solar_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0405A8F0D82D9834"]
+			id: "416F2FB838BADDC6"
+			optional: true
+			rewards: [
+				{
+					id: "1685036891A12D8D"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "16FF51CBE7364898"
+					item: {
+						count: 1
+						id: "mekanismgenerators:heat_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5485BBC23F4A1052"]
+			id: "12895E2363089FB0"
+			rewards: [
+				{
+					id: "4011D4DDE14B1AEC"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "12CDBA987ED73D36"
+					item: {
+						count: 1
+						id: "powah:energizing_orb"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "411CA8E34C1996B6"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "730B1B0DCFD36543"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -6.5d
+		}
+	]
+}

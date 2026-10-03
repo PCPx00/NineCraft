@@ -1,0 +1,71 @@
+{
+	quest.0C5C363BDC5FC0AC.quest_desc: ["For processing units."]
+	quest.0C5C363BDC5FC0AC.title: "Silicon"
+	quest.0E94E1CE72EC68C2.quest_desc: ["Burns fuel for your first Oritech power."]
+	quest.0E94E1CE72EC68C2.title: "Basic Generator"
+	quest.0EED97B084AF9ED6.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.0EED97B084AF9ED6.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.0EED97B084AF9ED6.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.10EBC77A32BDECC6.quest_desc: [
+		"Oritech brings slick machines, big multiblocks and laser arms. Machines get stronger with addons."
+	]
+	quest.10EBC77A32BDECC6.title: "Futuristic Industry"
+	quest.13D2E91F30A75AEC.quest_desc: ["A tough high-tier alloy."]
+	quest.13D2E91F30A75AEC.title: "Duratium"
+	quest.1431DEF1557E2457.quest_desc: ["Melts metals into alloys."]
+	quest.1431DEF1557E2457.title: "Foundry"
+	quest.14D054BF40A39270.quest_desc: ["Bigger energy buffer."]
+	quest.14D054BF40A39270.title: "Capacitor Addon"
+	quest.15C03E12DFD9E73B.quest_desc: ["Another core part."]
+	quest.15C03E12DFD9E73B.title: "Magnetic Coil"
+	quest.15C2AAA6F619D21E.quest_desc: ["An electric furnace."]
+	quest.15C2AAA6F619D21E.title: "Powered Furnace"
+	quest.15C7C200F4672C46.quest_desc: ["Crafts complex parts."]
+	quest.15C7C200F4672C46.title: "Assembler"
+	quest.179DB44A27228451.quest_desc: ["Ship items between ports by drone."]
+	quest.179DB44A27228451.title: "Drone Port"
+	quest.1AD6F694E03CC160.quest_desc: ["Separates materials."]
+	quest.1AD6F694E03CC160.title: "Centrifuge"
+	quest.1B01E0F9C4CD77CF.quest_desc: ["Mines blocks from a distance with a laser."]
+	quest.1B01E0F9C4CD77CF.title: "Laser Arm"
+	quest.1C2010B6478730FC.quest_desc: ["The brains in advanced machines."]
+	quest.1C2010B6478730FC.title: "Processing Unit"
+	quest.1C93A03B168A6AD4.quest_desc: ["Item, fluid and energy pipes."]
+	quest.1C93A03B168A6AD4.title: "Pipes"
+	quest.1DCE4B80772B3E3D.quest_desc: ["Breaks ore into fragments for extra output."]
+	quest.1DCE4B80772B3E3D.title: "Fragment Forge"
+	quest.1EA9711032BF3496.quest_desc: ["Grinds ores into dust."]
+	quest.1EA9711032BF3496.title: "Pulverizer"
+	quest.1F0326562CDCA601.quest_desc: ["Less power per operation."]
+	quest.1F0326562CDCA601.title: "Efficiency Addon"
+	quest.1F136B491A887248.quest_desc: ["A key component."]
+	quest.1F136B491A887248.title: "Motors"
+	quest.1FE44D2CB4F56DB9.quest_desc: ["A living metal."]
+	quest.1FE44D2CB4F56DB9.title: "Biosteel"
+	quest.26EA1CE8D998D9D5.quest_desc: [
+		"Addons attach next to a machine to add speed, efficiency or capacity."
+	]
+	quest.26EA1CE8D998D9D5.title: "Addons"
+	quest.356EC68CB0AEAA27.quest_desc: ["Oritech's own reactor multiblock."]
+	quest.356EC68CB0AEAA27.title: "Oritech Reactor"
+	quest.38596ED50F4A2336.quest_desc: [
+		"Yes, it does what you think. Don't set it off near your base."
+	]
+	quest.38596ED50F4A2336.title: "A Very Bad Idea"
+	quest.4F153C14E019F74E.quest_desc: ["An energy-rich crystal."]
+	quest.4F153C14E019F74E.title: "Fluxite"
+	quest.6B447FFF96D4C9E2.quest_desc: [
+		"Multiblocks are built around machine cores. Higher tiers allow more addons."
+	]
+	quest.6B447FFF96D4C9E2.title: "Machine Cores"
+}

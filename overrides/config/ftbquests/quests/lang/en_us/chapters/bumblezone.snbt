@@ -1,0 +1,49 @@
+{
+	quest.072097DEFCE90D1C.quest_desc: [
+		"The Bumblezone is a whole dimension inside a beehive. Friendly bees, sticky honey and a very grumpy queen."
+	]
+	quest.072097DEFCE90D1C.title: "A Dimension of Bees"
+	quest.1301505AA64A29F7.quest_desc: ["From angry bees."]
+	quest.1301505AA64A29F7.title: "Bee Stingers"
+	quest.13A60858F300755B.quest_desc: [
+		"Throw an ender pearl into a beehive or bee nest to teleport in."
+	]
+	quest.13A60858F300755B.title: "Get Inside"
+	quest.1689EF66754C2CEA.quest_desc: [
+		"Explore temples, cell mazes and honey caves hidden in the walls."
+	]
+	quest.1689EF66754C2CEA.title: "Hive Temples"
+	quest.16A90AF2B13B8E48.quest_desc: ["A rare, precious treat."]
+	quest.16A90AF2B13B8E48.title: "Royal Jelly"
+	quest.16D0062CAE71E9C3.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.16D0062CAE71E9C3.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.16D0062CAE71E9C3.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.174A4F68A07D52EE.quest_desc: ["Feed it to bees to make them friendly."]
+	quest.174A4F68A07D52EE.title: "Bee Bread"
+	quest.17BFC4499D749DAB.quest_desc: [
+		"Armor made from the hive. Each piece has its own bee perk."
+	]
+	quest.17BFC4499D749DAB.title: "Bee Armor"
+	quest.1DB514A169ADF638.quest_desc: ["Sparkly shards found around the hive walls."]
+	quest.1DB514A169ADF638.title: "Honey Crystals"
+	quest.1EF1EA56A34702BC.quest_desc: ["Shoot bees at your enemies."]
+	quest.1EF1EA56A34702BC.title: "Bee Cannon"
+	quest.1F6004C52E3BA6EE.quest_desc: ["Earned by doing the Bee Queen's trades and quests."]
+	quest.1F6004C52E3BA6EE.title: "Essence of the Bees"
+	quest.2BB4C3C5BDDB20B1.quest_desc: ["Carry bees around and send them at mobs."]
+	quest.2BB4C3C5BDDB20B1.title: "Buzzing Briefcase"
+	quest.6EDBF622DC0AF4B8.quest_desc: ["A shield that repairs with honey."]
+	quest.6EDBF622DC0AF4B8.title: "Honey Shield"
+	quest.71BCAAD5720F083B.quest_desc: ["A spear that poisons."]
+	quest.71BCAAD5720F083B.title: "Stinger Spear"
+}

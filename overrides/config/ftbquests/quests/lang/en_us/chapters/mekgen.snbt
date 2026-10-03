@@ -1,0 +1,67 @@
+{
+	quest.01CB90EF050B5B9B.quest_desc: ["Made from lithium in a fission reactor."]
+	quest.01CB90EF050B5B9B.title: "Tritium"
+	quest.070C0F20028800B5.quest_desc: ["Coils turn spinning into power."]
+	quest.070C0F20028800B5.title: "Electromagnetic Coils"
+	quest.118EE9F526C5B1FA.quest_desc: ["Power from sunlight."]
+	quest.118EE9F526C5B1FA.title: "Solar Generator"
+	quest.11D97B01C729FE20.quest_desc: ["Blades mount on rotors."]
+	quest.11D97B01C729FE20.title: "Rotor"
+	quest.11F0C6FEF088E763.quest_desc: ["A much stronger solar panel."]
+	quest.11F0C6FEF088E763.title: "Advanced Solar"
+	quest.12576C4C39DFFECE.quest_desc: ["More blades, more power."]
+	quest.12576C4C39DFFECE.title: "Turbine Blades"
+	quest.14C6E3ECABA45976.quest_desc: ["Start the fusion reaction with a laser and a hohlraum."]
+	quest.14C6E3ECABA45976.title: "Hohlraum"
+	quest.14E74A7E45E9B004.quest_desc: ["Burns bio fuel made from crops."]
+	quest.14E74A7E45E9B004.title: "Bio Generator"
+	quest.1552D506A4894657.quest_desc: ["Lava or burnable fuel makes steady power."]
+	quest.1552D506A4894657.title: "Heat Generator"
+	quest.15DD0353686D56F3.quest_desc: ["Returns steam to water."]
+	quest.15DD0353686D56F3.title: "Condenser"
+	quest.164BB0216E6E365F.quest_desc: [
+		"Made by the Supercritical Phase Shifter chain. Worth it for top-tier crafts."
+	]
+	quest.164BB0216E6E365F.title: "Antimatter"
+	quest.19308FAC4B393D56.quest_desc: ["Burns fissile fuel to make heat. Handle with care."]
+	quest.19308FAC4B393D56.title: "Fission Reactor"
+	quest.19EF1710E8E39940.quest_desc: ["The reactor's core."]
+	quest.19EF1710E8E39940.title: "Fuel Assembly"
+	quest.1AF57146258016C1.quest_desc: [
+		"Mekanism Generators ranges from a little heat generator all the way to fusion."
+	]
+	quest.1AF57146258016C1.title: "Power for Mekanism"
+	quest.1AF9D8E24ADBB309.quest_desc: ["A multiblock that turns steam into lots of power."]
+	quest.1AF9D8E24ADBB309.title: "Industrial Turbine"
+	quest.1DEE0DDC1E86E55C.quest_desc: [
+		"Emits redstone to SCRAM the reactor when things get hot. Build this!"
+	]
+	quest.1DEE0DDC1E86E55C.title: "Logic Adapter"
+	quest.3EA14EC63F2296E6.quest_desc: ["Caps a stack of fuel assemblies."]
+	quest.3EA14EC63F2296E6.title: "Control Rod"
+	quest.487F2F5F837A310C.quest_desc: ["Burns hydrogen or ethylene."]
+	quest.487F2F5F837A310C.title: "Gas Generator"
+	quest.56C51F07B9DA50C0.quest_desc: ["Separated from heavy water."]
+	quest.56C51F07B9DA50C0.title: "Deuterium"
+	quest.5CC23D03C1F1BBF2.quest_desc: ["Tritium and deuterium fuse into huge amounts of power."]
+	quest.5CC23D03C1F1BBF2.title: "Fusion Reactor"
+	quest.5E8752A00332CA17.quest_desc: ["Works better the higher you place it."]
+	quest.5E8752A00332CA17.title: "Wind Generator"
+	quest.60955EB9843A7BE1.quest_desc: ["Build lasers to ignite fusion."]
+	quest.60955EB9843A7BE1.title: "Lasers"
+	quest.765039ACE33E800C.quest_desc: ["Pipes fuel in and waste out."]
+	quest.765039ACE33E800C.title: "Reactor Port"
+	quest.779DFD06B53FA1D7.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.779DFD06B53FA1D7.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.779DFD06B53FA1D7.title: "&5Nine Craft&r - Quest Book Notice"
+}

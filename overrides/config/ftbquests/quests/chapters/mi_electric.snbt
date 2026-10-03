@@ -1,0 +1,812 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mi_electric"
+	group: "16FFBFD2EC76F717"
+	icon: {
+		id: "modern_industrialization:electric_blast_furnace"
+	}
+	id: "1F69F35711BAF602"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/mi_electric.png"
+			rotation: 0.0d
+			width: 9.75d
+			x: 3.875d
+			y: -10.0d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:modern_industrialization:electric_blast_furnace"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: 0.5d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:modern_industrialization:lv_steam_turbine"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 36.5d
+			y: -4.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:modern_industrialization:electronic_circuit"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 16.0d
+			y: 10.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:modern_industrialization:cupronickel_coil"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 36.5d
+			y: 5.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1C2AF6CF3F65EF2C"
+			rewards: [
+				{
+					id: "229A76213C2EBBC1"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "52D3559B62FE048D"
+					item: {
+						count: 1
+						id: "modern_industrialization:tin_cable"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "19988D81E02C13D7"
+					item: {
+						count: 1
+						id: "modern_industrialization:motor"
+					}
+					type: "item"
+					count: 2L
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1C2AF6CF3F65EF2C"]
+			id: "46E41F79811DA65A"
+			rewards: [
+				{
+					id: "790F29813E3E3838"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1F154D00FC1DF1D3"
+					item: {
+						count: 1
+						id: "modern_industrialization:lv_steam_turbine"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["46E41F79811DA65A"]
+			id: "11C084F309FC5277"
+			rewards: [
+				{
+					id: "14E41F01C10B710A"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "79475DD46509269D"
+					item: {
+						count: 1
+						id: "modern_industrialization:lv_diesel_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["46E41F79811DA65A"]
+			id: "3C5BAA0166BDA016"
+			rewards: [
+				{
+					id: "68EB14EC0B3A97A8"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "13B6DF12772A2F0B"
+					item: {
+						count: 1
+						id: "modern_industrialization:tin_cable"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3C5BAA0166BDA016"]
+			id: "708959274E9CC38D"
+			rewards: [
+				{
+					id: "0DF7CEA9D89BB522"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "54F9756E00E62DB8"
+					item: {
+						count: 1
+						id: "modern_industrialization:copper_cable"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 7.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["708959274E9CC38D"]
+			id: "0D783E3B3D5CD85B"
+			rewards: [
+				{
+					id: "39A5FD00C0B11283"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "16435B957A436C20"
+					item: {
+						count: 1
+						id: "modern_industrialization:lv_mv_transformer"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1C2AF6CF3F65EF2C"]
+			id: "1889CF8782A028A2"
+			rewards: [
+				{
+					id: "6AE82706F087FBA2"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					count: 16
+					id: "64FB59207B8EA784"
+					item: {
+						count: 1
+						id: "alltheores:steel_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "66288A6002D77525"
+					item: {
+						count: 1
+						id: "modern_industrialization:basic_machine_hull"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1889CF8782A028A2"]
+			id: "78D558DCB4040B7F"
+			rewards: [
+				{
+					id: "1DDD88DCEF9F1349"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3070A0754C7C95EF"
+					item: {
+						count: 1
+						id: "modern_industrialization:analog_circuit"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1889CF8782A028A2"]
+			id: "1AFE086E0EA937C4"
+			rewards: [
+				{
+					id: "10DC2D3147AC00A9"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "162E818551A8C502"
+					item: {
+						count: 1
+						id: "modern_industrialization:electric_furnace"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1889CF8782A028A2"]
+			id: "10CA5A04FC37DDA9"
+			rewards: [
+				{
+					id: "1FD15B5981AFCD78"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4871073A7987E3ED"
+					item: {
+						count: 1
+						id: "modern_industrialization:electric_compressor"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1889CF8782A028A2"]
+			id: "11E335791C5C758A"
+			rewards: [
+				{
+					id: "17480DFBA6454AAD"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "46244DF090BBD039"
+					item: {
+						count: 1
+						id: "modern_industrialization:electric_mixer"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1889CF8782A028A2"]
+			id: "12C752F96635128B"
+			rewards: [
+				{
+					id: "1A43EE33E1602416"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "161EB9C37269598C"
+					item: {
+						count: 1
+						id: "modern_industrialization:electric_cutting_machine"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1889CF8782A028A2"]
+			id: "7BE0EA7CD669A774"
+			optional: true
+			rewards: [
+				{
+					id: "0081F25439E72B7C"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5CA8D15B1FEAEC1A"
+					item: {
+						count: 1
+						id: "modern_industrialization:electric_packer"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["78D558DCB4040B7F"]
+			id: "1851B10A7D03F74C"
+			rewards: [
+				{
+					id: "1CCA94CD20F2A82D"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1345C61E5F6478D3"
+					item: {
+						count: 1
+						id: "modern_industrialization:electrolyzer"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["78D558DCB4040B7F"]
+			id: "1CBE51F0091983B5"
+			rewards: [
+				{
+					id: "18E56D3DC9DC52BC"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1FD0FCA53C4C4A84"
+					item: {
+						count: 1
+						id: "modern_industrialization:centrifuge"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1851B10A7D03F74C"]
+			id: "1B8F291389906535"
+			rewards: [
+				{
+					id: "1105F2F61584A618"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1F24EB5FFFCA7A5D"
+					item: {
+						count: 1
+						id: "modern_industrialization:chemical_reactor"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1B8F291389906535"]
+			id: "10D06875668DAECA"
+			rewards: [
+				{
+					id: "100201866806A323"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "18BE32CFD450ECF0"
+					item: {
+						count: 1
+						id: "modern_industrialization:rubber_sheet"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 12.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["10D06875668DAECA"]
+			id: "36723BE0652CE395"
+			rewards: [
+				{
+					id: "2AABE5A33FF24AF7"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "11C7138B19FEFC77"
+					item: {
+						count: 1
+						id: "modern_industrialization:electronic_circuit"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["36723BE0652CE395"]
+			id: "1BBB597EA7016482"
+			rewards: [
+				{
+					id: "25C0F5E73F4DB002"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6F493F64752EE460"
+					item: {
+						count: 1
+						id: "modern_industrialization:advanced_machine_hull"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1BBB597EA7016482"]
+			id: "0AB1A5E8837D681B"
+			rewards: [
+				{
+					id: "1398F87CECB1C1B1"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+				{
+					count: 32
+					id: "18941A9465AEF744"
+					item: {
+						count: 1
+						id: "modern_industrialization:coke"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "614567326BBAF461"
+					item: {
+						count: 1
+						id: "modern_industrialization:cupronickel_coil"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0AB1A5E8837D681B"]
+			id: "151F3F18F0D37071"
+			rewards: [
+				{
+					id: "16EEC8C0AE322464"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1C7B83E44FFC4D62"
+					item: {
+						count: 1
+						id: "modern_industrialization:electric_blast_furnace"
+					}
+					type: "item"
+				}
+			]
+			x: 22.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["151F3F18F0D37071"]
+			id: "0FA5E5F32FB35626"
+			rewards: [
+				{
+					id: "1F15FA9127070540"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1BF018138A342A9B"
+					item: {
+						count: 1
+						id: "modern_industrialization:vacuum_freezer"
+					}
+					type: "item"
+				}
+			]
+			x: 25.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["0FA5E5F32FB35626"]
+			id: "14852EBD8842BA45"
+			rewards: [
+				{
+					id: "1A37BE42E233ABD4"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "353458C2F855333C"
+					item: {
+						count: 1
+						id: "modern_industrialization:stainless_steel_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 27.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["14852EBD8842BA45"]
+			id: "5587C96A3F55758A"
+			rewards: [
+				{
+					id: "10BCDE5BC201661F"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3265C934C1C850B9"
+					item: {
+						count: 1
+						id: "modern_industrialization:kanthal_coil"
+					}
+					type: "item"
+				}
+			]
+			x: 30.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1BBB597EA7016482"]
+			id: "111DB378D58DD9C2"
+			rewards: [
+				{
+					id: "1BE60817C51D64F7"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1131E6B4E94C3471"
+					item: {
+						count: 1
+						id: "modern_industrialization:oil_drilling_rig"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["111DB378D58DD9C2"]
+			id: "408D2A87B296B52A"
+			rewards: [
+				{
+					id: "1963C5B0916C5981"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "42F2BE0C27ED4BFC"
+					item: {
+						count: 1
+						id: "modern_industrialization:distillation_tower"
+					}
+					type: "item"
+				}
+			]
+			x: 22.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["36723BE0652CE395"]
+			id: "1F940D1F15CA8F8A"
+			rewards: [
+				{
+					id: "40DBB2E28C63353F"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6B5F9AEE98E1A822"
+					item: {
+						count: 1
+						id: "modern_industrialization:assembler"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1F940D1F15CA8F8A"]
+			id: "16ABFA702DF2853F"
+			rewards: [
+				{
+					id: "13967668180338FF"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "10CB8A105099A4BB"
+					item: {
+						count: 1
+						id: "modern_industrialization:robot_arm"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["151F3F18F0D37071"]
+			id: "18E4640518E92BA7"
+			optional: true
+			rewards: [
+				{
+					id: "7DABA5F68A85319C"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "44698D81E7937610"
+					item: {
+						count: 1
+						id: "modern_industrialization:basic_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 25.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5587C96A3F55758A", "16ABFA702DF2853F"]
+			id: "1BF5366738257229"
+			rewards: [
+				{
+					id: "15721BA421F1C7D0"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1DF44E61C12929F1"
+					item: {
+						count: 1
+						id: "modern_industrialization:electronic_circuit"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 32.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "156B4C21198396F8"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "0B263441F9AC62F4"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -8.5d
+		}
+	]
+}

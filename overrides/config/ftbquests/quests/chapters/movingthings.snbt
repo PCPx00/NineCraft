@@ -1,0 +1,585 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "movingthings"
+	group: "52EFC26130EB4672"
+	icon: {
+		id: "minecraft:hopper"
+	}
+	id: "11F8C462B98A6F7E"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/movingthings.png"
+			rotation: 0.0d
+			width: 14.25d
+			x: 6.125d
+			y: -14.5d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:laserio:laser_node"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:modularrouters:modular_router"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 14.0d
+			y: -9.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:fluxnetworks:flux_point"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:minecraft:hopper"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 14.0d
+			y: 3.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1A20AE3E63A6CCAC"
+			rewards: [
+				{
+					id: "43E25F89B925B5A4"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					id: "6E6827788167FA3A"
+					item: {
+						count: 1
+						id: "minecraft:hopper"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "4EAD64818001DEDD"
+					item: {
+						count: 1
+						id: "minecraft:chest"
+					}
+					type: "item"
+					count: 2L
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1A20AE3E63A6CCAC"]
+			id: "123341EA4A392F9C"
+			rewards: [
+				{
+					id: "19C4870582CA7865"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "13D641A1FD7B5A6D"
+					item: {
+						count: 1
+						id: "minecraft:hopper"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["123341EA4A392F9C"]
+			id: "3A103079174B2D48"
+			rewards: [
+				{
+					id: "131BDC7B2BBCFE33"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 16
+					id: "3CA8CA994143DB1E"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "12D0A77B06E50CBE"
+					item: {
+						count: 1
+						id: "modularrouters:modular_router"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3A103079174B2D48"]
+			id: "79C79BDA7C454E8C"
+			rewards: [
+				{
+					id: "67044D8E5C95C3D4"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7951FD99DF855A0E"
+					item: {
+						count: 1
+						id: "modularrouters:blank_module"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["79C79BDA7C454E8C"]
+			id: "6C70CCA23E138D15"
+			rewards: [
+				{
+					id: "22524D4660FAF51A"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1F061F66AFA5BA94"
+					item: {
+						count: 1
+						id: "modularrouters:sender_module_1"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["79C79BDA7C454E8C"]
+			id: "11A121B35FEFA53C"
+			rewards: [
+				{
+					id: "1D2F14E6EE2FE58F"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1C5F6DBBAEDDE63B"
+					item: {
+						count: 1
+						id: "modularrouters:puller_module_1"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["1A20AE3E63A6CCAC"]
+			id: "11A261D921225BE4"
+			rewards: [
+				{
+					id: "63E95233EB01DC6C"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 16
+					id: "62EB8C559A95714C"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+				{
+					count: 9
+					id: "0F3EE1AE583EB111"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "6621CB81AD9E51FA"
+					item: {
+						count: 1
+						id: "laserio:laser_node"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["11A261D921225BE4"]
+			id: "195203D4BACDAD22"
+			rewards: [
+				{
+					id: "213FC7DC6440D872"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "65401899E2F57776"
+					item: {
+						count: 1
+						id: "laserio:laser_connector"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["11A261D921225BE4"]
+			id: "128237396F6D63AF"
+			rewards: [
+				{
+					id: "198863D740F86932"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1E0F6C5FC6CB998E"
+					item: {
+						count: 1
+						id: "laserio:card_item"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["128237396F6D63AF"]
+			id: "2709ACE90023AD5F"
+			rewards: [
+				{
+					id: "15F97F731AFEB775"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "19156AC15DCC9C07"
+					item: {
+						count: 1
+						id: "laserio:card_fluid"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["128237396F6D63AF"]
+			id: "1426AF7637F3D39A"
+			rewards: [
+				{
+					id: "157AA4F61E9FF46B"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2F4834AEAAED3095"
+					item: {
+						count: 1
+						id: "laserio:card_energy"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["11A261D921225BE4"]
+			id: "1EEF826D8970E0EC"
+			rewards: [
+				{
+					id: "7DED6B63FBD010EC"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "19949AE66448AD7A"
+					item: {
+						count: 1
+						id: "laserio:laser_wrench"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["128237396F6D63AF"]
+			id: "1682236028FB1938"
+			rewards: [
+				{
+					id: "3C8DB9DEE791AC47"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5A7E101ACA3AF850"
+					item: {
+						count: 1
+						id: "laserio:filter_basic"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["128237396F6D63AF"]
+			id: "78E8473DC52922E5"
+			optional: true
+			rewards: [
+				{
+					id: "149D5AB658966AED"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "76207472D61B9E81"
+					item: {
+						count: 1
+						id: "laserio:overclocker_card"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1A20AE3E63A6CCAC"]
+			id: "273465B737126E1F"
+			rewards: [
+				{
+					id: "10AD7EA3B976DFAD"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4F5891AC6ECE8BE9"
+					item: {
+						count: 1
+						id: "fluxnetworks:flux_point"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["273465B737126E1F"]
+			id: "1A08F60D4E7CF0C0"
+			rewards: [
+				{
+					id: "113656456D0DB559"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "65E51969F5EC92BC"
+					item: {
+						count: 1
+						id: "fluxnetworks:flux_plug"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1A08F60D4E7CF0C0"]
+			id: "5B45308C0CAC4774"
+			optional: true
+			rewards: [
+				{
+					id: "17EA94CCBE5DC775"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3EDA8536EE453E84"
+					item: {
+						count: 1
+						id: "fluxnetworks:basic_flux_storage"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1A20AE3E63A6CCAC"]
+			id: "4C4EDDA3891D12F2"
+			optional: true
+			rewards: [
+				{
+					id: "3826992B8960A61C"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3EB0E49627E12B6D"
+					item: {
+						count: 1
+						id: "rangedpumps:pump"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1A20AE3E63A6CCAC"]
+			id: "195651EB1A58BF8A"
+			optional: true
+			rewards: [
+				{
+					id: "14B97F6853FC4F36"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1AC702E9FF061CEA"
+					item: {
+						count: 1
+						id: "trashcans:item_trash_can"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1A20AE3E63A6CCAC"]
+			id: "6487A8A35DFCCDAD"
+			optional: true
+			rewards: [
+				{
+					id: "127B56D5953FC2C2"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5FE6C3D1CAFD1093"
+					item: {
+						count: 1
+						id: "enderstorage:ender_chest"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "14CDA5F04AB9AA8D"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "16A1D4A25175AB22"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -13.0d
+		}
+	]
+}

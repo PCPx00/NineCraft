@@ -1,0 +1,79 @@
+{
+	quest.0AB1A5E8837D681B.quest_desc: ["The heating coils for the electric blast furnace."]
+	quest.0AB1A5E8837D681B.title: "Cupronickel Coils"
+	quest.0D783E3B3D5CD85B.quest_desc: ["Steps power between voltages."]
+	quest.0D783E3B3D5CD85B.title: "Transformer"
+	quest.0FA5E5F32FB35626.quest_desc: ["Cools hot ingots."]
+	quest.0FA5E5F32FB35626.title: "Vacuum Freezer"
+	quest.10CA5A04FC37DDA9.quest_desc: ["Plates, faster."]
+	quest.10CA5A04FC37DDA9.title: "Electric Compressor"
+	quest.10D06875668DAECA.quest_desc: ["Needed for better circuits."]
+	quest.10D06875668DAECA.title: "Rubber"
+	quest.111DB378D58DD9C2.quest_desc: ["Drill crude oil for fuels and plastics."]
+	quest.111DB378D58DD9C2.title: "Oil Drilling Rig"
+	quest.11C084F309FC5277.quest_desc: ["Burns liquid fuels for power."]
+	quest.11C084F309FC5277.title: "Diesel Generator"
+	quest.11E335791C5C758A.quest_desc: ["Mixing, faster."]
+	quest.11E335791C5C758A.title: "Electric Mixer"
+	quest.12C752F96635128B.quest_desc: ["Rods and wires."]
+	quest.12C752F96635128B.title: "Electric Cutter"
+	quest.14852EBD8842BA45.quest_desc: ["The next big material."]
+	quest.14852EBD8842BA45.title: "Stainless Steel"
+	quest.151F3F18F0D37071.quest_desc: ["Makes hot alloys like stainless steel and kanthal."]
+	quest.151F3F18F0D37071.title: "Electric Blast Furnace"
+	quest.156B4C21198396F8.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.156B4C21198396F8.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.156B4C21198396F8.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.16ABFA702DF2853F.quest_desc: ["A key HV part."]
+	quest.16ABFA702DF2853F.title: "Robot Arm"
+	quest.1851B10A7D03F74C.quest_desc: ["Splits fluids and dusts into parts."]
+	quest.1851B10A7D03F74C.title: "Electrolyzer"
+	quest.1889CF8782A028A2.quest_desc: ["The base for LV machines."]
+	quest.1889CF8782A028A2.title: "Basic Hull"
+	quest.18E4640518E92BA7.quest_desc: ["Push more power into multiblocks."]
+	quest.18E4640518E92BA7.title: "Upgrades"
+	quest.1AFE086E0EA937C4.quest_desc: ["Faster smelting."]
+	quest.1AFE086E0EA937C4.title: "Electric Furnace"
+	quest.1B8F291389906535.quest_desc: ["Chemistry for plastics and acids."]
+	quest.1B8F291389906535.title: "Chemical Reactor"
+	quest.1BBB597EA7016482.quest_desc: ["For MV machines."]
+	quest.1BBB597EA7016482.title: "Advanced Hull"
+	quest.1BF5366738257229.quest_desc: [
+		"Stainless steel and robot arms unlock digital circuits. Head to &5MI: Digital Age&r."
+	]
+	quest.1BF5366738257229.title: "Into the Digital Age"
+	quest.1C2AF6CF3F65EF2C.quest_desc: [
+		"Electric machines are faster and unlock the rest of the tech tree. Power comes in LV, MV, HV, EV and beyond."
+	]
+	quest.1C2AF6CF3F65EF2C.title: "Electricity"
+	quest.1CBE51F0091983B5.quest_desc: ["Separates dusts."]
+	quest.1CBE51F0091983B5.title: "Centrifuge"
+	quest.1F940D1F15CA8F8A.quest_desc: ["Assembles complex parts."]
+	quest.1F940D1F15CA8F8A.title: "Assembler"
+	quest.36723BE0652CE395.quest_desc: ["MV's circuit."]
+	quest.36723BE0652CE395.title: "Electronic Circuit"
+	quest.3C5BAA0166BDA016.quest_desc: ["LV cable."]
+	quest.3C5BAA0166BDA016.title: "Tin Cable"
+	quest.408D2A87B296B52A.quest_desc: ["Splits crude oil into useful fluids."]
+	quest.408D2A87B296B52A.title: "Distillation Tower"
+	quest.46E41F79811DA65A.quest_desc: ["Turns steam into LV power."]
+	quest.46E41F79811DA65A.title: "Steam Turbine"
+	quest.5587C96A3F55758A.quest_desc: ["Hotter coils for tougher alloys."]
+	quest.5587C96A3F55758A.title: "Kanthal Coils"
+	quest.708959274E9CC38D.quest_desc: ["MV cable."]
+	quest.708959274E9CC38D.title: "Copper Cable"
+	quest.78D558DCB4040B7F.quest_desc: ["LV's circuit."]
+	quest.78D558DCB4040B7F.title: "Analog Circuit"
+	quest.7BE0EA7CD669A774.quest_desc: ["Packs items into bigger forms."]
+	quest.7BE0EA7CD669A774.title: "Packer"
+}

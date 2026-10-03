@@ -1,0 +1,44 @@
+{
+	quest.102FB667A4784D30.quest_desc: ["Quantum armor ignores almost all damage."]
+	quest.102FB667A4784D30.title: "Quantum Helmet"
+	quest.11FFB50DF7AD5D6A.quest_desc: ["Crushed from ultradense matter."]
+	quest.11FFB50DF7AD5D6A.title: "Singularity"
+	quest.14C5C4B8F9C600E2.quest_desc: ["The best hull."]
+	quest.14C5C4B8F9C600E2.title: "Quantum Hull"
+	quest.1529CE6694656A30.quest_desc: ["Lossless power for the biggest machines."]
+	quest.1529CE6694656A30.title: "Superconductor Cable"
+	quest.183104511C4C1C11.title: "Quantum Leggings"
+	quest.1ADE747E27779F6A.quest_desc: ["The heart of quantum circuits."]
+	quest.1ADE747E27779F6A.title: "Qubit"
+	quest.1D6A75489A917CFA.quest_desc: ["The last word in melee."]
+	quest.1D6A75489A917CFA.title: "Quantum Sword"
+	quest.1DC18187A5A31F0D.quest_desc: [
+		"MI's fusion reactor makes power on a scale nothing else touches. Look it up in the guidebook for the full structure."
+	]
+	quest.1DC18187A5A31F0D.title: "Fusion Reactor"
+	quest.1DFCC8A4CACEB02C.quest_desc: ["The top circuit."]
+	quest.1DFCC8A4CACEB02C.title: "Quantum Circuit"
+	quest.1E53CC6C038F15B4.title: "Quantum Boots"
+	quest.1EF9E15230B92E02.quest_desc: ["Fusion fuel."]
+	quest.1EF9E15230B92E02.title: "Helium-3"
+	quest.23605CD4BFE68AFA.quest_desc: [
+		"The last stretch of Modern Industrialization. It's long, but the gear at the end is unmatched."
+	]
+	quest.23605CD4BFE68AFA.title: "Quantum Leap"
+	quest.3F35A0F56B75A1D0.quest_desc: ["More fusion fuel."]
+	quest.3F35A0F56B75A1D0.title: "Tritium"
+	quest.40FDA8A9FADEA158.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.40FDA8A9FADEA158.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.40FDA8A9FADEA158.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.77AF4598B4C8C6A9.title: "Quantum Chestplate"
+}

@@ -1,0 +1,59 @@
+{
+	quest.12A47C8D2F696610.quest_desc: [
+		"Hold the vein-mining key (default &e`&r) while breaking blocks to mine whole ore veins or chop whole trees at once. It costs a little extra hunger."
+	]
+	quest.12A47C8D2F696610.title: "Handy Keys"
+	quest.14502B5FB961713B.quest_desc: [
+		"Your items wait for you in a grave where you fell. Walk up and use it to get everything back."
+	]
+	quest.14502B5FB961713B.title: "If You Die"
+	quest.15C92925388BFC18.quest_desc: [
+		"Open the map with &eM&r and use the chunk-claim screen to claim land. Claimed chunks are safe from griefing and explosions, and you can force-load a few so machines keep running while you are away."
+	]
+	quest.15C92925388BFC18.title: "Protect Your Base"
+	quest.17C5A7EAE1285CF9.quest_desc: [
+		"Nine Craft is a big kitchen-sink pack: tech, magic, farming, bosses and a whole lot of building. There is no wrong way to play."
+		""
+		"This book is your map. Every chapter follows one mod or one theme. Nothing is locked behind quests, so treat them as signposts, not gates."
+	]
+	quest.17C5A7EAE1285CF9.title: "&5Welcome to Nine Craft!"
+	quest.19BE4CB03764EAF7.quest_desc: [
+		"Hover any item and press &eR&r for recipes or &eU&r for uses. Nearly every question in a modpack can be answered this way."
+	]
+	quest.19BE4CB03764EAF7.title: "Look Things Up"
+	quest.1C59C0E12A88BC5D.quest_desc: [
+		"Inventory space runs out fast. A Sophisticated Backpack is cheap and upgrades a long way. Put it on your back slot to keep your hands free."
+	]
+	quest.1C59C0E12A88BC5D.title: "Grab a Backpack"
+	quest.1ED8E5EDC6C4109D.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1ED8E5EDC6C4109D.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1ED8E5EDC6C4109D.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1F973064EABB2CE9.quest_desc: [
+		"Not sure where to go next? The &5Main Path&r chapter walks you from your first stone pick to the late game, pointing into the mod chapters along the way."
+	]
+	quest.1F973064EABB2CE9.title: "Follow the Main Path"
+	quest.22EB1F42A10865C9.quest_desc: [
+		"Quests with a &dhexagon&r border are milestones. Optional quests are side paths you can skip."
+		""
+		"Click a quest to read it, then click its task to hand in the items. Rewards are claimed with the button on the right. Start by crafting a book!"
+	]
+	quest.22EB1F42A10865C9.title: "How This Book Works"
+	quest.5439CB8BD18979AD.quest_desc: [
+		"Quest progress is shared per team. Run &a/ftbteams party create <name>&r and invite your friends so everyone works on the same book."
+	]
+	quest.5439CB8BD18979AD.title: "Playing With Friends"
+	quest.54B753C744A6B228.quest_desc: [
+		"Waystones link places together. Find them in villages or craft your own, then warp between them from any waystone."
+	]
+	quest.54B753C744A6B228.title: "Fast Travel"
+}

@@ -1,0 +1,19 @@
+Nine Craft Modpack
+Copyright (c) 2026 Nine Craft (xTri6). All Rights Reserved.
+
+This covers the original Nine Craft content in this repository:
+  - the quest book: quest text, chapter layouts, loot tables and chapter
+    artwork in overrides/config/ftbquests and overrides/kubejs/assets/ninecraft
+  - the Nine Craft logo, banners, dividers and other files in assets/branding
+  - the screenshots in assets/screenshots
+  - the README, MODLIST and other documentation
+
+You may use, edit and redistribute this content as part of the Nine Craft
+modpack, and you may modify it for your own private play or private servers.
+Copying it into other public modpacks requires written permission from the
+Nine Craft team.
+
+Mods are NOT included in this repository. manifest.json only references mods
+hosted on CurseForge, and each mod remains the property of its author under
+its own license. Mod names, item names and item textures shown in the quest
+book belong to their respective mod authors. See MODLIST.md for credits.

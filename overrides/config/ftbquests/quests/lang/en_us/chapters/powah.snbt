@@ -1,0 +1,73 @@
+{
+	quest.05C4D64CBE8B3533.quest_desc: ["Send or receive from an ender channel."]
+	quest.05C4D64CBE8B3533.title: "Ender Gate"
+	quest.0F831F94660787E7.quest_desc: ["Configure sides and pick up machines."]
+	quest.0F831F94660787E7.title: "Powah Wrench"
+	quest.11744EC09749532C.quest_desc: ["The top material, made with Nether Stars."]
+	quest.11744EC09749532C.title: "Nitro Crystal"
+	quest.12E18BAB92668F32.quest_desc: ["Connects everything up."]
+	quest.12E18BAB92668F32.title: "Energy Cable"
+	quest.132BAB4518991693.quest_desc: ["Emeralds energized."]
+	quest.132BAB4518991693.title: "Spirited Crystal"
+	quest.132D11B7197AAAD2.quest_desc: [
+		"Powah is a tidy energy mod with seven tiers of everything. Energize materials, build reactors and send power anywhere."
+	]
+	quest.132D11B7197AAAD2.title: "Powah!"
+	quest.14459B962CF86074.quest_desc: [
+		"A multiblock of reactor blocks. Feed it uraninite and keep it cool."
+	]
+	quest.14459B962CF86074.title: "Reactor"
+	quest.1463EC3BFB3A794A.quest_desc: ["Clay, coal and lava make the base of most Powah recipes."]
+	quest.1463EC3BFB3A794A.title: "Dielectric Paste"
+	quest.14A9F4B9895A23C1.quest_desc: [
+		"Rods feed energy into the orb. More rods, faster crafting."
+	]
+	quest.14A9F4B9895A23C1.title: "Energizing Rod"
+	quest.1588F4A1876E8A5A.quest_desc: ["Mined from uraninite ore. Reactor fuel."]
+	quest.1588F4A1876E8A5A.title: "Uraninite"
+	quest.18ACD94F24FB42CB.quest_desc: ["A tidy sun-powered generator."]
+	quest.18ACD94F24FB42CB.title: "Solar Panel"
+	quest.196E0F348B4D5E58.quest_desc: ["Burns lava."]
+	quest.196E0F348B4D5E58.title: "Magmator"
+	quest.1AB4BBA5F273F8B3.quest_desc: [
+		"Surround it with energizing rods, drop items inside and power turns them into new materials."
+	]
+	quest.1AB4BBA5F273F8B3.title: "Energizing Orb"
+	quest.1AEA04DC49F59D73.quest_desc: ["Capacitors craft into every tier of machine."]
+	quest.1AEA04DC49F59D73.title: "Capacitors"
+	quest.1B6A46CB7EBE4D26.quest_desc: ["A great coolant for thermo generators and reactors."]
+	quest.1B6A46CB7EBE4D26.title: "Dry Ice"
+	quest.1D8EE628FEA97D5C.quest_desc: ["Charges items in an inventory."]
+	quest.1D8EE628FEA97D5C.title: "Energy Hopper"
+	quest.244231F3BC693E8E.quest_desc: ["The next tier's material."]
+	quest.244231F3BC693E8E.title: "Blazing Crystal"
+	quest.25F1B270F55CD671.quest_desc: ["Charges items in your inventory from anywhere."]
+	quest.25F1B270F55CD671.title: "Player Transmitter"
+	quest.33432EED9B23D0D5.quest_desc: ["Stores energy. Upgrade for more room."]
+	quest.33432EED9B23D0D5.title: "Energy Cell"
+	quest.414DFAD366874593.quest_desc: [
+		"Share one energy pool across any distance with the same channel."
+	]
+	quest.414DFAD366874593.title: "Ender Cell"
+	quest.42B38A76DD5BB041.quest_desc: ["The shell of most Powah machines."]
+	quest.42B38A76DD5BB041.title: "Dielectric Casing"
+	quest.6914D140A9D25AD5.quest_desc: ["Iron and gold energized together."]
+	quest.6914D140A9D25AD5.title: "Energized Steel"
+	quest.697FC7A4FDD8AED1.quest_desc: ["Diamonds energized."]
+	quest.697FC7A4FDD8AED1.title: "Niotic Crystal"
+	quest.6BFF57036C06327B.quest_desc: ["Hot blocks below and coolant give steady power."]
+	quest.6BFF57036C06327B.title: "Thermo Generator"
+	quest.6D2536965865D060.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.6D2536965865D060.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.6D2536965865D060.title: "&5Nine Craft&r - Quest Book Notice"
+}

@@ -1,0 +1,402 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "xycraft"
+	group: "19D37693AA763190"
+	icon: {
+		id: "xycraft_world:xychorium_gem_blue"
+	}
+	id: "177DC3AD77215941"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/xycraft.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 2.0d
+			y: -10.5d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:xycraft_world:xychorium_gem_blue"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:xycraft_world:xychorium_gem_red"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 11.5d
+			y: -5.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:xycraft_world:xychorium_gem_green"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:xycraft_machines:fabricator"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 11.5d
+			y: 3.5d
+		}
+	]
+	order_index: 11
+	quest_links: [ ]
+	quests: [
+		{
+			id: "68EB4F20CEA24E5F"
+			rewards: [
+				{
+					id: "2514FD4EFD4707D3"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 8
+					id: "103A36EF3922D742"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "19B280AB80E91E50"
+					item: {
+						count: 1
+						id: "minecraft:glowstone_dust"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["68EB4F20CEA24E5F"]
+			id: "7F2E88A33C6D66C8"
+			rewards: [
+				{
+					id: "102351E30E34150B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "41D81681B00734F4"
+					item: {
+						count: 1
+						id: "xycraft_world:xychorium_gem_blue"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["68EB4F20CEA24E5F"]
+			id: "1EFD4D20DF9CDFB3"
+			rewards: [
+				{
+					id: "1CA711E5E22C53F1"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "16F7C1F9A9C15376"
+					item: {
+						count: 1
+						id: "xycraft_world:xychorium_gem_red"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["68EB4F20CEA24E5F"]
+			id: "13835EEE743A3318"
+			rewards: [
+				{
+					id: "105D9C41BEEA93F6"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "6FC99E89240C395D"
+					item: {
+						count: 1
+						id: "xycraft_world:xychorium_gem_green"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["68EB4F20CEA24E5F"]
+			id: "6C3F68A2E7C58115"
+			rewards: [
+				{
+					id: "1198194B5BBFECB4"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "61BD6883C1780B90"
+					item: {
+						count: 1
+						id: "xycraft_world:xychorium_gem_light"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["68EB4F20CEA24E5F"]
+			id: "1FC47724CF590F91"
+			rewards: [
+				{
+					id: "6E937EAAD66B4E87"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "1CA2EC358425251E"
+					item: {
+						count: 1
+						id: "xycraft_world:xychorium_gem_dark"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["68EB4F20CEA24E5F"]
+			id: "135112838A246832"
+			optional: true
+			rewards: [
+				{
+					id: "5D182FC20D19DDB3"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "5A8A7B8F3D3ADAF5"
+					item: {
+						count: 1
+						id: "xycraft_world:kivi"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7F2E88A33C6D66C8", "1EFD4D20DF9CDFB3", "13835EEE743A3318"]
+			id: "0F85EC8F62F3C4C9"
+			rewards: [
+				{
+					id: "1F4CB2CBD494D7E9"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1663E8E98165B3F3"
+					item: {
+						count: 1
+						id: "xycraft_machines:machine_base"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0F85EC8F62F3C4C9"]
+			id: "3A3CA4923A058F41"
+			rewards: [
+				{
+					id: "11FEDD4F61FC70AB"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "12E2EB5E31DBC661"
+					item: {
+						count: 1
+						id: "xycraft_machines:extractor"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0F85EC8F62F3C4C9"]
+			id: "1AEEC1025447CB1C"
+			rewards: [
+				{
+					id: "79D4F465A4B5E9DE"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1DE5542A7A6C3C08"
+					item: {
+						count: 1
+						id: "xycraft_machines:collector"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0F85EC8F62F3C4C9"]
+			id: "0EB77EA04DCCB2E8"
+			rewards: [
+				{
+					id: "1A1F0B07238173C5"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "655B1F46AF89780D"
+					item: {
+						count: 1
+						id: "xycraft_machines:planter"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0F85EC8F62F3C4C9"]
+			id: "7CF9FCDD95352B6C"
+			rewards: [
+				{
+					id: "19A42EB957B36488"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "5B8E278D0B284F9C"
+					item: {
+						count: 1
+						id: "xycraft_machines:fabricator"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0F85EC8F62F3C4C9"]
+			id: "2764DF4E965590D6"
+			rewards: [
+				{
+					id: "18E8C86928E83FB3"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1E242B01C8837288"
+					item: {
+						count: 1
+						id: "xycraft_machines:hydro_pump"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1DB8A82D40F69F70"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "6B6FE5B8A5B0C890"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -9.0d
+		}
+	]
+}

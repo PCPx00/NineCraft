@@ -1,0 +1,365 @@
+{
+	icon: {
+		id: "ftbquests:lootcrate"
+	}
+	id: "2ADA036EBC37FC74"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 12
+			id: "1873DC7EB42030F4"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 8.0f
+		}
+		{
+			id: "54856BBBFE1FD9CA"
+			item: {
+				count: 1
+				id: "minecraft:netherite_ingot"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 4
+			id: "47DB61EB650FABD1"
+			item: {
+				count: 1
+				id: "minecraft:netherite_scrap"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "1ECF302D0683B1B6"
+			item: {
+				count: 1
+				id: "minecraft:enchanted_golden_apple"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "43C53BC298E2DC66"
+			item: {
+				count: 1
+				id: "minecraft:totem_of_undying"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 12
+			id: "4D3A518836374338"
+			item: {
+				count: 1
+				id: "minecraft:ender_eye"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 4
+			id: "75F940A15C2F7757"
+			item: {
+				count: 1
+				id: "minecraft:shulker_shell"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "36291F1721274BBD"
+			item: {
+				count: 1
+				id: "minecraft:elytra"
+			}
+			weight: 1.0f
+		}
+		{
+			count: 48
+			id: "535C969506563D41"
+			item: {
+				count: 1
+				id: "minecraft:experience_bottle"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 4
+			id: "306BABB2E4A57637"
+			item: {
+				count: 1
+				id: "allthemodium:allthemodium_ingot"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 18
+			id: "12CF5CDED0CDD3DD"
+			item: {
+				count: 1
+				id: "allthemodium:allthemodium_nugget"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 8
+			id: "163C08C0CE2E1024"
+			item: {
+				count: 1
+				id: "alltheores:platinum_ingot"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 4
+			id: "5D5C61DB242D33D4"
+			item: {
+				count: 1
+				id: "mekanism:advanced_control_circuit"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 6
+			id: "1300C013CE6483A8"
+			item: {
+				count: 1
+				id: "mekanism:alloy_reinforced"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 2
+			id: "666807B2ED6EA7C2"
+			item: {
+				count: 1
+				id: "mekanism:upgrade_energy"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "6BBA31D7ADD37C17"
+			item: {
+				count: 1
+				id: "mekanism:basic_tier_installer"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 8
+			id: "1F75575E20A137F2"
+			item: {
+				count: 1
+				id: "powah:crystal_blazing"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 6
+			id: "201BC5270E19DCA1"
+			item: {
+				count: 1
+				id: "powah:crystal_niotic"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 4
+			id: "1E505FE1B286B580"
+			item: {
+				count: 1
+				id: "ae2:engineering_processor"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 4
+			id: "1B8E786A2D963E39"
+			item: {
+				count: 1
+				id: "ae2:logic_processor"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "14D85CF6FCE23D65"
+			item: {
+				count: 1
+				id: "ae2:item_storage_cell_4k"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 4
+			id: "1C6D7C0782DCB05B"
+			item: {
+				count: 1
+				id: "refinedstorage:improved_processor"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "14961498595B20F4"
+			item: {
+				count: 1
+				id: "industrialforegoing:machine_frame_simple"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 4
+			id: "5CEEEF435FA3CEA7"
+			item: {
+				count: 1
+				id: "industrialforegoing:pink_slime_ingot"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 16
+			id: "002EA4AB36D5F143"
+			item: {
+				count: 1
+				id: "mysticalagriculture:tertium_essence"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 8
+			id: "19F9A4B54E0DAE3D"
+			item: {
+				count: 1
+				id: "mysticalagriculture:imperium_essence"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 8
+			id: "26B524A801507E64"
+			item: {
+				count: 1
+				id: "justdirethings:ferricore_ingot"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 6
+			id: "5C395F9358907F63"
+			item: {
+				count: 1
+				id: "justdirethings:blazegold_ingot"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "56C7FB7B6E0C2E20"
+			item: {
+				count: 1
+				id: "ars_nouveau:apprentice_spell_book"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "10604D47F88493A4"
+			item: {
+				count: 1
+				id: "irons_spellbooks:epic_ink"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 2
+			id: "76A20467B1295843"
+			item: {
+				count: 1
+				id: "irons_spellbooks:mithril_ingot"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 16
+			id: "402DE7AEE5BC32FE"
+			item: {
+				count: 1
+				id: "apotheosis:gem_dust"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 2
+			id: "19086E5EF34E609E"
+			item: {
+				count: 1
+				id: "functionalstorage:gold_upgrade"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "1CA9068830982017"
+			item: {
+				count: 1
+				id: "sophisticatedbackpacks:gold_backpack"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "1BC7E4D60DD4D228"
+			item: {
+				count: 1
+				id: "sophisticatedstorage:diamond_chest"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "5ED5EEA689B05856"
+			item: {
+				count: 1
+				id: "artifacts:cloud_in_a_bottle"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "16CF098D40458B19"
+			item: {
+				count: 1
+				id: "artifacts:universal_attractor"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "1A2303AE950DD988"
+			item: {
+				count: 1
+				id: "relics:springy_boot"
+			}
+			weight: 1.0f
+		}
+		{
+			id: "5BD4EB687AE22A6A"
+			item: {
+				count: 1
+				id: "relics:roller_skate"
+			}
+			weight: 1.0f
+		}
+		{
+			count: 16
+			id: "4B4A549BFB1776A8"
+			item: {
+				count: 1
+				id: "hostilenetworks:prediction_matrix"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "1DE0118668549640"
+			item: {
+				count: 1
+				id: "gateways:gate_pearl"
+			}
+			weight: 2.0f
+		}
+	]
+	use_title: true
+}

@@ -1,0 +1,407 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bumblezone"
+	group: "1A1ACC52CCF8F7E9"
+	icon: {
+		id: "the_bumblezone:honey_crystal_shards"
+	}
+	id: "1B4C80847B07B17B"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/bumblezone.png"
+			rotation: 0.0d
+			width: 11.25d
+			x: 4.625d
+			y: -9.0d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:the_bumblezone:honey_crystal_shield"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:the_bumblezone:stinger_spear"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 14.0d
+			y: -3.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:minecraft:bee_nest"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:the_bumblezone:bee_cannon"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 14.0d
+			y: 3.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "072097DEFCE90D1C"
+			rewards: [
+				{
+					id: "1537F993987F2F1D"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "182A909F977BCAC7"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "11976E6E5E84842A"
+					item: {
+						count: 1
+						id: "minecraft:honey_bottle"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["072097DEFCE90D1C"]
+			id: "13A60858F300755B"
+			rewards: [
+				{
+					id: "4B1749DF2DA4E226"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "196225B0BFAB7C00"
+					item: {
+						count: 1
+						id: "minecraft:sugar"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					dimension: "the_bumblezone:the_bumblezone"
+					id: "21089760DE0B2B83"
+					type: "dimension"
+				}
+			]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["13A60858F300755B"]
+			id: "174A4F68A07D52EE"
+			rewards: [
+				{
+					id: "184EF899E345FF12"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "086DA331BD5E7459"
+					item: {
+						count: 1
+						id: "the_bumblezone:bee_bread"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["13A60858F300755B"]
+			id: "1DB514A169ADF638"
+			rewards: [
+				{
+					id: "0BA92A28B21F7C17"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "2FEE37091C30D573"
+					item: {
+						count: 1
+						id: "the_bumblezone:honey_crystal_shards"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1DB514A169ADF638"]
+			id: "6EDBF622DC0AF4B8"
+			rewards: [
+				{
+					id: "1F580EA3FE43FB90"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "55A846B449766B9D"
+					item: {
+						count: 1
+						id: "the_bumblezone:honey_crystal_shield"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["13A60858F300755B"]
+			id: "1301505AA64A29F7"
+			rewards: [
+				{
+					id: "1CA202DB7159ED85"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "1D0C912BC44D8DFB"
+					item: {
+						count: 1
+						id: "the_bumblezone:bee_stinger"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1301505AA64A29F7"]
+			id: "71BCAAD5720F083B"
+			rewards: [
+				{
+					id: "1A6E966D3A90CD9F"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1F59EC5C0414DFC8"
+					item: {
+						count: 1
+						id: "the_bumblezone:stinger_spear"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1301505AA64A29F7"]
+			id: "1EF1EA56A34702BC"
+			rewards: [
+				{
+					id: "1DCB55CB4DBD833A"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "054CA897935C70B9"
+					item: {
+						count: 1
+						id: "the_bumblezone:bee_cannon"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["13A60858F300755B"]
+			id: "17BFC4499D749DAB"
+			rewards: [
+				{
+					id: "1B58C51211B029D0"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "32E0DE95A7C1918F"
+					item: {
+						count: 1
+						id: "the_bumblezone:bumble_bee_chestplate_1"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["13A60858F300755B"]
+			id: "16A90AF2B13B8E48"
+			rewards: [
+				{
+					id: "7110790718AB6607"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "4D0ACDD9292FD0C7"
+					item: {
+						count: 1
+						id: "the_bumblezone:royal_jelly_bottle"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["16A90AF2B13B8E48"]
+			id: "1F6004C52E3BA6EE"
+			rewards: [
+				{
+					id: "1FC70A36912E8B9A"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "3643CDD60CD942AA"
+					item: {
+						count: 1
+						id: "the_bumblezone:essence_of_the_bees"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["13A60858F300755B"]
+			id: "1689EF66754C2CEA"
+			optional: true
+			rewards: [
+				{
+					id: "4F3ABBB3A54681B8"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "12619DFFE7F3CCD4"
+					item: {
+						count: 1
+						id: "the_bumblezone:honey_compass"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1F6004C52E3BA6EE"]
+			id: "2BB4C3C5BDDB20B1"
+			optional: true
+			rewards: [
+				{
+					id: "6539272D6E20287E"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0F99790D425421CE"
+					item: {
+						count: 1
+						id: "the_bumblezone:buzzing_briefcase"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "16D0062CAE71E9C3"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "17174846EFD079DD"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -7.5d
+		}
+	]
+}

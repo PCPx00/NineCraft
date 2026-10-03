@@ -1,0 +1,2545 @@
+{
+	chapter.060AC4AD40D6A60A.title: "&9&l☢ &bMekanism Generators"
+	chapter.0E65C998B1FD1448.title: "&6&l♨ &eSteam Age"
+	chapter.103D1EB8D3CEA646.title: "&b&l◈ &3Applied Energistics"
+	chapter.1051424EE0AF725F.title: "&d&l❖ &5Artifacts & Relics"
+	chapter.1075D82ED49A0E8D.title: "&a&l☢ &2Extreme Reactors"
+	chapter.10DBD71EF2BCD024.title: "&d&l✧ &5Enchanting"
+	chapter.111F7A8AF77F3798.title: "&b&l✧ &3Ars Nouveau"
+	chapter.119DA2050361496B.title: "&e&l⚡ &6Spark of Power"
+	chapter.11F8C462B98A6F7E.title: "&b&l➜ &3Items on the Move"
+	chapter.1315E57FEE0AD827.title: "&a&l❀ &2Harvest & Hearth"
+	chapter.131A7AB921EE94A2.title: "&6&l★ &eThe Main Path"
+	chapter.13337A6C794667B1.title: "&4&l☠ &cCataclysm"
+	chapter.13711C0A426F2B26.title: "&2&l♣ &aProductive Trees"
+	chapter.148DCE73816CCE96.title: "&a&l▣ &2Refined Storage"
+	chapter.14A80E012F393089.title: "&9&l⌬ &bIntegrated Dynamics"
+	chapter.154939FD8F1C8716.title: "&a&l✿ &2Mystical Agriculture"
+	chapter.15684EE2BEFBA845.title: "&c&l♨ &6Industrial Foregoing"
+	chapter.1679E47FADFEBEBF.title: "&c&l⚡ &6Powah!"
+	chapter.177DC3AD77215941.title: "&b&l◇ &3XyCraft"
+	chapter.1831410B4169A76C.title: "&5&l✹ &dJust Dire Things"
+	chapter.19DE80327AA209BD.title: "&8&l◈ &7Actually Additions"
+	chapter.1A39AA2481957F34.title: "&6&l⚙ &eCreate"
+	chapter.1B4C80847B07B17B.title: "&e&l✺ &6The Bumblezone"
+	chapter.1B7DCA86ACB735C1.title: "&d&l✦ &5&lWelcome to Nine Craft &d&l✦"
+	chapter.1C96111F957428AC.title: "&6&l▣ &eChests & Drawers"
+	chapter.1E0EA0C5929ECCAC.title: "&5&l☽ &8Occultism"
+	chapter.1F566A3E7023B24B.title: "&b&l⌨ &3Digital Age"
+	chapter.1F69F35711BAF602.title: "&e&l⚡ &6Electric Age"
+	chapter.2308B9F93A23EBF3.title: "&e&l✺ &6Productive Bees"
+	chapter.2D085D0D9EDB3FD2.title: "&7&l⚒ &fGearing Up"
+	chapter.32D36EDA437E0AF9.title: "&c&l⚔ &4Bounty Board"
+	chapter.37A2AED4A888E6D7.title: "&b&l⚙ &3Mekanism"
+	chapter.3AF42AF7973B5D06.title: "&7&l⚔ &fSilent Gear"
+	chapter.46D86EB748AC43E1.title: "&5&l✦ &dEnder IO"
+	chapter.57992FDBA5F5ECAC.title: "&d&l✧ &5Oritech"
+	chapter.5825F60FD8903FF1.title: "&c&l✺ &6Iron's Spellbooks"
+	chapter.5B8FEC0165936225.title: "&5&l◆ &dDeep Metals"
+	chapter.73956EEF4718BA73.title: "&c&l☠ &4Hostile Neural Networks"
+	chapter.7755C10A51049B17.title: "&8&l▦ &7Compact Machines"
+	chapter.78540FE111992A52.title: "&d&l∞ &5Quantum Endgame"
+	chapter_group.16FFBFD2EC76F717.title: "&6&lModern Industrialization"
+	chapter_group.19D37693AA763190.title: "&b&lTechnology"
+	chapter_group.1A1ACC52CCF8F7E9.title: "&c&lAdventure & Combat"
+	chapter_group.47FDD49D5CA751DC.title: "&a&lResources & Farming"
+	chapter_group.4CB0509F050ABC8A.title: "&e&lStorage & Logistics"
+	chapter_group.5088679F40EF8933.title: "&5&lMagic"
+	chapter_group.52EFC26130EB4672.title: "&f&lThe Basics"
+	file.0000000000000001.title: "Nine Craft"
+	quest.00645BCBB6646A00.quest_desc: ["A Nether alloy."]
+	quest.00645BCBB6646A00.title: "Crimson Steel"
+	quest.00738E0B69B038A0.quest_desc: ["Restores health."]
+	quest.00738E0B69B038A0.title: "Heal"
+	quest.01209F6BE7124B04.quest_desc: [
+		"Powah's Furnator burns anything a furnace would. Easy early power."
+	]
+	quest.01209F6BE7124B04.title: "Burn Stuff"
+	quest.0137961DDE8D960F.quest_desc: ["Part of the five-times ore line."]
+	quest.0137961DDE8D960F.title: "Chemical Washer"
+	quest.0140E8787E204CC0.quest_desc: ["More still."]
+	quest.0140E8787E204CC0.title: "Diamond Spellbook"
+	quest.01CB90EF050B5B9B.quest_desc: ["Made from lithium in a fission reactor."]
+	quest.01CB90EF050B5B9B.title: "Tritium"
+	quest.032F77011D25F91C.quest_desc: ["Hardy wood."]
+	quest.032F77011D25F91C.title: "Ash"
+	quest.038E446BEFD2BBE6.quest_desc: ["The rarest essence there is."]
+	quest.038E446BEFD2BBE6.title: "Creative Essence"
+	quest.039001C770F1412C.quest_desc: [
+		"Your first spellbook. It comes with a few starting glyphs."
+	]
+	quest.039001C770F1412C.title: "Novice Spell Book"
+	quest.03CDC222DC26F601.quest_desc: ["From Nether mobs."]
+	quest.03CDC222DC26F601.title: "Nether Prediction"
+	quest.03D94E95B8F7EEC7.quest_desc: [
+		"HV and EV bring digital circuits, nuclear power and serious automation."
+	]
+	quest.03D94E95B8F7EEC7.title: "Going Digital"
+	quest.0405A8F0D82D9834.quest_desc: [
+		"Most machines here run on Forge Energy, measured in FE. Any generator works with any machine, so start simple."
+	]
+	quest.0405A8F0D82D9834.title: "Power 101"
+	quest.04969923B53980AA.quest_desc: ["Charged certus, redstone and quartz dropped in water."]
+	quest.04969923B53980AA.title: "Fluix Crystal"
+	quest.0515C6711F3CC8A4.quest_desc: [
+		"Pick villagers up as items and put them in compact trading and breeding blocks."
+	]
+	quest.0515C6711F3CC8A4.title: "Pocket Villagers"
+	quest.057E1CA0860D5A6E.quest_desc: ["The best frame."]
+	quest.057E1CA0860D5A6E.title: "Supreme Frame"
+	quest.058BD94EA5D3C033.quest_desc: ["See otherworld blocks without eating fruit."]
+	quest.058BD94EA5D3C033.title: "Otherworld Goggles"
+	quest.05A3F398F855E655.quest_desc: ["Reach the network from a distance."]
+	quest.05A3F398F855E655.title: "Wireless Transmitter"
+	quest.05B2E4213336E128.quest_desc: ["Makes all of Ender IO's alloys."]
+	quest.05B2E4213336E128.title: "Alloy Smelter"
+	quest.05C4D64CBE8B3533.quest_desc: ["Send or receive from an ender channel."]
+	quest.05C4D64CBE8B3533.title: "Ender Gate"
+	quest.06B3ACCC80CCA0FE.quest_desc: [
+		"Mines chosen ores from a huge area without digging a tunnel."
+	]
+	quest.06B3ACCC80CCA0FE.title: "Digital Miner"
+	quest.06D7DFE28B6A7607.quest_desc: ["Reprocessed fuel."]
+	quest.06D7DFE28B6A7607.title: "Blutonium"
+	quest.06EF6114877165EF.quest_desc: ["Shows speed and stress when you look at machines."]
+	quest.06EF6114877165EF.title: "Engineer's Goggles"
+	quest.070C0F20028800B5.quest_desc: ["Coils turn spinning into power."]
+	quest.070C0F20028800B5.title: "Electromagnetic Coils"
+	quest.072097DEFCE90D1C.quest_desc: [
+		"The Bumblezone is a whole dimension inside a beehive. Friendly bees, sticky honey and a very grumpy queen."
+	]
+	quest.072097DEFCE90D1C.title: "A Dimension of Bees"
+	quest.07AD3F6B55851237.quest_desc: ["Mines blocks in front of it."]
+	quest.07AD3F6B55851237.title: "Mechanical Drill"
+	quest.088739640C5D5CC3.quest_desc: ["Squeezes menril logs into resin."]
+	quest.088739640C5D5CC3.title: "Squeezer"
+	quest.08A2953B5F1011A9.quest_desc: ["Replace some casing with glass to see inside."]
+	quest.08A2953B5F1011A9.title: "Reactor Glass"
+	quest.09CEBF5E6DA71633.quest_desc: ["Treat chests and drawers as part of the network."]
+	quest.09CEBF5E6DA71633.title: "External Storage"
+	quest.09D3DEB31434C891.quest_desc: ["Used in electronics and a few magic recipes."]
+	quest.09D3DEB31434C891.title: "Silver"
+	quest.0A071C12E7D40EE6.quest_desc: ["Many trees drop fruit you can eat or cook."]
+	quest.0A071C12E7D40EE6.title: "Fruit Trees"
+	quest.0A753369CDE4AE50.quest_desc: [
+		"A storage network is a mid-game project. Until then, these blocks keep your base tidy."
+	]
+	quest.0A753369CDE4AE50.title: "Stop Losing Things"
+	quest.0AB1A5E8837D681B.quest_desc: ["The heating coils for the electric blast furnace."]
+	quest.0AB1A5E8837D681B.title: "Cupronickel Coils"
+	quest.0B2962947AEF05DB.quest_desc: ["Grown in the blast furnace."]
+	quest.0B2962947AEF05DB.title: "Silicon Crystal"
+	quest.0B2F6A54F5225AD8.quest_desc: ["Made with pink slime."]
+	quest.0B2F6A54F5225AD8.title: "Advanced Frame"
+	quest.0B459DBCDF2D8F72.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.0B459DBCDF2D8F72.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.0B459DBCDF2D8F72.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.0B9E0AC7E4FDDF14.quest_desc: ["A machine boss in an ancient factory."]
+	quest.0B9E0AC7E4FDDF14.title: "The Harbinger"
+	quest.0BC42FFF6AB1F620.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.0BC42FFF6AB1F620.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.0BC42FFF6AB1F620.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.0C5C363BDC5FC0AC.quest_desc: ["For processing units."]
+	quest.0C5C363BDC5FC0AC.title: "Silicon"
+	quest.0C7C64D127013864.title: "Ignitium Armor"
+	quest.0D783E3B3D5CD85B.quest_desc: ["Steps power between voltages."]
+	quest.0D783E3B3D5CD85B.title: "Transformer"
+	quest.0DAAC1C4E26E6F31.quest_desc: ["Changes speed when paired with a small cog."]
+	quest.0DAAC1C4E26E6F31.title: "Large Cogwheel"
+	quest.0DC6956410F343D9.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.0DC6956410F343D9.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.0DC6956410F343D9.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.0E76435DAF878D0C.quest_desc: ["The center of a real network. Channels start here."]
+	quest.0E76435DAF878D0C.title: "ME Controller"
+	quest.0E94E1CE72EC68C2.quest_desc: ["Burns fuel for your first Oritech power."]
+	quest.0E94E1CE72EC68C2.title: "Basic Generator"
+	quest.0E969C7CD43EF4C9.quest_desc: ["Disks can hold fluids too."]
+	quest.0E969C7CD43EF4C9.title: "Fluid Storage"
+	quest.0EB77EA04DCCB2E8.quest_desc: ["Plants and harvests crops."]
+	quest.0EB77EA04DCCB2E8.title: "Planter"
+	quest.0EED97B084AF9ED6.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.0EED97B084AF9ED6.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.0EED97B084AF9ED6.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.0F1782D081353875.quest_desc: ["The first alloy, used for upgrades and tier crafts."]
+	quest.0F1782D081353875.title: "Infused Alloy"
+	quest.0F26827B923B22D8.quest_desc: ["A risky but strong ring."]
+	quest.0F26827B923B22D8.title: "Ring of the Seven Deadly Sins"
+	quest.0F727DA15FDD1C87.quest_desc: ["Keeps other players out of your chunk."]
+	quest.0F727DA15FDD1C87.title: "Expulsion Pylon"
+	quest.0F831F94660787E7.quest_desc: ["Configure sides and pick up machines."]
+	quest.0F831F94660787E7.title: "Powah Wrench"
+	quest.0F85EC8F62F3C4C9.quest_desc: ["The start of every XyCraft machine."]
+	quest.0F85EC8F62F3C4C9.title: "Machine Base"
+	quest.0FA5E5F32FB35626.quest_desc: ["Cools hot ingots."]
+	quest.0FA5E5F32FB35626.title: "Vacuum Freezer"
+	quest.0FC19877E9D44293.quest_desc: ["Holds the rotor shaft."]
+	quest.0FC19877E9D44293.title: "Rotor Bearing"
+	quest.1018D6813091B2B1.quest_desc: ["Cuts rods and bolts."]
+	quest.1018D6813091B2B1.title: "Cutting Machine"
+	quest.101D9AB0E7E10BE3.quest_desc: ["Extract latex from logs with a Fluid Extractor."]
+	quest.101D9AB0E7E10BE3.title: "Latex"
+	quest.102FB667A4784D30.quest_desc: ["Quantum armor ignores almost all damage."]
+	quest.102FB667A4784D30.title: "Quantum Helmet"
+	quest.104BF845CFD109F7.quest_desc: ["Solar panels need nothing but daylight."]
+	quest.104BF845CFD109F7.title: "Free Sunlight"
+	quest.1054E6DC75A9E7FA.quest_desc: ["See in the dark."]
+	quest.1054E6DC75A9E7FA.title: "Night Vision Goggles"
+	quest.105B9567FF39D409.quest_desc: ["Every wireless terminal in one item."]
+	quest.105B9567FF39D409.title: "Universal Terminal"
+	quest.10611044EA9A6FDA.quest_desc: [
+		"Productive Bees adds hundreds of bees that make combs full of ores, gems and more. Breed them, house them and spin their combs."
+	]
+	quest.10611044EA9A6FDA.title: "Resource Bees"
+	quest.106349C4DD9B843F.quest_desc: ["Find blue menril trees in meadows and forests."]
+	quest.106349C4DD9B843F.title: "Menril Trees"
+	quest.10731A15C268BA74.quest_desc: [
+		"Needed for the cutting board. Also collects extra drops from animals."
+	]
+	quest.10731A15C268BA74.title: "Kitchen Knife"
+	quest.10758FCC764BF760.quest_desc: [
+		"Mystical Agriculture lets you farm almost anything, from iron to diamonds. It all starts with a little green essence."
+	]
+	quest.10758FCC764BF760.title: "Grow Your Resources"
+	quest.107B57B0DF387102.quest_desc: [
+		"Iron and coal with a dash of obsidian. Great armor material."
+	]
+	quest.107B57B0DF387102.title: "Dark Steel"
+	quest.107E437769DB3F98.quest_desc: ["The monument's boss."]
+	quest.107E437769DB3F98.title: "Elder Guardian"
+	quest.108357979B7D447C.quest_desc: ["A crafting machine for many IF items."]
+	quest.108357979B7D447C.title: "Dissolution Chamber"
+	quest.10878B206A1D3628.quest_desc: ["Carry rotation in a straight line."]
+	quest.10878B206A1D3628.title: "Shafts"
+	quest.10A31BC3B6815F87.quest_desc: [
+		"A strange dark dimension with Allthemodium and some mean mobs."
+	]
+	quest.10A31BC3B6815F87.title: "The Other"
+	quest.10A6CD43C6BB7A24.quest_desc: ["A simple starter sapling."]
+	quest.10A6CD43C6BB7A24.title: "Alder"
+	quest.10B024D0D07EFBDB.quest_desc: ["Mixes ingredients in a basin."]
+	quest.10B024D0D07EFBDB.title: "Mixer"
+	quest.10B68033FB40063A.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.10B68033FB40063A.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.10B68033FB40063A.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.10BED8AD1EF4F6E1.quest_desc: ["Travel instantly between linked teleporters."]
+	quest.10BED8AD1EF4F6E1.title: "Teleporter"
+	quest.10C7C82B8A6A580D.quest_desc: [
+		"Iron unlocks most early machines. Smelt a good pile of it."
+	]
+	quest.10C7C82B8A6A580D.title: "Iron Age"
+	quest.10CA5A04FC37DDA9.quest_desc: ["Plates, faster."]
+	quest.10CA5A04FC37DDA9.title: "Electric Compressor"
+	quest.10D06875668DAECA.quest_desc: ["Needed for better circuits."]
+	quest.10D06875668DAECA.title: "Rubber"
+	quest.10D476E23465AF63.quest_desc: ["Mekanism's own item storage network."]
+	quest.10D476E23465AF63.title: "QIO Storage"
+	quest.10DD536A42CBEB0F.quest_desc: ["A rare metal found deep underground."]
+	quest.10DD536A42CBEB0F.title: "Mithril"
+	quest.10E36739A0D4DD5A.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.10E36739A0D4DD5A.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.10E36739A0D4DD5A.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.10EA06CCDF6D9791.quest_desc: ["Dried rubber smelts into plastic. You'll need tons."]
+	quest.10EA06CCDF6D9791.title: "Plastic"
+	quest.10EBC77A32BDECC6.quest_desc: [
+		"Oritech brings slick machines, big multiblocks and laser arms. Machines get stronger with addons."
+	]
+	quest.10EBC77A32BDECC6.title: "Futuristic Industry"
+	quest.110D3ADE8B48EE09.quest_desc: [
+		"Apothic Enchanting rebuilds the enchanting table. Different bookshelves change the table's power, quanta, arcana and more."
+	]
+	quest.110D3ADE8B48EE09.title: "Deeper Enchanting"
+	quest.1119E7565D4F97B4.quest_desc: ["Rerolls affixes on gear."]
+	quest.1119E7565D4F97B4.title: "Reforging Table"
+	quest.111DB378D58DD9C2.quest_desc: ["Drill crude oil for fuels and plastics."]
+	quest.111DB378D58DD9C2.title: "Oil Drilling Rig"
+	quest.1130E23358E9E07C.quest_desc: ["Pull a random enchantment off an item."]
+	quest.1130E23358E9E07C.title: "Scrap Tome"
+	quest.11343448301F756D.quest_desc: ["A pristine prediction from overworld mobs."]
+	quest.11343448301F756D.title: "Overworld Prediction"
+	quest.11483C9DF8D4B268.quest_desc: [
+		"Generate source from fire, growing plants, mob deaths and more."
+	]
+	quest.11483C9DF8D4B268.title: "Sourcelinks"
+	quest.1154781E8F03ADAE.quest_desc: ["Four items in one block."]
+	quest.1154781E8F03ADAE.title: "Four-way Drawer"
+	quest.1155172F64FF740C.quest_desc: ["Shoot two portals and walk through. Yes, really."]
+	quest.1155172F64FF740C.title: "Portal Gun"
+	quest.116D19F3642B62A1.quest_desc: ["Draw pentacles with chalk."]
+	quest.116D19F3642B62A1.title: "White Chalk"
+	quest.11744EC09749532C.quest_desc: ["The top material, made with Nether Stars."]
+	quest.11744EC09749532C.title: "Nitro Crystal"
+	quest.1175EDFF464EBE23.quest_desc: [
+		"Upgrade diamond gear at a smithing table with netherite ingots."
+	]
+	quest.1175EDFF464EBE23.title: "Netherite"
+	quest.11792462C3B22932.quest_desc: ["Sculky shelves for high-level enchants."]
+	quest.11792462C3B22932.title: "Deepshelf"
+	quest.117C9E5B75E463D9.quest_desc: ["Keeps bees near their flowers so they work faster."]
+	quest.117C9E5B75E463D9.title: "Feeder"
+	quest.118911D676CE2BC8.title: "Basic Processor"
+	quest.118EE28830B87DAF.quest_desc: ["A raid heavy-hitter."]
+	quest.118EE28830B87DAF.title: "Ravager"
+	quest.118EE9F526C5B1FA.quest_desc: ["Power from sunlight."]
+	quest.118EE9F526C5B1FA.title: "Solar Generator"
+	quest.11979E94D6A42843.quest_desc: ["Stores fluids. Stack for more."]
+	quest.11979E94D6A42843.title: "Fluid Tank"
+	quest.11A121B35FEFA53C.quest_desc: ["Pulls items out of the inventory the router faces."]
+	quest.11A121B35FEFA53C.title: "Pull Items"
+	quest.11A261D921225BE4.quest_desc: [
+		"Laser nodes beam items between machines without cables. One node touches up to six blocks."
+	]
+	quest.11A261D921225BE4.title: "LaserIO"
+	quest.11BF4A515641B245.quest_desc: [
+		"Crush ores into dust in the crafting grid. A cheap early way to get more out of your ore."
+	]
+	quest.11BF4A515641B245.title: "Ore Hammer"
+	quest.11C084F309FC5277.quest_desc: ["Burns liquid fuels for power."]
+	quest.11C084F309FC5277.title: "Diesel Generator"
+	quest.11CFE19ACBB65564.quest_desc: ["Pull every enchantment off an item."]
+	quest.11CFE19ACBB65564.title: "Extraction Tome"
+	quest.11D2D059EDC7BC84.quest_desc: ["Uses items like a player would."]
+	quest.11D2D059EDC7BC84.title: "Deployer"
+	quest.11D97B01C729FE20.quest_desc: ["Blades mount on rotors."]
+	quest.11D97B01C729FE20.title: "Rotor"
+	quest.11E07A3753040B42.quest_desc: ["Holds more bees and outputs combs into its inventory."]
+	quest.11E07A3753040B42.title: "Advanced Beehive"
+	quest.11E335791C5C758A.quest_desc: ["Mixing, faster."]
+	quest.11E335791C5C758A.title: "Electric Mixer"
+	quest.11E4CC90A097EA92.quest_desc: [
+		"Travel to the Mining dimension, a flat world made for strip mining."
+	]
+	quest.11E4CC90A097EA92.title: "Teleport Pad"
+	quest.11E65F7A8CFF9018.quest_desc: ["The empty seed every resource seed is built on."]
+	quest.11E65F7A8CFF9018.title: "Seed Base"
+	quest.11E756BF1DF39A16.quest_desc: [
+		"Runs a model with energy and a matrix to produce a prediction."
+	]
+	quest.11E756BF1DF39A16.title: "Simulation Chamber"
+	quest.11F0C6FEF088E763.quest_desc: ["A much stronger solar panel."]
+	quest.11F0C6FEF088E763.title: "Advanced Solar"
+	quest.11FBDFE9FA5BC42F.quest_desc: [
+		"Tools and armor made from essence. They get stronger each tier."
+	]
+	quest.11FBDFE9FA5BC42F.title: "Essence Tools"
+	quest.11FFB50DF7AD5D6A.quest_desc: ["Crushed from ultradense matter."]
+	quest.11FFB50DF7AD5D6A.title: "Singularity"
+	quest.1211C7240C9EA462.quest_desc: ["Hold ingredients around the circle."]
+	quest.1211C7240C9EA462.title: "Sacrificial Bowls"
+	quest.12133B8A96274448.title: "Fire Rune"
+	quest.1229EB557E29278F.quest_desc: ["Burns fuel and makes steam. Feed it water."]
+	quest.1229EB557E29278F.title: "Bronze Boiler"
+	quest.1231A369A020A786.quest_desc: ["Faster elite, ultra and mega versions of RS parts."]
+	quest.1231A369A020A786.title: "Cable Tiers"
+	quest.123341EA4A392F9C.quest_desc: [
+		"Slow but simple. Hoppers pull from above and push where they face."
+	]
+	quest.123341EA4A392F9C.title: "The Humble Hopper"
+	quest.1233F58D5487692E.quest_desc: ["A spellbook with a few slots."]
+	quest.1233F58D5487692E.title: "Iron Spellbook"
+	quest.123BC2DE7FC2EE50.quest_desc: ["Put spell scrolls into your spellbook here."]
+	quest.123BC2DE7FC2EE50.title: "Inscription Table"
+	quest.1243DC558461A592.quest_desc: ["The rarest of the three metals, hidden in the End."]
+	quest.1243DC558461A592.title: "Unobtainium"
+	quest.124AFE8514D57A14.quest_desc: ["Place these around the base, pointing in."]
+	quest.124AFE8514D57A14.title: "Laser Drill"
+	quest.12576C4C39DFFECE.quest_desc: ["More blades, more power."]
+	quest.12576C4C39DFFECE.title: "Turbine Blades"
+	quest.125C0E0FD87C9E56.quest_desc: ["Tier 4 essence."]
+	quest.125C0E0FD87C9E56.title: "Imperium"
+	quest.1269E9C0B21EC87B.quest_desc: [
+		"A magnet vacuums up nearby drops. Toggle it with a right-click."
+	]
+	quest.1269E9C0B21EC87B.title: "Pull It In"
+	quest.12703842A08B8522.quest_desc: ["Sprint faster."]
+	quest.12703842A08B8522.title: "Running Shoes"
+	quest.12718CC85DEFB825.quest_desc: ["Makes source as plants grow nearby."]
+	quest.12718CC85DEFB825.title: "Agronomic Sourcelink"
+	quest.12749D8D1F543072.quest_desc: ["An End alloy."]
+	quest.12749D8D1F543072.title: "Azure Electrum"
+	quest.12766819DBE6785F.quest_desc: ["Carries 32 channels."]
+	quest.12766819DBE6785F.title: "Dense Cable"
+	quest.1277A87A46EE765C.quest_desc: ["Write patterns here."]
+	quest.1277A87A46EE765C.title: "Pattern Grid"
+	quest.127BACD8022EB089.quest_desc: ["The first machine frame."]
+	quest.127BACD8022EB089.title: "Pity Frame"
+	quest.128237396F6D63AF.quest_desc: [
+		"Cards tell a node what to insert or extract, and from which side."
+	]
+	quest.128237396F6D63AF.title: "Item Card"
+	quest.1286C6226BA32C14.quest_desc: ["Turns stone into ores. Slowly."]
+	quest.1286C6226BA32C14.title: "Lens of the Miner"
+	quest.12895E2363089FB0.quest_desc: [
+		"Ready for more? &5Powah&r, &5Mekanism Generators&r, &5Extreme Reactors&r and &5Modern Industrialization&r all scale far beyond this."
+	]
+	quest.12895E2363089FB0.title: "Where to Next?"
+	quest.129A9CEF32B394F0.quest_desc: ["Nut trees drop nuts for cooking."]
+	quest.129A9CEF32B394F0.title: "Nuts"
+	quest.129CD6A9E80F5E5E.quest_desc: ["Places blocks."]
+	quest.129CD6A9E80F5E5E.title: "Block Placer"
+	quest.129ECD8387315776.quest_desc: [
+		"Carries energy between Mekanism machines and anything else."
+	]
+	quest.129ECD8387315776.title: "Universal Cable"
+	quest.12A47C8D2F696610.quest_desc: [
+		"Hold the vein-mining key (default &e`&r) while breaking blocks to mine whole ore veins or chop whole trees at once. It costs a little extra hunger."
+	]
+	quest.12A47C8D2F696610.title: "Handy Keys"
+	quest.12C752F96635128B.quest_desc: ["Rods and wires."]
+	quest.12C752F96635128B.title: "Electric Cutter"
+	quest.12DCFDB9AB62B329.quest_desc: ["Holds storage cells."]
+	quest.12DCFDB9AB62B329.title: "ME Drive"
+	quest.12E18BAB92668F32.quest_desc: ["Connects everything up."]
+	quest.12E18BAB92668F32.title: "Energy Cable"
+	quest.12E5277BB05E9276.quest_desc: ["Craft straight from your stored items."]
+	quest.12E5277BB05E9276.title: "Crafting Terminal"
+	quest.12F2C05E74B138D0.quest_desc: ["Crushes ingots into dust and more."]
+	quest.12F2C05E74B138D0.title: "Crusher"
+	quest.12FBA8072EE37C9D.quest_desc: ["A grappling claw from the Leviathan."]
+	quest.12FBA8072EE37C9D.title: "Tidal Claws"
+	quest.12FDFCF20910123B.quest_desc: ["A drill that grows its dig area as you charge it."]
+	quest.12FDFCF20910123B.title: "Infinity Drill"
+	quest.1301505AA64A29F7.quest_desc: ["From angry bees."]
+	quest.1301505AA64A29F7.title: "Bee Stingers"
+	quest.132B3C548061E06C.quest_desc: [
+		"Cataclysm adds much tougher bosses with great loot. Check the &5Cataclysm&r chapter once you have good gear."
+	]
+	quest.132B3C548061E06C.title: "Bigger Bosses"
+	quest.132BAB4518991693.quest_desc: ["Emeralds energized."]
+	quest.132BAB4518991693.title: "Spirited Crystal"
+	quest.132D11B7197AAAD2.quest_desc: [
+		"Powah is a tidy energy mod with seven tiers of everything. Energize materials, build reactors and send power anywhere."
+	]
+	quest.132D11B7197AAAD2.title: "Powah!"
+	quest.13326F08E3DEDE81.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.13326F08E3DEDE81.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.13326F08E3DEDE81.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.133EBC0B0C495367.quest_desc: ["Place it next to a log to drain latex."]
+	quest.133EBC0B0C495367.title: "Fluid Extractor"
+	quest.135112838A246832.quest_desc: ["A decorative stone."]
+	quest.135112838A246832.title: "Kivi"
+	quest.135ACE71E4A76853.quest_desc: ["High-tier alloy for top capacitors."]
+	quest.135ACE71E4A76853.title: "Vibrant Alloy"
+	quest.135C9CE64D552AA1.quest_desc: ["A searchable view of everything on the network."]
+	quest.135C9CE64D552AA1.title: "Storage Terminal"
+	quest.136416AEB7D56126.quest_desc: [
+		"Crystallizes clean slurry. The last step of five-times processing."
+	]
+	quest.136416AEB7D56126.title: "Crystallizer"
+	quest.136645DB43D1969E.quest_desc: ["The third tier."]
+	quest.136645DB43D1969E.title: "Celestial Goo"
+	quest.137333A41FB9A1BE.quest_desc: ["Pulls items into the network."]
+	quest.137333A41FB9A1BE.title: "Import Bus"
+	quest.137CF1DB65EEF631.quest_desc: ["Makes an effect stronger."]
+	quest.137CF1DB65EEF631.title: "Amplify"
+	quest.13835EEE743A3318.title: "Green Xychorium"
+	quest.139FC0ED43651747.quest_desc: ["Each school has its own set of mage armor."]
+	quest.139FC0ED43651747.title: "School Armor"
+	quest.13A60858F300755B.quest_desc: [
+		"Throw an ender pearl into a beehive or bee nest to teleport in."
+	]
+	quest.13A60858F300755B.title: "Get Inside"
+	quest.13B2B4C5863B64AA.quest_desc: [
+		"All the Ores adds tin, lead, silver, nickel, osmium, zinc and more. Every tech mod shares the same ores, so one mine feeds them all."
+	]
+	quest.13B2B4C5863B64AA.title: "Extra Ores"
+	quest.13B2BE3463158BCE.quest_desc: ["Don't look them in the eye. Unless you're ready."]
+	quest.13B2BE3463158BCE.title: "Endermen"
+	quest.13BB601C7A5ED92A.quest_desc: [
+		"Extended Industrialization lets one multiblock run many copies of a machine."
+	]
+	quest.13BB601C7A5ED92A.title: "Processing Array"
+	quest.13D2E91F30A75AEC.quest_desc: ["A tough high-tier alloy."]
+	quest.13D2E91F30A75AEC.title: "Duratium"
+	quest.13F0837EB4352876.quest_desc: [
+		"Aquaculture adds real fishing rods, bait and lots of new fish."
+	]
+	quest.13F0837EB4352876.title: "Better Fishing"
+	quest.13F658ACE9851265.quest_desc: ["Turns food into power. Great next to a crop farm."]
+	quest.13F658ACE9851265.title: "Culinary Generator"
+	quest.141685E0BE13577C.quest_desc: ["Ocean monument guards."]
+	quest.141685E0BE13577C.title: "Guardians"
+	quest.1419E6DA174D7C13.quest_desc: ["Upgrades essence to higher tiers in the crafting grid."]
+	quest.1419E6DA174D7C13.title: "Infusion Crystal"
+	quest.141E48658D41503A.quest_desc: ["Captures a mob's soul for machines."]
+	quest.141E48658D41503A.title: "Soul Vial"
+	quest.1423A7058C29B35D.quest_desc: ["Stores a huge amount of a few items."]
+	quest.1423A7058C29B35D.title: "Infinity Backpack"
+	quest.1426AF7637F3D39A.quest_desc: ["Beam power alongside items."]
+	quest.1426AF7637F3D39A.title: "Energy Card"
+	quest.1431DEF1557E2457.quest_desc: ["Melts metals into alloys."]
+	quest.1431DEF1557E2457.title: "Foundry"
+	quest.143B18A894BC779E.quest_desc: ["Boost a school of magic on your armor."]
+	quest.143B18A894BC779E.title: "Upgrade Orbs"
+	quest.143F72981838B53A.quest_desc: ["Fuel rods and coolant go in here."]
+	quest.143F72981838B53A.title: "Nuclear Hatches"
+	quest.14459B962CF86074.quest_desc: [
+		"A multiblock of reactor blocks. Feed it uraninite and keep it cool."
+	]
+	quest.14459B962CF86074.title: "Reactor"
+	quest.144C60B75B73BB5C.quest_desc: ["A strong mid-game coal burner."]
+	quest.144C60B75B73BB5C.title: "Gold Generator"
+	quest.144F8761065C3C53.quest_desc: ["Used in redstone parts."]
+	quest.144F8761065C3C53.title: "Redstone Alloy"
+	quest.14502B5FB961713B.quest_desc: [
+		"Your items wait for you in a grave where you fell. Walk up and use it to get everything back."
+	]
+	quest.14502B5FB961713B.title: "If You Die"
+	quest.1463EC3BFB3A794A.quest_desc: ["Clay, coal and lava make the base of most Powah recipes."]
+	quest.1463EC3BFB3A794A.title: "Dielectric Paste"
+	quest.1464CA5656201C14.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1464CA5656201C14.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1464CA5656201C14.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.146C84179E891B8E.quest_desc: [
+		"Blaze powder and ender pearls make these. Throw them to find a stronghold."
+	]
+	quest.146C84179E891B8E.title: "Eyes of Ender"
+	quest.146E210D06E6F163.quest_desc: ["Mixes dusts and fluids."]
+	quest.146E210D06E6F163.title: "Mixer"
+	quest.147060482BAC2061.quest_desc: [
+		"Gate pearls open portals that spawn waves of mobs. Survive every wave for loot."
+	]
+	quest.147060482BAC2061.title: "Gateways"
+	quest.1474DCED4C9BE779.quest_desc: ["Turns one ore into two dusts. Double ore!"]
+	quest.1474DCED4C9BE779.title: "Enrichment Chamber"
+	quest.14754F47DE6AE5BE.quest_desc: ["Gold mixed with soul sand."]
+	quest.14754F47DE6AE5BE.title: "Soularium"
+	quest.1477698476CB223C.quest_desc: ["The in-game guide. Read it!"]
+	quest.1477698476CB223C.title: "Worn Notebook"
+	quest.148266F772D62329.quest_desc: [
+		"When a drawer is full, extra items are deleted. Handy for cobblestone."
+	]
+	quest.148266F772D62329.title: "Void Upgrade"
+	quest.1482A8317677D61D.quest_desc: ["Automate your train's route."]
+	quest.1482A8317677D61D.title: "Schedule"
+	quest.14852EBD8842BA45.quest_desc: ["The next big material."]
+	quest.14852EBD8842BA45.title: "Stainless Steel"
+	quest.14A9F4B9895A23C1.quest_desc: [
+		"Rods feed energy into the orb. More rods, faster crafting."
+	]
+	quest.14A9F4B9895A23C1.title: "Energizing Rod"
+	quest.14C5C4B8F9C600E2.quest_desc: ["The best hull."]
+	quest.14C5C4B8F9C600E2.title: "Quantum Hull"
+	quest.14C6E3ECABA45976.quest_desc: ["Start the fusion reaction with a laser and a hohlraum."]
+	quest.14C6E3ECABA45976.title: "Hohlraum"
+	quest.14C89FD39364A2D2.quest_desc: ["Water and lava in a bucket solve a lot of early problems."]
+	quest.14C89FD39364A2D2.title: "Carry Liquids"
+	quest.14C959CC3AF774BD.quest_desc: ["Catches bees that fly near it."]
+	quest.14C959CC3AF774BD.title: "Bee Catcher"
+	quest.14CDA5F04AB9AA8D.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.14CDA5F04AB9AA8D.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.14CDA5F04AB9AA8D.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.14CDECCD0876AAAC.quest_desc: ["Moves items. Color them to sort."]
+	quest.14CDECCD0876AAAC.title: "Logistical Transporter"
+	quest.14D054BF40A39270.quest_desc: ["Bigger energy buffer."]
+	quest.14D054BF40A39270.title: "Capacitor Addon"
+	quest.14D44ACD465440D1.quest_desc: [
+		"Turns Supremium into Awakened Supremium with elemental essences."
+	]
+	quest.14D44ACD465440D1.title: "Awakening Altar"
+	quest.14DF5CB4238209C7.quest_desc: [
+		"Multiblocks take hatches to accept items, fluids and energy."
+	]
+	quest.14DF5CB4238209C7.title: "Hatches"
+	quest.14E74A7E45E9B004.quest_desc: ["Burns bio fuel made from crops."]
+	quest.14E74A7E45E9B004.title: "Bio Generator"
+	quest.14EC5FE943FC9C13.quest_desc: [
+		"A strange fruit that lets you see the otherworld for a moment."
+	]
+	quest.14EC5FE943FC9C13.title: "Demon's Dream"
+	quest.14EF8221D6F1E2ED.quest_desc: [
+		"MI's guidebook explains every machine and multiblock. Keep it handy."
+	]
+	quest.14EF8221D6F1E2ED.title: "The Guidebook"
+	quest.14FBDA3F6F4FA067.quest_desc: ["Box items up and send them around your factory."]
+	quest.14FBDA3F6F4FA067.title: "Packages"
+	quest.1507D21F0ABC31BC.quest_desc: ["Upgrades gem rarity."]
+	quest.1507D21F0ABC31BC.title: "Gem Cutting"
+	quest.1509149261F431CE.quest_desc: ["Crafts powerful items with pedestals around it."]
+	quest.1509149261F431CE.title: "Enchanting Apparatus"
+	quest.150EAC29688F18D1.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.150EAC29688F18D1.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.150EAC29688F18D1.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.151F3F18F0D37071.quest_desc: ["Makes hot alloys like stainless steel and kanthal."]
+	quest.151F3F18F0D37071.title: "Electric Blast Furnace"
+	quest.151F5A38EC245AF6.quest_desc: ["Never mine for diamonds again."]
+	quest.151F5A38EC245AF6.title: "Diamond Seeds"
+	quest.152211B8FDDC4831.quest_desc: ["A multiblock that runs many models at once."]
+	quest.152211B8FDDC4831.title: "Data Center"
+	quest.1527C78183C14055.quest_desc: [
+		"Place below farmland to speed up crops above it. Stack more for more speed."
+	]
+	quest.1527C78183C14055.title: "Growth Accelerator"
+	quest.1528971B0EF5D0F8.quest_desc: ["Unlocks tier 2 glyphs."]
+	quest.1528971B0EF5D0F8.title: "Apprentice Spell Book"
+	quest.1529CE6694656A30.quest_desc: ["Lossless power for the biggest machines."]
+	quest.1529CE6694656A30.title: "Superconductor Cable"
+	quest.153CC3CDDADB3290.quest_desc: ["A heavy punching gauntlet from the Guardian."]
+	quest.153CC3CDDADB3290.title: "Gauntlet of Guard"
+	quest.1540E485286B9A3A.title: "4k Part"
+	quest.1552D506A4894657.quest_desc: ["Lava or burnable fuel makes steady power."]
+	quest.1552D506A4894657.title: "Heat Generator"
+	quest.1560066B37397A75.quest_desc: ["A tropical tree with a snack on top."]
+	quest.1560066B37397A75.title: "Bananas"
+	quest.15645775DA8DD198.quest_desc: ["Craft straight from storage."]
+	quest.15645775DA8DD198.title: "Crafting Terminal"
+	quest.156B4C21198396F8.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.156B4C21198396F8.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.156B4C21198396F8.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1582D8953EC02956.quest_desc: [
+		"Lava in, energy out. Pair it with a lava pump or a cobblegen-to-lava setup."
+	]
+	quest.1582D8953EC02956.title: "Magmatic Generator"
+	quest.1588F4A1876E8A5A.quest_desc: ["Mined from uraninite ore. Reactor fuel."]
+	quest.1588F4A1876E8A5A.title: "Uraninite"
+	quest.15A5F4AEFB4526A1.quest_desc: ["The ultimate power tool. Add modules to make it yours."]
+	quest.15A5F4AEFB4526A1.title: "Meka-Tool"
+	quest.15A6E34B9D04BD72.quest_desc: ["Autocrafting over logic networks."]
+	quest.15A6E34B9D04BD72.title: "Integrated Crafting"
+	quest.15A9CB9CE8FAE2FF.quest_desc: ["The base for elemental runes."]
+	quest.15A9CB9CE8FAE2FF.title: "Blank Rune"
+	quest.15B0AA43682FF0BB.quest_desc: ["The frame for RS blocks."]
+	quest.15B0AA43682FF0BB.title: "Machine Casing"
+	quest.15C03E12DFD9E73B.quest_desc: ["Another core part."]
+	quest.15C03E12DFD9E73B.title: "Magnetic Coil"
+	quest.15C2AAA6F619D21E.quest_desc: ["An electric furnace."]
+	quest.15C2AAA6F619D21E.title: "Powered Furnace"
+	quest.15C6DE17EA7AC0E4.quest_desc: ["A spirit mines ores from another dimension for you."]
+	quest.15C6DE17EA7AC0E4.title: "Dimensional Mineshaft"
+	quest.15C7C200F4672C46.quest_desc: ["Crafts complex parts."]
+	quest.15C7C200F4672C46.title: "Assembler"
+	quest.15C92925388BFC18.quest_desc: [
+		"Open the map with &eM&r and use the chunk-claim screen to claim land. Claimed chunks are safe from griefing and explosions, and you can force-load a few so machines keep running while you are away."
+	]
+	quest.15C92925388BFC18.title: "Protect Your Base"
+	quest.15CE404D444D921A.quest_desc: ["Grade materials to boost their stats."]
+	quest.15CE404D444D921A.title: "Material Grader"
+	quest.15DD0353686D56F3.quest_desc: ["Returns steam to water."]
+	quest.15DD0353686D56F3.title: "Condenser"
+	quest.15E204F77D2313D1.quest_desc: [
+		"Fires a beam that converts blocks and items into new materials."
+	]
+	quest.15E204F77D2313D1.title: "Atomic Reconstructor"
+	quest.15ECD4E86FA33D23.quest_desc: [
+		"Grow any crop in a single block. Craft the hopper version to push harvests out automatically."
+	]
+	quest.15ECD4E86FA33D23.title: "Botany Pots"
+	quest.15F03D0B1ED89685.quest_desc: ["Pulls items toward your backpack."]
+	quest.15F03D0B1ED89685.title: "Magnet Upgrade"
+	quest.15F427259B51C9CE.quest_desc: ["A dimensional storage system run by spirits."]
+	quest.15F427259B51C9CE.title: "Magical Storage"
+	quest.15FFC3A3746ECD2E.quest_desc: ["Brew potions, elixirs and inks."]
+	quest.15FFC3A3746ECD2E.title: "Alchemist Cauldron"
+	quest.1600CEC74BFAC850.quest_desc: ["Blend Vibranium and Allthemodium."]
+	quest.1600CEC74BFAC850.title: "First Alloy"
+	quest.1608A003608AE9B5.quest_desc: ["Place eight pedestals around the altar."]
+	quest.1608A003608AE9B5.title: "Pedestals"
+	quest.1611DFDFC25C2140.quest_desc: ["Burns biofuel for power."]
+	quest.1611DFDFC25C2140.title: "Biofuel Generator"
+	quest.162CB85D5ED5F7F3.quest_desc: [
+		"Iron Furnaces are quicker than vanilla and can be upgraded in place. Check the &5Getting Equipped&r chapter for more."
+	]
+	quest.162CB85D5ED5F7F3.title: "A Faster Furnace"
+	quest.163B1E9E2E2F25A0.quest_desc: [
+		"Add abilities like tree felling, auto-smelt or flight to Dire tools."
+	]
+	quest.163B1E9E2E2F25A0.title: "Tool Upgrades"
+	quest.163E7BF6D65FB016.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.163E7BF6D65FB016.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.163E7BF6D65FB016.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.164BB0216E6E365F.quest_desc: [
+		"Made by the Supercritical Phase Shifter chain. Worth it for top-tier crafts."
+	]
+	quest.164BB0216E6E365F.title: "Antimatter"
+	quest.16513AD8105B9C30.quest_desc: ["Put in nuggets, get ingots and blocks out automatically."]
+	quest.16513AD8105B9C30.title: "Compacting Drawer"
+	quest.1656A693BA7BC310.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1656A693BA7BC310.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1656A693BA7BC310.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.16638A2C369E1490.title: "Improved Processor"
+	quest.16726200700D6ECB.quest_desc: ["Link networks across dimensions."]
+	quest.16726200700D6ECB.title: "Quantum Bridge"
+	quest.167326D15742EAD0.quest_desc: ["Mystical Agradditions adds a sixth tier above Supremium."]
+	quest.167326D15742EAD0.title: "Insanium"
+	quest.167FD89726FC18E3.quest_desc: ["Sort and store gene samples."]
+	quest.167FD89726FC18E3.title: "Gene Indexer"
+	quest.168050DAD1612A76.title: "Infused Seashelf"
+	quest.1682236028FB1938.quest_desc: [
+		"Filters limit what a card moves. Stack them in the card's filter slot."
+	]
+	quest.1682236028FB1938.title: "Filters"
+	quest.1684515B925FDE44.quest_desc: ["Grow your own coffee beans."]
+	quest.1684515B925FDE44.title: "Coffee"
+	quest.1689EF66754C2CEA.quest_desc: [
+		"Explore temples, cell mazes and honey caves hidden in the walls."
+	]
+	quest.1689EF66754C2CEA.title: "Hive Temples"
+	quest.168A356E521FDDEB.title: "Holy Rune"
+	quest.169D23366DD25DDD.quest_desc: [
+		"Infinity tools, MekaSuits and Quantum armor are the reward for a big factory."
+	]
+	quest.169D23366DD25DDD.title: "Endgame Toys"
+	quest.16A6C9355BBC34E4.quest_desc: ["Where trains stop and schedule from."]
+	quest.16A6C9355BBC34E4.title: "Train Station"
+	quest.16A80336D90FF474.quest_desc: [
+		"These generators each burn one kind of fuel. The Copper Generator runs on plain coal and charcoal."
+	]
+	quest.16A80336D90FF474.title: "Generator Galore"
+	quest.16A90AF2B13B8E48.quest_desc: ["A rare, precious treat."]
+	quest.16A90AF2B13B8E48.title: "Royal Jelly"
+	quest.16ABFA702DF2853F.quest_desc: ["A key HV part."]
+	quest.16ABFA702DF2853F.title: "Robot Arm"
+	quest.16AC987E44B42952.quest_desc: ["Sweets are a quick hunger fix."]
+	quest.16AC987E44B42952.title: "Treat Yourself"
+	quest.16B18D168CC58302.quest_desc: [
+		"Ender IO is known for its alloy smelter, compact conduits and mob-soul machines."
+	]
+	quest.16B18D168CC58302.title: "Alloys and Conduits"
+	quest.16BA642BF941E43A.quest_desc: ["Required to mine Unobtainium."]
+	quest.16BA642BF941E43A.title: "Vibranium Pickaxe"
+	quest.16C69D57754244ED.title: "Blazes"
+	quest.16CF0B5280160F7A.quest_desc: ["A better fuel, and the key to steel."]
+	quest.16CF0B5280160F7A.title: "Coke"
+	quest.16D0062CAE71E9C3.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.16D0062CAE71E9C3.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.16D0062CAE71E9C3.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.16D0E07139947692.quest_desc: ["Simple mob damage. The start of many mob farms."]
+	quest.16D0E07139947692.title: "Spikes"
+	quest.16DC281643A767FC.quest_desc: [
+		"A void miner. Aim laser drills at it to pull ores out of nothing."
+	]
+	quest.16DC281643A767FC.title: "Laser Drill Base"
+	quest.16DDB9097A66D8D0.quest_desc: ["Stronger parts for bigger reactors."]
+	quest.16DDB9097A66D8D0.title: "Reinforced Tier"
+	quest.16E40A621AD110FA.quest_desc: [
+		"A rainbow monster furnace for anyone who wants to smelt everything forever."
+	]
+	quest.16E40A621AD110FA.title: "The Million Furnace"
+	quest.16E4112FE909E2A8.quest_desc: ["EV's circuit."]
+	quest.16E4112FE909E2A8.title: "Processing Unit"
+	quest.16F1419F93FA8430.quest_desc: ["A heavy late-game metal."]
+	quest.16F1419F93FA8430.title: "Tungsten"
+	quest.16F541BBD83DA103.quest_desc: [
+		"Productive Trees adds dozens of real-world trees plus a few that grow resources. Breed saplings with bees to find new ones."
+	]
+	quest.16F541BBD83DA103.title: "A Tree for Everything"
+	quest.1707BD103B2DD6EF.quest_desc: ["Grinds ores into dust."]
+	quest.1707BD103B2DD6EF.title: "Macerator"
+	quest.170E7E160F55310B.quest_desc: ["Required to mine Vibranium."]
+	quest.170E7E160F55310B.title: "Allthemodium Pickaxe"
+	quest.172073FE01AA0C82.quest_desc: ["Cuts trees and planks."]
+	quest.172073FE01AA0C82.title: "Mechanical Saw"
+	quest.17280C97B04E1B92.quest_desc: [
+		"Each drawer holds a big stack of one item. You can see what's inside from the front."
+	]
+	quest.17280C97B04E1B92.title: "Drawers"
+	quest.172CBF719910FF7C.quest_desc: ["Configure and pick up Ender IO blocks."]
+	quest.172CBF719910FF7C.title: "Yeta Wrench"
+	quest.173663E8897B5066.quest_desc: ["A strange alloy used for advanced frames."]
+	quest.173663E8897B5066.title: "Pink Slime Ingot"
+	quest.17407C8BEA5C3850.quest_desc: ["Upgrade your backpack tier for more slots."]
+	quest.17407C8BEA5C3850.title: "Better Backpack"
+	quest.174A4F68A07D52EE.quest_desc: ["Feed it to bees to make them friendly."]
+	quest.174A4F68A07D52EE.title: "Bee Bread"
+	quest.175093652A6F6E16.quest_desc: ["The spine of the rotor."]
+	quest.175093652A6F6E16.title: "Rotor Shaft"
+	quest.1761425C20F0F906.quest_desc: ["Put fuel in and take waste out."]
+	quest.1761425C20F0F906.title: "Access Port"
+	quest.17624868102A9046.quest_desc: ["Casts a spell whenever it gets a redstone signal."]
+	quest.17624868102A9046.title: "Spell Turret"
+	quest.17661B183611F298.quest_desc: ["Send channels, items, fluids or power across your base."]
+	quest.17661B183611F298.title: "P2P Tunnels"
+	quest.1768B27E3FA6DFFE.quest_desc: ["Burns Nether Stars for an enormous burst of energy."]
+	quest.1768B27E3FA6DFFE.title: "Nether Star Generator"
+	quest.176BA29AE6875AAA.quest_desc: ["Cut from the crystal."]
+	quest.176BA29AE6875AAA.title: "Silicon Wafer"
+	quest.1770A562C6266E3B.quest_desc: ["Radioactive fuel for reactors."]
+	quest.1770A562C6266E3B.title: "Uranium"
+	quest.177827BB58BC9179.quest_desc: [
+		"Integrated Dynamics lets you read and write almost anything with logic cables and variable cards. It's powerful and a little nerdy."
+	]
+	quest.177827BB58BC9179.title: "Program Your Base"
+	quest.177E36A3C5DF0ED9.quest_desc: [
+		"Sit on top of each fuel rod column. Lower them to make less heat."
+	]
+	quest.177E36A3C5DF0ED9.title: "Control Rods"
+	quest.178A391C93A6369B.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.178A391C93A6369B.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.178A391C93A6369B.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1794E63C69642209.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1794E63C69642209.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1794E63C69642209.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.179DB44A27228451.quest_desc: ["Ship items between ports by drone."]
+	quest.179DB44A27228451.title: "Drone Port"
+	quest.17AB4FB689CCCC4C.quest_desc: ["The final goo."]
+	quest.17AB4FB689CCCC4C.title: "Voidtouched Goo"
+	quest.17B0553E8E1E9E8F.quest_desc: ["Portable access."]
+	quest.17B0553E8E1E9E8F.title: "Wireless Grid"
+	quest.17BFC4499D749DAB.quest_desc: [
+		"Armor made from the hive. Each piece has its own bee perk."
+	]
+	quest.17BFC4499D749DAB.title: "Bee Armor"
+	quest.17C1A142F4BED58E.quest_desc: ["Tier 2 essence."]
+	quest.17C1A142F4BED58E.title: "Prudentium"
+	quest.17C5A7EAE1285CF9.quest_desc: [
+		"Nine Craft is a big kitchen-sink pack: tech, magic, farming, bosses and a whole lot of building. There is no wrong way to play."
+		""
+		"This book is your map. Every chapter follows one mod or one theme. Nothing is locked behind quests, so treat them as signposts, not gates."
+	]
+	quest.17C5A7EAE1285CF9.title: "&5Welcome to Nine Craft!"
+	quest.17C9C054BBA574B2.quest_desc: ["A whole world of ore with no structures in the way."]
+	quest.17C9C054BBA574B2.title: "The Mining Dimension"
+	quest.17D07DBACE918743.quest_desc: ["Farm them for skulls."]
+	quest.17D07DBACE918743.title: "Wither Skeletons"
+	quest.17D1FEEAA9BFD332.quest_desc: ["Fix tools anywhere."]
+	quest.17D1FEEAA9BFD332.title: "Repair Kits"
+	quest.17DB9909EE1AFF96.quest_desc: ["Traps a mob's soul for transport."]
+	quest.17DB9909EE1AFF96.title: "Soul Gem"
+	quest.17F5BF79403598EB.quest_desc: ["Craft from storage."]
+	quest.17F5BF79403598EB.title: "Crafting Grid"
+	quest.17FC9BEA67713EBF.quest_desc: ["A form that fires the spell forward."]
+	quest.17FC9BEA67713EBF.title: "Projectile"
+	quest.180ED5CFD5484B62.quest_desc: ["The fuel. Mine yellorite ore and smelt it."]
+	quest.180ED5CFD5484B62.title: "Yellorium"
+	quest.1817DB108BAAE90C.quest_desc: ["Two wheels crush ores into extra outputs."]
+	quest.1817DB108BAAE90C.title: "Crushing Wheels"
+	quest.181C33AD334D04D9.quest_desc: [
+		"Iron Jetpacks let you fly early. Pick a tier in JEI, craft it, charge it with energy and hold jump."
+	]
+	quest.181C33AD334D04D9.title: "Take Flight"
+	quest.18249316CD3A0645.quest_desc: ["Your first multiblock. Turns coal into coke."]
+	quest.18249316CD3A0645.title: "Coke Oven"
+	quest.1824E50D12C3457A.quest_desc: [
+		"The deepest ore in the pack. Look for it in ancient cities and deep caves, and mine it with a netherite pickaxe."
+	]
+	quest.1824E50D12C3457A.title: "Allthemodium"
+	quest.1826114CB385839A.quest_desc: ["Light a fire on bedrock to get these."]
+	quest.1826114CB385839A.title: "Grains of Infinity"
+	quest.182D253853B4C96B.quest_desc: [
+		"Wild bees live in nests all over the world. Each nest type attracts different bees."
+	]
+	quest.182D253853B4C96B.title: "Find a Nest"
+	quest.182F47348484464E.quest_desc: ["Rotates attached blocks as a contraption."]
+	quest.182F47348484464E.title: "Mechanical Bearing"
+	quest.183104511C4C1C11.title: "Quantum Leggings"
+	quest.18399C5702E27696.quest_desc: ["Breaks down gear into materials."]
+	quest.18399C5702E27696.title: "Salvaging Table"
+	quest.183B5A39566A99BE.quest_desc: [
+		"Process it like any other ore. More machines means more ingots."
+	]
+	quest.183B5A39566A99BE.title: "Raw Allthemodium"
+	quest.184DBB2986020E13.quest_desc: ["Radiation shielding and batteries."]
+	quest.184DBB2986020E13.title: "Lead"
+	quest.1851B10A7D03F74C.quest_desc: ["Splits fluids and dusts into parts."]
+	quest.1851B10A7D03F74C.title: "Electrolyzer"
+	quest.187178130DBD1E77.quest_desc: [
+		"Ars Nouveau lets you make spells out of glyphs. Each spell is a form, an effect and some tweaks."
+	]
+	quest.187178130DBD1E77.title: "Build Your Own Spells"
+	quest.1874D9834937EE8D.quest_desc: ["Place on top of a hive for more bee space."]
+	quest.1874D9834937EE8D.title: "Expansion Box"
+	quest.187AA27DA0CC9B87.quest_desc: ["Near-instant smelting for vanilla standards."]
+	quest.187AA27DA0CC9B87.title: "Netherite Furnace"
+	quest.18850070AAAC4F4A.quest_desc: ["Spent fuel. Reprocess it into blutonium."]
+	quest.18850070AAAC4F4A.title: "Cyanite"
+	quest.188815320F4E27D1.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.188815320F4E27D1.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.188815320F4E27D1.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1888754BED7E89CB.quest_desc: ["Holds many variables for the network."]
+	quest.1888754BED7E89CB.title: "Variable Store"
+	quest.1889CF8782A028A2.quest_desc: ["The base for LV machines."]
+	quest.1889CF8782A028A2.title: "Basic Hull"
+	quest.18ACD94F24FB42CB.quest_desc: ["A tidy sun-powered generator."]
+	quest.18ACD94F24FB42CB.title: "Solar Panel"
+	quest.18B81E4A136A750F.quest_desc: ["Almost every Mekanism machine uses osmium."]
+	quest.18B81E4A136A750F.title: "Osmium"
+	quest.18BB9875E9970042.quest_desc: ["Cuts power use and expands the buffer."]
+	quest.18BB9875E9970042.title: "Energy Upgrade"
+	quest.18CA9A3553BD6BD0.quest_desc: [
+		"All The Wizard Gear makes top mage armor from the special metals."
+	]
+	quest.18CA9A3553BD6BD0.title: "Allthemodium Mage Armor"
+	quest.18CF1D4B245F643A.quest_desc: ["Upgrade scrolls and imbue weapons with spells."]
+	quest.18CF1D4B245F643A.title: "Arcane Anvil"
+	quest.18DFD2BD1D5CF684.quest_desc: ["Smelts with steam."]
+	quest.18DFD2BD1D5CF684.title: "Steam Furnace"
+	quest.18E4640518E92BA7.quest_desc: ["Push more power into multiblocks."]
+	quest.18E4640518E92BA7.title: "Upgrades"
+	quest.18F9F2237C09D5FA.quest_desc: ["Mekanism is built on osmium. Mine plenty."]
+	quest.18F9F2237C09D5FA.title: "Osmium"
+	quest.18FBAB43ABCA0C32.quest_desc: [
+		"Relics gain experience and unlock stronger abilities as you use them."
+	]
+	quest.18FBAB43ABCA0C32.title: "Relics"
+	quest.19186CE50DE09211.quest_desc: ["Speeds up anything that ticks."]
+	quest.19186CE50DE09211.title: "Time Wand"
+	quest.1919B363284C3426.quest_desc: ["Just enough to break stone."]
+	quest.1919B363284C3426.title: "First Pickaxe"
+	quest.1919FB1E2D0194CE.quest_desc: [
+		"A list of mobs to hunt, from zombies to wardens. Each one is worth a little XP."
+	]
+	quest.1919FB1E2D0194CE.title: "Monster Hunting"
+	quest.191BEBEA7AEADE89.quest_desc: ["Right-clicks like a player."]
+	quest.191BEBEA7AEADE89.title: "Clicker"
+	quest.19308FAC4B393D56.quest_desc: ["Burns fissile fuel to make heat. Handle with care."]
+	quest.19308FAC4B393D56.title: "Fission Reactor"
+	quest.195203D4BACDAD22.quest_desc: ["A cheap node for connecting a single side."]
+	quest.195203D4BACDAD22.title: "Laser Connector"
+	quest.19537C04243F82FF.quest_desc: [
+		"A multiblock battery that holds enormous amounts of power."
+	]
+	quest.19537C04243F82FF.title: "Induction Matrix"
+	quest.195651EB1A58BF8A.quest_desc: [
+		"Trash cans delete anything piped into them. Great for overflow."
+	]
+	quest.195651EB1A58BF8A.title: "Throw It Away"
+	quest.19579F1EF0A6D360.quest_desc: [
+		"Swap between tools from a quick radial menu without filling your hotbar."
+	]
+	quest.19579F1EF0A6D360.title: "Tool Belt"
+	quest.196E0F348B4D5E58.quest_desc: ["Burns lava."]
+	quest.196E0F348B4D5E58.title: "Magmator"
+	quest.197E57E7F03747B0.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.197E57E7F03747B0.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.197E57E7F03747B0.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1980B00AC0C64C2D.quest_desc: ["Boiler-powered rotation for big factories."]
+	quest.1980B00AC0C64C2D.title: "Steam Engine"
+	quest.19909F88DE18B8E3.quest_desc: ["Heats the basin for advanced mixing."]
+	quest.19909F88DE18B8E3.title: "Blaze Burner"
+	quest.199E4DBFD9D82733.quest_desc: ["Speeds up quartz buds next to it."]
+	quest.199E4DBFD9D82733.title: "Growth Accelerator"
+	quest.19A5FFE30EBEBC38.quest_desc: ["Pulls in nearby items."]
+	quest.19A5FFE30EBEBC38.title: "Universal Attractor"
+	quest.19BE4CB03764EAF7.quest_desc: [
+		"Hover any item and press &eR&r for recipes or &eU&r for uses. Nearly every question in a modpack can be answered this way."
+	]
+	quest.19BE4CB03764EAF7.title: "Look Things Up"
+	quest.19D8F681514E3278.quest_desc: ["Links a wall of chests to the terminal."]
+	quest.19D8F681514E3278.title: "Inventory Connector"
+	quest.19DB3FD2F092C65B.quest_desc: ["The second goo tier."]
+	quest.19DB3FD2F092C65B.title: "Blazing Goo"
+	quest.19E7E8775B0EEEDE.quest_desc: ["Mid-tier alloy for capacitors."]
+	quest.19E7E8775B0EEEDE.title: "Energetic Alloy"
+	quest.19EE00E236113052.quest_desc: [
+		"Good tools make everything faster. This chapter covers furnaces, armor, tools and a few early helpers."
+	]
+	quest.19EE00E236113052.title: "Gear Up"
+	quest.19EF1710E8E39940.quest_desc: ["The reactor's core."]
+	quest.19EF1710E8E39940.title: "Fuel Assembly"
+	quest.19EF9266DE518592.quest_desc: [
+		"Infuses metals with carbon, redstone and more. Your first Mekanism machine."
+	]
+	quest.19EF9266DE518592.title: "Metallurgic Infuser"
+	quest.19F1075A91CCFE33.quest_desc: ["More slots."]
+	quest.19F1075A91CCFE33.title: "Gold Spellbook"
+	quest.19FDCE4F1CD444B1.quest_desc: ["Jump higher, no fall damage."]
+	quest.19FDCE4F1CD444B1.title: "Bunny Hoppers"
+	quest.1A06E821013D5994.quest_desc: ["Stack fuel rods inside the frame, top to bottom."]
+	quest.1A06E821013D5994.title: "Fuel Rods"
+	quest.1A08F60D4E7CF0C0.quest_desc: ["Connect this to your power source."]
+	quest.1A08F60D4E7CF0C0.title: "Flux Plug"
+	quest.1A101FCC660004EF.quest_desc: ["Combine with housing to make a disk."]
+	quest.1A101FCC660004EF.title: "1k Storage Part"
+	quest.1A12C5A9732CCDA9.quest_desc: [
+		"Extreme Reactors lets you build your own reactor and turbine in any size you like. Bigger means more power."
+	]
+	quest.1A12C5A9732CCDA9.title: "Build a Reactor"
+	quest.1A190ABD8477878B.quest_desc: ["Augments tweak a furnace. Speed trades fuel for time."]
+	quest.1A190ABD8477878B.title: "Speed Augment"
+	quest.1A1C9BD1CB971284.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1A1C9BD1CB971284.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1A1C9BD1CB971284.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1A20AE3E63A6CCAC.quest_desc: [
+		"Machines are more fun when you don't have to feed them by hand. Here are a few ways to move items, fluids and energy."
+	]
+	quest.1A20AE3E63A6CCAC.title: "Items on the Move"
+	quest.1A2819C537D00BD1.quest_desc: [
+		"A furnace smelts ores and cooks food. You will build a lot of these."
+	]
+	quest.1A2819C537D00BD1.title: "Fire It Up"
+	quest.1A33B366F97A30F8.quest_desc: [
+		"A key part of many high-end recipes. Once you can farm the Wither, you'll never run short."
+	]
+	quest.1A33B366F97A30F8.title: "Nether Star"
+	quest.1A3B5C72DBAF9E41.quest_desc: ["Pickaxe, axe and shovel in one."]
+	quest.1A3B5C72DBAF9E41.title: "Paxel"
+	quest.1A4C0918FDAAA6A5.quest_desc: [
+		"A sturdier solar option. Mekanism has lots more in its own chapter."
+	]
+	quest.1A4C0918FDAAA6A5.title: "Mekanism Solar"
+	quest.1A653F4DD185B817.quest_desc: [
+		"Place goo and put iron blocks on top. Wait, and the goo transforms them."
+	]
+	quest.1A653F4DD185B817.title: "Primordial Goo"
+	quest.1A857B253402708E.quest_desc: ["A multiblock that plans and runs autocrafting jobs."]
+	quest.1A857B253402708E.title: "Crafting CPU"
+	quest.1A92C4ED4A039DB2.quest_desc: ["A sea monster in a sunken city."]
+	quest.1A92C4ED4A039DB2.title: "The Leviathan"
+	quest.1A9BF5DC9BC709C8.quest_desc: ["Items you walk over go straight into the backpack."]
+	quest.1A9BF5DC9BC709C8.title: "Pickup Upgrade"
+	quest.1A9D5F211B24398B.quest_desc: ["A Nether shelf with more power."]
+	quest.1A9D5F211B24398B.title: "Hellshelf"
+	quest.1AA09D05B9C48053.quest_desc: [
+		"Turns a furnace into a multi-slot smelter. Perfect for ore batches."
+	]
+	quest.1AA09D05B9C48053.title: "Factory Augment"
+	quest.1AA8C9576B1D453E.quest_desc: ["Machines work faster but use more power."]
+	quest.1AA8C9576B1D453E.title: "Speed Upgrade"
+	quest.1AB4BBA5F273F8B3.quest_desc: [
+		"Surround it with energizing rods, drop items inside and power turns them into new materials."
+	]
+	quest.1AB4BBA5F273F8B3.title: "Energizing Orb"
+	quest.1AB6C4510B99D0F7.quest_desc: [
+		"Rubies, sapphires and peridot turn up in the Overworld too."
+	]
+	quest.1AB6C4510B99D0F7.title: "Gems"
+	quest.1AB9EAB6CB9AA075.title: "Logic Processor"
+	quest.1ABCE788EE80ED18.quest_desc: ["A top-tier alloy."]
+	quest.1ABCE788EE80ED18.title: "Tyrian Steel"
+	quest.1AC83919241E4804.quest_desc: ["Damages the target."]
+	quest.1AC83919241E4804.title: "Harm"
+	quest.1ACB8341201F71E2.quest_desc: [
+		"Turns predictions into real mob drops. Choose which drop you want."
+	]
+	quest.1ACB8341201F71E2.title: "Loot Fabricator"
+	quest.1AD6F694E03CC160.quest_desc: ["Separates materials."]
+	quest.1AD6F694E03CC160.title: "Centrifuge"
+	quest.1ADB7DEA8D41391A.quest_desc: [
+		"Once you have steel and motors, head to &5MI: Electric Age&r."
+	]
+	quest.1ADB7DEA8D41391A.title: "Onward to Electricity"
+	quest.1ADE747E27779F6A.quest_desc: ["The heart of quantum circuits."]
+	quest.1ADE747E27779F6A.title: "Qubit"
+	quest.1AE89A26BF77D165.quest_desc: ["Faster again. Worth it once gold is flowing."]
+	quest.1AE89A26BF77D165.title: "Gold Furnace"
+	quest.1AEA04DC49F59D73.quest_desc: ["Capacitors craft into every tier of machine."]
+	quest.1AEA04DC49F59D73.title: "Capacitors"
+	quest.1AEEC1025447CB1C.quest_desc: ["Picks up items in range."]
+	quest.1AEEC1025447CB1C.title: "Collector"
+	quest.1AF49FEEB00C49F2.quest_desc: ["Stores energy and charges items."]
+	quest.1AF49FEEB00C49F2.title: "Energy Cube"
+	quest.1AF57146258016C1.quest_desc: [
+		"Mekanism Generators ranges from a little heat generator all the way to fusion."
+	]
+	quest.1AF57146258016C1.title: "Power for Mekanism"
+	quest.1AF9D8E24ADBB309.quest_desc: ["A multiblock that turns steam into lots of power."]
+	quest.1AF9D8E24ADBB309.title: "Industrial Turbine"
+	quest.1AFE086E0EA937C4.quest_desc: ["Faster smelting."]
+	quest.1AFE086E0EA937C4.title: "Electric Furnace"
+	quest.1B01E0F9C4CD77CF.quest_desc: ["Mines blocks from a distance with a laser."]
+	quest.1B01E0F9C4CD77CF.title: "Laser Arm"
+	quest.1B0D7432B2502C3D.quest_desc: ["A good stack of the first special metal."]
+	quest.1B0D7432B2502C3D.title: "Allthemodium Ingots"
+	quest.1B26C715103C105A.quest_desc: ["Chop whole trees at once."]
+	quest.1B26C715103C105A.title: "Tree Feller"
+	quest.1B428EAA153365BE.quest_desc: ["A sequenced assembly part."]
+	quest.1B428EAA153365BE.title: "Precision Mechanism"
+	quest.1B48799548315EF2.quest_desc: ["The driver's seat of a train."]
+	quest.1B48799548315EF2.title: "Train Controls"
+	quest.1B6A46CB7EBE4D26.quest_desc: ["A great coolant for thermo generators and reactors."]
+	quest.1B6A46CB7EBE4D26.title: "Dry Ice"
+	quest.1B81A017B730ACF7.quest_desc: ["Pushes items out."]
+	quest.1B81A017B730ACF7.title: "Export Bus"
+	quest.1B83619BBAD9B226.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1B83619BBAD9B226.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1B83619BBAD9B226.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1B8391BD98DD304D.quest_desc: ["Machines work faster."]
+	quest.1B8391BD98DD304D.title: "Speed Addon"
+	quest.1B8F291389906535.quest_desc: ["Chemistry for plastics and acids."]
+	quest.1B8F291389906535.title: "Chemical Reactor"
+	quest.1B9E0604EC6E01E0.quest_desc: ["Harvests crops and trees."]
+	quest.1B9E0604EC6E01E0.title: "Plant Gatherer"
+	quest.1BA8AD3C347810A2.quest_desc: [
+		"The Piglich is a Nether boss that drops this heart. Come prepared. It's a powerful crafting ingredient."
+	]
+	quest.1BA8AD3C347810A2.title: "Piglich Heart"
+	quest.1BAA332490C3296A.quest_desc: [
+		"A proper storage network changes everything. Autocrafting, remote access, no more sorting."
+	]
+	quest.1BAA332490C3296A.title: "A Storage Network"
+	quest.1BAB15961B04D0B5.quest_desc: [
+		"Sophisticated Storage barrels and chests hold more and take upgrades."
+	]
+	quest.1BAB15961B04D0B5.title: "Better Barrels"
+	quest.1BBB597EA7016482.quest_desc: ["For MV machines."]
+	quest.1BBB597EA7016482.title: "Advanced Hull"
+	quest.1BC35B154DF9B45B.quest_desc: ["Flowing water turns it forever."]
+	quest.1BC35B154DF9B45B.title: "Water Wheel"
+	quest.1BD68B5DA787A8DE.quest_desc: ["Vacuums up nearby items."]
+	quest.1BD68B5DA787A8DE.title: "Item Collector"
+	quest.1BE46D64C2C3B470.quest_desc: ["Spins combs into their resources and wax."]
+	quest.1BE46D64C2C3B470.title: "Centrifuge"
+	quest.1BE611C8641F88E5.quest_desc: [
+		"Bees carry pollen between trees. Leave two different trees near a hive and new saplings may drop. Check JEI for which parents make what."
+	]
+	quest.1BE611C8641F88E5.title: "Breed New Trees"
+	quest.1BEF0AACD61ED747.quest_desc: ["A flaming knight in the Burning Arena."]
+	quest.1BEF0AACD61ED747.title: "Ignis"
+	quest.1BF5366738257229.quest_desc: [
+		"Stainless steel and robot arms unlock digital circuits. Head to &5MI: Digital Age&r."
+	]
+	quest.1BF5366738257229.title: "Into the Digital Age"
+	quest.1C03ABAFDF4261E5.quest_desc: ["Mine faster bare-handed."]
+	quest.1C03ABAFDF4261E5.title: "Digging Claws"
+	quest.1C0AADC12D28BE24.quest_desc: [
+		"Iron's Spells gives you a spellbook full of ready-made spells, schools of magic and big bosses to fight."
+	]
+	quest.1C0AADC12D28BE24.title: "Spells and Scrolls"
+	quest.1C16D4EF86B1E2A2.quest_desc: ["Teleports you forward."]
+	quest.1C16D4EF86B1E2A2.title: "Blink"
+	quest.1C2010B6478730FC.quest_desc: ["The brains in advanced machines."]
+	quest.1C2010B6478730FC.title: "Processing Unit"
+	quest.1C2AF6CF3F65EF2C.quest_desc: [
+		"Electric machines are faster and unlock the rest of the tech tree. Power comes in LV, MV, HV, EV and beyond."
+	]
+	quest.1C2AF6CF3F65EF2C.title: "Electricity"
+	quest.1C3A3034A6BCCEFD.quest_desc: ["A simple generator."]
+	quest.1C3A3034A6BCCEFD.title: "Coal Generator"
+	quest.1C40393207359026.quest_desc: ["Fill the portal frame and jump in."]
+	quest.1C40393207359026.title: "Enter the End"
+	quest.1C484751688795DD.quest_desc: ["Runs patterns automatically."]
+	quest.1C484751688795DD.title: "Autocrafter"
+	quest.1C4D9E05E49077F8.quest_desc: [
+		"Pylons do jobs in an area. The Harvester Pylon collects crops for you."
+	]
+	quest.1C4D9E05E49077F8.title: "Pylons"
+	quest.1C4DFA206D322995.quest_desc: ["Move items between shafts."]
+	quest.1C4DFA206D322995.title: "Belts"
+	quest.1C53DD17E311A05A.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1C53DD17E311A05A.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1C53DD17E311A05A.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1C59C0E12A88BC5D.quest_desc: [
+		"Inventory space runs out fast. A Sophisticated Backpack is cheap and upgrades a long way. Put it on your back slot to keep your hands free."
+	]
+	quest.1C59C0E12A88BC5D.title: "Grab a Backpack"
+	quest.1C5C2E8C2171A5A9.quest_desc: [
+		"Organize early with drawers or a Tom's Simple Storage terminal, then graduate to AE2 or Refined Storage."
+	]
+	quest.1C5C2E8C2171A5A9.title: "Too Many Chests"
+	quest.1C6188AD981E9D5B.quest_desc: ["Pulls energy out of a passive reactor."]
+	quest.1C6188AD981E9D5B.title: "Power Tap"
+	quest.1C69C29EAD1AC03E.quest_desc: ["Automatically harvests and replants crops in range."]
+	quest.1C69C29EAD1AC03E.title: "Harvester"
+	quest.1C7784570DCA72A6.quest_desc: ["Write logic onto variable cards."]
+	quest.1C7784570DCA72A6.title: "Logic Programmer"
+	quest.1C7C2734FAB60DB8.quest_desc: ["A fiery shield."]
+	quest.1C7C2734FAB60DB8.title: "Bulwark of the Flame"
+	quest.1C8E2E2E88E6FCA0.quest_desc: ["Ores come out as ingots."]
+	quest.1C8E2E2E88E6FCA0.title: "Auto-Smelt"
+	quest.1C93A03B168A6AD4.quest_desc: ["Item, fluid and energy pipes."]
+	quest.1C93A03B168A6AD4.title: "Pipes"
+	quest.1C966E9F77BD94D0.quest_desc: ["Sticks blocks together into one contraption."]
+	quest.1C966E9F77BD94D0.title: "Super Glue"
+	quest.1C99909A37467E5F.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1C99909A37467E5F.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1C99909A37467E5F.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1CA55D5CBE5C7A43.quest_desc: ["Watch your crafting jobs."]
+	quest.1CA55D5CBE5C7A43.title: "Crafting Monitor"
+	quest.1CA76EF1D284F59D.quest_desc: ["A little helper who crafts and brews for you."]
+	quest.1CA76EF1D284F59D.title: "Wixie"
+	quest.1CAFCB0DB7C6BECB.quest_desc: [
+		"The deep dark's worst nightmare. You don't have to do this."
+	]
+	quest.1CAFCB0DB7C6BECB.title: "The Warden"
+	quest.1CB34F0E32705186.quest_desc: ["Now we're talking."]
+	quest.1CB34F0E32705186.title: "64k Storage Cell"
+	quest.1CBE51F0091983B5.quest_desc: ["Separates dusts."]
+	quest.1CBE51F0091983B5.title: "Centrifuge"
+	quest.1CBEFF63345BCAB7.quest_desc: [
+		"Farm some wheat or cook meat. Farmer's Delight and HarvestCraft add plenty of better meals later."
+	]
+	quest.1CBEFF63345BCAB7.title: "Don't Go Hungry"
+	quest.1CC0553775C14AFB.quest_desc: [
+		"Create is all about spinning shafts and cogs. Build contraptions, factories and trains with mechanical power."
+	]
+	quest.1CC0553775C14AFB.title: "Rotational Power"
+	quest.1CC178E34D71C008.quest_desc: ["Combine boss materials into weapons."]
+	quest.1CC178E34D71C008.title: "Fusion Anvil"
+	quest.1CDEC025069D527A.quest_desc: ["Turn your planks into a crafting table."]
+	quest.1CDEC025069D527A.title: "A Place to Craft"
+	quest.1CF9CD356BA078DE.quest_desc: ["Change direction and connect side by side."]
+	quest.1CF9CD356BA078DE.title: "Cogwheels"
+	quest.1CFA890C9DF855EE.quest_desc: [
+		"Eight identical generators combine into one block that does the work of all eight."
+	]
+	quest.1CFA890C9DF855EE.title: "Eight in One"
+	quest.1CFD8E023A1175A1.quest_desc: [
+		"Hammers turn ingots into plates and rods in the crafting grid."
+	]
+	quest.1CFD8E023A1175A1.title: "Forge Hammer Tool"
+	quest.1D0A358B3E692094.quest_desc: ["Unobtainium and Vibranium, the toughest mix."]
+	quest.1D0A358B3E692094.title: "Third Alloy"
+	quest.1D0A673195A05B78.quest_desc: ["Link nearby Sophisticated containers into one view."]
+	quest.1D0A673195A05B78.title: "Storage Controller"
+	quest.1D0E70B89F98AAC5.quest_desc: ["Brew coffee with buffs."]
+	quest.1D0E70B89F98AAC5.title: "Coffee Machine"
+	quest.1D11E149A2746BF3.quest_desc: ["Carries insane amounts of power."]
+	quest.1D11E149A2746BF3.title: "Superconductor"
+	quest.1D168A2B8C2641C3.quest_desc: ["Use terminals away from the network."]
+	quest.1D168A2B8C2641C3.title: "Wireless Access Point"
+	quest.1D3072D14DB4DDFD.quest_desc: [
+		"Classic Minecraft is beaten, but Nine Craft is just getting started."
+	]
+	quest.1D3072D14DB4DDFD.title: "Slay the Dragon"
+	quest.1D31800682D15323.quest_desc: ["Unobtainium and Allthemodium."]
+	quest.1D31800682D15323.title: "Second Alloy"
+	quest.1D4F31D941359935.quest_desc: ["Made in the reconstructor."]
+	quest.1D4F31D941359935.title: "Void Crystal"
+	quest.1D51D692A3B0D6A6.quest_desc: ["For EV machines."]
+	quest.1D51D692A3B0D6A6.title: "Highly Advanced Hull"
+	quest.1D52AE8870E7B1D6.title: "Spiders"
+	quest.1D550EC178E61722.quest_desc: ["Extends the controller's reach."]
+	quest.1D550EC178E61722.title: "Storage Link"
+	quest.1D64B0533F894616.quest_desc: ["Moves fluids."]
+	quest.1D64B0533F894616.title: "Mechanical Pipe"
+	quest.1D68FA8E5D527A4A.quest_desc: ["Cast tool heads from molten metals."]
+	quest.1D68FA8E5D527A4A.title: "Silent Gear Metalworks"
+	quest.1D6A75489A917CFA.quest_desc: ["The last word in melee."]
+	quest.1D6A75489A917CFA.title: "Quantum Sword"
+	quest.1D6E3C7341CF4AAD.quest_desc: [
+		"Place hundreds of blocks at once. A huge time saver for walls and floors."
+	]
+	quest.1D6E3C7341CF4AAD.title: "Building Gadgets"
+	quest.1D7EB1D3E43D21A2.quest_desc: [
+		"Summon a crusher spirit to double your ores. See the dictionary for the ritual."
+	]
+	quest.1D7EB1D3E43D21A2.title: "Crushing Spirits"
+	quest.1D8EE628FEA97D5C.quest_desc: ["Charges items in an inventory."]
+	quest.1D8EE628FEA97D5C.title: "Energy Hopper"
+	quest.1D98F92C1D3CBDC6.quest_desc: ["A shining gem from celestial goo."]
+	quest.1D98F92C1D3CBDC6.title: "Celestigem"
+	quest.1DB514A169ADF638.quest_desc: ["Sparkly shards found around the hive walls."]
+	quest.1DB514A169ADF638.title: "Honey Crystals"
+	quest.1DB551A6A54CE7A2.quest_desc: ["Pushes items out."]
+	quest.1DB551A6A54CE7A2.title: "Exporter"
+	quest.1DB8A82D40F69F70.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1DB8A82D40F69F70.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1DB8A82D40F69F70.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1DBB5A4EF4C89BDF.quest_desc: ["Holds storage disks."]
+	quest.1DBB5A4EF4C89BDF.title: "Disk Drive"
+	quest.1DBD7F57DAA1EC06.quest_desc: ["Unlocks every glyph."]
+	quest.1DBD7F57DAA1EC06.title: "Archmage Spell Book"
+	quest.1DC18187A5A31F0D.quest_desc: [
+		"MI's fusion reactor makes power on a scale nothing else touches. Look it up in the guidebook for the full structure."
+	]
+	quest.1DC18187A5A31F0D.title: "Fusion Reactor"
+	quest.1DC58A42EB6DBEC1.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1DC58A42EB6DBEC1.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1DC58A42EB6DBEC1.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1DCD4C3118317432.quest_desc: ["Craft scrolls with ink. Rarer ink makes stronger scrolls."]
+	quest.1DCD4C3118317432.title: "Ink"
+	quest.1DCE4B80772B3E3D.quest_desc: ["Breaks ore into fragments for extra output."]
+	quest.1DCE4B80772B3E3D.title: "Fragment Forge"
+	quest.1DD6F9855278B3D5.quest_desc: ["Collects animal waste. Yes, really."]
+	quest.1DD6F9855278B3D5.title: "Sewer"
+	quest.1DD8E2D9F8D0FD79.quest_desc: ["Craft glyphs here."]
+	quest.1DD8E2D9F8D0FD79.title: "Scribe's Table"
+	quest.1DDB53860F4F5CB6.quest_desc: ["Processes combs straight into blocks."]
+	quest.1DDB53860F4F5CB6.title: "Heated Centrifuge"
+	quest.1DDBCF4E0AA58AF9.quest_desc: ["Moves heat between fluids for steam."]
+	quest.1DDBCF4E0AA58AF9.title: "Heat Exchanger"
+	quest.1DE0135F626E9D23.quest_desc: [
+		"Deepslate levels are where diamonds hide. Five is enough for a pick and more."
+	]
+	quest.1DE0135F626E9D23.title: "Diamonds!"
+	quest.1DEE0DDC1E86E55C.quest_desc: [
+		"Emits redstone to SCRAM the reactor when things get hot. Build this!"
+	]
+	quest.1DEE0DDC1E86E55C.title: "Logic Adapter"
+	quest.1DF38903D762E334.quest_desc: ["A giant hammer from the Monstrosity."]
+	quest.1DF38903D762E334.title: "Infernal Forge"
+	quest.1DF6B4A4D0E9E7B0.quest_desc: ["Breed two bees together to discover new species."]
+	quest.1DF6B4A4D0E9E7B0.title: "Breeding Chamber"
+	quest.1DFCC8A4CACEB02C.quest_desc: ["The top circuit."]
+	quest.1DFCC8A4CACEB02C.title: "Quantum Circuit"
+	quest.1E12AFC32D010EE4.quest_desc: ["Store energy in your ME network like items."]
+	quest.1E12AFC32D010EE4.title: "Applied Flux"
+	quest.1E3E903807991EB0.quest_desc: ["Oxygen turns one ore into three clumps. Triple ore!"]
+	quest.1E3E903807991EB0.title: "Purification Chamber"
+	quest.1E53CC6C038F15B4.title: "Quantum Boots"
+	quest.1E60FB233E3C4ED1.quest_desc: ["Casts the spell on you."]
+	quest.1E60FB233E3C4ED1.title: "Self"
+	quest.1E736E5740B2E9FD.quest_desc: [
+		"Hostile Neural Networks trains data models by letting you kill mobs, then simulates those fights for loot without any mobs at all."
+	]
+	quest.1E736E5740B2E9FD.title: "Simulated Mob Farms"
+	quest.1E7DDE213D3DC748.quest_desc: ["A rare treasure metal fished from the ocean."]
+	quest.1E7DDE213D3DC748.title: "Neptunium"
+	quest.1E826FD31A404C21.quest_desc: ["Enough protection for most of the early game."]
+	quest.1E826FD31A404C21.title: "Iron Armor"
+	quest.1E8BE008E3ECEC62.quest_desc: ["More power per tick and a bigger buffer."]
+	quest.1E8BE008E3ECEC62.title: "Iron Generator"
+	quest.1E95FA9953654954.quest_desc: ["Dissolves ore into slurry."]
+	quest.1E95FA9953654954.title: "Dissolution Chamber"
+	quest.1EA2DFF6C97519C5.quest_desc: [
+		"Farmer's Delight's pot cooks soups and stews that give long buffs."
+	]
+	quest.1EA2DFF6C97519C5.title: "Cooking Pot"
+	quest.1EA5589EA91E951F.quest_desc: ["Your first storage cell."]
+	quest.1EA5589EA91E951F.title: "1k Storage Cell"
+	quest.1EA5C7C27092D4DE.quest_desc: ["Mined in the Nether's lower layers."]
+	quest.1EA5C7C27092D4DE.title: "Vibranium"
+	quest.1EA649F4FC374A14.quest_desc: ["Hydrogen chloride makes four shards per ore."]
+	quest.1EA649F4FC374A14.title: "Injection Chamber"
+	quest.1EA9711032BF3496.quest_desc: ["Grinds ores into dust."]
+	quest.1EA9711032BF3496.title: "Pulverizer"
+	quest.1EB926360EDFD775.title: "Engineering Processor"
+	quest.1ECC405D618DD132.quest_desc: [
+		"Ars Nouveau, Iron's Spells 'n Spellbooks and Occultism all live in the &5Magic&r group. Try one!"
+	]
+	quest.1ECC405D618DD132.title: "A Little Magic"
+	quest.1ED73373756A8D22.quest_desc: ["A tough EV metal."]
+	quest.1ED73373756A8D22.title: "Titanium"
+	quest.1ED8E5EDC6C4109D.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1ED8E5EDC6C4109D.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1ED8E5EDC6C4109D.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1EDEC265561EEA31.quest_desc: ["The second tier."]
+	quest.1EDEC265561EEA31.title: "Simple Frame"
+	quest.1EE1B65A0A582184.quest_desc: [
+		"The cheapest Iron Furnace. Already quicker than a vanilla furnace."
+	]
+	quest.1EE1B65A0A582184.title: "Copper Furnace"
+	quest.1EE7BDB3410179E0.quest_desc: ["Used in energy conduits."]
+	quest.1EE7BDB3410179E0.title: "Conductive Alloy"
+	quest.1EEAC24BCF894728.quest_desc: [
+		"You'll need a netherite pickaxe before you can mine Allthemodium ore."
+	]
+	quest.1EEAC24BCF894728.title: "The Right Tool"
+	quest.1EEF826D8970E0EC.quest_desc: ["Use the laser wrench to connect nodes together."]
+	quest.1EEF826D8970E0EC.title: "Link Them Up"
+	quest.1EF1EA56A34702BC.quest_desc: ["Shoot bees at your enemies."]
+	quest.1EF1EA56A34702BC.title: "Bee Cannon"
+	quest.1EF9E15230B92E02.quest_desc: ["Fusion fuel."]
+	quest.1EF9E15230B92E02.title: "Helium-3"
+	quest.1EFD4D20DF9CDFB3.title: "Red Xychorium"
+	quest.1F0326562CDCA601.quest_desc: ["Less power per operation."]
+	quest.1F0326562CDCA601.title: "Efficiency Addon"
+	quest.1F07D123FC436D60.quest_desc: ["Punch the fireballs back."]
+	quest.1F07D123FC436D60.title: "Ghasts"
+	quest.1F11A984246BA50A.quest_desc: ["A two-way doorway for machines."]
+	quest.1F11A984246BA50A.title: "Interface"
+	quest.1F136B491A887248.quest_desc: ["A key component."]
+	quest.1F136B491A887248.title: "Motors"
+	quest.1F1B608D4D4A6C19.quest_desc: [
+		"Industrial Foregoing has machines for farming, mobs, fluids and laser mining."
+	]
+	quest.1F1B608D4D4A6C19.title: "Automate Everything"
+	quest.1F1FC684B1ECD7DA.quest_desc: ["Charge certus in a charger."]
+	quest.1F1FC684B1ECD7DA.title: "Charged Certus"
+	quest.1F50F7EBF20808AA.quest_desc: ["Plant rice in water. Wild rice grows near rivers."]
+	quest.1F50F7EBF20808AA.title: "Rice"
+	quest.1F5599FDC0419B65.quest_desc: ["Keeps hostile mobs away."]
+	quest.1F5599FDC0419B65.title: "Protection Pylon"
+	quest.1F6004C52E3BA6EE.quest_desc: ["Earned by doing the Bee Queen's trades and quests."]
+	quest.1F6004C52E3BA6EE.title: "Essence of the Bees"
+	quest.1F6EE7C3F50C09EF.quest_desc: ["Mined from Prosperity ore. Needed for every seed."]
+	quest.1F6EE7C3F50C09EF.title: "Prosperity Shards"
+	quest.1F82A42C2EDF2210.quest_desc: ["Used in casings and as a moderator."]
+	quest.1F82A42C2EDF2210.title: "Graphite"
+	quest.1F84B2B02AC330BF.quest_desc: ["Holds items for the press and mixer."]
+	quest.1F84B2B02AC330BF.title: "Basin"
+	quest.1F8D7EF61A80F0B9.quest_desc: ["From End mobs."]
+	quest.1F8D7EF61A80F0B9.title: "End Prediction"
+	quest.1F92B1DF1EF42963.quest_desc: [
+		"Found in Inferium ore or dropped by mobs. The base of the whole mod."
+	]
+	quest.1F92B1DF1EF42963.title: "Inferium Essence"
+	quest.1F940D1F15CA8F8A.quest_desc: ["Assembles complex parts."]
+	quest.1F940D1F15CA8F8A.title: "Assembler"
+	quest.1F973064EABB2CE9.quest_desc: [
+		"Not sure where to go next? The &5Main Path&r chapter walks you from your first stone pick to the late game, pointing into the mod chapters along the way."
+	]
+	quest.1F973064EABB2CE9.title: "Follow the Main Path"
+	quest.1F9756A0BF984A1C.quest_desc: ["A fast electric furnace."]
+	quest.1F9756A0BF984A1C.title: "Energized Smelter"
+	quest.1FA3590176CB3579.quest_desc: ["Picks and places items between spots."]
+	quest.1FA3590176CB3579.title: "Mechanical Arm"
+	quest.1FADAB05F698FC62.quest_desc: ["An ocean shelf."]
+	quest.1FADAB05F698FC62.title: "Seashelf"
+	quest.1FB5CDD184024749.quest_desc: [
+		"Nine Craft is full of food mods. Eating a variety of meals is more filling and gives better buffs."
+	]
+	quest.1FB5CDD184024749.title: "Eat Well"
+	quest.1FBEB21AC9A59536.quest_desc: ["Clones a captured mob using essence."]
+	quest.1FBEB21AC9A59536.title: "Mob Duplicator"
+	quest.1FC47724CF590F91.title: "Dark Xychorium"
+	quest.1FC4D67D28870D94.quest_desc: ["Attach to the shaft. More blades catch more steam."]
+	quest.1FC4D67D28870D94.title: "Rotor Blades"
+	quest.1FDA00E25D38532F.quest_desc: ["Performs rituals with tablets."]
+	quest.1FDA00E25D38532F.title: "Ritual Brazier"
+	quest.1FE44D2CB4F56DB9.quest_desc: ["A living metal."]
+	quest.1FE44D2CB4F56DB9.title: "Biosteel"
+	quest.1FE54A14072FD67D.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1FE54A14072FD67D.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1FE54A14072FD67D.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1FF67916758BB4E1.quest_desc: ["Iron infused with carbon."]
+	quest.1FF67916758BB4E1.title: "Steel"
+	quest.2054F786ADE4EB22.quest_desc: ["Your guide and your way out of the room."]
+	quest.2054F786ADE4EB22.title: "Personal Shrinking Device"
+	quest.20AB4440EC3C1FB0.quest_desc: ["Tools that take upgrades."]
+	quest.20AB4440EC3C1FB0.title: "Ferricore Tools"
+	quest.20C7912F9093EDB3.quest_desc: ["Connects everything. Each cable carries 8 channels."]
+	quest.20C7912F9093EDB3.title: "Fluix Cable"
+	quest.210632353467FC4A.quest_desc: [
+		"Every resource bee makes its own comb. Look them up in JEI to plan your breeding."
+	]
+	quest.210632353467FC4A.title: "Resource Combs"
+	quest.212F4719C0477B40.quest_desc: ["Found deep underground, especially near ancient cities."]
+	quest.212F4719C0477B40.title: "Allthemodium Ore"
+	quest.213EEF5107109CFD.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.213EEF5107109CFD.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.213EEF5107109CFD.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.219E864E5CBDC14E.quest_desc: ["A careful, rewarding power source."]
+	quest.219E864E5CBDC14E.title: "Nuclear Reactor"
+	quest.21F5054F452C9265.quest_desc: [
+		"Special eyes lead you to each boss's lair. Some drop from mobs, others are crafted."
+	]
+	quest.21F5054F452C9265.title: "Boss Eyes"
+	quest.223BB077BAB52743.quest_desc: [
+		"Grows from budding certus. Mine it in meteorites and grow more at home."
+	]
+	quest.223BB077BAB52743.title: "Certus Quartz"
+	quest.22918254F824064D.quest_desc: [
+		"Insert into one block and it sorts into every drawer nearby."
+	]
+	quest.22918254F824064D.title: "Drawer Controller"
+	quest.22EB1F42A10865C9.quest_desc: [
+		"Quests with a &dhexagon&r border are milestones. Optional quests are side paths you can skip."
+		""
+		"Click a quest to read it, then click its task to hand in the items. Rewards are claimed with the button on the right. Start by crafting a book!"
+	]
+	quest.22EB1F42A10865C9.title: "How This Book Works"
+	quest.23605CD4BFE68AFA.quest_desc: [
+		"The last stretch of Modern Industrialization. It's long, but the gear at the end is unmatched."
+	]
+	quest.23605CD4BFE68AFA.title: "Quantum Leap"
+	quest.23664CB82ACADAC8.quest_desc: ["Build the outer frame of your reactor from these."]
+	quest.23664CB82ACADAC8.title: "Reactor Casing"
+	quest.23BFA75AF7B107F8.quest_desc: ["Bottles honey from hives."]
+	quest.23BFA75AF7B107F8.title: "Bottler"
+	quest.23DE28C72B39C6AC.quest_desc: ["Needed for the steam blast furnace."]
+	quest.23DE28C72B39C6AC.title: "Fire Clay Bricks"
+	quest.2416589842BB8061.quest_desc: ["Splits rotation in four directions."]
+	quest.2416589842BB8061.title: "Gearbox"
+	quest.244231F3BC693E8E.quest_desc: ["The next tier's material."]
+	quest.244231F3BC693E8E.title: "Blazing Crystal"
+	quest.248C3721C467E845.quest_desc: ["Turns plant matter into biofuel."]
+	quest.248C3721C467E845.title: "Bioreactor"
+	quest.248D64F83235208E.quest_desc: ["Some logs give spices when stripped."]
+	quest.248D64F83235208E.title: "Spice Trees"
+	quest.24CEC195B5B4BE36.quest_desc: ["Multiplies a drawer's capacity."]
+	quest.24CEC195B5B4BE36.title: "Drawer Upgrade"
+	quest.254E0A8CD06FDB86.quest_desc: ["Fire resistance when you get burned."]
+	quest.254E0A8CD06FDB86.title: "Obsidian Skull"
+	quest.25B2F85BBF693CA7.quest_desc: ["Makes an effect cover an area."]
+	quest.25B2F85BBF693CA7.title: "AOE"
+	quest.25F1B270F55CD671.quest_desc: ["Charges items in your inventory from anywhere."]
+	quest.25F1B270F55CD671.title: "Player Transmitter"
+	quest.26041F931ACDC3D6.quest_desc: ["Levels up a relic directly."]
+	quest.26041F931ACDC3D6.title: "Relic Experience"
+	quest.26823B0D9FFDE5E4.quest_desc: ["A giant skeletal beast in a desert tomb."]
+	quest.26823B0D9FFDE5E4.title: "Ancient Remnant"
+	quest.26EA1CE8D998D9D5.quest_desc: [
+		"Addons attach next to a machine to add speed, efficiency or capacity."
+	]
+	quest.26EA1CE8D998D9D5.title: "Addons"
+	quest.27091852D65587B2.quest_desc: ["The guide. Every ritual is explained here."]
+	quest.27091852D65587B2.title: "Dictionary of Spirits"
+	quest.2709ACE90023AD5F.quest_desc: ["The same idea for liquids."]
+	quest.2709ACE90023AD5F.title: "Fluid Card"
+	quest.273465B737126E1F.quest_desc: [
+		"Send energy wirelessly. Flux plugs take power in and flux points hand it out."
+	]
+	quest.273465B737126E1F.title: "Flux Networks"
+	quest.2764DF4E965590D6.quest_desc: ["Creates water."]
+	quest.2764DF4E965590D6.title: "Hydro Pump"
+	quest.282CACF7DE68FE63.quest_desc: [
+		"The first of the three special metals. Hardy and fire resistant."
+	]
+	quest.282CACF7DE68FE63.title: "Allthemodium Armor"
+	quest.28596EB53A2AFCB5.quest_desc: ["The base for steam machines."]
+	quest.28596EB53A2AFCB5.title: "Bronze Casing"
+	quest.285BE7B7877B676F.quest_desc: ["The frame for most machines."]
+	quest.285BE7B7877B676F.title: "Steel Casing"
+	quest.292BD5DF7D1E31B8.quest_desc: ["Move items and mobs along the ground."]
+	quest.292BD5DF7D1E31B8.title: "Conveyor Belts"
+	quest.29EAE4B90F87D1E4.quest_desc: ["Another digital component."]
+	quest.29EAE4B90F87D1E4.title: "ALU"
+	quest.2A288B1E33D5FDBB.quest_desc: ["Tougher than Allthemodium, found in the Nether's depths."]
+	quest.2A288B1E33D5FDBB.title: "Vibranium"
+	quest.2AEF6BAC8E159321.quest_desc: ["Write patterns here."]
+	quest.2AEF6BAC8E159321.title: "Pattern Encoding Terminal"
+	quest.2B240FC0625D58C9.quest_desc: ["Pushes whole structures."]
+	quest.2B240FC0625D58C9.title: "Mechanical Piston"
+	quest.2B3D922C856BA45A.quest_desc: [
+		"A terminal that shows every chest it touches in one searchable screen. No power needed."
+	]
+	quest.2B3D922C856BA45A.title: "Tom's Simple Storage"
+	quest.2B82A222FCA4412C.quest_desc: ["Fills items with fluids."]
+	quest.2B82A222FCA4412C.title: "Spout"
+	quest.2B9047E018D78197.quest_desc: ["HV's circuit."]
+	quest.2B9047E018D78197.title: "Digital Circuit"
+	quest.2BB4C3C5BDDB20B1.quest_desc: ["Carry bees around and send them at mobs."]
+	quest.2BB4C3C5BDDB20B1.title: "Buzzing Briefcase"
+	quest.2C419830F6FF2D31.quest_desc: ["The metal of the next age."]
+	quest.2C419830F6FF2D31.title: "Steel"
+	quest.2CDA357F1DDAA0D9.quest_desc: ["Tier 5 essence, the top of the base mod."]
+	quest.2CDA357F1DDAA0D9.title: "Supremium"
+	quest.2CEB49D71E7F2C94.quest_desc: [
+		"Some special seeds need a crux under their farmland to grow."
+	]
+	quest.2CEB49D71E7F2C94.title: "Nether Star Crux"
+	quest.2DBB9D9CDE331BD6.quest_desc: ["The rarest of the three, found in the End."]
+	quest.2DBB9D9CDE331BD6.title: "Unobtainium"
+	quest.2E194972CFE30BAF.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.2E194972CFE30BAF.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.2E194972CFE30BAF.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.2EBD1FF8EBD765B7.quest_desc: ["Connects everything to the controller."]
+	quest.2EBD1FF8EBD765B7.title: "Cable"
+	quest.2ECB58E3EB5C7FD0.quest_desc: ["A place for machines to work on items."]
+	quest.2ECB58E3EB5C7FD0.title: "Depot"
+	quest.2F6A62F1705C49B5.quest_desc: ["Shows how many channels are in use."]
+	quest.2F6A62F1705C49B5.title: "Smart Cable"
+	quest.2FBA865056E5CC9E.quest_desc: ["A solid step up in speed."]
+	quest.2FBA865056E5CC9E.title: "Iron Furnace"
+	quest.30225DF3B02D8A0B.quest_desc: ["Creeper Overhaul gives each biome its own creeper."]
+	quest.30225DF3B02D8A0B.title: "Creeper Variants"
+	quest.305DA2F4EB0D1FF3.quest_desc: [
+		"Mekanism is about getting the most out of every ore. Early machines double your ingots, and the late game quintuples them."
+	]
+	quest.305DA2F4EB0D1FF3.title: "Break It Down"
+	quest.30E0C2ABF47351BA.quest_desc: ["Moves gases like hydrogen and oxygen."]
+	quest.30E0C2ABF47351BA.title: "Pressurized Tube"
+	quest.30FAAEC062912051.quest_desc: ["Cables carry energy from generators to machines."]
+	quest.30FAAEC062912051.title: "Move It"
+	quest.312A0FFB156DB40B.quest_desc: ["A key ingredient. Find wild tomatoes in warm biomes."]
+	quest.312A0FFB156DB40B.title: "Tomatoes"
+	quest.316BF3DFEC1F47DE.quest_desc: ["Breaks blocks."]
+	quest.316BF3DFEC1F47DE.title: "Break"
+	quest.31FF5972852C9A34.quest_desc: ["Tougher again. Upgrade with a smithing template."]
+	quest.31FF5972852C9A34.title: "Vibranium Armor"
+	quest.324451733F90CCB3.quest_desc: ["Four times bigger."]
+	quest.324451733F90CCB3.title: "4k Storage Cell"
+	quest.32E1E0047702A0B8.quest_desc: ["Makes dense materials with explosives."]
+	quest.32E1E0047702A0B8.title: "Implosion Compressor"
+	quest.32EE1D1C5873AF5F.quest_desc: ["The brain of the reactor. One per reactor."]
+	quest.32EE1D1C5873AF5F.title: "Controller"
+	quest.331D296C12CCBCF3.quest_desc: ["Pulls ore out of the ground without mining."]
+	quest.331D296C12CCBCF3.title: "Steam Quarry"
+	quest.33432EED9B23D0D5.quest_desc: ["Stores energy. Upgrade for more room."]
+	quest.33432EED9B23D0D5.title: "Energy Cell"
+	quest.334B81E1504C3F38.quest_desc: ["Pale and pretty."]
+	quest.334B81E1504C3F38.title: "Aspen"
+	quest.335B2FD40FE15906.quest_desc: ["Every run starts the same way. Collect a stack of logs."]
+	quest.335B2FD40FE15906.title: "Punch Some Trees"
+	quest.33953AB8933C0789.quest_desc: ["Plants seeds in an area."]
+	quest.33953AB8933C0789.title: "Plant Sower"
+	quest.33D78A18EB127DCC.quest_desc: ["Ender pearl infused iron."]
+	quest.33D78A18EB127DCC.title: "Pulsating Alloy"
+	quest.33E3C2FE68C05491.quest_desc: ["A manual machine for early parts."]
+	quest.33E3C2FE68C05491.title: "Forge Hammer"
+	quest.34936E119C964A44.quest_desc: ["Autocrafting recipes."]
+	quest.34936E119C964A44.title: "Patterns"
+	quest.3518C6F61EE38790.quest_desc: ["Infuses items with source."]
+	quest.3518C6F61EE38790.title: "Imbuement Chamber"
+	quest.356EC68CB0AEAA27.quest_desc: ["Oritech's own reactor multiblock."]
+	quest.356EC68CB0AEAA27.title: "Oritech Reactor"
+	quest.3597BAAFD7BAEC8B.quest_desc: ["For the strongest spells."]
+	quest.3597BAAFD7BAEC8B.title: "Legendary Ink"
+	quest.3661CFB626AD4F1E.quest_desc: ["End stone and dark steel."]
+	quest.3661CFB626AD4F1E.title: "End Steel"
+	quest.36723BE0652CE395.quest_desc: ["MV's circuit."]
+	quest.36723BE0652CE395.title: "Electronic Circuit"
+	quest.36ACCACC264C4DBE.quest_desc: ["Pulls items in."]
+	quest.36ACCACC264C4DBE.title: "Importer"
+	quest.373521009B40184A.quest_desc: ["Your first real resource crop."]
+	quest.373521009B40184A.title: "Iron Seeds"
+	quest.37C5A2D906D80339.quest_desc: ["Osmium infused with redstone. Every machine needs one."]
+	quest.37C5A2D906D80339.title: "Basic Control Circuit"
+	quest.38596ED50F4A2336.quest_desc: [
+		"Yes, it does what you think. Don't set it off near your base."
+	]
+	quest.38596ED50F4A2336.title: "A Very Bad Idea"
+	quest.38D30160B339A6EC.quest_desc: ["Watch your walls."]
+	quest.38D30160B339A6EC.title: "Creepers"
+	quest.38E3D96010186360.quest_desc: ["Burns fuel for power."]
+	quest.38E3D96010186360.title: "Dire Generator"
+	quest.38FFAEFB4C72AB05.quest_desc: ["An empty void dimension. A blank canvas for huge builds."]
+	quest.38FFAEFB4C72AB05.title: "The Beyond"
+	quest.3A103079174B2D48.quest_desc: [
+		"A router is a small programmable box. Put modules in it to decide what it does."
+	]
+	quest.3A103079174B2D48.title: "Modular Routers"
+	quest.3A1643E0370D4994.quest_desc: [
+		"Train a Wither model and farm Nether Stars without ever fighting it again."
+	]
+	quest.3A1643E0370D4994.title: "Model the Wither"
+	quest.3A2D6063FACFFD16.quest_desc: ["A cage you can reuse."]
+	quest.3A2D6063FACFFD16.title: "Sturdy Cage"
+	quest.3A3CA4923A058F41.quest_desc: ["Pulls items from containers."]
+	quest.3A3CA4923A058F41.title: "Extractor"
+	quest.3A6379E31AE01B0D.quest_desc: ["The beam hurts anything it touches."]
+	quest.3A6379E31AE01B0D.title: "Lens of Certain Death"
+	quest.3A9E19AA57275B7A.quest_desc: [
+		"Points to the nearest meteorite, where you'll find the inscriber presses."
+	]
+	quest.3A9E19AA57275B7A.title: "Meteorite Compass"
+	quest.3AB4372D64BA95D0.quest_desc: ["Prints circuits with the presses."]
+	quest.3AB4372D64BA95D0.title: "Inscriber"
+	quest.3B66A01A0C6D00ED.quest_desc: ["Their shells make shulker boxes."]
+	quest.3B66A01A0C6D00ED.title: "Shulkers"
+	quest.3B8B4DE9AF145866.quest_desc: ["Gold transformed in hot goo."]
+	quest.3B8B4DE9AF145866.title: "Blazegold"
+	quest.3C40FDCC5A476B6C.quest_desc: [
+		"Fusion reactors, large turbines and Powah's top tiers keep a mega base running."
+	]
+	quest.3C40FDCC5A476B6C.title: "Late Game Power"
+	quest.3C5BAA0166BDA016.quest_desc: ["LV cable."]
+	quest.3C5BAA0166BDA016.title: "Tin Cable"
+	quest.3C8748ECE325F31E.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.3C8748ECE325F31E.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.3C8748ECE325F31E.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.3C938DFBFDF7D3AE.quest_desc: ["Matching-tier farmland gives bonus essence from crops."]
+	quest.3C938DFBFDF7D3AE.title: "Essence Farmland"
+	quest.3CAD38BB08A6F93C.quest_desc: ["Spawns copies of a captured mob with power."]
+	quest.3CAD38BB08A6F93C.title: "Powered Spawner"
+	quest.3CC536DCA5FF4DA7.quest_desc: [
+		"A shield stops arrows and creeper blasts. Keep one in your offhand."
+	]
+	quest.3CC536DCA5FF4DA7.title: "Block It"
+	quest.3CF203FC90D27FC1.quest_desc: ["Move items, fluids and energy through logic networks."]
+	quest.3CF203FC90D27FC1.title: "Integrated Tunnels"
+	quest.3D2304D6DCA49438.quest_desc: [
+		"Allthemodium, Vibranium and Unobtainium are the strongest metals in the pack. Each lives in a different dimension and needs a better pickaxe than the last."
+	]
+	quest.3D2304D6DCA49438.title: "Deep Metals"
+	quest.3D4813E0CE097BAF.quest_desc: [
+		"Don't break your furnace to improve it. Right-click it with an upgrade and it keeps its contents."
+	]
+	quest.3D4813E0CE097BAF.title: "Upgrade in Place"
+	quest.3D7D9C0FBD305C08.quest_desc: ["Crafts patterns automatically."]
+	quest.3D7D9C0FBD305C08.title: "Molecular Assembler"
+	quest.3E9CA2FA57D709A1.quest_desc: ["Infused for even more power."]
+	quest.3E9CA2FA57D709A1.title: "Infused Hellshelf"
+	quest.3EA14EC63F2296E6.quest_desc: ["Caps a stack of fuel assemblies."]
+	quest.3EA14EC63F2296E6.title: "Control Rod"
+	quest.3ED6EA1B72500412.quest_desc: [
+		"Stores enchanted books as points. Pull out any level you've stored."
+	]
+	quest.3ED6EA1B72500412.title: "Enchantment Library"
+	quest.3EE94D728076DB6A.quest_desc: ["Kills mobs in front of it and collects drops and essence."]
+	quest.3EE94D728076DB6A.title: "Mob Crusher"
+	quest.3F173246F6D35BDD.quest_desc: ["Attach sails to make wind power."]
+	quest.3F173246F6D35BDD.title: "Windmill"
+	quest.3F35A0F56B75A1D0.quest_desc: ["More fusion fuel."]
+	quest.3F35A0F56B75A1D0.title: "Tritium"
+	quest.3F395ADDA9719A56.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.3F395ADDA9719A56.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.3F395ADDA9719A56.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.3F9DF2C138DAB88B.quest_desc: ["Upgraded coal burns longer."]
+	quest.3F9DF2C138DAB88B.title: "Better Coal"
+	quest.3FEC4FAA7EEC0757.quest_desc: ["For high-level spells."]
+	quest.3FEC4FAA7EEC0757.title: "Epic Ink"
+	quest.3FF58268D09154F4.quest_desc: ["Speeds growth with bonemeal or fertilizer."]
+	quest.3FF58268D09154F4.title: "Plant Fertilizer"
+	quest.4018CA7C094245D4.quest_desc: ["Powers the whole network."]
+	quest.4018CA7C094245D4.title: "Controller"
+	quest.402221BC6127FF8E.quest_desc: [
+		"An energy cell buffers power so nothing is wasted at night."
+	]
+	quest.402221BC6127FF8E.title: "Store It"
+	quest.408D2A87B296B52A.quest_desc: ["Splits crude oil into useful fluids."]
+	quest.408D2A87B296B52A.title: "Distillation Tower"
+	quest.409FBCEA0E391AC5.quest_desc: ["Enderman Overhaul does the same for endermen."]
+	quest.409FBCEA0E391AC5.title: "Enderman Variants"
+	quest.40E0371A42810E8C.quest_desc: ["Huge and fireproof."]
+	quest.40E0371A42810E8C.title: "Netherite Backpack"
+	quest.40FCD65183DA5881.quest_desc: ["The first electric component."]
+	quest.40FCD65183DA5881.title: "Motor"
+	quest.40FDA8A9FADEA158.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.40FDA8A9FADEA158.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.40FDA8A9FADEA158.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.411CA8E34C1996B6.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.411CA8E34C1996B6.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.411CA8E34C1996B6.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.414B59DDBA232C30.quest_desc: ["A lava-filled giant deep in the Nether."]
+	quest.414B59DDBA232C30.title: "Netherite Monstrosity"
+	quest.414C383D76EF7621.quest_desc: ["Part of the storage core."]
+	quest.414C383D76EF7621.title: "Dimensional Matrix"
+	quest.414DFAD366874593.quest_desc: [
+		"Share one energy pool across any distance with the same channel."
+	]
+	quest.414DFAD366874593.title: "Ender Cell"
+	quest.416F2FB838BADDC6.quest_desc: ["Sits next to lava for steady passive power."]
+	quest.416F2FB838BADDC6.title: "Heat Generator"
+	quest.41B327190CF1912D.quest_desc: ["Hold ingredients for the apparatus."]
+	quest.41B327190CF1912D.title: "Arcane Pedestals"
+	quest.41BE602B1C7B8D52.quest_desc: ["Connects parts into a network."]
+	quest.41BE602B1C7B8D52.title: "Logic Cable"
+	quest.4271463D307A8155.quest_desc: ["The first goo metal."]
+	quest.4271463D307A8155.title: "Ferricore"
+	quest.42B38A76DD5BB041.quest_desc: ["The shell of most Powah machines."]
+	quest.42B38A76DD5BB041.title: "Dielectric Casing"
+	quest.4303F4A206826597.quest_desc: ["Recipes for autocrafting are written on patterns."]
+	quest.4303F4A206826597.title: "Patterns"
+	quest.4312418F31B3C8A2.quest_desc: [
+		"Modern Industrialization is a big, structured tech mod. It starts with steam and bronze, grows into electricity and ends with fusion and quantum gear. Take it one age at a time."
+	]
+	quest.4312418F31B3C8A2.title: "Steam First"
+	quest.4324003FAEF9C32C.quest_desc: ["Muscle power. Fine for testing."]
+	quest.4324003FAEF9C32C.title: "Hand Crank"
+	quest.44111A7B6CA8DB4E.quest_desc: ["Sends ingredients to machines for processing recipes."]
+	quest.44111A7B6CA8DB4E.title: "Pattern Provider"
+	quest.4466FD8440301CCB.quest_desc: [
+		"MEGA adds cells into the millions and bulk cells for single items."
+	]
+	quest.4466FD8440301CCB.title: "MEGA Cells"
+	quest.446AAAF26B280C15.quest_desc: ["Upgrade a chest's tier without emptying it."]
+	quest.446AAAF26B280C15.title: "Upgrade in Place"
+	quest.44C3F5AE95C01324.quest_desc: [
+		"Every tree has its own planks and log colors for building."
+	]
+	quest.44C3F5AE95C01324.title: "New Woods"
+	quest.4525A64CCF9B53BC.quest_desc: ["Surround the table."]
+	quest.4525A64CCF9B53BC.title: "Bookshelves"
+	quest.4571920CF236B069.quest_desc: ["Take tools apart to get parts back."]
+	quest.4571920CF236B069.title: "Salvager"
+	quest.45B317AB0A033DFE.quest_desc: [
+		"AllTheCompressed squeezes blocks into denser versions to save space."
+	]
+	quest.45B317AB0A033DFE.title: "Compression"
+	quest.45C8B5DA0F98F30A.quest_desc: [
+		"It's time to build something that runs on energy. The &5Basic Power&r and &5Powah&r chapters are good places to start."
+	]
+	quest.45C8B5DA0F98F30A.title: "Your First Power"
+	quest.46212D2739385BD8.quest_desc: ["The top reactor material."]
+	quest.46212D2739385BD8.title: "Insanite"
+	quest.4658B2A6F3DC160F.quest_desc: ["Hydrogen-powered flight."]
+	quest.4658B2A6F3DC160F.title: "Jetpack"
+	quest.4679C399982CBC88.quest_desc: ["The storm-bringer."]
+	quest.4679C399982CBC88.title: "Scylla"
+	quest.468C3F68CE658340.quest_desc: ["Upgrades a machine or factory in place."]
+	quest.468C3F68CE658340.title: "Tier Installer"
+	quest.46D44C8CA5DFAFF0.quest_desc: ["Lens colors bias which ores come out."]
+	quest.46D44C8CA5DFAFF0.title: "Laser Lens"
+	quest.46E41F79811DA65A.quest_desc: ["Turns steam into LV power."]
+	quest.46E41F79811DA65A.title: "Steam Turbine"
+	quest.471A5AE6626E4E4C.quest_desc: ["A power tool that mines anything fast."]
+	quest.471A5AE6626E4E4C.title: "Atomic Disassembler"
+	quest.476CA083638EA7A2.title: "Lightning Rune"
+	quest.48661940BEC44018.quest_desc: ["Lay down tracks for trains."]
+	quest.48661940BEC44018.title: "Train Tracks"
+	quest.487F2F5F837A310C.quest_desc: ["Burns hydrogen or ethylene."]
+	quest.487F2F5F837A310C.title: "Gas Generator"
+	quest.48CB6AE8439BA240.title: "64k Part"
+	quest.48F33F5430A0A693.quest_desc: ["Full powered armor with modules."]
+	quest.48F33F5430A0A693.title: "MekaSuit"
+	quest.496CCA9DF98D80ED.quest_desc: ["Survive the Nether with confidence."]
+	quest.496CCA9DF98D80ED.title: "Diamond Armor"
+	quest.4A1DC62BFDFB6C70.quest_desc: [
+		"Push air through lava or water to wash, smelt or smoke items."
+	]
+	quest.4A1DC62BFDFB6C70.title: "Encased Fan"
+	quest.4A394A117E12E083.quest_desc: ["Charges certus and tools."]
+	quest.4A394A117E12E083.title: "Charger"
+	quest.4AA9AF1555E1A1AC.quest_desc: ["A multiblock tank that holds huge amounts of fluid."]
+	quest.4AA9AF1555E1A1AC.title: "Dynamic Tank"
+	quest.4AB30E7D7C09F4C9.title: "Skeletons"
+	quest.4B3A433ABAA59EF7.quest_desc: [
+		"AE2 stores items as data on drives. Once it's running you'll never sort a chest again. It needs channels, power and a little planning."
+	]
+	quest.4B3A433ABAA59EF7.title: "Matter as Energy"
+	quest.4C35A29C623D2E55.quest_desc: ["Much faster, runs on energy."]
+	quest.4C35A29C623D2E55.title: "Powered Centrifuge"
+	quest.4C4EDDA3891D12F2.quest_desc: ["Drains fluids in a large area. Great for lava lakes."]
+	quest.4C4EDDA3891D12F2.title: "Ranged Pump"
+	quest.4C5B4A0A04F40B1B.quest_desc: ["Even more room, plus more upgrade slots."]
+	quest.4C5B4A0A04F40B1B.title: "Netherite Chest"
+	quest.4C7B313B30828E34.quest_desc: ["Sits below the apparatus."]
+	quest.4C7B313B30828E34.title: "Arcane Core"
+	quest.4D93DF8D3C7083F1.quest_desc: ["A digital component."]
+	quest.4D93DF8D3C7083F1.title: "RAM"
+	quest.4DA36462E2A57896.quest_desc: ["An otherworld metal."]
+	quest.4DA36462E2A57896.title: "Iesnium"
+	quest.4E9AF5CD85F174BD.quest_desc: ["More sails, more stress capacity."]
+	quest.4E9AF5CD85F174BD.title: "Sails"
+	quest.4F153C14E019F74E.quest_desc: ["An energy-rich crystal."]
+	quest.4F153C14E019F74E.title: "Fluxite"
+	quest.4F2241B4AA7AA0E7.quest_desc: ["Turns sewage into fertilizer."]
+	quest.4F2241B4AA7AA0E7.title: "Sewage Composter"
+	quest.4F590031817E7FE5.quest_desc: ["End-powered shelves."]
+	quest.4F590031817E7FE5.title: "Endshelf"
+	quest.4FF6DA5FA5B2099A.quest_desc: ["The center of every ritual."]
+	quest.4FF6DA5FA5B2099A.title: "Golden Bowl"
+	quest.5108BE8C30EDE0AB.quest_desc: ["Captures a mob to use in the duplicator."]
+	quest.5108BE8C30EDE0AB.title: "Mob Imprisonment Tool"
+	quest.511AA5FBAC9BD6BE.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.511AA5FBAC9BD6BE.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.511AA5FBAC9BD6BE.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.512856F604CEE6C7.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.512856F604CEE6C7.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.512856F604CEE6C7.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.51904BFAC8764EFE.quest_desc: [
+		"Seeds are infused on this altar with items on pedestals around it."
+	]
+	quest.51904BFAC8764EFE.title: "Infusion Altar"
+	quest.519C81F093062D9D.quest_desc: ["Makes plates and more."]
+	quest.519C81F093062D9D.title: "Compressor"
+	quest.51A2E3F4D422DAC7.quest_desc: ["Big cheap storage."]
+	quest.51A2E3F4D422DAC7.title: "Item Vault"
+	quest.51D89BB11AF9A349.quest_desc: [
+		"Pour water on lava to make obsidian, then mine it with a diamond pickaxe."
+	]
+	quest.51D89BB11AF9A349.title: "Obsidian"
+	quest.521AB59681710ED9.quest_desc: ["Bounce high."]
+	quest.521AB59681710ED9.title: "Springy Boot"
+	quest.52D5B66F29D8DF05.quest_desc: ["Rewinds an area to how it was earlier."]
+	quest.52D5B66F29D8DF05.title: "Paradox Machine"
+	quest.530990A53964481F.quest_desc: ["Plant these to grow more essence."]
+	quest.530990A53964481F.title: "Inferium Seeds"
+	quest.5368EBD4C102BFCC.quest_desc: ["Forge fireproof armor from it."]
+	quest.5368EBD4C102BFCC.title: "Ignitium"
+	quest.537FE34C0A0B7795.quest_desc: ["Food that never runs out."]
+	quest.537FE34C0A0B7795.title: "Eternal Steak"
+	quest.5393BBF5196A12BF.quest_desc: [
+		"Just Dire Things grows new metals by dropping blocks on goo, then turns them into great tools and handy machines."
+	]
+	quest.5393BBF5196A12BF.title: "Goo and Gadgets"
+	quest.53D491E5210E14DA.quest_desc: ["Mage armor with more mana."]
+	quest.53D491E5210E14DA.title: "Arcanist Robes"
+	quest.53FCF00304DD4E80.quest_desc: ["Armor that grants a second chance."]
+	quest.53FCF00304DD4E80.title: "Cursium"
+	quest.54134DEEE75C5192.quest_desc: ["Hold values and operations."]
+	quest.54134DEEE75C5192.title: "Variable Cards"
+	quest.542AC73D5D5702B3.quest_desc: ["A multiblock that recycles cyanite."]
+	quest.542AC73D5D5702B3.title: "Reprocessor"
+	quest.5439CB8BD18979AD.quest_desc: [
+		"Quest progress is shared per team. Run &a/ftbteams party create <name>&r and invite your friends so everyone works on the same book."
+	]
+	quest.5439CB8BD18979AD.title: "Playing With Friends"
+	quest.54633CEDDCC3A0E2.quest_desc: [
+		"Slice ingredients by placing them on the board and using a knife."
+	]
+	quest.54633CEDDCC3A0E2.title: "Cutting Board"
+	quest.5485BBC23F4A1052.quest_desc: [
+		"Combine again for a 64x block. Serious power in a single space."
+	]
+	quest.5485BBC23F4A1052.title: "Sixty-Four in One"
+	quest.54B753C744A6B228.quest_desc: [
+		"Waystones link places together. Find them in villages or craft your own, then warp between them from any waystone."
+	]
+	quest.54B753C744A6B228.title: "Fast Travel"
+	quest.54BF34F3FE07B46C.quest_desc: ["For HV machines."]
+	quest.54BF34F3FE07B46C.title: "Turbo Hull"
+	quest.54D9211353FEB226.quest_desc: [
+		"Blazes spawn in Nether fortresses. Their rods power brewing and a lot of machines."
+	]
+	quest.54D9211353FEB226.title: "Blaze Rods"
+	quest.552DA200E2DD4FD8.quest_desc: [
+		"A compact machine is a whole room inside a single block. Build factories in there and pipe in from outside."
+	]
+	quest.552DA200E2DD4FD8.title: "Bigger on the Inside"
+	quest.5587C96A3F55758A.quest_desc: ["Hotter coils for tougher alloys."]
+	quest.5587C96A3F55758A.title: "Kanthal Coils"
+	quest.562FB477AA4A7411.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.562FB477AA4A7411.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.562FB477AA4A7411.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.56C51F07B9DA50C0.quest_desc: ["Separated from heavy water."]
+	quest.56C51F07B9DA50C0.title: "Deuterium"
+	quest.56CB24B2D9F0451D.quest_desc: ["Bigger working area for area machines."]
+	quest.56CB24B2D9F0451D.title: "Range Addon"
+	quest.5738D0D4B70A311F.quest_desc: ["Burns anything. Just enough to start."]
+	quest.5738D0D4B70A311F.title: "Pitiful Generator"
+	quest.57781849181831D0.quest_desc: ["Copper and tin. Steam machines are made of it."]
+	quest.57781849181831D0.title: "Bronze"
+	quest.57B7585E6FCE1E53.title: "Iesnium Pickaxe"
+	quest.587BF2AC4D729753.quest_desc: ["Splits water into hydrogen and oxygen."]
+	quest.587BF2AC4D729753.title: "Electrolytic Separator"
+	quest.59379F87617334AE.quest_desc: ["Bees make honey, honey makes power."]
+	quest.59379F87617334AE.title: "Honey Generator"
+	quest.59FDCADA1A504E6E.quest_desc: ["Dries menril resin into crystals."]
+	quest.59FDCADA1A504E6E.title: "Drying Basin"
+	quest.5A17E8B10B60F4EE.title: "Advanced Processor"
+	quest.5A3562BDA254D6CD.quest_desc: ["Another tasty fruit tree."]
+	quest.5A3562BDA254D6CD.title: "Avocados"
+	quest.5A788FC5B2504748.quest_desc: ["A blueprint shapes the head of a tool."]
+	quest.5A788FC5B2504748.title: "Blueprints"
+	quest.5ABF46448F91494E.quest_desc: [
+		"Mekanism, Modern Industrialization, Industrial Foregoing, Oritech, Create... pick one to start with. You can learn the rest later."
+	]
+	quest.5ABF46448F91494E.title: "Pick a Tech Mod"
+	quest.5B38823C8AABAA95.quest_desc: ["Copper and zinc mixed with heat."]
+	quest.5B38823C8AABAA95.title: "Brass"
+	quest.5B45308C0CAC4774.quest_desc: ["A buffer for the whole network."]
+	quest.5B45308C0CAC4774.title: "Flux Storage"
+	quest.5C644C8EC89DD685.quest_desc: ["One of the strongest shelves."]
+	quest.5C644C8EC89DD685.title: "Draconic Endshelf"
+	quest.5CC23D03C1F1BBF2.quest_desc: ["Tritium and deuterium fuse into huge amounts of power."]
+	quest.5CC23D03C1F1BBF2.title: "Fusion Reactor"
+	quest.5D43F52B6E7092F1.quest_desc: [
+		"Want custom tools? The &5Silent Gear&r chapter builds tools from any material you like."
+	]
+	quest.5D43F52B6E7092F1.title: "See Silent Gear"
+	quest.5D81355C47CCD78A.quest_desc: ["Casing for many machines."]
+	quest.5D81355C47CCD78A.title: "Andesite Casing"
+	quest.5D907C9D19AEE99C.quest_desc: [
+		"Pam's HarvestCraft adds hundreds of crops and meals. Check JEI for ideas."
+	]
+	quest.5D907C9D19AEE99C.title: "HarvestCraft"
+	quest.5DC7AA977BC9B720.quest_desc: ["Some chests bite back. Beat them for artifacts."]
+	quest.5DC7AA977BC9B720.title: "Mimic!"
+	quest.5E8752A00332CA17.quest_desc: ["Works better the higher you place it."]
+	quest.5E8752A00332CA17.title: "Wind Generator"
+	quest.5F40B99AF32C8EE4.quest_desc: ["Place it and right-click with the PSD to enter."]
+	quest.5F40B99AF32C8EE4.title: "Compact Machine"
+	quest.5F83E6306A6471BA.quest_desc: ["Stores source."]
+	quest.5F83E6306A6471BA.title: "Source Jar"
+	quest.5FA925ADE99BCB1A.quest_desc: ["Gain speed while moving."]
+	quest.5FA925ADE99BCB1A.title: "Roller Skates"
+	quest.5FD5B23BBC170BFF.quest_desc: ["The shell of a storage disk."]
+	quest.5FD5B23BBC170BFF.title: "Storage Housing"
+	quest.60955EB9843A7BE1.quest_desc: ["Build lasers to ignite fusion."]
+	quest.60955EB9843A7BE1.title: "Lasers"
+	quest.61AC1B94803161ED.quest_desc: ["Pumps water or any fluid source."]
+	quest.61AC1B94803161ED.title: "Electric Pump"
+	quest.61E129006A2ECF58.quest_desc: ["Points you to the nearest nest of a chosen type."]
+	quest.61E129006A2ECF58.title: "Nest Locator"
+	quest.62CC5793D50252A6.quest_desc: ["Crafts big recipes automatically."]
+	quest.62CC5793D50252A6.title: "Mechanical Crafter"
+	quest.63027DAC84ADFF37.title: "Zombies"
+	quest.6308BFEF4CC1F2B8.quest_desc: ["Double jump."]
+	quest.6308BFEF4CC1F2B8.title: "Cloud in a Bottle"
+	quest.6373C7BA3C5D7322.quest_desc: ["Same deal, in chest form."]
+	quest.6373C7BA3C5D7322.title: "Better Chests"
+	quest.63900648710DC3BE.quest_desc: ["Hatch baby bees and apply genes."]
+	quest.63900648710DC3BE.title: "Incubator"
+	quest.63F0779089759E7A.quest_desc: ["Adds a socket to an item."]
+	quest.63F0779089759E7A.title: "Sigil of Socketing"
+	quest.63FA918D87162382.quest_desc: ["Quick enough to keep up with an early ore line."]
+	quest.63FA918D87162382.title: "Diamond Furnace"
+	quest.64107AB7F7FAD883.quest_desc: ["Catch a bee by right-clicking it with a cage."]
+	quest.64107AB7F7FAD883.title: "Bee Cage"
+	quest.6487A8A35DFCCDAD.quest_desc: [
+		"Chests that share contents across any distance when they have the same colors."
+	]
+	quest.6487A8A35DFCCDAD.title: "Ender Storage"
+	quest.65557145F8074F4C.title: "Witches"
+	quest.66AB0A76FD172F7E.quest_desc: [
+		"Enchanting is much deeper here thanks to Apothic Enchanting. See the &5Enchanting&r chapter."
+	]
+	quest.66AB0A76FD172F7E.title: "Enchanting"
+	quest.66CD628B8383CA39.title: "Calculation Processor"
+	quest.67FD45905267692C.quest_desc: [
+		"Actually Additions is a grab bag of handy machines. Its heart is the Atomic Reconstructor."
+	]
+	quest.67FD45905267692C.title: "Lasers and Lenses"
+	quest.67FE094E1DAD0E98.quest_desc: ["Bonemeal that works on resource crops."]
+	quest.67FE094E1DAD0E98.title: "Mystical Fertilizer"
+	quest.686849C126A9682A.quest_desc: ["Top-tier armor from the rarest metal around."]
+	quest.686849C126A9682A.title: "Unobtainium Armor"
+	quest.68EB4F20CEA24E5F.quest_desc: [
+		"XyCraft adds five colors of Xychorium and machines built from them."
+	]
+	quest.68EB4F20CEA24E5F.title: "Colorful Crystals"
+	quest.68F9BE72B962C59B.quest_desc: [
+		"Light the portal and step through. Bring fire resistance if you can."
+	]
+	quest.68F9BE72B962C59B.title: "Welcome to the Nether"
+	quest.6914D140A9D25AD5.quest_desc: ["Iron and gold energized together."]
+	quest.6914D140A9D25AD5.title: "Energized Steel"
+	quest.6917FEF1DD3749BE.quest_desc: ["Makes steel from iron and coke."]
+	quest.6917FEF1DD3749BE.title: "Steam Blast Furnace"
+	quest.697FC7A4FDD8AED1.quest_desc: ["Diamonds energized."]
+	quest.697FC7A4FDD8AED1.title: "Niotic Crystal"
+	quest.69C49375F2A31F3A.quest_desc: [
+		"Steel, bronze, electrum, invar and friends are made in machines. Steel shows up everywhere."
+	]
+	quest.69C49375F2A31F3A.title: "Alloys"
+	quest.6B07C15625C94F65.quest_desc: ["Quantum circuits and fusion wait in &5MI: Endgame&r."]
+	quest.6B07C15625C94F65.title: "The Endgame"
+	quest.6B447FFF96D4C9E2.quest_desc: [
+		"Multiblocks are built around machine cores. Higher tiers allow more addons."
+	]
+	quest.6B447FFF96D4C9E2.title: "Machine Cores"
+	quest.6B645DDAE4388BD2.quest_desc: ["Keeps the reactor from overheating."]
+	quest.6B645DDAE4388BD2.title: "Cooling Cell"
+	quest.6BB0D00BB5A7DF36.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.6BB0D00BB5A7DF36.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.6BB0D00BB5A7DF36.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.6BFF57036C06327B.quest_desc: ["Hot blocks below and coolant give steady power."]
+	quest.6BFF57036C06327B.title: "Thermo Generator"
+	quest.6C3F68A2E7C58115.title: "Light Xychorium"
+	quest.6C70CCA23E138D15.quest_desc: ["Pushes items into the inventory in front of the router."]
+	quest.6C70CCA23E138D15.title: "Send Items"
+	quest.6D2536965865D060.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.6D2536965865D060.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.6D2536965865D060.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.6D2F537A76464275.quest_desc: ["More damage with tamed pets."]
+	quest.6D2F537A76464275.title: "Hunting Belt"
+	quest.6D3DACBA318ED803.quest_desc: ["A handheld drill that runs on fuel."]
+	quest.6D3DACBA318ED803.title: "Steam Mining Drill"
+	quest.6D76517FED36D882.quest_desc: ["Your network in your pocket."]
+	quest.6D76517FED36D882.title: "Wireless Terminal"
+	quest.6D79C1CE1E7B0B1C.quest_desc: ["The strongest material in Mystical Agriculture."]
+	quest.6D79C1CE1E7B0B1C.title: "Awakened Supremium"
+	quest.6E924B3D6E5C9462.quest_desc: ["See everything on the network."]
+	quest.6E924B3D6E5C9462.title: "ME Terminal"
+	quest.6EDBF622DC0AF4B8.quest_desc: ["A shield that repairs with honey."]
+	quest.6EDBF622DC0AF4B8.title: "Honey Shield"
+	quest.6F293A731A22AE92.title: "16k Part"
+	quest.6FBF526025F4F3E7.quest_desc: ["The best crafted book."]
+	quest.6FBF526025F4F3E7.title: "Netherite Spellbook"
+	quest.6FD33302F40DB44D.quest_desc: ["Apotheosis gems socket into gear for bonus stats."]
+	quest.6FD33302F40DB44D.title: "Gems"
+	quest.702C507DE95BEF78.quest_desc: [
+		"Attune it to a mob by right-clicking that mob type or crafting it in JEI."
+	]
+	quest.702C507DE95BEF78.title: "Blank Data Model"
+	quest.7040AD6D13723BB2.quest_desc: ["Put items onto or take them off belts."]
+	quest.7040AD6D13723BB2.title: "Funnels"
+	quest.708959274E9CC38D.quest_desc: ["MV cable."]
+	quest.708959274E9CC38D.title: "Copper Cable"
+	quest.710A4F0BA57A1D73.quest_desc: ["Breaks the block in front of it."]
+	quest.710A4F0BA57A1D73.title: "Block Breaker"
+	quest.711FEEE2BF7E09DA.quest_desc: [
+		"Your first spirit. A foliot can move items and craft simple things."
+	]
+	quest.711FEEE2BF7E09DA.title: "Summon a Foliot"
+	quest.71BCAAD5720F083B.quest_desc: ["A spear that poisons."]
+	quest.71BCAAD5720F083B.title: "Stinger Spear"
+	quest.723B7089CBB46696.quest_desc: ["Moves fluids through pipes."]
+	quest.723B7089CBB46696.title: "Mechanical Pump"
+	quest.72709843AA65B683.quest_desc: ["Tier 3 essence."]
+	quest.72709843AA65B683.title: "Tertium"
+	quest.73C92D3D010CA831.quest_desc: [
+		"L_Ender's Cataclysm adds huge bosses with their own dungeons. Each drops materials for amazing gear. Bring your best."
+	]
+	quest.73C92D3D010CA831.title: "Big Bosses"
+	quest.73FD71CAF8C40D65.quest_desc: [
+		"All The Arcanist Gear makes mage armor from the special metals."
+	]
+	quest.73FD71CAF8C40D65.title: "Allthemodium Robes"
+	quest.7402F96EADADC721.quest_desc: ["The biggest AE2 cell."]
+	quest.7402F96EADADC721.title: "256k Storage Cell"
+	quest.740E358F148E4A91.quest_desc: [
+		"Turn a machine into a multi-slot factory with a tier installer."
+	]
+	quest.740E358F148E4A91.title: "Factories"
+	quest.7413BC424C281249.quest_desc: ["Casts on what you're looking at up close."]
+	quest.7413BC424C281249.title: "Touch"
+	quest.7479C305BFACE463.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.7479C305BFACE463.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.7479C305BFACE463.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.749AFBF02F034AC9.quest_desc: [
+		"Three skulls and four soul sand. Fight it somewhere you don't mind blowing up."
+	]
+	quest.749AFBF02F034AC9.title: "Face the Wither"
+	quest.74C7D09552E7817B.quest_desc: ["The same trick for fluids."]
+	quest.74C7D09552E7817B.title: "Fluid Laser Base"
+	quest.74F03FEA31CD4FB6.quest_desc: ["Lots of room."]
+	quest.74F03FEA31CD4FB6.title: "Diamond Chest"
+	quest.75052CF638FBC672.quest_desc: ["Makes special Silent Gear alloys."]
+	quest.75052CF638FBC672.title: "Alloy Forge"
+	quest.75D2105DD74987B2.quest_desc: ["Start with the vanilla table. It upgrades into Apothic's."]
+	quest.75D2105DD74987B2.title: "Enchanting Table"
+	quest.765039ACE33E800C.quest_desc: ["Pipes fuel in and waste out."]
+	quest.765039ACE33E800C.title: "Reactor Port"
+	quest.769668110B504A7A.quest_desc: ["A cursed warlord in a frozen prison."]
+	quest.769668110B504A7A.title: "Maledictus"
+	quest.76C1FEF04769B697.quest_desc: ["Simulations use one matrix each. Make them by the stack."]
+	quest.76C1FEF04769B697.title: "Prediction Matrix"
+	quest.772CC33BDB38074D.quest_desc: ["For advanced machines."]
+	quest.772CC33BDB38074D.title: "Brass Casing"
+	quest.7755CE14F25AAC46.quest_desc: ["Your window into storage."]
+	quest.7755CE14F25AAC46.title: "Grid"
+	quest.779DFD06B53FA1D7.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.779DFD06B53FA1D7.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.779DFD06B53FA1D7.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.77AF4598B4C8C6A9.title: "Quantum Chestplate"
+	quest.7828628FA81FEB2F.quest_desc: ["A heavy golem guarding a ruined End castle."]
+	quest.7828628FA81FEB2F.title: "Ender Guardian"
+	quest.785D2111B0D47DFB.quest_desc: [
+		"Hold this with models inside. Every kill of that mob adds data."
+	]
+	quest.785D2111B0D47DFB.title: "Deep Learner"
+	quest.787F9733003659D6.quest_desc: ["Turns mobs into meat and pink slime."]
+	quest.787F9733003659D6.title: "Slaughter Factory"
+	quest.78954ACD74C3DCF8.quest_desc: ["A new ore used in many recipes."]
+	quest.78954ACD74C3DCF8.title: "Black Quartz"
+	quest.78D0012C0A529FA7.quest_desc: ["Made by crafting amethyst in the imbuement chamber."]
+	quest.78D0012C0A529FA7.title: "Source Gems"
+	quest.78D558DCB4040B7F.quest_desc: ["LV's circuit."]
+	quest.78D558DCB4040B7F.title: "Analog Circuit"
+	quest.78E8473DC52922E5.quest_desc: ["Speeds up a card's transfer rate."]
+	quest.78E8473DC52922E5.title: "Overclock"
+	quest.7928E8F4133A05DB.quest_desc: [
+		"Silent Gear builds tools from parts. Every material changes the stats, so there's always a better combo to find."
+	]
+	quest.7928E8F4133A05DB.title: "Tools Your Way"
+	quest.79C79BDA7C454E8C.quest_desc: ["Every module starts as one of these."]
+	quest.79C79BDA7C454E8C.title: "Blank Module"
+	quest.79CA677152BB5E5D.quest_desc: ["The base material for almost everything."]
+	quest.79CA677152BB5E5D.title: "Quartz Enriched Iron"
+	quest.7A31C7733372F190.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.7A31C7733372F190.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.7A31C7733372F190.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.7AC12F104FD7BD4A.quest_desc: ["Charge materials for bonus stats."]
+	quest.7AC12F104FD7BD4A.title: "Starlight Charger"
+	quest.7AD90A3427217C55.quest_desc: [
+		"An active reactor makes steam. Turbines turn that steam into much more power."
+	]
+	quest.7AD90A3427217C55.title: "Turbine"
+	quest.7AF7B66BA5E6CB68.quest_desc: ["A cooking surface that heats pots and skillets."]
+	quest.7AF7B66BA5E6CB68.title: "Stove"
+	quest.7BA3F8D898A505B3.quest_desc: ["A crowned undead boss in a haunted crypt."]
+	quest.7BA3F8D898A505B3.title: "The Dead King"
+	quest.7BE0EA7CD669A774.quest_desc: ["Packs items into bigger forms."]
+	quest.7BE0EA7CD669A774.title: "Packer"
+	quest.7C2A7F03E1C82F9B.title: "Ice Rune"
+	quest.7C2F7F0F2468C526.quest_desc: ["The core material."]
+	quest.7C2F7F0F2468C526.title: "Menril Crystal"
+	quest.7C3D740DA5D9A172.quest_desc: [
+		"Artifacts are rare trinkets found in chests and mimics. Relics level up as you use them. Wear them in your accessory slots."
+	]
+	quest.7C3D740DA5D9A172.title: "Treasure!"
+	quest.7CCB1415D35B4FAB.quest_desc: ["Every slot holds more items."]
+	quest.7CCB1415D35B4FAB.title: "Stack Upgrade"
+	quest.7CF9FCDD95352B6C.quest_desc: ["An auto-crafting machine."]
+	quest.7CF9FCDD95352B6C.title: "Fabricator"
+	quest.7DD031C5BC6F5081.quest_desc: ["Tweak spawners with runes."]
+	quest.7DD031C5BC6F5081.title: "Spawner Runes"
+	quest.7DD6DC56BE0C4313.quest_desc: ["Presses ingots into sheets."]
+	quest.7DD6DC56BE0C4313.title: "Mechanical Press"
+	quest.7E1E52DE06C5DF8C.quest_desc: ["Andesite and iron nuggets make the core Create material."]
+	quest.7E1E52DE06C5DF8C.title: "Andesite Alloy"
+	quest.7E58218FA8F046F0.quest_desc: ["The top Dire metal."]
+	quest.7E58218FA8F046F0.title: "Eclipse Alloy"
+	quest.7E8AF511178E6461.quest_desc: [
+		"Dig down a little and collect some cobblestone for tools and a furnace."
+	]
+	quest.7E8AF511178E6461.title: "Into the Stone"
+	quest.7F2B005048340439.quest_desc: [
+		"Meteorites are made of sky stone. Loot the chest inside for presses."
+	]
+	quest.7F2B005048340439.title: "Sky Stone"
+	quest.7F2E88A33C6D66C8.title: "Blue Xychorium"
+	quest.7FAE3135F89868A4.quest_desc: ["The base of every processor."]
+	quest.7FAE3135F89868A4.title: "Printed Silicon"
+	quest.7FAEAC3194F13996.quest_desc: [
+		"Occultism is about summoning spirits with chalk circles and putting them to work."
+	]
+	quest.7FAEAC3194F13996.title: "Summon Spirits"
+	quest.7FD1D026C43A3C32.quest_desc: [
+		"A trained model. The higher the tier, the better it simulates."
+	]
+	quest.7FD1D026C43A3C32.title: "Data Model"
+	quest.7FDB8E8A0ADDD5D2.quest_desc: ["Expands your magic storage."]
+	quest.7FDB8E8A0ADDD5D2.title: "Storage Stabilizer"
+	quest.7FFE358FD81292D4.quest_desc: [
+		"A simpler take on digital storage. No channels to worry about. Place a controller, give it power and start adding disks."
+	]
+	quest.7FFE358FD81292D4.title: "Refined Storage"
+	reward_table.145E0BA29DF86092.title: "Nine Craft Loot: Uncommon"
+	reward_table.162C389E93C6AC29.title: "Nine Craft Loot: Epic"
+	reward_table.2ADA036EBC37FC74.title: "Nine Craft Loot: Rare"
+	reward_table.5506C406212DA55E.title: "Nine Craft Loot: Common"
+}

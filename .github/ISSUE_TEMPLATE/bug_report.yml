@@ -1,0 +1,51 @@
+name: 🐛 Bug report
+description: Something is broken, crashing or not working as expected
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for the report! The more detail you give, the faster it gets fixed. 💜
+  - type: input
+    id: version
+    attributes:
+      label: Nine Craft version
+      placeholder: v1.0.1
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where does it happen?
+      options:
+        - Single player
+        - Multiplayer server
+        - Both
+    validations:
+      required: true
+  - type: input
+    id: ram
+    attributes:
+      label: Allocated RAM
+      placeholder: 10 GB
+  - type: dropdown
+    id: shaders
+    attributes:
+      label: Shaders on?
+      options:
+        - "No"
+        - Complementary Reimagined
+        - Complementary Unbound
+        - Sildur's Vibrant
+        - Other
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: input
+    id: log
+    attributes:
+      label: Crash report or log link
+      description: Upload crash-reports/… or logs/latest.log to https://mclo.gs and paste the link

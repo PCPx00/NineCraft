@@ -1,0 +1,77 @@
+{
+	quest.038E446BEFD2BBE6.quest_desc: ["The rarest essence there is."]
+	quest.038E446BEFD2BBE6.title: "Creative Essence"
+	quest.10758FCC764BF760.quest_desc: [
+		"Mystical Agriculture lets you farm almost anything, from iron to diamonds. It all starts with a little green essence."
+	]
+	quest.10758FCC764BF760.title: "Grow Your Resources"
+	quest.11E65F7A8CFF9018.quest_desc: ["The empty seed every resource seed is built on."]
+	quest.11E65F7A8CFF9018.title: "Seed Base"
+	quest.11FBDFE9FA5BC42F.quest_desc: [
+		"Tools and armor made from essence. They get stronger each tier."
+	]
+	quest.11FBDFE9FA5BC42F.title: "Essence Tools"
+	quest.125C0E0FD87C9E56.quest_desc: ["Tier 4 essence."]
+	quest.125C0E0FD87C9E56.title: "Imperium"
+	quest.1419E6DA174D7C13.quest_desc: ["Upgrades essence to higher tiers in the crafting grid."]
+	quest.1419E6DA174D7C13.title: "Infusion Crystal"
+	quest.1464CA5656201C14.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1464CA5656201C14.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1464CA5656201C14.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.14D44ACD465440D1.quest_desc: [
+		"Turns Supremium into Awakened Supremium with elemental essences."
+	]
+	quest.14D44ACD465440D1.title: "Awakening Altar"
+	quest.151F5A38EC245AF6.quest_desc: ["Never mine for diamonds again."]
+	quest.151F5A38EC245AF6.title: "Diamond Seeds"
+	quest.1527C78183C14055.quest_desc: [
+		"Place below farmland to speed up crops above it. Stack more for more speed."
+	]
+	quest.1527C78183C14055.title: "Growth Accelerator"
+	quest.1608A003608AE9B5.quest_desc: ["Place eight pedestals around the altar."]
+	quest.1608A003608AE9B5.title: "Pedestals"
+	quest.167326D15742EAD0.quest_desc: ["Mystical Agradditions adds a sixth tier above Supremium."]
+	quest.167326D15742EAD0.title: "Insanium"
+	quest.17C1A142F4BED58E.quest_desc: ["Tier 2 essence."]
+	quest.17C1A142F4BED58E.title: "Prudentium"
+	quest.1C69C29EAD1AC03E.quest_desc: ["Automatically harvests and replants crops in range."]
+	quest.1C69C29EAD1AC03E.title: "Harvester"
+	quest.1F6EE7C3F50C09EF.quest_desc: ["Mined from Prosperity ore. Needed for every seed."]
+	quest.1F6EE7C3F50C09EF.title: "Prosperity Shards"
+	quest.1F92B1DF1EF42963.quest_desc: [
+		"Found in Inferium ore or dropped by mobs. The base of the whole mod."
+	]
+	quest.1F92B1DF1EF42963.title: "Inferium Essence"
+	quest.2CDA357F1DDAA0D9.quest_desc: ["Tier 5 essence, the top of the base mod."]
+	quest.2CDA357F1DDAA0D9.title: "Supremium"
+	quest.2CEB49D71E7F2C94.quest_desc: [
+		"Some special seeds need a crux under their farmland to grow."
+	]
+	quest.2CEB49D71E7F2C94.title: "Nether Star Crux"
+	quest.373521009B40184A.quest_desc: ["Your first real resource crop."]
+	quest.373521009B40184A.title: "Iron Seeds"
+	quest.3C938DFBFDF7D3AE.quest_desc: ["Matching-tier farmland gives bonus essence from crops."]
+	quest.3C938DFBFDF7D3AE.title: "Essence Farmland"
+	quest.51904BFAC8764EFE.quest_desc: [
+		"Seeds are infused on this altar with items on pedestals around it."
+	]
+	quest.51904BFAC8764EFE.title: "Infusion Altar"
+	quest.530990A53964481F.quest_desc: ["Plant these to grow more essence."]
+	quest.530990A53964481F.title: "Inferium Seeds"
+	quest.67FE094E1DAD0E98.quest_desc: ["Bonemeal that works on resource crops."]
+	quest.67FE094E1DAD0E98.title: "Mystical Fertilizer"
+	quest.6D79C1CE1E7B0B1C.quest_desc: ["The strongest material in Mystical Agriculture."]
+	quest.6D79C1CE1E7B0B1C.title: "Awakened Supremium"
+	quest.72709843AA65B683.quest_desc: ["Tier 3 essence."]
+	quest.72709843AA65B683.title: "Tertium"
+}

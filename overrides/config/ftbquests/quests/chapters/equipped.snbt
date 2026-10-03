@@ -1,0 +1,669 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "equipped"
+	group: "52EFC26130EB4672"
+	icon: {
+		id: "minecraft:iron_pickaxe"
+	}
+	id: "2D085D0D9EDB3FD2"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/equipped.png"
+			rotation: 0.0d
+			width: 8.25d
+			x: 3.125d
+			y: -12.5d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:minecraft:netherite_chestplate"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:ironfurnaces:million_furnace"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 19.0d
+			y: -7.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:allthemodium:unobtainium_pickaxe"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 7.5d
+			y: 8.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:minecraft:shield"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 19.0d
+			y: 4.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "19EE00E236113052"
+			rewards: [
+				{
+					id: "57F02D1B9ECB2B26"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "680A6644EDCD018C"
+					item: {
+						count: 1
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1244AF6C254666C2"
+					item: {
+						count: 1
+						id: "minecraft:iron_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19EE00E236113052"]
+			id: "1EE1B65A0A582184"
+			rewards: [
+				{
+					id: "178451F66A741CC5"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "1B52530EA6D9D12B"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "1F0938D3EAF48C4A"
+					item: {
+						count: 1
+						id: "ironfurnaces:copper_furnace"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1EE1B65A0A582184"]
+			id: "2FBA865056E5CC9E"
+			rewards: [
+				{
+					id: "1579D74B5BC69B68"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "171E09F6AD5C73D9"
+					item: {
+						count: 1
+						id: "ironfurnaces:iron_furnace"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2FBA865056E5CC9E"]
+			id: "3D4813E0CE097BAF"
+			rewards: [
+				{
+					id: "1EF29F6F67FC5953"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1CC20630C37D4AE9"
+					item: {
+						count: 1
+						id: "ironfurnaces:upgrade_iron"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["2FBA865056E5CC9E"]
+			id: "1AE89A26BF77D165"
+			rewards: [
+				{
+					id: "11763915EEB00AB7"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "2CB23F7BC2B3802B"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "1E4B54AEFC0C2927"
+					item: {
+						count: 1
+						id: "ironfurnaces:gold_furnace"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["1AE89A26BF77D165"]
+			id: "63FA918D87162382"
+			rewards: [
+				{
+					id: "6FE40A98A4C421BE"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1E34B15D95F66B2E"
+					item: {
+						count: 1
+						id: "ironfurnaces:diamond_furnace"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["63FA918D87162382"]
+			id: "187AA27DA0CC9B87"
+			rewards: [
+				{
+					id: "0B25AE6883E41E8D"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "712BC8662B221352"
+					item: {
+						count: 1
+						id: "ironfurnaces:netherite_furnace"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2FBA865056E5CC9E"]
+			id: "1A190ABD8477878B"
+			optional: true
+			rewards: [
+				{
+					id: "0FAC43CF30CD3D92"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "14A1CFAEFDBE6AF1"
+					item: {
+						count: 1
+						id: "ironfurnaces:augment_speed"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1A190ABD8477878B"]
+			id: "1AA09D05B9C48053"
+			optional: true
+			rewards: [
+				{
+					id: "2CE8A45D34DACC31"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "33F07E9BC7E5F51F"
+					item: {
+						count: 1
+						id: "ironfurnaces:augment_factory"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["187AA27DA0CC9B87"]
+			id: "16E40A621AD110FA"
+			optional: true
+			rewards: [
+				{
+					id: "41A183A88699C706"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "48A8E22AB8038D01"
+					item: {
+						count: 1
+						id: "ironfurnaces:million_furnace"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["19EE00E236113052"]
+			id: "1E826FD31A404C21"
+			rewards: [
+				{
+					id: "3ACEF2E0973E7DFA"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "3908364A6D6A2595"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "16AF187C3F3BED45"
+					item: {
+						count: 1
+						id: "minecraft:iron_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1E826FD31A404C21"]
+			id: "496CCA9DF98D80ED"
+			rewards: [
+				{
+					id: "13AD32C01D299933"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "35A5EAB5E9864D6C"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "0E37B0538EC93D26"
+					item: {
+						count: 1
+						id: "minecraft:diamond_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["496CCA9DF98D80ED"]
+			id: "1175EDFF464EBE23"
+			rewards: [
+				{
+					id: "0DA91DDC5D4091D5"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "18F20703A4939790"
+					item: {
+						count: 1
+						id: "minecraft:netherite_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1175EDFF464EBE23"]
+			id: "282CACF7DE68FE63"
+			rewards: [
+				{
+					id: "5D340EE1165D81AE"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "54214E538281F14C"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["282CACF7DE68FE63"]
+			id: "31FF5972852C9A34"
+			rewards: [
+				{
+					id: "122B5FEC2E3881BD"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "17E423FFFD7DACC9"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["31FF5972852C9A34"]
+			id: "686849C126A9682A"
+			rewards: [
+				{
+					id: "1ABFAB9B8A19EEF5"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "14623F6282C3FC72"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["19EE00E236113052"]
+			id: "181C33AD334D04D9"
+			rewards: [
+				{
+					id: "11F8DD1C8737BE05"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1D7DFA28A77C07C0"
+					item: {
+						count: 1
+						id: "ironjetpacks:jetpack"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["19EE00E236113052"]
+			id: "1269E9C0B21EC87B"
+			rewards: [
+				{
+					id: "142B48038804BC5B"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "16BCBA5027B10D3A"
+					item: {
+						count: 1
+						id: "simplemagnets:basicmagnet"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1269E9C0B21EC87B"]
+			id: "19579F1EF0A6D360"
+			optional: true
+			rewards: [
+				{
+					id: "52D69E7FC2F9F014"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "571874DEEE2516DC"
+					item: {
+						count: 1
+						id: "toolbelt:belt"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19EE00E236113052"]
+			id: "16D0E07139947692"
+			optional: true
+			rewards: [
+				{
+					id: "102AF5705C192639"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "27A9A020225580E6"
+					item: {
+						count: 1
+						id: "mob_grinding_utils:spikes"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["19EE00E236113052"]
+			id: "11BF4A515641B245"
+			rewards: [
+				{
+					id: "1D19ECFA7D379C56"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "167EB8516AC9F326"
+					item: {
+						count: 1
+						id: "alltheores:iron_ore_hammer"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["19EE00E236113052"]
+			id: "5D43F52B6E7092F1"
+			optional: true
+			rewards: [
+				{
+					id: "5C51E9EA6C1F8D4E"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1DFE8C60C3930E03"
+					item: {
+						count: 1
+						id: "silentgear:pickaxe_blueprint"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["496CCA9DF98D80ED"]
+			id: "1D6E3C7341CF4AAD"
+			optional: true
+			rewards: [
+				{
+					id: "163D3D68B957833C"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2CCDFD230A049022"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_building"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "10E36739A0D4DD5A"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "1B2E031F213ACD0D"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -11.0d
+		}
+	]
+}

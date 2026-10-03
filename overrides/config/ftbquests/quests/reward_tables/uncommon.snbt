@@ -1,0 +1,388 @@
+{
+	icon: {
+		id: "ftbquests:lootcrate"
+	}
+	id: "145E0BA29DF86092"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 3
+			id: "391395ABA7BF0740"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 6
+			id: "1ED8433F548C20C8"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 6
+			id: "184A6C4DD34C9B18"
+			item: {
+				count: 1
+				id: "minecraft:blaze_rod"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 16
+			id: "0083B71B1FA79F08"
+			item: {
+				count: 1
+				id: "minecraft:obsidian"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "2DD5707E218D6911"
+			item: {
+				count: 1
+				id: "minecraft:golden_apple"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 24
+			id: "16029CADDD9787E8"
+			item: {
+				count: 1
+				id: "minecraft:quartz"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 24
+			id: "1EEB9979F0BEC91C"
+			item: {
+				count: 1
+				id: "minecraft:glowstone_dust"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 16
+			id: "11804650D6F75F1B"
+			item: {
+				count: 1
+				id: "minecraft:experience_bottle"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 12
+			id: "1529F85B80EF3C43"
+			item: {
+				count: 1
+				id: "alltheores:steel_ingot"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 8
+			id: "18C15BE7753F3C05"
+			item: {
+				count: 1
+				id: "alltheores:electrum_ingot"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 8
+			id: "3AED578543F3C0FB"
+			item: {
+				count: 1
+				id: "alltheores:invar_ingot"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 4
+			id: "1C0B21F2BE4A56B6"
+			item: {
+				count: 1
+				id: "alltheores:uranium_ingot"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 4
+			id: "31D939C9F727ADF5"
+			item: {
+				count: 1
+				id: "alltheores:ruby"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 4
+			id: "1C68CD7F362AD82E"
+			item: {
+				count: 1
+				id: "alltheores:sapphire"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 4
+			id: "19B9CB57EC59AD1C"
+			item: {
+				count: 1
+				id: "mekanism:basic_control_circuit"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 6
+			id: "14A3DC03584BFDFB"
+			item: {
+				count: 1
+				id: "mekanism:alloy_infused"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "26350AD5BFB7A039"
+			item: {
+				count: 1
+				id: "mekanism:upgrade_speed"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 8
+			id: "2932CBB512DEC360"
+			item: {
+				count: 1
+				id: "powah:steel_energized"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "70998F054B4A4EE3"
+			item: {
+				count: 1
+				id: "powah:capacitor_basic"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 12
+			id: "0087FA81CB839412"
+			item: {
+				count: 1
+				id: "ae2:fluix_crystal"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 6
+			id: "10AF17EE8CCADCC0"
+			item: {
+				count: 1
+				id: "ae2:charged_certus_quartz_crystal"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 16
+			id: "799010A138B3A7A1"
+			item: {
+				count: 1
+				id: "refinedstorage:quartz_enriched_iron"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 4
+			id: "4E4EF9B576D5117C"
+			item: {
+				count: 1
+				id: "refinedstorage:basic_processor"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 16
+			id: "61015B25A7ABB8B9"
+			item: {
+				count: 1
+				id: "industrialforegoing:plastic"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "18D770654A484368"
+			item: {
+				count: 1
+				id: "industrialforegoing:range_addon_tier_1"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 16
+			id: "315A8DAB76ADFF5F"
+			item: {
+				count: 1
+				id: "mysticalagriculture:prudentium_essence"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "7F59B81C09EABEDF"
+			item: {
+				count: 1
+				id: "mysticalagriculture:infusion_crystal"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 12
+			id: "168650A3F22B49F8"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_gem"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 6
+			id: "1E9F09FB8B73804D"
+			item: {
+				count: 1
+				id: "irons_spellbooks:common_ink"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "2DDC3D005F3C889A"
+			item: {
+				count: 1
+				id: "occultism:chalk_white"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 2
+			id: "17E02D85F8C92D57"
+			item: {
+				count: 1
+				id: "functionalstorage:copper_upgrade"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "34E4A99941A6B085"
+			item: {
+				count: 1
+				id: "sophisticatedbackpacks:magnet_upgrade"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "2710F3D98C0A7CC2"
+			item: {
+				count: 1
+				id: "sophisticatedbackpacks:stack_upgrade_tier_1"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 2
+			id: "7A9AC48BB530F039"
+			item: {
+				count: 1
+				id: "sophisticatedstorage:basic_to_iron_tier_upgrade"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "14274170413880BC"
+			item: {
+				count: 1
+				id: "ironfurnaces:upgrade_iron"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 4
+			id: "1BEDEE15D16BEA7E"
+			item: {
+				count: 1
+				id: "laserio:laser_node"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 4
+			id: "4C3AFC20775DF36D"
+			item: {
+				count: 1
+				id: "laserio:card_item"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "1CF67821C8875AA0"
+			item: {
+				count: 1
+				id: "modularrouters:modular_router"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 8
+			id: "110AD0AEB66E2E1D"
+			item: {
+				count: 1
+				id: "create:brass_ingot"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 4
+			id: "6B0D18F24BB0C6A5"
+			item: {
+				count: 1
+				id: "productivebees:bee_cage"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "582FC7E0EBF55658"
+			item: {
+				count: 1
+				id: "artifacts:running_shoes"
+			}
+			weight: 1.0f
+		}
+		{
+			id: "19EA02CAA6B6FB13"
+			item: {
+				count: 1
+				id: "artifacts:night_vision_goggles"
+			}
+			weight: 1.0f
+		}
+		{
+			count: 2
+			id: "6C6BE3091630A02E"
+			item: {
+				count: 1
+				id: "waystones:warp_plate"
+			}
+			weight: 2.0f
+		}
+	]
+	use_title: true
+}

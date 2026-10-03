@@ -1,0 +1,87 @@
+{
+	quest.10E36739A0D4DD5A.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.10E36739A0D4DD5A.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.10E36739A0D4DD5A.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1175EDFF464EBE23.quest_desc: [
+		"Upgrade diamond gear at a smithing table with netherite ingots."
+	]
+	quest.1175EDFF464EBE23.title: "Netherite"
+	quest.11BF4A515641B245.quest_desc: [
+		"Crush ores into dust in the crafting grid. A cheap early way to get more out of your ore."
+	]
+	quest.11BF4A515641B245.title: "Ore Hammer"
+	quest.1269E9C0B21EC87B.quest_desc: [
+		"A magnet vacuums up nearby drops. Toggle it with a right-click."
+	]
+	quest.1269E9C0B21EC87B.title: "Pull It In"
+	quest.16D0E07139947692.quest_desc: ["Simple mob damage. The start of many mob farms."]
+	quest.16D0E07139947692.title: "Spikes"
+	quest.16E40A621AD110FA.quest_desc: [
+		"A rainbow monster furnace for anyone who wants to smelt everything forever."
+	]
+	quest.16E40A621AD110FA.title: "The Million Furnace"
+	quest.181C33AD334D04D9.quest_desc: [
+		"Iron Jetpacks let you fly early. Pick a tier in JEI, craft it, charge it with energy and hold jump."
+	]
+	quest.181C33AD334D04D9.title: "Take Flight"
+	quest.187AA27DA0CC9B87.quest_desc: ["Near-instant smelting for vanilla standards."]
+	quest.187AA27DA0CC9B87.title: "Netherite Furnace"
+	quest.19579F1EF0A6D360.quest_desc: [
+		"Swap between tools from a quick radial menu without filling your hotbar."
+	]
+	quest.19579F1EF0A6D360.title: "Tool Belt"
+	quest.19EE00E236113052.quest_desc: [
+		"Good tools make everything faster. This chapter covers furnaces, armor, tools and a few early helpers."
+	]
+	quest.19EE00E236113052.title: "Gear Up"
+	quest.1A190ABD8477878B.quest_desc: ["Augments tweak a furnace. Speed trades fuel for time."]
+	quest.1A190ABD8477878B.title: "Speed Augment"
+	quest.1AA09D05B9C48053.quest_desc: [
+		"Turns a furnace into a multi-slot smelter. Perfect for ore batches."
+	]
+	quest.1AA09D05B9C48053.title: "Factory Augment"
+	quest.1AE89A26BF77D165.quest_desc: ["Faster again. Worth it once gold is flowing."]
+	quest.1AE89A26BF77D165.title: "Gold Furnace"
+	quest.1D6E3C7341CF4AAD.quest_desc: [
+		"Place hundreds of blocks at once. A huge time saver for walls and floors."
+	]
+	quest.1D6E3C7341CF4AAD.title: "Building Gadgets"
+	quest.1E826FD31A404C21.quest_desc: ["Enough protection for most of the early game."]
+	quest.1E826FD31A404C21.title: "Iron Armor"
+	quest.1EE1B65A0A582184.quest_desc: [
+		"The cheapest Iron Furnace. Already quicker than a vanilla furnace."
+	]
+	quest.1EE1B65A0A582184.title: "Copper Furnace"
+	quest.282CACF7DE68FE63.quest_desc: [
+		"The first of the three special metals. Hardy and fire resistant."
+	]
+	quest.282CACF7DE68FE63.title: "Allthemodium Armor"
+	quest.2FBA865056E5CC9E.quest_desc: ["A solid step up in speed."]
+	quest.2FBA865056E5CC9E.title: "Iron Furnace"
+	quest.31FF5972852C9A34.quest_desc: ["Tougher again. Upgrade with a smithing template."]
+	quest.31FF5972852C9A34.title: "Vibranium Armor"
+	quest.3D4813E0CE097BAF.quest_desc: [
+		"Don't break your furnace to improve it. Right-click it with an upgrade and it keeps its contents."
+	]
+	quest.3D4813E0CE097BAF.title: "Upgrade in Place"
+	quest.496CCA9DF98D80ED.quest_desc: ["Survive the Nether with confidence."]
+	quest.496CCA9DF98D80ED.title: "Diamond Armor"
+	quest.5D43F52B6E7092F1.quest_desc: [
+		"Want custom tools? The &5Silent Gear&r chapter builds tools from any material you like."
+	]
+	quest.5D43F52B6E7092F1.title: "See Silent Gear"
+	quest.63FA918D87162382.quest_desc: ["Quick enough to keep up with an early ore line."]
+	quest.63FA918D87162382.title: "Diamond Furnace"
+	quest.686849C126A9682A.quest_desc: ["Top-tier armor from the rarest metal around."]
+	quest.686849C126A9682A.title: "Unobtainium Armor"
+}

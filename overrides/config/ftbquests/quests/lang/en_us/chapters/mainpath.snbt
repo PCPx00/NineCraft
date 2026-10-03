@@ -1,0 +1,125 @@
+{
+	quest.0BC42FFF6AB1F620.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.0BC42FFF6AB1F620.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.0BC42FFF6AB1F620.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.10C7C82B8A6A580D.quest_desc: [
+		"Iron unlocks most early machines. Smelt a good pile of it."
+	]
+	quest.10C7C82B8A6A580D.title: "Iron Age"
+	quest.1243DC558461A592.quest_desc: ["The rarest of the three metals, hidden in the End."]
+	quest.1243DC558461A592.title: "Unobtainium"
+	quest.132B3C548061E06C.quest_desc: [
+		"Cataclysm adds much tougher bosses with great loot. Check the &5Cataclysm&r chapter once you have good gear."
+	]
+	quest.132B3C548061E06C.title: "Bigger Bosses"
+	quest.146C84179E891B8E.quest_desc: [
+		"Blaze powder and ender pearls make these. Throw them to find a stronghold."
+	]
+	quest.146C84179E891B8E.title: "Eyes of Ender"
+	quest.14C89FD39364A2D2.quest_desc: ["Water and lava in a bucket solve a lot of early problems."]
+	quest.14C89FD39364A2D2.title: "Carry Liquids"
+	quest.162CB85D5ED5F7F3.quest_desc: [
+		"Iron Furnaces are quicker than vanilla and can be upgraded in place. Check the &5Getting Equipped&r chapter for more."
+	]
+	quest.162CB85D5ED5F7F3.title: "A Faster Furnace"
+	quest.169D23366DD25DDD.quest_desc: [
+		"Infinity tools, MekaSuits and Quantum armor are the reward for a big factory."
+	]
+	quest.169D23366DD25DDD.title: "Endgame Toys"
+	quest.1824E50D12C3457A.quest_desc: [
+		"The deepest ore in the pack. Look for it in ancient cities and deep caves, and mine it with a netherite pickaxe."
+	]
+	quest.1824E50D12C3457A.title: "Allthemodium"
+	quest.1919B363284C3426.quest_desc: ["Just enough to break stone."]
+	quest.1919B363284C3426.title: "First Pickaxe"
+	quest.1A2819C537D00BD1.quest_desc: [
+		"A furnace smelts ores and cooks food. You will build a lot of these."
+	]
+	quest.1A2819C537D00BD1.title: "Fire It Up"
+	quest.1A33B366F97A30F8.quest_desc: [
+		"A key part of many high-end recipes. Once you can farm the Wither, you'll never run short."
+	]
+	quest.1A33B366F97A30F8.title: "Nether Star"
+	quest.1BAA332490C3296A.quest_desc: [
+		"A proper storage network changes everything. Autocrafting, remote access, no more sorting."
+	]
+	quest.1BAA332490C3296A.title: "A Storage Network"
+	quest.1C40393207359026.quest_desc: ["Fill the portal frame and jump in."]
+	quest.1C40393207359026.title: "Enter the End"
+	quest.1C5C2E8C2171A5A9.quest_desc: [
+		"Organize early with drawers or a Tom's Simple Storage terminal, then graduate to AE2 or Refined Storage."
+	]
+	quest.1C5C2E8C2171A5A9.title: "Too Many Chests"
+	quest.1CBEFF63345BCAB7.quest_desc: [
+		"Farm some wheat or cook meat. Farmer's Delight and HarvestCraft add plenty of better meals later."
+	]
+	quest.1CBEFF63345BCAB7.title: "Don't Go Hungry"
+	quest.1CDEC025069D527A.quest_desc: ["Turn your planks into a crafting table."]
+	quest.1CDEC025069D527A.title: "A Place to Craft"
+	quest.1D3072D14DB4DDFD.quest_desc: [
+		"Classic Minecraft is beaten, but Nine Craft is just getting started."
+	]
+	quest.1D3072D14DB4DDFD.title: "Slay the Dragon"
+	quest.1DE0135F626E9D23.quest_desc: [
+		"Deepslate levels are where diamonds hide. Five is enough for a pick and more."
+	]
+	quest.1DE0135F626E9D23.title: "Diamonds!"
+	quest.1ECC405D618DD132.quest_desc: [
+		"Ars Nouveau, Iron's Spells 'n Spellbooks and Occultism all live in the &5Magic&r group. Try one!"
+	]
+	quest.1ECC405D618DD132.title: "A Little Magic"
+	quest.2A288B1E33D5FDBB.quest_desc: ["Tougher than Allthemodium, found in the Nether's depths."]
+	quest.2A288B1E33D5FDBB.title: "Vibranium"
+	quest.335B2FD40FE15906.quest_desc: ["Every run starts the same way. Collect a stack of logs."]
+	quest.335B2FD40FE15906.title: "Punch Some Trees"
+	quest.3C40FDCC5A476B6C.quest_desc: [
+		"Fusion reactors, large turbines and Powah's top tiers keep a mega base running."
+	]
+	quest.3C40FDCC5A476B6C.title: "Late Game Power"
+	quest.3CC536DCA5FF4DA7.quest_desc: [
+		"A shield stops arrows and creeper blasts. Keep one in your offhand."
+	]
+	quest.3CC536DCA5FF4DA7.title: "Block It"
+	quest.45C8B5DA0F98F30A.quest_desc: [
+		"It's time to build something that runs on energy. The &5Basic Power&r and &5Powah&r chapters are good places to start."
+	]
+	quest.45C8B5DA0F98F30A.title: "Your First Power"
+	quest.51D89BB11AF9A349.quest_desc: [
+		"Pour water on lava to make obsidian, then mine it with a diamond pickaxe."
+	]
+	quest.51D89BB11AF9A349.title: "Obsidian"
+	quest.54D9211353FEB226.quest_desc: [
+		"Blazes spawn in Nether fortresses. Their rods power brewing and a lot of machines."
+	]
+	quest.54D9211353FEB226.title: "Blaze Rods"
+	quest.5ABF46448F91494E.quest_desc: [
+		"Mekanism, Modern Industrialization, Industrial Foregoing, Oritech, Create... pick one to start with. You can learn the rest later."
+	]
+	quest.5ABF46448F91494E.title: "Pick a Tech Mod"
+	quest.66AB0A76FD172F7E.quest_desc: [
+		"Enchanting is much deeper here thanks to Apothic Enchanting. See the &5Enchanting&r chapter."
+	]
+	quest.66AB0A76FD172F7E.title: "Enchanting"
+	quest.68F9BE72B962C59B.quest_desc: [
+		"Light the portal and step through. Bring fire resistance if you can."
+	]
+	quest.68F9BE72B962C59B.title: "Welcome to the Nether"
+	quest.749AFBF02F034AC9.quest_desc: [
+		"Three skulls and four soul sand. Fight it somewhere you don't mind blowing up."
+	]
+	quest.749AFBF02F034AC9.title: "Face the Wither"
+	quest.7E8AF511178E6461.quest_desc: [
+		"Dig down a little and collect some cobblestone for tools and a furnace."
+	]
+	quest.7E8AF511178E6461.title: "Into the Stone"
+}

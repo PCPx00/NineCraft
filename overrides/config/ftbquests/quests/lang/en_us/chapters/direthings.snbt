@@ -1,0 +1,67 @@
+{
+	quest.0B459DBCDF2D8F72.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.0B459DBCDF2D8F72.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.0B459DBCDF2D8F72.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1155172F64FF740C.quest_desc: ["Shoot two portals and walk through. Yes, really."]
+	quest.1155172F64FF740C.title: "Portal Gun"
+	quest.129CD6A9E80F5E5E.quest_desc: ["Places blocks."]
+	quest.129CD6A9E80F5E5E.title: "Block Placer"
+	quest.136645DB43D1969E.quest_desc: ["The third tier."]
+	quest.136645DB43D1969E.title: "Celestial Goo"
+	quest.163B1E9E2E2F25A0.quest_desc: [
+		"Add abilities like tree felling, auto-smelt or flight to Dire tools."
+	]
+	quest.163B1E9E2E2F25A0.title: "Tool Upgrades"
+	quest.17AB4FB689CCCC4C.quest_desc: ["The final goo."]
+	quest.17AB4FB689CCCC4C.title: "Voidtouched Goo"
+	quest.19186CE50DE09211.quest_desc: ["Speeds up anything that ticks."]
+	quest.19186CE50DE09211.title: "Time Wand"
+	quest.191BEBEA7AEADE89.quest_desc: ["Right-clicks like a player."]
+	quest.191BEBEA7AEADE89.title: "Clicker"
+	quest.19DB3FD2F092C65B.quest_desc: ["The second goo tier."]
+	quest.19DB3FD2F092C65B.title: "Blazing Goo"
+	quest.1A3B5C72DBAF9E41.quest_desc: ["Pickaxe, axe and shovel in one."]
+	quest.1A3B5C72DBAF9E41.title: "Paxel"
+	quest.1A653F4DD185B817.quest_desc: [
+		"Place goo and put iron blocks on top. Wait, and the goo transforms them."
+	]
+	quest.1A653F4DD185B817.title: "Primordial Goo"
+	quest.1B26C715103C105A.quest_desc: ["Chop whole trees at once."]
+	quest.1B26C715103C105A.title: "Tree Feller"
+	quest.1BD68B5DA787A8DE.quest_desc: ["Vacuums up nearby items."]
+	quest.1BD68B5DA787A8DE.title: "Item Collector"
+	quest.1C8E2E2E88E6FCA0.quest_desc: ["Ores come out as ingots."]
+	quest.1C8E2E2E88E6FCA0.title: "Auto-Smelt"
+	quest.1D98F92C1D3CBDC6.quest_desc: ["A shining gem from celestial goo."]
+	quest.1D98F92C1D3CBDC6.title: "Celestigem"
+	quest.20AB4440EC3C1FB0.quest_desc: ["Tools that take upgrades."]
+	quest.20AB4440EC3C1FB0.title: "Ferricore Tools"
+	quest.38E3D96010186360.quest_desc: ["Burns fuel for power."]
+	quest.38E3D96010186360.title: "Dire Generator"
+	quest.3B8B4DE9AF145866.quest_desc: ["Gold transformed in hot goo."]
+	quest.3B8B4DE9AF145866.title: "Blazegold"
+	quest.3F9DF2C138DAB88B.quest_desc: ["Upgraded coal burns longer."]
+	quest.3F9DF2C138DAB88B.title: "Better Coal"
+	quest.4271463D307A8155.quest_desc: ["The first goo metal."]
+	quest.4271463D307A8155.title: "Ferricore"
+	quest.52D5B66F29D8DF05.quest_desc: ["Rewinds an area to how it was earlier."]
+	quest.52D5B66F29D8DF05.title: "Paradox Machine"
+	quest.5393BBF5196A12BF.quest_desc: [
+		"Just Dire Things grows new metals by dropping blocks on goo, then turns them into great tools and handy machines."
+	]
+	quest.5393BBF5196A12BF.title: "Goo and Gadgets"
+	quest.710A4F0BA57A1D73.quest_desc: ["Breaks the block in front of it."]
+	quest.710A4F0BA57A1D73.title: "Block Breaker"
+	quest.7E58218FA8F046F0.quest_desc: ["The top Dire metal."]
+	quest.7E58218FA8F046F0.title: "Eclipse Alloy"
+}

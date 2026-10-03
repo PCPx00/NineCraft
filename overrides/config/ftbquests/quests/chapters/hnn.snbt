@@ -1,0 +1,395 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hnn"
+	group: "47FDD49D5CA751DC"
+	icon: {
+		id: "hostilenetworks:data_model"
+	}
+	id: "73956EEF4718BA73"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/hnn.png"
+			rotation: 0.0d
+			width: 12.0d
+			x: 5.0d
+			y: -7.5d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:hostilenetworks:sim_chamber"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:hostilenetworks:loot_fabricator"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 21.5d
+			y: -2.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:hostilenetworks:deep_learner"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 9.0d
+			y: 5.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:hostilenetworks:prediction_matrix"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 21.5d
+			y: 1.0d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1E736E5740B2E9FD"
+			rewards: [
+				{
+					id: "5494F94066A8763A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "12EAB5D08BB8A68A"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1612BFD77B29322D"
+					item: {
+						count: 1
+						id: "minecraft:rotten_flesh"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1E736E5740B2E9FD"]
+			id: "702C507DE95BEF78"
+			rewards: [
+				{
+					id: "162DBF615EE007AA"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "21284A12F7B4973D"
+					item: {
+						count: 1
+						id: "hostilenetworks:blank_data_model"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["702C507DE95BEF78"]
+			id: "785D2111B0D47DFB"
+			rewards: [
+				{
+					id: "1E93D1DD88B20709"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "255B7FD0CAB0D61A"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "1530667C42E680A0"
+					item: {
+						count: 1
+						id: "hostilenetworks:deep_learner"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["785D2111B0D47DFB"]
+			id: "7FD1D026C43A3C32"
+			rewards: [
+				{
+					id: "1B67A7671AF0B557"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1ED0D8D2F8FE821B"
+					item: {
+						count: 1
+						id: "hostilenetworks:data_model"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1E736E5740B2E9FD"]
+			id: "76C1FEF04769B697"
+			rewards: [
+				{
+					id: "054F5C48E1B05133"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "01FB353A28225789"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "136FC1FA8022D129"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7FD1D026C43A3C32", "76C1FEF04769B697"]
+			id: "11E756BF1DF39A16"
+			rewards: [
+				{
+					id: "15645DFD4A3A4CBD"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "11B6195F420818FA"
+					item: {
+						count: 1
+						id: "hostilenetworks:sim_chamber"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["11E756BF1DF39A16"]
+			id: "11343448301F756D"
+			rewards: [
+				{
+					id: "3C86E7E4198250D5"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [
+				{
+					id: "1F92E102ACFEB1F6"
+					item: {
+						count: 1
+						id: "hostilenetworks:overworld_prediction"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["11E756BF1DF39A16"]
+			id: "03CDC222DC26F601"
+			rewards: [
+				{
+					id: "7AFE702A56DDD1CC"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [
+				{
+					id: "72F263FF395F776E"
+					item: {
+						count: 1
+						id: "hostilenetworks:nether_prediction"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["11E756BF1DF39A16"]
+			id: "1F8D7EF61A80F0B9"
+			rewards: [
+				{
+					id: "6FA9BDD6C9794F49"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [
+				{
+					id: "42310426A685F5B9"
+					item: {
+						count: 1
+						id: "hostilenetworks:end_prediction"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["11343448301F756D"]
+			id: "1ACB8341201F71E2"
+			rewards: [
+				{
+					id: "5DA9D3A4C8F0F2BE"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1EC74F6BA86C054E"
+					item: {
+						count: 1
+						id: "hostilenetworks:loot_fabricator"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1ACB8341201F71E2"]
+			id: "3A1643E0370D4994"
+			rewards: [
+				{
+					id: "5D7DE163124BAE46"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "241FFEC1633DE2B1"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 17.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1ACB8341201F71E2"]
+			id: "152211B8FDDC4831"
+			optional: true
+			rewards: [
+				{
+					id: "175B02E5884350AD"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4E61B7B337EF94E9"
+					item: {
+						count: 1
+						id: "hostilenetworks:data_center"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6BB0D00BB5A7DF36"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "19D258C0294B8744"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -6.0d
+		}
+	]
+}

@@ -1,0 +1,355 @@
+{
+	icon: {
+		id: "ftbquests:lootcrate"
+	}
+	id: "5506C406212DA55E"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 8
+			id: "73CB152F929EAEFE"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			weight: 10.0f
+		}
+		{
+			count: 6
+			id: "188FCF2E31E9F954"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 16
+			id: "43CBB1C674BAF3F7"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 16
+			id: "776E37E8E5AC09E1"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+			weight: 10.0f
+		}
+		{
+			count: 16
+			id: "1ED6CF3C2481F6C3"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 12
+			id: "1B26B77C9DE2CF7F"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 8
+			id: "10C0CF38F03564D4"
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 8
+			id: "57F0111DD48F6436"
+			item: {
+				count: 1
+				id: "minecraft:cooked_beef"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 32
+			id: "1FA643235FDFB45A"
+			item: {
+				count: 1
+				id: "minecraft:torch"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 32
+			id: "1B1E5FA80E8596F6"
+			item: {
+				count: 1
+				id: "minecraft:arrow"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 16
+			id: "508647548B99066E"
+			item: {
+				count: 1
+				id: "minecraft:bone_meal"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 2
+			id: "108F432F84515468"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "7CED29D835810613"
+			item: {
+				count: 1
+				id: "minecraft:saddle"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "422B8944C1EB9F23"
+			item: {
+				count: 1
+				id: "minecraft:name_tag"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 8
+			id: "10F66AF1238E7095"
+			item: {
+				count: 1
+				id: "minecraft:experience_bottle"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 32
+			id: "101F9CE39DF21513"
+			item: {
+				count: 1
+				id: "minecraft:glass"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 8
+			id: "30EE4CEFBB048AA7"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 6
+			id: "69D0C5969B70D8A7"
+			item: {
+				count: 1
+				id: "minecraft:book"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 6
+			id: "195D83F4CEFCF79C"
+			item: {
+				count: 1
+				id: "minecraft:slime_ball"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 8
+			id: "19EB740C03A7C16F"
+			item: {
+				count: 1
+				id: "minecraft:amethyst_shard"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 8
+			id: "3E2190AD4057B312"
+			item: {
+				count: 1
+				id: "alltheores:tin_ingot"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 8
+			id: "1BA29F055A7BEB9D"
+			item: {
+				count: 1
+				id: "alltheores:lead_ingot"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 6
+			id: "034348AA1E3A113F"
+			item: {
+				count: 1
+				id: "alltheores:silver_ingot"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 8
+			id: "11C1DBCDF7FAF878"
+			item: {
+				count: 1
+				id: "alltheores:osmium_ingot"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 8
+			id: "17FEAF8DD38D668A"
+			item: {
+				count: 1
+				id: "alltheores:bronze_ingot"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "1FB5B3ED732ADCC6"
+			item: {
+				count: 1
+				id: "functionalstorage:oak_1"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "173B2CC6C1FEEC3E"
+			item: {
+				count: 1
+				id: "sophisticatedbackpacks:upgrade_base"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "12FF8770EC026997"
+			item: {
+				count: 1
+				id: "ironfurnaces:upgrade_copper"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 16
+			id: "1EF444E19A96E093"
+			item: {
+				count: 1
+				id: "powah:dielectric_paste"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 24
+			id: "6C625EB896FBCCDA"
+			item: {
+				count: 1
+				id: "mysticalagriculture:inferium_essence"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 4
+			id: "5BF684A01317339C"
+			item: {
+				count: 1
+				id: "mysticalagriculture:prosperity_shard"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 8
+			id: "1E584DA3386ECD49"
+			item: {
+				count: 1
+				id: "farmersdelight:tomato"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 4
+			id: "1CA3DD33BD0775A0"
+			item: {
+				count: 1
+				id: "pamhc2foodcore:friedchickenitem"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 4
+			id: "1F5E15B180518D3D"
+			item: {
+				count: 1
+				id: "pamhc2foodcore:chocolatebaritem"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 16
+			id: "18C285BEDFEC03DD"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 8
+			id: "551AD84DCF760DB8"
+			item: {
+				count: 1
+				id: "ae2:certus_quartz_crystal"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "14EB0184730271CF"
+			item: {
+				count: 1
+				id: "simplemagnets:basicmagnet"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "0F3A2683202E4C98"
+			item: {
+				count: 1
+				id: "toolbelt:pouch"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "75C7D038B57E5345"
+			item: {
+				count: 1
+				id: "artifacts:whoopee_cushion"
+			}
+			weight: 1.0f
+		}
+	]
+	use_title: true
+}

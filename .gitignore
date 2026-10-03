@@ -1,0 +1,13 @@
+# Local instance files that should never be committed (repo root only)
+/mods/
+/saves/
+/logs/
+/crash-reports/
+/screenshots/
+/shaderpacks/
+/resourcepacks/
+/options.txt
+/servers.dat
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,415 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mi_endgame"
+	group: "16FFBFD2EC76F717"
+	icon: {
+		id: "modern_industrialization:quantum_circuit"
+	}
+	id: "78540FE111992A52"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/mi_endgame.png"
+			rotation: 0.0d
+			width: 12.0d
+			x: 5.0d
+			y: -9.0d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:modern_industrialization:quantum_chestplate"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:modern_industrialization:quantum_circuit"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 21.5d
+			y: -3.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:modern_industrialization:quantum_sword"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:modern_industrialization:singularity"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 21.5d
+			y: 1.5d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "23605CD4BFE68AFA"
+			rewards: [
+				{
+					id: "6482D4F59C227C38"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "2835240D2E97E3A9"
+					item: {
+						count: 1
+						id: "modern_industrialization:processing_unit"
+					}
+					type: "item"
+					count: 2L
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["23605CD4BFE68AFA"]
+			id: "1ADE747E27779F6A"
+			rewards: [
+				{
+					id: "5CEB8C3DABE0C436"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7EA4494CA67BA6DF"
+					item: {
+						count: 1
+						id: "modern_industrialization:qubit"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1ADE747E27779F6A"]
+			id: "1DFCC8A4CACEB02C"
+			rewards: [
+				{
+					id: "1B33C404B7B3F3AA"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "47261CB62FE53EA0"
+					item: {
+						count: 1
+						id: "modern_industrialization:quantum_circuit"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1DFCC8A4CACEB02C"]
+			id: "14C5C4B8F9C600E2"
+			rewards: [
+				{
+					id: "0FB990FF42911F25"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "12184708EB5D35EA"
+					item: {
+						count: 1
+						id: "modern_industrialization:quantum_machine_hull"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["23605CD4BFE68AFA"]
+			id: "1529CE6694656A30"
+			rewards: [
+				{
+					id: "3E04E259E5CD8093"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "328CFF812096E124"
+					item: {
+						count: 1
+						id: "modern_industrialization:superconductor_cable"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["14C5C4B8F9C600E2"]
+			id: "11FFB50DF7AD5D6A"
+			rewards: [
+				{
+					id: "1E964BAC2A8B5F0C"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "15FF1E09996EBABA"
+					item: {
+						count: 1
+						id: "modern_industrialization:singularity"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["23605CD4BFE68AFA"]
+			id: "1EF9E15230B92E02"
+			rewards: [
+				{
+					id: "194BB58D9F24E4F2"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "18EED53E4FA9CBB9"
+					item: {
+						count: 1
+						id: "modern_industrialization:helium_3_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["23605CD4BFE68AFA"]
+			id: "3F35A0F56B75A1D0"
+			optional: true
+			rewards: [
+				{
+					id: "167B777784DBDB91"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "2764F466DBFC94BB"
+					item: {
+						count: 1
+						id: "modern_industrialization:tritium_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1EF9E15230B92E02", "14C5C4B8F9C600E2"]
+			id: "1DC18187A5A31F0D"
+			rewards: [
+				{
+					id: "1DD46991E116C77B"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "12F8E30032B9B662"
+					item: {
+						count: 1
+						id: "modern_industrialization:quantum_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["14C5C4B8F9C600E2"]
+			id: "102FB667A4784D30"
+			rewards: [
+				{
+					id: "12877F797E8340E7"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "153D99A2C13A4B57"
+					item: {
+						count: 1
+						id: "modern_industrialization:quantum_helmet"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["102FB667A4784D30"]
+			id: "77AF4598B4C8C6A9"
+			rewards: [
+				{
+					id: "12C0C7B65222BDE6"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "11FD4598D6C26EFE"
+					item: {
+						count: 1
+						id: "modern_industrialization:quantum_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["77AF4598B4C8C6A9"]
+			id: "183104511C4C1C11"
+			rewards: [
+				{
+					id: "67C59BF5FEB6335C"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5CF67F311F67B1B0"
+					item: {
+						count: 1
+						id: "modern_industrialization:quantum_leggings"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["183104511C4C1C11"]
+			id: "1E53CC6C038F15B4"
+			rewards: [
+				{
+					id: "15959BCB7815EED3"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1806C2C3289C1081"
+					item: {
+						count: 1
+						id: "modern_industrialization:quantum_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["14C5C4B8F9C600E2"]
+			id: "1D6A75489A917CFA"
+			rewards: [
+				{
+					id: "1070E447B14CAC4E"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "605F72DCFB13B3E4"
+					item: {
+						count: 1
+						id: "modern_industrialization:quantum_sword"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "40FDA8A9FADEA158"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "7E52692D30987B9B"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -7.5d
+		}
+	]
+}

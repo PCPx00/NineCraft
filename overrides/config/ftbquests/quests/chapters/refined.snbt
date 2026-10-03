@@ -1,0 +1,745 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "refined"
+	group: "4CB0509F050ABC8A"
+	icon: {
+		id: "refinedstorage:controller"
+	}
+	id: "148DCE73816CCE96"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/refined.png"
+			rotation: 0.0d
+			width: 12.0d
+			x: 5.0d
+			y: -10.5d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:refinedstorage:controller"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:refinedstorage:disk_drive"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 26.5d
+			y: -5.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:refinedstorage:grid"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 11.0d
+			y: 8.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:refinedstorage:autocrafter"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 26.5d
+			y: 4.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7FFE358FD81292D4"
+			rewards: [
+				{
+					id: "48F896ABE78A2064"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "3D380195BCDC1AF7"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "42847365394EDC54"
+					item: {
+						count: 1
+						id: "minecraft:quartz"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1991BBEF42944470"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7FFE358FD81292D4"]
+			id: "79CA677152BB5E5D"
+			rewards: [
+				{
+					id: "1AD1030FEB8445ED"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1A9B748118A9F774"
+					item: {
+						count: 1
+						id: "refinedstorage:quartz_enriched_iron"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["79CA677152BB5E5D"]
+			id: "15B0AA43682FF0BB"
+			rewards: [
+				{
+					id: "11B0B851D8322EFC"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "127C4AAF7D68AB56"
+					item: {
+						count: 1
+						id: "refinedstorage:machine_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["79CA677152BB5E5D"]
+			id: "118911D676CE2BC8"
+			rewards: [
+				{
+					id: "128CA2C2788F4EC5"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "05FD4BAFB9D7B7CB"
+					item: {
+						count: 1
+						id: "refinedstorage:basic_processor"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["118911D676CE2BC8"]
+			id: "16638A2C369E1490"
+			rewards: [
+				{
+					id: "1BF481BED7EBF452"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "67AFF7587F23E294"
+					item: {
+						count: 1
+						id: "refinedstorage:improved_processor"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["16638A2C369E1490"]
+			id: "5A17E8B10B60F4EE"
+			rewards: [
+				{
+					id: "127EEA89DB351B9A"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1B98B906B33A5A64"
+					item: {
+						count: 1
+						id: "refinedstorage:advanced_processor"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["15B0AA43682FF0BB", "118911D676CE2BC8"]
+			id: "4018CA7C094245D4"
+			rewards: [
+				{
+					id: "3F60BE63D20ADF2B"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					count: 16
+					id: "17D3BB8A6F0A6FEA"
+					item: {
+						count: 1
+						id: "refinedstorage:quartz_enriched_iron"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "66B96B264E42E186"
+					item: {
+						count: 1
+						id: "refinedstorage:controller"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4018CA7C094245D4"]
+			id: "2EBD1FF8EBD765B7"
+			rewards: [
+				{
+					id: "52195D326DD90AB0"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "12F540D87CBB7BB3"
+					item: {
+						count: 1
+						id: "refinedstorage:cable"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4018CA7C094245D4"]
+			id: "7755CE14F25AAC46"
+			rewards: [
+				{
+					id: "3FC6117D2A4F0AAF"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6B60DC720CCE5589"
+					item: {
+						count: 1
+						id: "refinedstorage:grid"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7755CE14F25AAC46"]
+			id: "17F5BF79403598EB"
+			rewards: [
+				{
+					id: "1A990D5936183AE1"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1971B7890B5C9898"
+					item: {
+						count: 1
+						id: "refinedstorage:crafting_grid"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4018CA7C094245D4"]
+			id: "1DBB5A4EF4C89BDF"
+			rewards: [
+				{
+					id: "2D33F3D56803B33D"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "274366C560F68EC3"
+					item: {
+						count: 1
+						id: "refinedstorage:disk_drive"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1DBB5A4EF4C89BDF"]
+			id: "5FD5B23BBC170BFF"
+			rewards: [
+				{
+					id: "70BD588C48933502"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "116524D2C07A56DF"
+					item: {
+						count: 1
+						id: "refinedstorage:storage_housing"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5FD5B23BBC170BFF"]
+			id: "1A101FCC660004EF"
+			rewards: [
+				{
+					id: "7BB67D2F84DE788B"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7B51221865E9C660"
+					item: {
+						count: 1
+						id: "refinedstorage:1k_storage_part"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1A101FCC660004EF"]
+			id: "1540E485286B9A3A"
+			rewards: [
+				{
+					id: "62D317A9E40042F5"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "10D502E3834C4B91"
+					item: {
+						count: 1
+						id: "refinedstorage:4k_storage_part"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1540E485286B9A3A"]
+			id: "6F293A731A22AE92"
+			rewards: [
+				{
+					id: "1D8034EBC2DBEAD0"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1EB7DFE60D2DF554"
+					item: {
+						count: 1
+						id: "refinedstorage:16k_storage_part"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6F293A731A22AE92"]
+			id: "48CB6AE8439BA240"
+			rewards: [
+				{
+					id: "29A0EC17EE4334BF"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "180E2D4CF99615A3"
+					item: {
+						count: 1
+						id: "refinedstorage:64k_storage_part"
+					}
+					type: "item"
+				}
+			]
+			x: 22.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5FD5B23BBC170BFF"]
+			id: "0E969C7CD43EF4C9"
+			optional: true
+			rewards: [
+				{
+					id: "5ABCCFB4ADB1464C"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0EBDDE7E616CDF86"
+					item: {
+						count: 1
+						id: "refinedstorage:64b_fluid_storage_part"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2EBD1FF8EBD765B7"]
+			id: "36ACCACC264C4DBE"
+			rewards: [
+				{
+					id: "1ECAC23F47F85C02"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "141222DE491D712A"
+					item: {
+						count: 1
+						id: "refinedstorage:importer"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2EBD1FF8EBD765B7"]
+			id: "1DB551A6A54CE7A2"
+			rewards: [
+				{
+					id: "29AEC85BB4A1E60B"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "07ADB0CC3322F033"
+					item: {
+						count: 1
+						id: "refinedstorage:exporter"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2EBD1FF8EBD765B7"]
+			id: "09CEBF5E6DA71633"
+			rewards: [
+				{
+					id: "14895B47103589D6"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6CC26846338724C1"
+					item: {
+						count: 1
+						id: "refinedstorage:external_storage"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["16638A2C369E1490"]
+			id: "34936E119C964A44"
+			rewards: [
+				{
+					id: "166108D8CF2A5E28"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1097F3B0F53B08D2"
+					item: {
+						count: 1
+						id: "refinedstorage:pattern"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["34936E119C964A44", "7755CE14F25AAC46"]
+			id: "1277A87A46EE765C"
+			rewards: [
+				{
+					id: "187B11B905E89ED7"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2877206EE9BDDC93"
+					item: {
+						count: 1
+						id: "refinedstorage:pattern_grid"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1277A87A46EE765C", "5A17E8B10B60F4EE"]
+			id: "1C484751688795DD"
+			rewards: [
+				{
+					id: "11DB9C3875A15526"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1CC5A865E3E1AA3E"
+					item: {
+						count: 1
+						id: "refinedstorage:autocrafter"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1C484751688795DD"]
+			id: "1231A369A020A786"
+			optional: true
+			rewards: [
+				{
+					id: "6F416B7AB97EA978"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5F831B01A8C719EE"
+					item: {
+						count: 1
+						id: "cabletiers:elite_importer"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5A17E8B10B60F4EE"]
+			id: "05A3F398F855E655"
+			rewards: [
+				{
+					id: "6CE8BC34EF7E7641"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1CB457599336D702"
+					item: {
+						count: 1
+						id: "refinedstorage:wireless_transmitter"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["05A3F398F855E655"]
+			id: "17B0553E8E1E9E8F"
+			rewards: [
+				{
+					id: "1C81647641EF6057"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "01E318D7DF048AAF"
+					item: {
+						count: 1
+						id: "refinedstorage:wireless_grid"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1C484751688795DD"]
+			id: "1CA55D5CBE5C7A43"
+			optional: true
+			rewards: [
+				{
+					id: "150FCA85BDA693A6"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "02D2221C1B630D67"
+					item: {
+						count: 1
+						id: "refinedstorage:autocrafting_monitor"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: 4.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "512856F604CEE6C7"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "422834D81FADD967"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -9.0d
+		}
+	]
+}

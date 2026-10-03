@@ -1,0 +1,246 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "compact"
+	group: "19D37693AA763190"
+	icon: {
+		id: "compactmachines:personal_shrinking_device"
+	}
+	id: "7755C10A51049B17"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/compact.png"
+			rotation: 0.0d
+			width: 13.5d
+			x: 5.75d
+			y: -6.0d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:compactmachines:new_machine"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:compactmachines:personal_shrinking_device"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 9.0d
+			y: -0.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:pylons:harvester_pylon"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:pylons:protection_pylon"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 9.0d
+			y: 1.0d
+		}
+	]
+	order_index: 12
+	quest_links: [ ]
+	quests: [
+		{
+			id: "552DA200E2DD4FD8"
+			rewards: [
+				{
+					id: "3349DE51A9FC145F"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 8
+					id: "1CE79731BD8D7277"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1DB3C6E6BE90DC7A"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "6048DCDD22FF71CF"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+					count: 2L
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["552DA200E2DD4FD8"]
+			id: "2054F786ADE4EB22"
+			rewards: [
+				{
+					id: "19834A18C8779CE1"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "04EBBF5F3D0CC82E"
+					item: {
+						count: 1
+						id: "compactmachines:personal_shrinking_device"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2054F786ADE4EB22"]
+			id: "5F40B99AF32C8EE4"
+			rewards: [
+				{
+					id: "153D59ED9AECCE57"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1BF16B73F42D47E5"
+					item: {
+						count: 1
+						id: "compactmachines:new_machine"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["552DA200E2DD4FD8"]
+			id: "1C4D9E05E49077F8"
+			optional: true
+			rewards: [
+				{
+					id: "1025F82ECC52FC5F"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1DAFBADED650EC90"
+					item: {
+						count: 1
+						id: "pylons:harvester_pylon"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1C4D9E05E49077F8"]
+			id: "1F5599FDC0419B65"
+			optional: true
+			rewards: [
+				{
+					id: "06DB64E7245EC58A"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "27F7AB0FBD431E23"
+					item: {
+						count: 1
+						id: "pylons:protection_pylon"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1C4D9E05E49077F8"]
+			id: "0F727DA15FDD1C87"
+			optional: true
+			rewards: [
+				{
+					id: "14E3A66373CEBFF8"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1DCE2E9D88BE6C80"
+					item: {
+						count: 1
+						id: "pylons:expulsion_pylon"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7479C305BFACE463"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "10895F354FCA9D6C"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -4.5d
+		}
+	]
+}

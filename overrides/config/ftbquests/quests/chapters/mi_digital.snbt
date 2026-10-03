@@ -1,0 +1,529 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mi_digital"
+	group: "16FFBFD2EC76F717"
+	icon: {
+		id: "modern_industrialization:digital_circuit"
+	}
+	id: "1F566A3E7023B24B"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/mi_digital.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 3.5d
+			y: -8.5d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:modern_industrialization:nuclear_reactor"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:modern_industrialization:digital_circuit"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 24.0d
+			y: -3.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:modern_industrialization:processing_unit"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 10.0d
+			y: 6.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:modern_industrialization:implosion_compressor"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 24.0d
+			y: 2.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "03D94E95B8F7EEC7"
+			rewards: [
+				{
+					id: "1C8987BB2DE39B7D"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "19E5A4F43D1A9185"
+					item: {
+						count: 1
+						id: "modern_industrialization:robot_arm"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["03D94E95B8F7EEC7"]
+			id: "2B9047E018D78197"
+			rewards: [
+				{
+					id: "117B853D7FFAA202"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1126B6FCECD2A8DB"
+					item: {
+						count: 1
+						id: "modern_industrialization:digital_circuit"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["03D94E95B8F7EEC7"]
+			id: "0B2962947AEF05DB"
+			rewards: [
+				{
+					id: "35652CB7E546FA86"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6284D5AD27A9A8A8"
+					item: {
+						count: 1
+						id: "modern_industrialization:monocrystalline_silicon"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0B2962947AEF05DB"]
+			id: "176BA29AE6875AAA"
+			rewards: [
+				{
+					id: "1A3CAEC08CC2B171"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1C4493039AD0BB5A"
+					item: {
+						count: 1
+						id: "modern_industrialization:silicon_wafer"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["176BA29AE6875AAA"]
+			id: "4D93DF8D3C7083F1"
+			rewards: [
+				{
+					id: "17DFBA3DA32BA744"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1529A6AD8DCFA943"
+					item: {
+						count: 1
+						id: "modern_industrialization:random_access_memory"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["176BA29AE6875AAA"]
+			id: "29EAE4B90F87D1E4"
+			rewards: [
+				{
+					id: "161C1013E2349003"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1ABFF4BF648BE7D2"
+					item: {
+						count: 1
+						id: "modern_industrialization:arithmetic_logic_unit"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2B9047E018D78197"]
+			id: "54BF34F3FE07B46C"
+			rewards: [
+				{
+					id: "21F34ABC9D3FD10A"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "107099CDCFE145BA"
+					item: {
+						count: 1
+						id: "modern_industrialization:turbo_machine_hull"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["54BF34F3FE07B46C"]
+			id: "1ED73373756A8D22"
+			rewards: [
+				{
+					id: "6033C2AD205A4C9D"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "19A33A602FCCF2A6"
+					item: {
+						count: 1
+						id: "modern_industrialization:titanium_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1ED73373756A8D22"]
+			id: "219E864E5CBDC14E"
+			rewards: [
+				{
+					id: "5FE798CF151C91D4"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "68ACC3AEE5E42A17"
+					item: {
+						count: 1
+						id: "modern_industrialization:nuclear_reactor"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["219E864E5CBDC14E"]
+			id: "143F72981838B53A"
+			rewards: [
+				{
+					id: "1A28331C7FF6A471"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "18BFFAF7189E5208"
+					item: {
+						count: 1
+						id: "modern_industrialization:nuclear_item_hatch"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["143F72981838B53A"]
+			id: "6B645DDAE4388BD2"
+			rewards: [
+				{
+					id: "1359B2585A8ACAF4"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1ECBF666FB082837"
+					item: {
+						count: 1
+						id: "modern_industrialization:cooling_cell"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["219E864E5CBDC14E"]
+			id: "1DDBCF4E0AA58AF9"
+			rewards: [
+				{
+					id: "5B8676EFD960F4BF"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4F852207FC0E6435"
+					item: {
+						count: 1
+						id: "modern_industrialization:heat_exchanger"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4D93DF8D3C7083F1", "29EAE4B90F87D1E4"]
+			id: "16E4112FE909E2A8"
+			rewards: [
+				{
+					id: "719F86D8275B2315"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0803420C16699DE1"
+					item: {
+						count: 1
+						id: "modern_industrialization:processing_unit"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["16E4112FE909E2A8"]
+			id: "1D51D692A3B0D6A6"
+			rewards: [
+				{
+					id: "20E48B5A978AB129"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1B2BA54348C91BD9"
+					item: {
+						count: 1
+						id: "modern_industrialization:highly_advanced_machine_hull"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1D51D692A3B0D6A6"]
+			id: "32E1E0047702A0B8"
+			rewards: [
+				{
+					id: "17D00F226F354692"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "146ACD8EF2E9FF79"
+					item: {
+						count: 1
+						id: "modern_industrialization:implosion_compressor"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1D51D692A3B0D6A6"]
+			id: "13BB601C7A5ED92A"
+			optional: true
+			rewards: [
+				{
+					id: "0C249909DF7F1DC0"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "13E67EAC16A6485C"
+					item: {
+						count: 1
+						id: "extended_industrialization:processing_array"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1D51D692A3B0D6A6"]
+			id: "16F1419F93FA8430"
+			rewards: [
+				{
+					id: "6A289FFE42809A89"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "156C4A38DED52022"
+					item: {
+						count: 1
+						id: "modern_industrialization:tungsten_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["16F1419F93FA8430"]
+			id: "1D11E149A2746BF3"
+			rewards: [
+				{
+					id: "26C720CAE90089E5"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "147EFFDA5895E0DF"
+					item: {
+						count: 1
+						id: "modern_industrialization:superconductor_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1D11E149A2746BF3"]
+			id: "6B07C15625C94F65"
+			rewards: [
+				{
+					id: "7DEDCFDECE0A031A"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "13A997119466A742"
+					item: {
+						count: 1
+						id: "modern_industrialization:digital_circuit"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 20.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0DC6956410F343D9"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "14B79B1892745E67"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -7.0d
+		}
+	]
+}

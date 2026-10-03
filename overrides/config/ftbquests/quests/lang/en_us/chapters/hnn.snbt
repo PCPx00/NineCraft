@@ -1,0 +1,53 @@
+{
+	quest.03CDC222DC26F601.quest_desc: ["From Nether mobs."]
+	quest.03CDC222DC26F601.title: "Nether Prediction"
+	quest.11343448301F756D.quest_desc: ["A pristine prediction from overworld mobs."]
+	quest.11343448301F756D.title: "Overworld Prediction"
+	quest.11E756BF1DF39A16.quest_desc: [
+		"Runs a model with energy and a matrix to produce a prediction."
+	]
+	quest.11E756BF1DF39A16.title: "Simulation Chamber"
+	quest.152211B8FDDC4831.quest_desc: ["A multiblock that runs many models at once."]
+	quest.152211B8FDDC4831.title: "Data Center"
+	quest.1ACB8341201F71E2.quest_desc: [
+		"Turns predictions into real mob drops. Choose which drop you want."
+	]
+	quest.1ACB8341201F71E2.title: "Loot Fabricator"
+	quest.1E736E5740B2E9FD.quest_desc: [
+		"Hostile Neural Networks trains data models by letting you kill mobs, then simulates those fights for loot without any mobs at all."
+	]
+	quest.1E736E5740B2E9FD.title: "Simulated Mob Farms"
+	quest.1F8D7EF61A80F0B9.quest_desc: ["From End mobs."]
+	quest.1F8D7EF61A80F0B9.title: "End Prediction"
+	quest.3A1643E0370D4994.quest_desc: [
+		"Train a Wither model and farm Nether Stars without ever fighting it again."
+	]
+	quest.3A1643E0370D4994.title: "Model the Wither"
+	quest.6BB0D00BB5A7DF36.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.6BB0D00BB5A7DF36.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.6BB0D00BB5A7DF36.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.702C507DE95BEF78.quest_desc: [
+		"Attune it to a mob by right-clicking that mob type or crafting it in JEI."
+	]
+	quest.702C507DE95BEF78.title: "Blank Data Model"
+	quest.76C1FEF04769B697.quest_desc: ["Simulations use one matrix each. Make them by the stack."]
+	quest.76C1FEF04769B697.title: "Prediction Matrix"
+	quest.785D2111B0D47DFB.quest_desc: [
+		"Hold this with models inside. Every kill of that mob adds data."
+	]
+	quest.785D2111B0D47DFB.title: "Deep Learner"
+	quest.7FD1D026C43A3C32.quest_desc: [
+		"A trained model. The higher the tier, the better it simulates."
+	]
+	quest.7FD1D026C43A3C32.title: "Data Model"
+}

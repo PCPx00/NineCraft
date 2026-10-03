@@ -1,0 +1,25 @@
+name: 📖 Quest book issue
+description: A quest asks for the wrong item, can't be completed, or has a typo
+labels: [quests]
+body:
+  - type: input
+    id: chapter
+    attributes:
+      label: Chapter
+      placeholder: e.g. Mekanism
+    validations:
+      required: true
+  - type: input
+    id: quest
+    attributes:
+      label: Quest title
+      placeholder: e.g. Fusion Reactor
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Screenshots help a lot!
+    validations:
+      required: true

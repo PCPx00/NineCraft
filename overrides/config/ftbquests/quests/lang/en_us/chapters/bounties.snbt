@@ -1,0 +1,52 @@
+{
+	quest.107E437769DB3F98.quest_desc: ["The monument's boss."]
+	quest.107E437769DB3F98.title: "Elder Guardian"
+	quest.118EE28830B87DAF.quest_desc: ["A raid heavy-hitter."]
+	quest.118EE28830B87DAF.title: "Ravager"
+	quest.13B2BE3463158BCE.quest_desc: ["Don't look them in the eye. Unless you're ready."]
+	quest.13B2BE3463158BCE.title: "Endermen"
+	quest.141685E0BE13577C.quest_desc: ["Ocean monument guards."]
+	quest.141685E0BE13577C.title: "Guardians"
+	quest.147060482BAC2061.quest_desc: [
+		"Gate pearls open portals that spawn waves of mobs. Survive every wave for loot."
+	]
+	quest.147060482BAC2061.title: "Gateways"
+	quest.16C69D57754244ED.title: "Blazes"
+	quest.17D07DBACE918743.quest_desc: ["Farm them for skulls."]
+	quest.17D07DBACE918743.title: "Wither Skeletons"
+	quest.188815320F4E27D1.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.188815320F4E27D1.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.188815320F4E27D1.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1919FB1E2D0194CE.quest_desc: [
+		"A list of mobs to hunt, from zombies to wardens. Each one is worth a little XP."
+	]
+	quest.1919FB1E2D0194CE.title: "Monster Hunting"
+	quest.1CAFCB0DB7C6BECB.quest_desc: [
+		"The deep dark's worst nightmare. You don't have to do this."
+	]
+	quest.1CAFCB0DB7C6BECB.title: "The Warden"
+	quest.1D52AE8870E7B1D6.title: "Spiders"
+	quest.1F07D123FC436D60.quest_desc: ["Punch the fireballs back."]
+	quest.1F07D123FC436D60.title: "Ghasts"
+	quest.30225DF3B02D8A0B.quest_desc: ["Creeper Overhaul gives each biome its own creeper."]
+	quest.30225DF3B02D8A0B.title: "Creeper Variants"
+	quest.38D30160B339A6EC.quest_desc: ["Watch your walls."]
+	quest.38D30160B339A6EC.title: "Creepers"
+	quest.3B66A01A0C6D00ED.quest_desc: ["Their shells make shulker boxes."]
+	quest.3B66A01A0C6D00ED.title: "Shulkers"
+	quest.409FBCEA0E391AC5.quest_desc: ["Enderman Overhaul does the same for endermen."]
+	quest.409FBCEA0E391AC5.title: "Enderman Variants"
+	quest.4AB30E7D7C09F4C9.title: "Skeletons"
+	quest.63027DAC84ADFF37.title: "Zombies"
+	quest.65557145F8074F4C.title: "Witches"
+}

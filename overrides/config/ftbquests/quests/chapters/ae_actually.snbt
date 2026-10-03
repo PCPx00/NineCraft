@@ -1,0 +1,281 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ae_actually"
+	group: "19D37693AA763190"
+	icon: {
+		id: "actuallyadditions:atomic_reconstructor"
+	}
+	id: "19DE80327AA209BD"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/ae_actually.png"
+			rotation: 0.0d
+			width: 15.0d
+			x: 6.5d
+			y: -7.5d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:actuallyadditions:atomic_reconstructor"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:actuallyadditions:black_quartz"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 11.5d
+			y: -2.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:actuallyadditions:void_crystal"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:actuallyadditions:coffee_machine"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 11.5d
+			y: 0.0d
+		}
+	]
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			id: "67FD45905267692C"
+			rewards: [
+				{
+					id: "12FA0FAB628CC509"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					count: 16
+					id: "3CA3A1A9C1D397F1"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "47AD6CC42669C310"
+					item: {
+						count: 1
+						id: "minecraft:coal_block"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["67FD45905267692C"]
+			id: "1C3A3034A6BCCEFD"
+			rewards: [
+				{
+					id: "3812F8FD2CC48103"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1024879D6D2F9EEE"
+					item: {
+						count: 1
+						id: "actuallyadditions:coal_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1C3A3034A6BCCEFD"]
+			id: "15E204F77D2313D1"
+			rewards: [
+				{
+					id: "05AC4491375586FD"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1ABF57CD470B101F"
+					item: {
+						count: 1
+						id: "actuallyadditions:atomic_reconstructor"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["67FD45905267692C"]
+			id: "78954ACD74C3DCF8"
+			rewards: [
+				{
+					id: "75A02285F2D9CF84"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "7C6C59E454D1B668"
+					item: {
+						count: 1
+						id: "actuallyadditions:black_quartz"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["15E204F77D2313D1"]
+			id: "1D4F31D941359935"
+			rewards: [
+				{
+					id: "1EC12811660B90ED"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "09452BC404082BAC"
+					item: {
+						count: 1
+						id: "actuallyadditions:void_crystal"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["15E204F77D2313D1"]
+			id: "1286C6226BA32C14"
+			rewards: [
+				{
+					id: "1BAE4A0BD0556AA8"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1D63A7279BC163B3"
+					item: {
+						count: 1
+						id: "actuallyadditions:lens_of_the_miner"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["15E204F77D2313D1"]
+			id: "3A6379E31AE01B0D"
+			optional: true
+			rewards: [
+				{
+					id: "7833F05283C3BDD2"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "276A321D148E9217"
+					item: {
+						count: 1
+						id: "actuallyadditions:lens_of_certain_death"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["78954ACD74C3DCF8"]
+			id: "1D0E70B89F98AAC5"
+			optional: true
+			rewards: [
+				{
+					id: "7507C66BB31426E5"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0D76532450D6C8C2"
+					item: {
+						count: 1
+						id: "actuallyadditions:coffee_machine"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "13326F08E3DEDE81"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "5FAF52C6E3507006"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -6.0d
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+	quest.0515C6711F3CC8A4.quest_desc: [
+		"Pick villagers up as items and put them in compact trading and breeding blocks."
+	]
+	quest.0515C6711F3CC8A4.title: "Pocket Villagers"
+	quest.10731A15C268BA74.quest_desc: [
+		"Needed for the cutting board. Also collects extra drops from animals."
+	]
+	quest.10731A15C268BA74.title: "Kitchen Knife"
+	quest.13F0837EB4352876.quest_desc: [
+		"Aquaculture adds real fishing rods, bait and lots of new fish."
+	]
+	quest.13F0837EB4352876.title: "Better Fishing"
+	quest.150EAC29688F18D1.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.150EAC29688F18D1.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.150EAC29688F18D1.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.15ECD4E86FA33D23.quest_desc: [
+		"Grow any crop in a single block. Craft the hopper version to push harvests out automatically."
+	]
+	quest.15ECD4E86FA33D23.title: "Botany Pots"
+	quest.16AC987E44B42952.quest_desc: ["Sweets are a quick hunger fix."]
+	quest.16AC987E44B42952.title: "Treat Yourself"
+	quest.1E7DDE213D3DC748.quest_desc: ["A rare treasure metal fished from the ocean."]
+	quest.1E7DDE213D3DC748.title: "Neptunium"
+	quest.1EA2DFF6C97519C5.quest_desc: [
+		"Farmer's Delight's pot cooks soups and stews that give long buffs."
+	]
+	quest.1EA2DFF6C97519C5.title: "Cooking Pot"
+	quest.1F50F7EBF20808AA.quest_desc: ["Plant rice in water. Wild rice grows near rivers."]
+	quest.1F50F7EBF20808AA.title: "Rice"
+	quest.1FB5CDD184024749.quest_desc: [
+		"Nine Craft is full of food mods. Eating a variety of meals is more filling and gives better buffs."
+	]
+	quest.1FB5CDD184024749.title: "Eat Well"
+	quest.312A0FFB156DB40B.quest_desc: ["A key ingredient. Find wild tomatoes in warm biomes."]
+	quest.312A0FFB156DB40B.title: "Tomatoes"
+	quest.54633CEDDCC3A0E2.quest_desc: [
+		"Slice ingredients by placing them on the board and using a knife."
+	]
+	quest.54633CEDDCC3A0E2.title: "Cutting Board"
+	quest.5D907C9D19AEE99C.quest_desc: [
+		"Pam's HarvestCraft adds hundreds of crops and meals. Check JEI for ideas."
+	]
+	quest.5D907C9D19AEE99C.title: "HarvestCraft"
+	quest.7AF7B66BA5E6CB68.quest_desc: ["A cooking surface that heats pots and skillets."]
+	quest.7AF7B66BA5E6CB68.title: "Stove"
+}

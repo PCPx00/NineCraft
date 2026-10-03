@@ -1,0 +1,718 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "powah"
+	group: "19D37693AA763190"
+	icon: {
+		id: "powah:energizing_orb"
+	}
+	id: "1679E47FADFEBEBF"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/powah.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 2.0d
+			y: -11.0d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:powah:energizing_orb"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:powah:reactor_nitro"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 29.0d
+			y: -5.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:powah:energy_cell_nitro"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 12.5d
+			y: 9.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:powah:solar_panel_nitro"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 29.0d
+			y: 5.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "132D11B7197AAAD2"
+			rewards: [
+				{
+					id: "1D48524E2DBA5169"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "06EE5CD8B89B7822"
+					item: {
+						count: 1
+						id: "minecraft:clay_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "1F0E0725EB9A99C8"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "37E1931BCE9EDD4D"
+					item: {
+						count: 1
+						id: "minecraft:clay_ball"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["132D11B7197AAAD2"]
+			id: "1463EC3BFB3A794A"
+			rewards: [
+				{
+					id: "1ED4D641FDDAA987"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "105C92C7EB421FBD"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "2F0C8FA334E2220C"
+					item: {
+						count: 1
+						id: "powah:dielectric_paste"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1463EC3BFB3A794A"]
+			id: "42B38A76DD5BB041"
+			rewards: [
+				{
+					id: "1FF9BB17DF09EA6A"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5ED46895502622F0"
+					item: {
+						count: 1
+						id: "powah:dielectric_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["42B38A76DD5BB041"]
+			id: "1AB4BBA5F273F8B3"
+			rewards: [
+				{
+					id: "58842E555DB449D7"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "3DECAF210D48A314"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "64076BAB7B18EC54"
+					item: {
+						count: 1
+						id: "powah:energizing_orb"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1AB4BBA5F273F8B3"]
+			id: "14A9F4B9895A23C1"
+			rewards: [
+				{
+					id: "1C94AF18EEEF5085"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "19479462194E3D61"
+					item: {
+						count: 1
+						id: "powah:energizing_rod_starter"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["14A9F4B9895A23C1"]
+			id: "6914D140A9D25AD5"
+			rewards: [
+				{
+					id: "1EA9928D519B4718"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "53FEF6232E99CE39"
+					item: {
+						count: 1
+						id: "minecraft:blaze_rod"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "13C15B2346061332"
+					item: {
+						count: 1
+						id: "powah:steel_energized"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6914D140A9D25AD5"]
+			id: "244231F3BC693E8E"
+			rewards: [
+				{
+					id: "1CE4E6EFC1A2F0A1"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "193A1E5750708601"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "0552B32E52F0126E"
+					item: {
+						count: 1
+						id: "powah:crystal_blazing"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["244231F3BC693E8E"]
+			id: "697FC7A4FDD8AED1"
+			rewards: [
+				{
+					id: "1278E0AA47CE374F"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "532526AAA251944E"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "54D2971DE66680FC"
+					item: {
+						count: 1
+						id: "powah:crystal_niotic"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["697FC7A4FDD8AED1"]
+			id: "132BAB4518991693"
+			rewards: [
+				{
+					id: "1CC141701DD828FA"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+				{
+					id: "691F0002A1C7BF32"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "2B9BCBEB094E4274"
+					item: {
+						count: 1
+						id: "powah:crystal_spirited"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["132BAB4518991693"]
+			id: "11744EC09749532C"
+			rewards: [
+				{
+					id: "08510D87122D6614"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1157D9D0C96A4C6C"
+					item: {
+						count: 1
+						id: "powah:crystal_nitro"
+					}
+					type: "item"
+				}
+			]
+			x: 22.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["6914D140A9D25AD5"]
+			id: "1AEA04DC49F59D73"
+			rewards: [
+				{
+					id: "30F755E25E5D5330"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1B4447B2B5381B07"
+					item: {
+						count: 1
+						id: "powah:capacitor_basic"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1AEA04DC49F59D73"]
+			id: "6BFF57036C06327B"
+			rewards: [
+				{
+					id: "144EFC8E34EE3CBC"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1EB69EC95A5347CB"
+					item: {
+						count: 1
+						id: "powah:thermo_generator_basic"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1AEA04DC49F59D73"]
+			id: "196E0F348B4D5E58"
+			rewards: [
+				{
+					id: "1EE157D8E9AF7A00"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1107079FF7920FCD"
+					item: {
+						count: 1
+						id: "powah:magmator_basic"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1AEA04DC49F59D73"]
+			id: "18ACD94F24FB42CB"
+			rewards: [
+				{
+					id: "10F6B47134EE0783"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1B7DA703306F7628"
+					item: {
+						count: 1
+						id: "powah:solar_panel_basic"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1AEA04DC49F59D73"]
+			id: "33432EED9B23D0D5"
+			rewards: [
+				{
+					id: "1CF85F9F46AD53FA"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "173CA823D005D1D4"
+					item: {
+						count: 1
+						id: "powah:energy_cell_basic"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["33432EED9B23D0D5"]
+			id: "12E18BAB92668F32"
+			rewards: [
+				{
+					id: "2E0C51A0225603DF"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7D166FA1F3EC811B"
+					item: {
+						count: 1
+						id: "powah:energy_cable_basic"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["132BAB4518991693"]
+			id: "14459B962CF86074"
+			rewards: [
+				{
+					id: "0754E78660090C48"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "13565E3A9209D381"
+					item: {
+						count: 1
+						id: "powah:reactor_basic"
+					}
+					type: "item"
+				}
+			]
+			x: 22.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["14459B962CF86074"]
+			id: "1588F4A1876E8A5A"
+			rewards: [
+				{
+					id: "48658A67458E5968"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [
+				{
+					id: "2A22F25326CAA8A1"
+					item: {
+						count: 1
+						id: "powah:uraninite"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 25.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["14459B962CF86074"]
+			id: "1B6A46CB7EBE4D26"
+			optional: true
+			rewards: [
+				{
+					id: "17F2D6F65E9298E0"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4562269F2E896BD2"
+					item: {
+						count: 1
+						id: "powah:dry_ice"
+					}
+					type: "item"
+				}
+			]
+			x: 25.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["33432EED9B23D0D5"]
+			id: "414DFAD366874593"
+			rewards: [
+				{
+					id: "1E03A93EC28129C9"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1D1AB6A380102AB8"
+					item: {
+						count: 1
+						id: "powah:ender_cell_basic"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["414DFAD366874593"]
+			id: "05C4D64CBE8B3533"
+			rewards: [
+				{
+					id: "1E288A295E44E11C"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "26B3367A0633CB54"
+					item: {
+						count: 1
+						id: "powah:ender_gate_basic"
+					}
+					type: "item"
+				}
+			]
+			x: 22.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["33432EED9B23D0D5"]
+			id: "25F1B270F55CD671"
+			optional: true
+			rewards: [
+				{
+					id: "42D553AB8FAEFF5A"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1ABF4B790706938A"
+					item: {
+						count: 1
+						id: "powah:player_transmitter_basic"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["33432EED9B23D0D5"]
+			id: "1D8EE628FEA97D5C"
+			optional: true
+			rewards: [
+				{
+					id: "1430F8EF55EA662E"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "597E8A7EF9345C8C"
+					item: {
+						count: 1
+						id: "powah:energy_hopper_basic"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["42B38A76DD5BB041"]
+			id: "0F831F94660787E7"
+			optional: true
+			rewards: [
+				{
+					id: "0F5D4008D44090F4"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1ACDFB09B70FADB2"
+					item: {
+						count: 1
+						id: "powah:wrench"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6D2536965865D060"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "54D2F0B86C47A514"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -9.5d
+		}
+	]
+}

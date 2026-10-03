@@ -1,0 +1,339 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "1B7DCA86ACB735C1"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/welcome.png"
+			rotation: 0.0d
+			width: 17.25d
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:minecraft:amethyst_cluster"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:minecraft:ender_eye"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 14.0d
+			y: -1.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:minecraft:enchanted_book"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			height: 4.5d
+			image: "ninecraft:textures/quests/banner.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 0.0d
+			y: -9.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "17C5A7EAE1285CF9"
+			rewards: [
+				{
+					id: "1F08C7AA7118D3BC"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1B72D96BF0872C67"
+					item: {
+						count: 1
+						id: "minecraft:crafting_table"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17C5A7EAE1285CF9"]
+			id: "22EB1F42A10865C9"
+			rewards: [
+				{
+					id: "1C2BAB4DEF1B3547"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1FF066000A014395"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["22EB1F42A10865C9"]
+			id: "1F973064EABB2CE9"
+			rewards: [
+				{
+					id: "12BACA2DE8C83D91"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1E50602FCD39C774"
+					item: {
+						count: 1
+						id: "minecraft:compass"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["22EB1F42A10865C9"]
+			id: "5439CB8BD18979AD"
+			rewards: [
+				{
+					id: "174073A004852B1D"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1727ABAA9FCDA6BD"
+					item: {
+						count: 1
+						id: "minecraft:white_bed"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5439CB8BD18979AD"]
+			id: "15C92925388BFC18"
+			rewards: [
+				{
+					id: "2E3B833CAEE0FD4A"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "150F74B8B0843DA5"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "2D8040075BC7C5C1"
+					item: {
+						count: 1
+						id: "minecraft:oak_fence"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["22EB1F42A10865C9"]
+			id: "19BE4CB03764EAF7"
+			rewards: [
+				{
+					id: "172B940D5E7CA24A"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "5228EB9AACAFF1CF"
+					item: {
+						count: 1
+						id: "minecraft:leather"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "501F970E7792B8F3"
+					item: {
+						count: 1
+						id: "minecraft:chest"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["19BE4CB03764EAF7"]
+			id: "12A47C8D2F696610"
+			rewards: [
+				{
+					id: "1F8CD1050B4C960E"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "6D88A517A83B81D3"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+					count: 32L
+				}
+			]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["19BE4CB03764EAF7"]
+			id: "1C59C0E12A88BC5D"
+			optional: true
+			rewards: [
+				{
+					id: "584204844517F3B2"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "293620FD39F1EF36"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:backpack"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["15C92925388BFC18"]
+			id: "54B753C744A6B228"
+			optional: true
+			rewards: [
+				{
+					id: "169D24BF9C93871A"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1E97C074FB1132AC"
+					item: {
+						count: 1
+						id: "waystones:waystone"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5439CB8BD18979AD"]
+			id: "14502B5FB961713B"
+			optional: true
+			rewards: [
+				{
+					id: "1DCDCC2C3EBB2087"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "17C3161729E7E956"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+					count: 64L
+				}
+			]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1ED8E5EDC6C4109D"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "24A7C27D95904564"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -5.0d
+		}
+	]
+}

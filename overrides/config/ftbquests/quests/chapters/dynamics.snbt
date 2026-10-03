@@ -1,0 +1,378 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dynamics"
+	group: "19D37693AA763190"
+	icon: {
+		id: "integrateddynamics:logic_programmer"
+	}
+	id: "14A80E012F393089"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/dynamics.png"
+			rotation: 0.0d
+			width: 15.75d
+			x: 6.875d
+			y: -5.5d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:integrateddynamics:logic_programmer"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:integrateddynamics:menril_log"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 21.5d
+			y: 0.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:integrateddynamics:variable"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 9.0d
+			y: 4.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:integrateddynamics:squeezer"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 21.5d
+			y: 0.0d
+		}
+	]
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			id: "177827BB58BC9179"
+			rewards: [
+				{
+					id: "42BD79D175390431"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					count: 16
+					id: "205836708516AEF8"
+					item: {
+						count: 1
+						id: "minecraft:bone_meal"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1858E13F816107AE"
+					item: {
+						count: 1
+						id: "minecraft:bone_meal"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["177827BB58BC9179"]
+			id: "106349C4DD9B843F"
+			rewards: [
+				{
+					id: "1FA42A47C0E6AC51"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "1B1F098B555232CC"
+					item: {
+						count: 1
+						id: "integrateddynamics:menril_log"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["106349C4DD9B843F"]
+			id: "59FDCADA1A504E6E"
+			rewards: [
+				{
+					id: "194C47CBCE41D6DF"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "55F7ED18D91FE892"
+					item: {
+						count: 1
+						id: "integrateddynamics:drying_basin"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["106349C4DD9B843F"]
+			id: "088739640C5D5CC3"
+			rewards: [
+				{
+					id: "14594AB7A8D87C5B"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "14E60A67A9336A6F"
+					item: {
+						count: 1
+						id: "integrateddynamics:squeezer"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["59FDCADA1A504E6E", "088739640C5D5CC3"]
+			id: "7C2F7F0F2468C526"
+			rewards: [
+				{
+					id: "4CD0B83BFC245FAE"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6B40040A399F5801"
+					item: {
+						count: 1
+						id: "integrateddynamics:crystalized_menril_chunk"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C2F7F0F2468C526"]
+			id: "41BE602B1C7B8D52"
+			rewards: [
+				{
+					id: "1575A3E2F5F239E4"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6A08CF0CB34CF04C"
+					item: {
+						count: 1
+						id: "integrateddynamics:cable"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7C2F7F0F2468C526"]
+			id: "54134DEEE75C5192"
+			rewards: [
+				{
+					id: "3DB1CBF7AC0F3ACA"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "56C923513ECA5B4A"
+					item: {
+						count: 1
+						id: "integrateddynamics:variable"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["54134DEEE75C5192"]
+			id: "1C7784570DCA72A6"
+			rewards: [
+				{
+					id: "14EF86CC1ECA8B81"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "111F9019E9DAACFA"
+					item: {
+						count: 1
+						id: "integrateddynamics:logic_programmer"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1C7784570DCA72A6"]
+			id: "1888754BED7E89CB"
+			rewards: [
+				{
+					id: "091BE5981FFAD8F3"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "30C6A34FB5922840"
+					item: {
+						count: 1
+						id: "integrateddynamics:variablestore"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["41BE602B1C7B8D52"]
+			id: "3CF203FC90D27FC1"
+			optional: true
+			rewards: [
+				{
+					id: "158DA9475C57EE6C"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1714E7551F691865"
+					item: {
+						count: 1
+						id: "integratedtunnels:part_interface_item"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3CF203FC90D27FC1"]
+			id: "135C9CE64D552AA1"
+			optional: true
+			rewards: [
+				{
+					id: "4C51AFE610820694"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "14280B237A9AE38C"
+					item: {
+						count: 1
+						id: "integratedterminals:part_terminal_storage_item"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["135C9CE64D552AA1"]
+			id: "15A6E34B9D04BD72"
+			optional: true
+			rewards: [
+				{
+					id: "55AFB1571A3AC439"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "569931D56153CB2B"
+					item: {
+						count: 1
+						id: "integratedcrafting:part_interface_crafting_item"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "511AA5FBAC9BD6BE"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "1AC4A733E57FA851"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -4.0d
+		}
+	]
+}

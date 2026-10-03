@@ -1,0 +1,56 @@
+{
+	quest.110D3ADE8B48EE09.quest_desc: [
+		"Apothic Enchanting rebuilds the enchanting table. Different bookshelves change the table's power, quanta, arcana and more."
+	]
+	quest.110D3ADE8B48EE09.title: "Deeper Enchanting"
+	quest.1119E7565D4F97B4.quest_desc: ["Rerolls affixes on gear."]
+	quest.1119E7565D4F97B4.title: "Reforging Table"
+	quest.1130E23358E9E07C.quest_desc: ["Pull a random enchantment off an item."]
+	quest.1130E23358E9E07C.title: "Scrap Tome"
+	quest.11792462C3B22932.quest_desc: ["Sculky shelves for high-level enchants."]
+	quest.11792462C3B22932.title: "Deepshelf"
+	quest.11CFE19ACBB65564.quest_desc: ["Pull every enchantment off an item."]
+	quest.11CFE19ACBB65564.title: "Extraction Tome"
+	quest.1507D21F0ABC31BC.quest_desc: ["Upgrades gem rarity."]
+	quest.1507D21F0ABC31BC.title: "Gem Cutting"
+	quest.168050DAD1612A76.title: "Infused Seashelf"
+	quest.18399C5702E27696.quest_desc: ["Breaks down gear into materials."]
+	quest.18399C5702E27696.title: "Salvaging Table"
+	quest.1A9D5F211B24398B.quest_desc: ["A Nether shelf with more power."]
+	quest.1A9D5F211B24398B.title: "Hellshelf"
+	quest.1B83619BBAD9B226.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.1B83619BBAD9B226.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1B83619BBAD9B226.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1FADAB05F698FC62.quest_desc: ["An ocean shelf."]
+	quest.1FADAB05F698FC62.title: "Seashelf"
+	quest.3E9CA2FA57D709A1.quest_desc: ["Infused for even more power."]
+	quest.3E9CA2FA57D709A1.title: "Infused Hellshelf"
+	quest.3ED6EA1B72500412.quest_desc: [
+		"Stores enchanted books as points. Pull out any level you've stored."
+	]
+	quest.3ED6EA1B72500412.title: "Enchantment Library"
+	quest.4525A64CCF9B53BC.quest_desc: ["Surround the table."]
+	quest.4525A64CCF9B53BC.title: "Bookshelves"
+	quest.4F590031817E7FE5.quest_desc: ["End-powered shelves."]
+	quest.4F590031817E7FE5.title: "Endshelf"
+	quest.5C644C8EC89DD685.quest_desc: ["One of the strongest shelves."]
+	quest.5C644C8EC89DD685.title: "Draconic Endshelf"
+	quest.63F0779089759E7A.quest_desc: ["Adds a socket to an item."]
+	quest.63F0779089759E7A.title: "Sigil of Socketing"
+	quest.6FD33302F40DB44D.quest_desc: ["Apotheosis gems socket into gear for bonus stats."]
+	quest.6FD33302F40DB44D.title: "Gems"
+	quest.75D2105DD74987B2.quest_desc: ["Start with the vanilla table. It upgrades into Apothic's."]
+	quest.75D2105DD74987B2.title: "Enchanting Table"
+	quest.7DD031C5BC6F5081.quest_desc: ["Tweak spawners with runes."]
+	quest.7DD031C5BC6F5081.title: "Spawner Runes"
+}

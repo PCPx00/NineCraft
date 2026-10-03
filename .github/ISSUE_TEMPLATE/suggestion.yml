@@ -1,0 +1,16 @@
+name: 💡 Suggestion
+description: Suggest a mod, a quest chapter or an improvement
+labels: [suggestion]
+body:
+  - type: dropdown
+    id: playstyle
+    attributes:
+      label: Which playstyle does it fit?
+      options: [Tech, Magic, RPG, Cozy, Food, Power, Other]
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What is it, and why would it make Nine Craft better? Include a CurseForge link for mod suggestions.
+    validations:
+      required: true

@@ -1,0 +1,1061 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ae2"
+	group: "4CB0509F050ABC8A"
+	icon: {
+		id: "ae2:controller"
+	}
+	id: "103D1EB8D3CEA646"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/ae2.png"
+			rotation: 0.0d
+			width: 15.75d
+			x: 6.875d
+			y: -12.0d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:ae2:controller"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:ae2:drive"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 34.0d
+			y: -6.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:ae2:fluix_crystal"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 15.0d
+			y: 6.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:ae2:molecular_assembler"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 34.0d
+			y: 2.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4B3A433ABAA59EF7"
+			rewards: [
+				{
+					id: "1A0531EC18073F3D"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 8
+					id: "1B8824F46DF32C4F"
+					item: {
+						count: 1
+						id: "ae2:certus_quartz_crystal"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1D85E3AA2ABB7149"
+					item: {
+						count: 1
+						id: "minecraft:quartz"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B3A433ABAA59EF7"]
+			id: "3A9E19AA57275B7A"
+			rewards: [
+				{
+					id: "2BF952645517ED86"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "19DFE477F49D7DF7"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "16D66DC29B17508C"
+					item: {
+						count: 1
+						id: "ae2:meteorite_compass"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3A9E19AA57275B7A"]
+			id: "7F2B005048340439"
+			rewards: [
+				{
+					id: "133572E4493F699F"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "1E5AC9E004823B54"
+					item: {
+						count: 1
+						id: "ae2:sky_stone_block"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4B3A433ABAA59EF7"]
+			id: "223BB077BAB52743"
+			rewards: [
+				{
+					id: "36A9CA617018CE86"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 16
+					id: "15B10085DC34B029"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "4AF3CD61D3905632"
+					item: {
+						count: 1
+						id: "minecraft:quartz"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "10257D9A9D9ACE3F"
+					item: {
+						count: 1
+						id: "ae2:certus_quartz_crystal"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["223BB077BAB52743"]
+			id: "1F1FC684B1ECD7DA"
+			rewards: [
+				{
+					id: "1D83EB45BA01874E"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6A185BA31FBF5439"
+					item: {
+						count: 1
+						id: "ae2:charged_certus_quartz_crystal"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["223BB077BAB52743"]
+			id: "4A394A117E12E083"
+			rewards: [
+				{
+					id: "080C54D7AF57F3A3"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "17B36D33FC7D7C42"
+					item: {
+						count: 1
+						id: "ae2:charger"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1F1FC684B1ECD7DA"]
+			id: "04969923B53980AA"
+			rewards: [
+				{
+					id: "1DB0214607063CB9"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6A19515F8FD78916"
+					item: {
+						count: 1
+						id: "ae2:fluix_crystal"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["04969923B53980AA"]
+			id: "199E4DBFD9D82733"
+			optional: true
+			rewards: [
+				{
+					id: "613F333B5ECAFA8B"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5FFC2F6C4ABEA701"
+					item: {
+						count: 1
+						id: "ae2:growth_accelerator"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7F2B005048340439"]
+			id: "3AB4372D64BA95D0"
+			rewards: [
+				{
+					id: "18FC73C7CDB49D62"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "1237F0FEB662A72D"
+					item: {
+						count: 1
+						id: "ae2:silicon"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "57582C7F782DFAA6"
+					item: {
+						count: 1
+						id: "ae2:inscriber"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3AB4372D64BA95D0"]
+			id: "7FAE3135F89868A4"
+			rewards: [
+				{
+					id: "119974F8B9EC2A0E"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "19F3FF1D8186DF62"
+					item: {
+						count: 1
+						id: "ae2:printed_silicon"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7FAE3135F89868A4"]
+			id: "1AB9EAB6CB9AA075"
+			rewards: [
+				{
+					id: "1781D1B9C44B6441"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "762A152708769B1E"
+					item: {
+						count: 1
+						id: "ae2:logic_processor"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7FAE3135F89868A4"]
+			id: "66CD628B8383CA39"
+			rewards: [
+				{
+					id: "1D99B07DCF8A2679"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1252655B9FDFB4F8"
+					item: {
+						count: 1
+						id: "ae2:calculation_processor"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7FAE3135F89868A4"]
+			id: "1EB926360EDFD775"
+			rewards: [
+				{
+					id: "7FE2DB43E3D806EC"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "19603964BC038604"
+					item: {
+						count: 1
+						id: "ae2:engineering_processor"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["04969923B53980AA"]
+			id: "20C7912F9093EDB3"
+			rewards: [
+				{
+					id: "33324F468CF55119"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "12978B9315B34382"
+					item: {
+						count: 1
+						id: "ae2:fluix_glass_cable"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 10.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["20C7912F9093EDB3"]
+			id: "2F6A62F1705C49B5"
+			rewards: [
+				{
+					id: "1D449D3AD2FA32FD"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1275C1E72B80B3F2"
+					item: {
+						count: 1
+						id: "ae2:fluix_smart_cable"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 12.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["20C7912F9093EDB3"]
+			id: "12766819DBE6785F"
+			rewards: [
+				{
+					id: "24666FFDE34CB483"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7931A92798BEFCE2"
+					item: {
+						count: 1
+						id: "ae2:fluix_covered_dense_cable"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 12.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1AB9EAB6CB9AA075", "1EB926360EDFD775"]
+			id: "0E76435DAF878D0C"
+			rewards: [
+				{
+					id: "02D6DBBF84B37572"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+				{
+					count: 16
+					id: "4143FF9882FA97D7"
+					item: {
+						count: 1
+						id: "ae2:fluix_crystal"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "714493A637DB47AC"
+					item: {
+						count: 1
+						id: "ae2:controller"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0E76435DAF878D0C"]
+			id: "12DCFDB9AB62B329"
+			rewards: [
+				{
+					id: "1803B9E452CCB83D"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					count: 16
+					id: "28E2B00929CA03DE"
+					item: {
+						count: 1
+						id: "ae2:certus_quartz_crystal"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "16C69A6C8B26B1F6"
+					item: {
+						count: 1
+						id: "ae2:drive"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["12DCFDB9AB62B329", "66CD628B8383CA39"]
+			id: "1EA5589EA91E951F"
+			rewards: [
+				{
+					id: "149FB9278A2FEA38"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "10F2F602A4B54348"
+					item: {
+						count: 1
+						id: "ae2:item_storage_cell_1k"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1EA5589EA91E951F"]
+			id: "324451733F90CCB3"
+			rewards: [
+				{
+					id: "1613131A1384363A"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4DA34243D84EA7AC"
+					item: {
+						count: 1
+						id: "ae2:item_storage_cell_4k"
+					}
+					type: "item"
+				}
+			]
+			x: 22.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["324451733F90CCB3"]
+			id: "1CB34F0E32705186"
+			rewards: [
+				{
+					id: "02A91ABAD950CDC1"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "28CDB29B2CF34932"
+					item: {
+						count: 1
+						id: "ae2:item_storage_cell_64k"
+					}
+					type: "item"
+				}
+			]
+			x: 25.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["1CB34F0E32705186"]
+			id: "7402F96EADADC721"
+			rewards: [
+				{
+					id: "3FD62045A9940C9C"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5F135AAE57E2D60B"
+					item: {
+						count: 1
+						id: "ae2:item_storage_cell_256k"
+					}
+					type: "item"
+				}
+			]
+			x: 27.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7402F96EADADC721"]
+			id: "4466FD8440301CCB"
+			optional: true
+			rewards: [
+				{
+					id: "08483CEB96D5DBAD"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1007FC00AD05410A"
+					item: {
+						count: 1
+						id: "megacells:cell_component_1m"
+					}
+					type: "item"
+				}
+			]
+			x: 30.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0E76435DAF878D0C"]
+			id: "6E924B3D6E5C9462"
+			rewards: [
+				{
+					id: "14B2BFA5B3ECC606"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "184CC4CB8AA141EA"
+					item: {
+						count: 1
+						id: "ae2:terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["6E924B3D6E5C9462"]
+			id: "15645775DA8DD198"
+			rewards: [
+				{
+					id: "1B7C2AEF84487847"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1A757D02874C072D"
+					item: {
+						count: 1
+						id: "ae2:crafting_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0E76435DAF878D0C"]
+			id: "137333A41FB9A1BE"
+			rewards: [
+				{
+					id: "50DC795F04A7E761"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "74A133FAD5BE08A6"
+					item: {
+						count: 1
+						id: "ae2:import_bus"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0E76435DAF878D0C"]
+			id: "1B81A017B730ACF7"
+			rewards: [
+				{
+					id: "43BD99D7FB54B0CB"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "13CE6F5349CADC84"
+					item: {
+						count: 1
+						id: "ae2:export_bus"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0E76435DAF878D0C"]
+			id: "1F11A984246BA50A"
+			rewards: [
+				{
+					id: "1790E63175A54EB9"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4413F14E5DEC8277"
+					item: {
+						count: 1
+						id: "ae2:interface"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1EB926360EDFD775"]
+			id: "4303F4A206826597"
+			rewards: [
+				{
+					id: "017C4AD7437CC2EF"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "19407D45B2F3CB50"
+					item: {
+						count: 1
+						id: "ae2:blank_pattern"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 15.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4303F4A206826597", "6E924B3D6E5C9462"]
+			id: "2AEF6BAC8E159321"
+			rewards: [
+				{
+					id: "092C8BE16156095E"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "14A73007E29511B4"
+					item: {
+						count: 1
+						id: "ae2:pattern_encoding_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2AEF6BAC8E159321"]
+			id: "3D7D9C0FBD305C08"
+			rewards: [
+				{
+					id: "1D523B89BED97422"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1861ED3A4462FE40"
+					item: {
+						count: 1
+						id: "ae2:molecular_assembler"
+					}
+					type: "item"
+				}
+			]
+			x: 22.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3D7D9C0FBD305C08"]
+			id: "1A857B253402708E"
+			rewards: [
+				{
+					id: "18F93CB1D6870D05"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "7E4050AB881E8900"
+					item: {
+						count: 1
+						id: "ae2:1k_crafting_storage"
+					}
+					type: "item"
+				}
+			]
+			x: 25.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3D7D9C0FBD305C08"]
+			id: "44111A7B6CA8DB4E"
+			rewards: [
+				{
+					id: "17069BA033D22D75"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1597E1CC364D96D5"
+					item: {
+						count: 1
+						id: "ae2:pattern_provider"
+					}
+					type: "item"
+				}
+			]
+			x: 25.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6E924B3D6E5C9462"]
+			id: "1D168A2B8C2641C3"
+			rewards: [
+				{
+					id: "15F62268911B908A"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "13087960290CB62B"
+					item: {
+						count: 1
+						id: "ae2:wireless_access_point"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1D168A2B8C2641C3"]
+			id: "6D76517FED36D882"
+			rewards: [
+				{
+					id: "176081E5DB715C68"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1ABF6A7EC357498B"
+					item: {
+						count: 1
+						id: "ae2:wireless_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 22.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6D76517FED36D882"]
+			id: "105B9567FF39D409"
+			optional: true
+			rewards: [
+				{
+					id: "38CC9D1D8C3BB93F"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "41222F9393271447"
+					item: {
+						count: 1
+						id: "ae2wtlib:wireless_universal_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 25.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["12766819DBE6785F"]
+			id: "17661B183611F298"
+			optional: true
+			rewards: [
+				{
+					id: "694D627FB1633171"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "633FC0FD6D477949"
+					item: {
+						count: 1
+						id: "ae2:me_p2p_tunnel"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["17661B183611F298"]
+			id: "16726200700D6ECB"
+			optional: true
+			rewards: [
+				{
+					id: "1C0E876C42AD7346"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1CD87028947976B9"
+					item: {
+						count: 1
+						id: "ae2:quantum_ring"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["12DCFDB9AB62B329"]
+			id: "1E12AFC32D010EE4"
+			optional: true
+			rewards: [
+				{
+					id: "10A1421ED1B09BD4"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7D2180B8D63FACD3"
+					item: {
+						count: 1
+						id: "appflux:charged_redstone"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: -7.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "163E7BF6D65FB016"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "41F5C463C44525DE"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -10.5d
+		}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	quest.11A121B35FEFA53C.quest_desc: ["Pulls items out of the inventory the router faces."]
+	quest.11A121B35FEFA53C.title: "Pull Items"
+	quest.11A261D921225BE4.quest_desc: [
+		"Laser nodes beam items between machines without cables. One node touches up to six blocks."
+	]
+	quest.11A261D921225BE4.title: "LaserIO"
+	quest.123341EA4A392F9C.quest_desc: [
+		"Slow but simple. Hoppers pull from above and push where they face."
+	]
+	quest.123341EA4A392F9C.title: "The Humble Hopper"
+	quest.128237396F6D63AF.quest_desc: [
+		"Cards tell a node what to insert or extract, and from which side."
+	]
+	quest.128237396F6D63AF.title: "Item Card"
+	quest.1426AF7637F3D39A.quest_desc: ["Beam power alongside items."]
+	quest.1426AF7637F3D39A.title: "Energy Card"
+	quest.14CDA5F04AB9AA8D.quest_desc: [
+		"&dNine Craft Quest Book&r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"&8This quest is hidden and only appears in edit mode.&r"
+	]
+	quest.14CDA5F04AB9AA8D.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.14CDA5F04AB9AA8D.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1682236028FB1938.quest_desc: [
+		"Filters limit what a card moves. Stack them in the card's filter slot."
+	]
+	quest.1682236028FB1938.title: "Filters"
+	quest.195203D4BACDAD22.quest_desc: ["A cheap node for connecting a single side."]
+	quest.195203D4BACDAD22.title: "Laser Connector"
+	quest.195651EB1A58BF8A.quest_desc: [
+		"Trash cans delete anything piped into them. Great for overflow."
+	]
+	quest.195651EB1A58BF8A.title: "Throw It Away"
+	quest.1A08F60D4E7CF0C0.quest_desc: ["Connect this to your power source."]
+	quest.1A08F60D4E7CF0C0.title: "Flux Plug"
+	quest.1A20AE3E63A6CCAC.quest_desc: [
+		"Machines are more fun when you don't have to feed them by hand. Here are a few ways to move items, fluids and energy."
+	]
+	quest.1A20AE3E63A6CCAC.title: "Items on the Move"
+	quest.1EEF826D8970E0EC.quest_desc: ["Use the laser wrench to connect nodes together."]
+	quest.1EEF826D8970E0EC.title: "Link Them Up"
+	quest.2709ACE90023AD5F.quest_desc: ["The same idea for liquids."]
+	quest.2709ACE90023AD5F.title: "Fluid Card"
+	quest.273465B737126E1F.quest_desc: [
+		"Send energy wirelessly. Flux plugs take power in and flux points hand it out."
+	]
+	quest.273465B737126E1F.title: "Flux Networks"
+	quest.3A103079174B2D48.quest_desc: [
+		"A router is a small programmable box. Put modules in it to decide what it does."
+	]
+	quest.3A103079174B2D48.title: "Modular Routers"
+	quest.4C4EDDA3891D12F2.quest_desc: ["Drains fluids in a large area. Great for lava lakes."]
+	quest.4C4EDDA3891D12F2.title: "Ranged Pump"
+	quest.5B45308C0CAC4774.quest_desc: ["A buffer for the whole network."]
+	quest.5B45308C0CAC4774.title: "Flux Storage"
+	quest.6487A8A35DFCCDAD.quest_desc: [
+		"Chests that share contents across any distance when they have the same colors."
+	]
+	quest.6487A8A35DFCCDAD.title: "Ender Storage"
+	quest.6C70CCA23E138D15.quest_desc: ["Pushes items into the inventory in front of the router."]
+	quest.6C70CCA23E138D15.title: "Send Items"
+	quest.78E8473DC52922E5.quest_desc: ["Speeds up a card's transfer rate."]
+	quest.78E8473DC52922E5.title: "Overclock"
+	quest.79C79BDA7C454E8C.quest_desc: ["Every module starts as one of these."]
+	quest.79C79BDA7C454E8C.title: "Blank Module"
+}
