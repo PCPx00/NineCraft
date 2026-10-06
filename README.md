@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>⚙️ Tech &nbsp;•&nbsp; 🔮 Magic &nbsp;•&nbsp; ⚔️ RPG &nbsp;•&nbsp; 🌻 Cozy &nbsp;•&nbsp; 🍲 Food &nbsp;•&nbsp; ⚡ Power</b><br>
-  <i>470 mods. 40 quest chapters. 810+ hand-written quests. One giant world where every playstyle lives side by side.</i>
+  <i>504 mods. 40 quest chapters. 810+ hand-written quests. One giant world where every playstyle lives side by side.</i>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ Build a roaring **Create** factory in the morning. Sling fireballs with **Iron's
 
 Every major system is tied together by a **fully original quest book**, so you always know what to try next.
 
-- 🟣 **470 hand-picked mods** covering tech, magic, RPG, building, farming, food and exploration
+- 🟣 **504 hand-picked mods** covering tech, magic, RPG, building, farming, food and exploration
 - 📖 **40 quest chapters / 810+ quests**, all written from scratch for Nine Craft
 - 🎁 **Custom loot tables** (Common ➜ Uncommon ➜ Rare ➜ **Epic**) that reward you for crafting
 - 🌄 **Shader-ready out of the box** with Iris plus Complementary Reimagined, Complementary Unbound and Sildur's Vibrant
@@ -207,7 +207,7 @@ Nine Craft works great in multiplayer with FTB Teams, FTB Chunks land claiming, 
 | Path | What it is |
 |---|---|
 | [`manifest.json`](manifest.json) | CurseForge pack manifest: Minecraft/NeoForge versions and every mod file the pack installs |
-| [`modlist.html`](modlist.html) / [`MODLIST.md`](MODLIST.md) | The full list of 470 mods with links to each project |
+| [`modlist.html`](modlist.html) / [`MODLIST.md`](MODLIST.md) | The full list of 504 mods with links to each project |
 | [`overrides/config/ftbquests/`](overrides/config/ftbquests) | The Nine Craft quest book: 40 chapters, loot tables and English text |
 | [`overrides/kubejs/assets/ninecraft/`](overrides/kubejs/assets/ninecraft) | Chapter title art and quest book images |
 | [`assets/branding/`](assets/branding) | Logo, banners and dividers used on CurseForge and here |
