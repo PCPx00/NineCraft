@@ -14,7 +14,7 @@
   <a href="https://www.curseforge.com/minecraft/modpacks/nine-craft"><img src="https://img.shields.io/curseforge/dt/1703220?style=for-the-badge&logo=curseforge&label=Downloads&color=8B5CF6" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=for-the-badge" alt="Minecraft 1.21.1">
   <img src="https://img.shields.io/badge/NeoForge-21.1.250-E07A2E?style=for-the-badge" alt="NeoForge 21.1.250">
-  <img src="https://img.shields.io/badge/Version-v1.0.1-A855F7?style=for-the-badge" alt="Version v1.0.1">
+  <img src="https://img.shields.io/badge/Version-v1.0.1-A855F7?style=for-the-badge" alt="Version v2.0.2">
 </p>
 
 <p align="center">
