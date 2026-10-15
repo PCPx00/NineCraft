@@ -1,0 +1,696 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "grimpipes"
+	group: "4CB0509F050ABC8A"
+	icon: {
+		id: "grimpipes:omni_pipe"
+	}
+	id: "1B59FACDCCDA9991"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/grimpipes.png"
+			rotation: 0.0d
+			width: 16.5d
+			x: 7.25d
+			y: -4.5d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:grimpipes:omni_pipe"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: 6.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:grimpipes:reaper_wrench"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 19.5d
+			y: 1.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:grimpipes:soulforged_upgrade"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 8.0d
+			y: 16.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:grimpipes:item_pipe"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 19.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimpipes_0.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 2.75d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimpipes_1.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimpipes_2.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 2.75d
+			y: 11.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "119C51A28D6DF438"
+			rewards: [
+				{
+					id: "1AC9AB6FB7665EA1"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "14D2EA8487B5CC70"
+					item: {
+						count: 1
+						id: "minecraft:amethyst_shard"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1AF133D137F6E2FB"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1B94C4B473BD876A"
+					item: {
+						count: 1
+						id: "minecraft:cobbled_deepslate"
+					}
+					type: "item"
+					count: 32L
+				}
+			]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5BF41E41E7E6E436"]
+			id: "1CCB37735217149B"
+			rewards: [
+				{
+					id: "2C742E5F370CB0AE"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7FC374AEDE107E26"
+					item: {
+						count: 1
+						id: "grimpipes:field_guide"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["119C51A28D6DF438"]
+			id: "104D25730471C208"
+			rewards: [
+				{
+					id: "107CCA4334F16D17"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					id: "197FDB419AA9785F"
+					item: {
+						count: 1
+						id: "minecraft:hopper"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "1C62FAA7D4D4ECA1"
+					item: {
+						count: 1
+						id: "grimpipes:reaper_wrench"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["104D25730471C208"]
+			id: "5BF41E41E7E6E436"
+			rewards: [
+				{
+					id: "15E450B5EFB1CBF1"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					id: "00FEC958F5AA420B"
+					item: {
+						count: 1
+						id: "minecraft:bucket"
+					}
+					type: "item"
+				}
+				{
+					id: "1475581509595F0D"
+					item: {
+						count: 1
+						id: "minecraft:redstone_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "3008A0C0C6937C97"
+					item: {
+						count: 1
+						id: "grimpipes:item_pipe"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5BF41E41E7E6E436"]
+			id: "177E23A10974CB39"
+			rewards: [
+				{
+					id: "236940F3EBFC8B72"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "108959403A3E3053"
+					item: {
+						count: 1
+						id: "grimpipes:fluid_pipe"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5BF41E41E7E6E436"]
+			id: "4FA01EA1D3D27852"
+			rewards: [
+				{
+					id: "3FD52ADF65B3985F"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1EAC3C374B3EA76D"
+					item: {
+						count: 1
+						id: "grimpipes:energy_pipe"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 7.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["177E23A10974CB39"]
+			id: "2BDBC1FC875E40E1"
+			rewards: [
+				{
+					id: "1C1A9F497D95CC80"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "170B0238F5F56DB9"
+					item: {
+						count: 1
+						id: "grimpipes:chemical_pipe"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 10.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["177E23A10974CB39", "4FA01EA1D3D27852"]
+			id: "12A91DAEE72A540A"
+			rewards: [
+				{
+					id: "18AC73455908F695"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0C6C5D4783737B82"
+					item: {
+						count: 1
+						id: "grimpipes:item_pipe"
+					}
+					type: "item"
+					count: 4L
+				}
+				{
+					id: "126FD7A7A45B0C59"
+					item: {
+						count: 1
+						id: "grimpipes:fluid_pipe"
+					}
+					type: "item"
+					count: 4L
+				}
+				{
+					id: "10D00875F68FCB82"
+					item: {
+						count: 1
+						id: "grimpipes:energy_pipe"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["12A91DAEE72A540A", "2BDBC1FC875E40E1"]
+			id: "1185BACA85DC1797"
+			rewards: [
+				{
+					id: "09B9E849FBD84E4C"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "0F5444BE67A38205"
+					item: {
+						count: 1
+						id: "minecraft:paper"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "37BEA54AFEB1501D"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "10A49C8202DC748E"
+					item: {
+						count: 1
+						id: "grimpipes:omni_pipe"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 12.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1185BACA85DC1797"]
+			id: "10805BABEB01ECAD"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "0DA03053F6376BAD"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "1F4233A9CA5E35CE"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1F4ADED8E0C887BD"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "37B6F0B909675B90"
+					item: {
+						count: 1
+						id: "minecraft:hopper"
+					}
+					type: "item"
+					count: 2L
+				}
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["10805BABEB01ECAD"]
+			id: "14ED0356DCD1A4D0"
+			rewards: [
+				{
+					id: "1B82FF6B2EF12BB9"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "57C64AAF1542567F"
+					item: {
+						count: 1
+						id: "grimpipes:tag_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["10805BABEB01ECAD"]
+			id: "10E515CB77F13718"
+			rewards: [
+				{
+					id: "1D75630767BDCEA4"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "312F51303356B390"
+					item: {
+						count: 1
+						id: "grimpipes:reaper_imprint"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["14ED0356DCD1A4D0", "10E515CB77F13718"]
+			id: "29B845CD7BCC3E77"
+			rewards: [
+				{
+					id: "1CFE7AEE9CF6CF37"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "3BED713676C1B943"
+					item: {
+						count: 1
+						id: "grimpipes:item_pipe"
+					}
+					type: "item"
+					count: 16L
+				}
+				{
+					id: "11767C7B3F6BE986"
+					item: {
+						count: 1
+						id: "minecraft:chest"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["29B845CD7BCC3E77"]
+			id: "147134F4E3D9D601"
+			rewards: [
+				{
+					id: "304A3CE77A30BFF7"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0E38D5D41717F70F"
+					item: {
+						count: 1
+						id: "grimpipes:soul_link"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["10805BABEB01ECAD"]
+			id: "1287D35F7921B7B3"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "1264A1070058A142"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "13A0988F3FF965D8"
+					item: {
+						count: 1
+						id: "grimpipes:whispering_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["1287D35F7921B7B3"]
+			id: "5BB130FB187103CC"
+			rewards: [
+				{
+					id: "2A83581D46D9E666"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "18A5557AA15FF3DC"
+					item: {
+						count: 1
+						id: "minecraft:crying_obsidian"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1E25FADDD709F868"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "3EE5C171918CE642"
+					item: {
+						count: 1
+						id: "grimpipes:restless_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["5BB130FB187103CC"]
+			id: "14DEEA21925D4CE5"
+			rewards: [
+				{
+					id: "7C40E9790385109F"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1275A7C815D31B46"
+					item: {
+						count: 1
+						id: "grimpipes:wraithbound_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["14DEEA21925D4CE5"]
+			id: "24EEC9A4CF00A41E"
+			rewards: [
+				{
+					id: "3CCF127018D3880B"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "68FBBA33F63098FF"
+					item: {
+						count: 1
+						id: "grimpipes:soulforged_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["147134F4E3D9D601", "24EEC9A4CF00A41E"]
+			id: "112744859E5087D1"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "31FFD439E47A15B4"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "4DBFE6BCE31E27F5"
+					item: {
+						count: 1
+						id: "grimpipes:omni_pipe"
+					}
+					type: "item"
+					count: 16L
+				}
+				{
+					id: "7C111A603EE5BF7E"
+					item: {
+						count: 1
+						id: "grimpipes:soulforged_upgrade"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 15.5d
+			y: 6.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1F01ED0572BC6047"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "6DFA91FFE0244A0D"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -3.0d
+		}
+	]
+}

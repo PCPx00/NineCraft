@@ -6,7 +6,7 @@ Thanks for helping make Nine Craft better!
 
 Use the **Bug report** template on the [Issues](../../issues/new/choose) page and include:
 
-- your **Nine Craft version** (shown in the CurseForge app, e.g. `v2.0.2`)
+- your **Nine Craft version** (shown in the CurseForge app, e.g. `v2.5.0`)
 - whether it happens in **single player** or on a **server**
 - your **allocated RAM**
 - what you did, what you expected, and what happened instead

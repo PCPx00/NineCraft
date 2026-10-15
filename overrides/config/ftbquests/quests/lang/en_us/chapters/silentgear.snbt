@@ -1,39 +1,169 @@
 {
-	quest.00645BCBB6646A00.quest_desc: ["A Nether alloy."]
+	quest.00645BCBB6646A00.quest_desc: [
+		"A Nether alloy."
+		""
+		"§e§lHow to complete:§r Craft or make Crimson Steel Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.00645BCBB6646A00.title: "Crimson Steel"
-	quest.12749D8D1F543072.quest_desc: ["An End alloy."]
+	quest.1084AC1BAD1EEE8B.quest_desc: [
+		"A rare starry material."
+		""
+		"§e§lHow to complete:§r Craft or make Starmetal Dust and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1084AC1BAD1EEE8B.title: "Starmetal"
+	quest.120E5C08CCBC09BB.quest_desc: [
+		"Found by breaking grass. Plant them for flax."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 8 x Flax Seeds and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.120E5C08CCBC09BB.title: "Flax Seeds"
+	quest.12749D8D1F543072.quest_desc: [
+		"An End alloy."
+		""
+		"§e§lHow to complete:§r Craft or make Azure Electrum Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.12749D8D1F543072.title: "Azure Electrum"
-	quest.15CE404D444D921A.quest_desc: ["Grade materials to boost their stats."]
+	quest.131C55588ECC7557.quest_desc: [
+		"Makes crystal materials."
+		""
+		"§e§lHow to complete:§r Craft or make Recrystallizer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.131C55588ECC7557.title: "Recrystallizer"
+	quest.13C749CFE65E4E12.quest_desc: [
+		"A rare Metalworks metal."
+		""
+		"§e§lHow to complete:§r Craft or make Uru Metal Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.13C749CFE65E4E12.title: "Uru Metal"
+	quest.14471D77C80AF62F.quest_desc: [
+		"Bindings add traits. Flax string makes a simple binding."
+		""
+		"§e§lHow to complete:§r Craft or make Binding Blueprint and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.14471D77C80AF62F.title: "Binding Blueprint"
+	quest.15CE404D444D921A.quest_desc: [
+		"Grade materials to boost their stats."
+		""
+		"§e§lHow to complete:§r Craft or make Material Grader and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.15CE404D444D921A.title: "Material Grader"
-	quest.17D1FEEAA9BFD332.quest_desc: ["Fix tools anywhere."]
+	quest.16B8EFF76D419F24.quest_desc: [
+		"Metalworks casts tool heads directly from molten metal."
+		""
+		"§e§lHow to complete:§r Craft or make Sword Cast and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.16B8EFF76D419F24.title: "Casts"
+	quest.17D1FEEAA9BFD332.quest_desc: [
+		"Fix tools anywhere."
+		""
+		"§e§lHow to complete:§r Craft or make Crude Repair Kit and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.17D1FEEAA9BFD332.title: "Repair Kits"
-	quest.1ABCE788EE80ED18.quest_desc: ["A top-tier alloy."]
+	quest.188FF48D76AF221B.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Blaze Gold Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.188FF48D76AF221B.title: "Blaze Gold"
+	quest.1A1E22549CF76985.quest_desc: [
+		"Coats a tool in another material for its traits."
+		""
+		"§e§lHow to complete:§r Craft or make Coating Blueprint and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1A1E22549CF76985.title: "Coating Blueprint"
+	quest.1A6F8332F9261FB7.quest_desc: [
+		"A Nether metal."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Crimson Iron Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1A6F8332F9261FB7.title: "Crimson Iron"
+	quest.1ABCE788EE80ED18.quest_desc: [
+		"A top-tier alloy."
+		""
+		"§e§lHow to complete:§r Craft or make Tyrian Steel Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1ABCE788EE80ED18.title: "Tyrian Steel"
 	quest.1C53DD17E311A05A.quest_desc: [
-		"&dNine Craft Quest Book&r"
+		"§dNine Craft Quest Book§r"
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.1C53DD17E311A05A.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.1C53DD17E311A05A.title: "&5Nine Craft&r - Quest Book Notice"
-	quest.1D68FA8E5D527A4A.quest_desc: ["Cast tool heads from molten metals."]
+	quest.1C53DD17E311A05A.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.1D68FA8E5D527A4A.quest_desc: [
+		"Cast tool heads from molten metals."
+		""
+		"§e§lHow to complete:§r Craft or make Pickaxe Cast and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.1D68FA8E5D527A4A.title: "Silent Gear Metalworks"
-	quest.4571920CF236B069.quest_desc: ["Take tools apart to get parts back."]
+	quest.3279A221ABF755C9.quest_desc: [
+		"Make your own elytra from Silent Gear materials."
+		""
+		"§e§lHow to complete:§r Craft or make Elytra Blueprint and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.3279A221ABF755C9.title: "Elytra Blueprint"
+	quest.4354A90C9FC79E4E.quest_desc: [
+		"Fixes tools better."
+		""
+		"§e§lHow to complete:§r Craft or make Sturdy Repair Kit and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4354A90C9FC79E4E.title: "Sturdy Repair Kit"
+	quest.4554CCEFA87669B3.quest_desc: [
+		"Grips add durability and stats to tools."
+		""
+		"§e§lHow to complete:§r Craft or make Grip Blueprint and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4554CCEFA87669B3.title: "Grip Blueprint"
+	quest.4571920CF236B069.quest_desc: [
+		"Take tools apart to get parts back."
+		""
+		"§e§lHow to complete:§r Craft or make Salvager and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.4571920CF236B069.title: "Salvager"
-	quest.5A788FC5B2504748.quest_desc: ["A blueprint shapes the head of a tool."]
+	quest.529E8B25CE2B3F0D.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Mace Blueprint and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.529E8B25CE2B3F0D.title: "Mace Blueprint"
+	quest.5A788FC5B2504748.quest_desc: [
+		"§eHow to make a tool:§r craft a blueprint (for example, a Pickaxe Blueprint). Put the blueprint and materials in a crafting grid to make the head. Then combine head + rod (+ binding, grip or tip if you like) to make the tool."
+		""
+		"§e§lHow to complete:§r Craft or make Pickaxe Blueprint and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.5A788FC5B2504748.title: "Blueprints"
-	quest.75052CF638FBC672.quest_desc: ["Makes special Silent Gear alloys."]
+	quest.5BD392B78EB6FE41.quest_desc: [
+		"Part of azure electrum."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Azure Silver Dust and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5BD392B78EB6FE41.title: "Azure Silver"
+	quest.6FF24E8CA08DA51E.quest_desc: [
+		"Tyrian steel, starlight charging and graded materials. Your tools are one of a kind."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Tyrian Steel Ingot, Starlight Charger and Material Grader and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.6FF24E8CA08DA51E.title: "Gearsmith"
+	quest.75052CF638FBC672.quest_desc: [
+		"Makes special Silent Gear alloys."
+		""
+		"§e§lHow to complete:§r Craft or make Alloy Forge and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.75052CF638FBC672.title: "Alloy Forge"
 	quest.7928E8F4133A05DB.quest_desc: [
-		"Silent Gear builds tools from parts. Every material changes the stats, so there's always a better combo to find."
+		"Silent Gear builds tools and armor from parts. Every material has its own stats, and mixing materials in one part blends them."
+		""
+		"§eThe path:§r collect flax for bindings, make blueprints, craft tool heads from any metal or gem, then assemble the tool. Later, grade materials, forge alloys and charge them with starlight. Start by farming some flax string."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Flax String and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.7928E8F4133A05DB.title: "Tools Your Way"
-	quest.7AC12F104FD7BD4A.quest_desc: ["Charge materials for bonus stats."]
+	quest.7AC12F104FD7BD4A.quest_desc: [
+		"Charge materials for bonus stats."
+		""
+		"§e§lHow to complete:§r Craft or make Starlight Charger and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.7AC12F104FD7BD4A.title: "Starlight Charger"
 }

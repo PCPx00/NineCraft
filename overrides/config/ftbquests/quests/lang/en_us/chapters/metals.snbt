@@ -1,85 +1,291 @@
 {
-	quest.09D3DEB31434C891.quest_desc: ["Used in electronics and a few magic recipes."]
+	quest.09D3DEB31434C891.quest_desc: [
+		"Used in electronics and a few magic recipes."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Silver Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.09D3DEB31434C891.title: "Silver"
 	quest.10A31BC3B6815F87.quest_desc: [
 		"A strange dark dimension with Allthemodium and some mean mobs."
+		""
+		"§e§lHow to complete:§r Travel to the Other. The quest completes on its own as soon as you do it. §7(Optional: you can skip this one.)§r"
 	]
 	quest.10A31BC3B6815F87.title: "The Other"
 	quest.11E4CC90A097EA92.quest_desc: [
 		"Travel to the Mining dimension, a flat world made for strip mining."
+		""
+		"§e§lHow to complete:§r Craft or make Teleport Pad and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.11E4CC90A097EA92.title: "Teleport Pad"
+	quest.12FE1C2115EB95D6.quest_desc: [
+		"Copper and tin."
+		""
+		"§e§lHow to complete:§r Craft or make Bronze Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.12FE1C2115EB95D6.title: "Bronze"
 	quest.13B2B4C5863B64AA.quest_desc: [
 		"All the Ores adds tin, lead, silver, nickel, osmium, zinc and more. Every tech mod shares the same ores, so one mine feeds them all."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Tin Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.13B2B4C5863B64AA.title: "Extra Ores"
-	quest.1600CEC74BFAC850.quest_desc: ["Blend Vibranium and Allthemodium."]
-	quest.1600CEC74BFAC850.title: "First Alloy"
-	quest.1656A693BA7BC310.quest_desc: [
-		"&dNine Craft Quest Book&r"
+	quest.1600CEC74BFAC850.quest_desc: [
+		"Blend Vibranium and Allthemodium."
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"§e§lHow to complete:§r Craft or make Vibranium - Allthemodium Alloy Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1600CEC74BFAC850.title: "First Alloy"
+	quest.161B193E6B157BE1.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Block of Unobtainium and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.161B193E6B157BE1.title: "Unobtainium Block"
+	quest.1656A693BA7BC310.quest_desc: [
+		"§dNine Craft Quest Book§r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.1656A693BA7BC310.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.1656A693BA7BC310.title: "&5Nine Craft&r - Quest Book Notice"
-	quest.16BA642BF941E43A.quest_desc: ["Required to mine Unobtainium."]
+	quest.1656A693BA7BC310.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.169F18404492605D.quest_desc: [
+		"The best pickaxe."
+		""
+		"§e§lHow to complete:§r Craft or make Unobtainium Pickaxe and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.169F18404492605D.title: "Unobtainium Pickaxe"
+	quest.16A8A70A9EA40088.quest_desc: [
+		"Used in brass."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Zinc Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.16A8A70A9EA40088.title: "Zinc"
+	quest.16BA642BF941E43A.quest_desc: [
+		"Required to mine Unobtainium."
+		""
+		"§e§lHow to complete:§r Craft or make Vibranium Pickaxe and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.16BA642BF941E43A.title: "Vibranium Pickaxe"
-	quest.170E7E160F55310B.quest_desc: ["Required to mine Vibranium."]
+	quest.170E7E160F55310B.quest_desc: [
+		"Required to mine Vibranium."
+		""
+		"§e§lHow to complete:§r Craft or make Allthemodium Pickaxe and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.170E7E160F55310B.title: "Allthemodium Pickaxe"
-	quest.1770A562C6266E3B.quest_desc: ["Radioactive fuel for reactors."]
+	quest.1770A562C6266E3B.quest_desc: [
+		"Radioactive fuel for reactors."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Uranium Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1770A562C6266E3B.title: "Uranium"
-	quest.17C9C054BBA574B2.quest_desc: ["A whole world of ore with no structures in the way."]
+	quest.17736E84F80970F8.quest_desc: [
+		"Iron and nickel."
+		""
+		"§e§lHow to complete:§r Craft or make Invar Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.17736E84F80970F8.title: "Invar"
+	quest.17C9C054BBA574B2.quest_desc: [
+		"A whole world of ore with no structures in the way."
+		""
+		"§e§lHow to complete:§r Travel to the Mining dimension. The quest completes on its own as soon as you do it."
+	]
 	quest.17C9C054BBA574B2.title: "The Mining Dimension"
+	quest.182DDF647F7B2D79.quest_desc: [
+		"A light-infused alloy."
+		""
+		"§e§lHow to complete:§r Craft or make Lumium Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.182DDF647F7B2D79.title: "Lumium"
 	quest.183B5A39566A99BE.quest_desc: [
 		"Process it like any other ore. More machines means more ingots."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Raw Allthemodium Ore and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.183B5A39566A99BE.title: "Raw Allthemodium"
-	quest.184DBB2986020E13.quest_desc: ["Radiation shielding and batteries."]
+	quest.184DBB2986020E13.quest_desc: [
+		"Radiation shielding and batteries."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Lead Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.184DBB2986020E13.title: "Lead"
-	quest.18F9F2237C09D5FA.quest_desc: ["Mekanism is built on osmium. Mine plenty."]
+	quest.185A93B8E29605C0.quest_desc: [
+		"A block of each metal and the Alloy Paxel. You've dug to the bottom of everything."
+		""
+		"§e§lHow to complete:§r Craft or make Block of Unobtainium, Block of Vibranium, Block of Allthemodium and Allthemodium Alloy Paxel and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.185A93B8E29605C0.title: "Metal Master"
+	quest.18C01B7AAD296008.quest_desc: [
+		"§e§lHow to complete:§r Find, mine or loot Nickel Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.18C01B7AAD296008.title: "Nickel"
+	quest.18F9F2237C09D5FA.quest_desc: [
+		"Mekanism is built on osmium. Mine plenty."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Osmium Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.18F9F2237C09D5FA.title: "Osmium"
 	quest.1AB6C4510B99D0F7.quest_desc: [
 		"Rubies, sapphires and peridot turn up in the Overworld too."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Ruby and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
 	]
 	quest.1AB6C4510B99D0F7.title: "Gems"
-	quest.1B0D7432B2502C3D.quest_desc: ["A good stack of the first special metal."]
+	quest.1B0D7432B2502C3D.quest_desc: [
+		"A good stack of the first special metal."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 9 x Allthemodium Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1B0D7432B2502C3D.title: "Allthemodium Ingots"
+	quest.1B63CF54AB7DA5A2.quest_desc: [
+		"§e§lHow to complete:§r Find, mine or loot Sapphire and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1B63CF54AB7DA5A2.title: "Sapphire"
 	quest.1BA8AD3C347810A2.quest_desc: [
 		"The Piglich is a Nether boss that drops this heart. Come prepared. It's a powerful crafting ingredient."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Piglich Heart and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
 	]
 	quest.1BA8AD3C347810A2.title: "Piglich Heart"
-	quest.1D0A358B3E692094.quest_desc: ["Unobtainium and Vibranium, the toughest mix."]
+	quest.1D0A358B3E692094.quest_desc: [
+		"Unobtainium and Vibranium, the toughest mix."
+		""
+		"§e§lHow to complete:§r Craft or make Unobtainium - Vibranium Alloy Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1D0A358B3E692094.title: "Third Alloy"
-	quest.1D31800682D15323.quest_desc: ["Unobtainium and Allthemodium."]
+	quest.1D31800682D15323.quest_desc: [
+		"Unobtainium and Allthemodium."
+		""
+		"§e§lHow to complete:§r Craft or make Unobtainium - Allthemodium Alloy Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1D31800682D15323.title: "Second Alloy"
-	quest.1EA5C7C27092D4DE.quest_desc: ["Mined in the Nether's lower layers."]
+	quest.1DF2F8209FE532BD.quest_desc: [
+		"Crush ores into dust in the crafting grid for an early bonus."
+		""
+		"§e§lHow to complete:§r Craft or make Copper Ore Hammer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1DF2F8209FE532BD.title: "Ore Hammers"
+	quest.1E5A546E32923B08.quest_desc: [
+		"Gold and silver."
+		""
+		"§e§lHow to complete:§r Craft or make Electrum Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1E5A546E32923B08.title: "Electrum"
+	quest.1EA5C7C27092D4DE.quest_desc: [
+		"Vibranium ore is found in the Nether's deep layers and in The Other. You need an Allthemodium pickaxe to mine it."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 9 x Vibranium Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1EA5C7C27092D4DE.title: "Vibranium"
 	quest.1EEAC24BCF894728.quest_desc: [
 		"You'll need a netherite pickaxe before you can mine Allthemodium ore."
+		""
+		"§e§lHow to complete:§r Craft or make Netherite Pickaxe and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.1EEAC24BCF894728.title: "The Right Tool"
-	quest.212F4719C0477B40.quest_desc: ["Found deep underground, especially near ancient cities."]
+	quest.1F5DAAD78F8A6875.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Block of Vibranium and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1F5DAAD78F8A6875.title: "Vibranium Block"
+	quest.1F6C51FC59CBB345.quest_desc: [
+		"A rare metal."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Platinum Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1F6C51FC59CBB345.title: "Platinum"
+	quest.209BD7F2E2606375.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Block of Allthemodium and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.209BD7F2E2606375.title: "Allthemodium Block"
+	quest.20E9848AEAD25170.quest_desc: [
+		"§e§lHow to complete:§r Find, mine or loot Aluminum Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.20E9848AEAD25170.title: "Aluminum"
+	quest.212F4719C0477B40.quest_desc: [
+		"Allthemodium ore generates deep underground, often near ancient cities and in the Mining dimension. It shows up as a glowing yellow ore."
+		""
+		"§eTip:§r mine it with a netherite pickaxe, then process it in your best ore line."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Allthemodium Ore and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.212F4719C0477B40.title: "Allthemodium Ore"
-	quest.2DBB9D9CDE331BD6.quest_desc: ["The rarest of the three, found in the End."]
+	quest.2DBB9D9CDE331BD6.quest_desc: [
+		"Unobtainium ore is found in the End. You need a Vibranium pickaxe to mine it."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 9 x Unobtainium Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.2DBB9D9CDE331BD6.title: "Unobtainium"
-	quest.38FFAEFB4C72AB05.quest_desc: ["An empty void dimension. A blank canvas for huge builds."]
+	quest.38FFAEFB4C72AB05.quest_desc: [
+		"An empty void dimension. A blank canvas for huge builds."
+		""
+		"§e§lHow to complete:§r Travel to the Beyond. The quest completes on its own as soon as you do it. §7(Optional: you can skip this one.)§r"
+	]
 	quest.38FFAEFB4C72AB05.title: "The Beyond"
 	quest.3D2304D6DCA49438.quest_desc: [
-		"Allthemodium, Vibranium and Unobtainium are the strongest metals in the pack. Each lives in a different dimension and needs a better pickaxe than the last."
+		"Allthemodium, Vibranium and Unobtainium are the strongest metals in the pack. Each lives in a different dimension and needs a stronger pickaxe than the last."
+		""
+		"§eThe path:§r netherite pickaxe, then Allthemodium (Overworld, deep), Vibranium (Nether) and Unobtainium (End). Along the way, the extra ores from All the Ores fuel every tech mod. Start with some raw iron."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 16 x Raw Iron and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.3D2304D6DCA49438.title: "Deep Metals"
+	quest.422A4C973C283EB5.quest_desc: [
+		"The top All the Ores alloy."
+		""
+		"§e§lHow to complete:§r Craft or make Enderium Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.422A4C973C283EB5.title: "Enderium"
 	quest.45B317AB0A033DFE.quest_desc: [
 		"AllTheCompressed squeezes blocks into denser versions to save space."
+		""
+		"§e§lHow to complete:§r Craft or make Diamond Block 3X and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
 	]
 	quest.45B317AB0A033DFE.title: "Compression"
+	quest.476DDCA2312D76C8.quest_desc: [
+		"§e§lHow to complete:§r Find, mine or loot Peridot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.476DDCA2312D76C8.title: "Peridot"
+	quest.5100CCFFA3DCEBE7.quest_desc: [
+		"Found in the Mining dimension's forests."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Ancient Sapling and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.5100CCFFA3DCEBE7.title: "Ancient Sapling"
+	quest.542D4B872D2D30ED.quest_desc: [
+		"Copper and nickel."
+		""
+		"§e§lHow to complete:§r Craft or make Constantan Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.542D4B872D2D30ED.title: "Constantan"
+	quest.5C5A9EB45D14F379.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Block of Piglich Hearts and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.5C5A9EB45D14F379.title: "Heart Block"
 	quest.69C49375F2A31F3A.quest_desc: [
 		"Steel, bronze, electrum, invar and friends are made in machines. Steel shows up everywhere."
+		""
+		"§e§lHow to complete:§r Craft or make Steel Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.69C49375F2A31F3A.title: "Alloys"
+	quest.6C8E17E3E4D34827.quest_desc: [
+		"A glowing alloy."
+		""
+		"§e§lHow to complete:§r Craft or make Signalum Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.6C8E17E3E4D34827.title: "Signalum"
+	quest.7A6B8F358CD053F3.quest_desc: [
+		"A super-tool made from the alloys."
+		""
+		"§e§lHow to complete:§r Craft or make Allthemodium Alloy Pick and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.7A6B8F358CD053F3.title: "Alloy Pickaxe"
+	quest.7F1E25E95A9679D2.quest_desc: [
+		"Pick, axe and shovel in one."
+		""
+		"§e§lHow to complete:§r Craft or make Allthemodium Alloy Paxel and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.7F1E25E95A9679D2.title: "Alloy Paxel"
 }

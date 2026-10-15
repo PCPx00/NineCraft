@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>⚙️ Tech &nbsp;•&nbsp; 🔮 Magic &nbsp;•&nbsp; ⚔️ RPG &nbsp;•&nbsp; 🌻 Cozy &nbsp;•&nbsp; 🍲 Food &nbsp;•&nbsp; ⚡ Power</b><br>
-  <i>504 mods. 40 quest chapters. 810+ hand-written quests. One giant world where every playstyle lives side by side.</i>
+  <i>512 mods. 43 quest chapters. 1,650+ hand-written quests. One giant world where every playstyle lives side by side.</i>
 </p>
 
 <p align="center">
@@ -14,17 +14,18 @@
   <a href="https://www.curseforge.com/minecraft/modpacks/nine-craft"><img src="https://img.shields.io/curseforge/dt/1703220?style=for-the-badge&logo=curseforge&label=Downloads&color=8B5CF6" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=for-the-badge" alt="Minecraft 1.21.1">
   <img src="https://img.shields.io/badge/NeoForge-21.1.250-E07A2E?style=for-the-badge" alt="NeoForge 21.1.250">
-  <img src="https://img.shields.io/badge/Version-v2.0.2-A855F7?style=for-the-badge" alt="Version v2.0.2">
+  <img src="https://img.shields.io/badge/Version-v2.5.0-A855F7?style=for-the-badge" alt="Version v2.5.0">
 </p>
 
 <p align="center">
   <a href="https://www.curseforge.com/minecraft/modpacks/nine-craft"><b>📥 Download on CurseForge</b></a> &nbsp;·&nbsp;
   <a href="MODLIST.md"><b>📜 Mod List</b></a> &nbsp;·&nbsp;
+  <a href="CHANGELOG.md"><b>📰 Changelog</b></a> &nbsp;·&nbsp;
   <a href="#-gallery"><b>🖼️ Gallery</b></a> &nbsp;·&nbsp;
   <a href="../../issues/new/choose"><b>🐛 Report a Bug</b></a>
 </p>
 
-<p align="center"><img src="assets/branding/stats.gif" alt="40 chapters, 810+ quests, NeoForge 1.21.1, 6 playstyles" width="840"></p>
+<p align="center"><img src="assets/branding/stats.gif" alt="512 mods, 43 chapters, 1650+ quests, NeoForge 1.21.1" width="840"></p>
 
 <p align="center"><img src="assets/branding/divider.gif" alt="" width="840"></p>
 
@@ -36,14 +37,24 @@ Build a roaring **Create** factory in the morning. Sling fireballs with **Iron's
 
 Every major system is tied together by a **fully original quest book**, so you always know what to try next.
 
-- 🟣 **504 hand-picked mods** covering tech, magic, RPG, building, farming, food and exploration
-- 📖 **40 quest chapters / 810+ quests**, all written from scratch for Nine Craft
+- 🟣 **512 hand-picked mods** covering tech, magic, RPG, building, farming, food and exploration
+- 📖 **43 quest chapters / 1,650+ quests**, all written from scratch for Nine Craft
+- ☠️ **Nine Craft's own Grim Industries mods** by xTri6, each with its own quest chapter
 - 🎁 **Custom loot tables** (Common ➜ Uncommon ➜ Rare ➜ **Epic**) that reward you for crafting
 - 🌄 **Shader-ready out of the box** with Iris plus Complementary Reimagined, Complementary Unbound and Sildur's Vibrant
 - 🚀 **Performance-tuned** with Sodium, Lithium, ImmediatelyFast, Entity Culling, FastBoot and more
 - 👥 **Built for friends** with FTB Teams, FTB Chunks claiming and shared quest progress
 
 <p align="center"><img src="assets/branding/choose_your_path.gif" alt="Choose your path: Tech, Magic, RPG, Cozy, Food, Power" width="840"></p>
+
+> 🆕 **v2.5.0 is out!** Grim Pipe Industries and Grim Storage Industries join the pack, the quest book grows to ~1,650 quests with tier rows in every chapter, and 95 mods get updates. [Read the full changelog ➜](CHANGELOG.md)
+
+<p align="center"><img src="assets/branding/grim_banner.gif" alt="Grim Industries" width="840"></p>
+<p align="center"><i>Three original mods, made by xTri6 for Nine Craft.</i></p>
+
+- ☠️ **[Grim Soul Industries](https://www.curseforge.com/minecraft/mc-mods/grim-soul-industries)**: mob farming the grim way. Reaper Virtualization Chambers, Reaper Generators, Spawner Farms, the Soul Forge and a full deck of upgrade cards (Damage, Range, Harvest, Beheading, No AI, Boss Core and more)
+- ╬ **[Grim Pipe Industries](https://www.curseforge.com/minecraft/mc-mods/grim-pipe-industries)**: item, fluid and omni pipes with the Reaper Wrench, Soul Links, tag filters and Whispering / Wraithbound upgrades
+- ▣ **[Grim Storage Industries](https://www.curseforge.com/minecraft/mc-mods/grim-storage-industries)**: a soul-powered storage network with Soul Cable, the Soul Terminal, Stock Keeper, Void Filters, autocrafting and cells up to the Singularity Cell
 
 <p align="center"><img src="assets/branding/divider.gif" alt="" width="840"></p>
 
@@ -75,7 +86,9 @@ Every major system is tied together by a **fully original quest book**, so you a
 
 The heart of Nine Craft is its hand-crafted **FTB Quests** book: every quest, description, chapter layout and piece of chapter art was made from scratch for this pack. You can find it in [`overrides/config/ftbquests`](overrides/config/ftbquests).
 
-- 📚 **40 chapters** and **~810 quests** covering nearly every major mod
+- 📚 **43 chapters** and **~1,650 quests** covering nearly every major mod
+- 📝 Every quest ends with a yellow **How to complete:** line that says exactly what to find, craft, kill or visit
+- 🪜 Every chapter is split into **labeled tier rows** (Inferium ➜ Prudentium ➜ … ➜ Insanium in Mystical Agriculture) and ends with a big **Mastered** milestone
 - ⭐ **The Main Path** walks you through the whole game:
   - 🪓 Punch Some Trees ➜ ⛏️ First Pickaxe ➜ 🔥 Iron Age ➜ 💎 Diamonds!
   - 🌋 Welcome to the Nether ➜ 👁️ Eyes of Ender ➜ 🐉 Slay the Dragon ➜ 💀 Face the Wither
@@ -88,16 +101,16 @@ The heart of Nine Craft is its hand-crafted **FTB Quests** book: every quest, de
   - 🧰 **~110 quests hand you the materials for your next step**
 
 <details>
-<summary><b>🧭 All 40 chapters by section</b></summary>
+<summary><b>🧭 All 43 chapters by section</b></summary>
 
 | Section | Chapters |
 |---|---|
 | ✦ **Start Here** | Welcome to Nine Craft, The Main Path |
 | ⬜ **The Basics** | Spark of Power, Chests & Drawers, Gearing Up, Harvest & Hearth, Items on the Move |
-| 🟩 **Resources & Farming** | Deep Metals, Mystical Agriculture, Productive Bees, Productive Trees, Hostile Neural Networks |
+| 🟩 **Resources & Farming** | Deep Metals, Mystical Agriculture, Productive Bees, Productive Trees, Hostile Neural Networks, **Grim Soul Industries** |
 | 🟦 **Technology** | Create, Mekanism, Mekanism Generators, Oritech, Ender IO, Industrial Foregoing, Powah!, Extreme Reactors, Actually Additions, Just Dire Things, XyCraft, Integrated Dynamics, Compact Machines |
 | 🟧 **Modern Industrialization** | Steam Age, Electric Age, Digital Age, Quantum Endgame |
-| 🟨 **Storage & Logistics** | Applied Energistics, Refined Storage |
+| 🟨 **Storage & Logistics** | Applied Energistics, Refined Storage, **Grim Pipe Industries**, **Grim Storage Industries** |
 | 🟪 **Magic** | Ars Nouveau, Iron's Spellbooks, Occultism, Enchanting |
 | 🟥 **Adventure & Combat** | Bounty Board, Cataclysm, The Bumblezone, Silent Gear, Artifacts & Relics |
 
@@ -116,6 +129,7 @@ The heart of Nine Craft is its hand-crafted **FTB Quests** book: every quest, de
 - ✦ **Ender IO**, ◈ **Actually Additions**, ✹ **Just Dire Things**, ◇ **XyCraft**
 - ⌬ **Integrated Dynamics** (+ Tunnels, Crafting, Terminals, Scripting), 🧰 **RFTools** and **XNet**
 - 📦 **Compact Machines**: build an entire factory inside a single block
+- 🔌 **Create Crafts & Additions** (electricity for Create), **Logistics Network**, **Ender Logistics Network** and **SecurityCraft**
 
 <p align="center"><img src="assets/branding/magic_banner.gif" alt="Magic" width="840"></p>
 <p align="center"><i>Spells, rituals, spirits and enchantments for the arcane-minded.</i></p>
@@ -131,17 +145,22 @@ The heart of Nine Craft is its hand-crafted **FTB Quests** book: every quest, de
 <p align="center"><i>Loot to find, gear to forge, monsters to hunt and bosses to topple.</i></p>
 
 - ☠️ **L_Ender's Cataclysm** + **Cataclysm Dimensions**: epic boss fights with unique arenas and loot
+- 🐲 **Mowzie's Mobs**: new bosses and creatures
+- 🌑 **Deeper and Darker**: a whole new dimension beyond the Deep Dark
+- 🗡️ **Better Combat**: weapon swings and combos
 - ⚔️ **Bounty Board** chapter: hunt everything from Zombies to the Elder Guardian and **The Warden**
 - 🌀 **Gateways to Eternity**, 💎 **Apotheosis** affixed loot and gems
 - 🛡️ **Silent Gear**, **Silent's Gems**, **Spartan Weaponry** & **Spartan Shields**
 - 💍 **Artifacts** & **Relics**: Cloud in a Bottle, Running Shoes, Eternal Steak… and **Mimics!** 😱
 - 🛡️ Armor progression: Iron ➜ Diamond ➜ Netherite ➜ **Allthemodium ➜ Vibranium ➜ Unobtainium**
-- 🐝 **The Bumblezone**, 🏰 **YUNG's**, **Repurposed Structures**, **Lootr** and **BetterEnd**
+- 🐝 **The Bumblezone**, 🏰 **YUNG's**, **Repurposed Structures**, **MES (Moog's End Structures)**, **Lootr** and **BetterEnd**
 
 <p align="center"><img src="assets/branding/cozy_banner.gif" alt="Cozy" width="840"></p>
 <p align="center"><i>Slow down, build something pretty and enjoy your world.</i></p>
 
 - 🛋️ Decorate with **MrCrayfish's Furniture: Refurbished**, **Handcrafted**, **Macaw's**, **Chipped**, **Rechiseled** and **Supplementaries**
+- 🪶 **Quark** + **Quark Oddities**: hundreds of small vanilla-friendly additions
+- 🍂 **Serene Seasons**: spring, summer, autumn and winter that change how crops grow
 - 🐝 **Productive Bees**, 🌳 **Productive Trees**, 🪴 **Botany Pots** and 🎣 **Aquaculture 2**
 - 🧑‍🌾 **Easy Villagers**, **Guard Villagers** & **Villager Names**
 - 🛏️ **Comforts**, **Fancy Beds** & **Plushie Buddies**
@@ -155,6 +174,7 @@ The heart of Nine Craft is its hand-crafted **FTB Quests** book: every quest, de
 - 🍳 **Farmer's Delight** + **Extended**: cooking pots, stoves, cutting boards and hearty meals
 - 🍅 **Pam's HarvestCraft 2** (Crops, Trees, Food Extended & Fantasy)
 - 🧑‍🍳 Delight add-ons: Aquaculture Delight, Occult Delight, Ars Nouveau's Flavors & Delight, Chef's Delight
+- 🍽️ **Cooking for Blockheads** and **Farming for Blockheads**: a kitchen multiblock and a farmer's market
 - 🌾 **Mystical Agriculture** (+ Agradditions): grow your resources
 - 🍎 **Iron Apples**, **AppleSkin** and the **Harvest & Hearth** quest chapter
 
@@ -197,7 +217,7 @@ The heart of Nine Craft is its hand-crafted **FTB Quests** book: every quest, de
 Nine Craft works great in multiplayer with FTB Teams, FTB Chunks land claiming, FTB Essentials and FTB Backups built in. When a server pack is posted on the CurseForge **Files** tab, use it, and give the server at least as much RAM as the client (9–10 GB).
 
 <p align="center">
-  <a href="https://url-shortener.curseforge.com/gJI0H"><img src="assets/branding/bisect_banner.gif" alt="Get a Nine Craft server with BisectHosting" width="837"></a>
+  <img src="assets/branding/kinetic_banner.gif" alt="Play Nine Craft with friends: servers by Kinetic Hosting" width="837">
 </p>
 
 <p align="center"><img src="assets/branding/divider.gif" alt="" width="840"></p>
@@ -207,9 +227,12 @@ Nine Craft works great in multiplayer with FTB Teams, FTB Chunks land claiming, 
 | Path | What it is |
 |---|---|
 | [`manifest.json`](manifest.json) | CurseForge pack manifest: Minecraft/NeoForge versions and every mod file the pack installs |
-| [`modlist.html`](modlist.html) / [`MODLIST.md`](MODLIST.md) | The full list of 504 mods with links to each project |
-| [`overrides/config/ftbquests/`](overrides/config/ftbquests) | The Nine Craft quest book: 40 chapters, loot tables and English text |
-| [`overrides/kubejs/assets/ninecraft/`](overrides/kubejs/assets/ninecraft) | Chapter title art and quest book images |
+| [`CHANGELOG.md`](CHANGELOG.md) | What changed in every release |
+| [`modlist.html`](modlist.html) / [`MODLIST.md`](MODLIST.md) | The full list of 512 mods with links to each project |
+| [`overrides/config/ftbquests/`](overrides/config/ftbquests) | The Nine Craft quest book: 43 chapters, loot tables and English text |
+| [`overrides/kubejs/assets/ninecraft/`](overrides/kubejs/assets/ninecraft) | Chapter title art, tier labels and quest book images |
+| [`overrides/config/`](overrides/config) | Every mod config the pack ships with |
+| [`overrides/resourcepacks/`](overrides/resourcepacks) | The `9MMCraft_QuestArt` resource pack |
 | [`assets/branding/`](assets/branding) | Logo, banners and dividers used on CurseForge and here |
 | [`assets/screenshots/`](assets/screenshots) | Shader screenshots for the gallery |
 
@@ -217,7 +240,7 @@ Nine Craft works great in multiplayer with FTB Teams, FTB Chunks land claiming, 
 
 ### ✏️ Editing the quest book
 
-1. Copy `overrides/config` and `overrides/kubejs` into your Nine Craft instance folder.
+1. Copy `overrides/config/ftbquests` and `overrides/kubejs` into your Nine Craft instance folder.
 2. In-game, open the quest book and turn on **edit mode** (the pencil button).
 3. Quest text lives in `config/ftbquests/quests/lang/en_us/`, so it's easy to translate or tweak.
 

@@ -1,35 +1,83 @@
 {
-	quest.1286C6226BA32C14.quest_desc: ["Turns stone into ores. Slowly."]
+	quest.1286C6226BA32C14.quest_desc: [
+		"Turns stone into ores. Slowly."
+		""
+		"§e§lHow to complete:§r Craft or make Lens of the Miner and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1286C6226BA32C14.title: "Lens of the Miner"
 	quest.13326F08E3DEDE81.quest_desc: [
-		"&dNine Craft Quest Book&r"
+		"§dNine Craft Quest Book§r"
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.13326F08E3DEDE81.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.13326F08E3DEDE81.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.13326F08E3DEDE81.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.14A22643FA544065.quest_desc: [
+		"Pulls enchantments off items."
+		""
+		"§e§lHow to complete:§r Craft or make Lens of Disenchanting and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.14A22643FA544065.title: "Lens of Disenchanting"
 	quest.15E204F77D2313D1.quest_desc: [
-		"Fires a beam that converts blocks and items into new materials."
+		"§eHow:§r place the Reconstructor facing a block or with items dropped in front of it. Give it power and a redstone pulse, and it converts what it hits (iron into restonia crystals, for example). Check JEI for all conversions."
+		""
+		"§e§lHow to complete:§r Craft or make Atomic Reconstructor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.15E204F77D2313D1.title: "Atomic Reconstructor"
-	quest.1C3A3034A6BCCEFD.quest_desc: ["A simple generator."]
+	quest.1C3A3034A6BCCEFD.quest_desc: [
+		"A simple generator."
+		""
+		"§e§lHow to complete:§r Craft or make Coal Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1C3A3034A6BCCEFD.title: "Coal Generator"
-	quest.1D0E70B89F98AAC5.quest_desc: ["Brew coffee with buffs."]
+	quest.1D0E70B89F98AAC5.quest_desc: [
+		"Brew coffee with buffs."
+		""
+		"§e§lHow to complete:§r Craft or make Coffee Maker and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.1D0E70B89F98AAC5.title: "Coffee Machine"
-	quest.1D4F31D941359935.quest_desc: ["Made in the reconstructor."]
+	quest.1D4F31D941359935.quest_desc: [
+		"Made in the reconstructor."
+		""
+		"§e§lHow to complete:§r Craft or make Void Crystal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1D4F31D941359935.title: "Void Crystal"
-	quest.3A6379E31AE01B0D.quest_desc: ["The beam hurts anything it touches."]
+	quest.3A6379E31AE01B0D.quest_desc: [
+		"The beam hurts anything it touches."
+		""
+		"§e§lHow to complete:§r Craft or make Lens of Certain Death and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.3A6379E31AE01B0D.title: "Lens of Certain Death"
+	quest.3D6F138AB0855D0E.quest_desc: [
+		"Kills mobs and gives XP."
+		""
+		"§e§lHow to complete:§r Craft or make Lens of the Killer (WIP) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.3D6F138AB0855D0E.title: "Lens of the Killer"
+	quest.6043B6C2F0170013.quest_desc: [
+		"A reconstructor, a pile of void crystals and the miner lens."
+		""
+		"§e§lHow to complete:§r Craft or make Atomic Reconstructor, 16 x Void Crystal and Lens of the Miner and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.6043B6C2F0170013.title: "Actually Mastered"
 	quest.67FD45905267692C.quest_desc: [
-		"Actually Additions is a grab bag of handy machines. Its heart is the Atomic Reconstructor."
+		"Actually Additions is a collection of handy machines. The Atomic Reconstructor is its heart: a laser that changes blocks and items into new ones."
+		""
+		"Start by making a coal block to feed your first generator."
+		""
+		"§e§lHow to complete:§r Craft or make Block of Coal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.67FD45905267692C.title: "Lasers and Lenses"
-	quest.78954ACD74C3DCF8.quest_desc: ["A new ore used in many recipes."]
+	quest.78954ACD74C3DCF8.quest_desc: [
+		"A new ore used in many recipes."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Black Quartz and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.78954ACD74C3DCF8.title: "Black Quartz"
 }

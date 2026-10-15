@@ -12,9 +12,9 @@
 			height: 3.0d
 			image: "ninecraft:textures/quests/titles/farming.png"
 			rotation: 0.0d
-			width: 11.25d
-			x: 4.625d
-			y: -10.0d
+			width: 15.0d
+			x: 6.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: 0.0d
+			y: 9.5d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 11.5d
-			y: -4.5d
+			x: 14.5d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 4.0d
-			y: 8.5d
+			x: 5.0d
+			y: 22.5d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,24 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 11.5d
-			y: 4.0d
+			x: 14.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/farming_0.png"
+			rotation: 0.0d
+			width: 5.5d
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/farming_1.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 2.75d
+			y: 14.0d
 		}
 	]
 	order_index: 4
@@ -101,11 +117,12 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["1FB5CDD184024749"]
 			id: "1EA2DFF6C97519C5"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "1EDCCCCB54D52156"
@@ -132,11 +149,11 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: -5.0d
+			x: 0.0d
+			y: 17.5d
 		}
 		{
-			dependencies: ["1EA2DFF6C97519C5"]
+			dependencies: ["10731A15C268BA74"]
 			id: "54633CEDDCC3A0E2"
 			rewards: [
 				{
@@ -156,10 +173,10 @@
 				}
 			]
 			x: 5.0d
-			y: -5.5d
+			y: 15.5d
 		}
 		{
-			dependencies: ["54633CEDDCC3A0E2"]
+			dependencies: ["1EA2DFF6C97519C5"]
 			id: "10731A15C268BA74"
 			rewards: [
 				{
@@ -178,8 +195,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -5.5d
+			x: 2.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["1EA2DFF6C97519C5"]
@@ -202,8 +219,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -3.5d
+			x: 2.5d
+			y: 17.5d
 		}
 		{
 			dependencies: ["1FB5CDD184024749"]
@@ -226,7 +243,7 @@
 				}
 			]
 			x: 2.5d
-			y: -3.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1FB5CDD184024749"]
@@ -249,7 +266,7 @@
 				}
 			]
 			x: 2.5d
-			y: -2.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["1FB5CDD184024749"]
@@ -272,7 +289,7 @@
 				}
 			]
 			x: 2.5d
-			y: 0.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["5D907C9D19AEE99C"]
@@ -296,7 +313,7 @@
 				}
 			]
 			x: 5.0d
-			y: -0.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["1FB5CDD184024749"]
@@ -319,7 +336,7 @@
 				}
 			]
 			x: 2.5d
-			y: 2.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["13F0837EB4352876"]
@@ -343,7 +360,7 @@
 				}
 			]
 			x: 5.0d
-			y: 1.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["1FB5CDD184024749"]
@@ -366,7 +383,7 @@
 				}
 			]
 			x: 2.5d
-			y: 3.5d
+			y: 7.0d
 		}
 		{
 			dependencies: ["1FB5CDD184024749"]
@@ -390,7 +407,335 @@
 				}
 			]
 			x: 2.5d
-			y: 5.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["7AF7B66BA5E6CB68"]
+			id: "1B513038299775DA"
+			rewards: [
+				{
+					id: "6F3A9DF45FEE83EA"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "16418787FFE8666E"
+					item: {
+						count: 1
+						id: "farmersdelight:skillet"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["1FB5CDD184024749"]
+			id: "18B78CA1C420F333"
+			rewards: [
+				{
+					id: "63A0981D890B609B"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "29F1C702A3207D26"
+					item: {
+						count: 1
+						id: "farmersdelight:cabbage"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["1FB5CDD184024749"]
+			id: "02C780EB4AD01DF0"
+			rewards: [
+				{
+					id: "16B4DF05470D0AA5"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "169B8A59EEFB030E"
+					item: {
+						count: 1
+						id: "farmersdelight:onion"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7AF7B66BA5E6CB68"]
+			id: "1AA70460849131B8"
+			rewards: [
+				{
+					id: "1E74B95D45DFE262"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "73A6A1F4F3436D8D"
+					item: {
+						count: 1
+						id: "farmersdelight:beef_stew"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["1EA2DFF6C97519C5"]
+			id: "2CF2713DE5906FB2"
+			rewards: [
+				{
+					id: "58D489B2DACD088C"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2C7AD6FBC87666FB"
+					item: {
+						count: 1
+						id: "farmersdelight:apple_pie"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["54633CEDDCC3A0E2"]
+			id: "1E515B4C8C282984"
+			optional: true
+			rewards: [
+				{
+					id: "3A69D8B6608ABD71"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "11E2057291D60536"
+					item: {
+						count: 1
+						id: "farmersdelight:wooden_basket"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["312A0FFB156DB40B"]
+			id: "1711693174FE3702"
+			optional: true
+			rewards: [
+				{
+					id: "33A7AEA64D5C0C18"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5CA279C8D1A03EBB"
+					item: {
+						count: 1
+						id: "farmersdelight:tomato_crate"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["13F0837EB4352876"]
+			id: "14EF62359E0713BE"
+			rewards: [
+				{
+					id: "1ECA7A987DC3C8B4"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3955CE960DED41B5"
+					item: {
+						count: 1
+						id: "aquaculture:diamond_fishing_rod"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["14EF62359E0713BE", "1E7DDE213D3DC748"]
+			id: "12782E9C264C7EB3"
+			rewards: [
+				{
+					id: "0060D44106DD33CE"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "14ADE70B120A24E0"
+					item: {
+						count: 1
+						id: "aquaculture:neptunium_fishing_rod"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["13F0837EB4352876"]
+			id: "1B68C5E7D41886E0"
+			optional: true
+			rewards: [
+				{
+					id: "37F2281E5EB56A63"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "12CC3EA8C00B8C1B"
+					item: {
+						count: 1
+						id: "aquaculture:jellyfish"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["1E7DDE213D3DC748"]
+			id: "399C3B9DD3811FF9"
+			rewards: [
+				{
+					id: "10F4CF235F836694"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1B7E6CB2AA8D112F"
+					item: {
+						count: 1
+						id: "aquaculture:neptunium_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["15ECD4E86FA33D23"]
+			id: "2D81312B168360EB"
+			rewards: [
+				{
+					id: "2071F5FE4B46A438"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6F17501F67D54CAB"
+					item: {
+						count: 1
+						id: "industrialforegoing:hydroponic_bed"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"1AA70460849131B8"
+				"12782E9C264C7EB3"
+				"5D907C9D19AEE99C"
+				"2CF2713DE5906FB2"
+			]
+			id: "7D315331303A3541"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "3AA8C17D7DCAE694"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "17D2013CF30C43CB"
+					item: {
+						count: 1
+						id: "farmersdelight:beef_stew"
+					}
+					type: "item"
+					count: 4L
+				}
+				{
+					id: "71C78E6DEE54B8AE"
+					item: {
+						count: 1
+						id: "pamhc2foodcore:friedchickenitem"
+					}
+					type: "item"
+					count: 4L
+				}
+				{
+					id: "1A34EE1814C690FA"
+					item: {
+						count: 1
+						id: "aquaculture:neptunium_fishing_rod"
+					}
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: 9.5d
 		}
 		{
 			icon: {
@@ -409,7 +754,7 @@
 				}
 			]
 			x: -3.0d
-			y: -8.5d
+			y: -3.0d
 		}
 	]
 }

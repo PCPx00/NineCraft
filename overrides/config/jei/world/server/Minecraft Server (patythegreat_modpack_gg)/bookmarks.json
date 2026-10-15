@@ -1,0 +1,8 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"toms_storage:adv_wireless_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"toms_storage:inventory_connector","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"toms_storage:wireless_terminal","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"toms_storage:storage_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"toms_storage:crafting_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

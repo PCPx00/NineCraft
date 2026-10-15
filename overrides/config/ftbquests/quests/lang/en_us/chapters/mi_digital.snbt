@@ -1,57 +1,227 @@
 {
 	quest.03D94E95B8F7EEC7.quest_desc: [
-		"HV and EV bring digital circuits, nuclear power and serious automation."
+		"The Digital Age brings HV and EV power, digital circuits and nuclear energy. Everything is more complex, so follow the quests closely."
+		""
+		"Start by building a Robot Arm. You'll need a lot of them."
+		""
+		"§e§lHow to complete:§r Craft or make Robot Arm and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.03D94E95B8F7EEC7.title: "Going Digital"
-	quest.0B2962947AEF05DB.quest_desc: ["Grown in the blast furnace."]
+	quest.047F8A40F063E6DC.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Turbo Upgrade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.047F8A40F063E6DC.title: "Turbo Upgrade"
+	quest.0B2962947AEF05DB.quest_desc: [
+		"Grown in the blast furnace."
+		""
+		"§e§lHow to complete:§r Craft or make Monocrystalline Silicon and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.0B2962947AEF05DB.title: "Silicon Crystal"
 	quest.0DC6956410F343D9.quest_desc: [
-		"&dNine Craft Quest Book&r"
+		"§dNine Craft Quest Book§r"
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.0DC6956410F343D9.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.0DC6956410F343D9.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.0DC6956410F343D9.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.1256A28DFBBEC099.quest_desc: [
+		"The reactor walls."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Nuclear Alloy Casing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1256A28DFBBEC099.title: "Nuclear Casing"
 	quest.13BB601C7A5ED92A.quest_desc: [
 		"Extended Industrialization lets one multiblock run many copies of a machine."
+		""
+		"§e§lHow to complete:§r Craft or make Processing Array and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
 	]
 	quest.13BB601C7A5ED92A.title: "Processing Array"
-	quest.143F72981838B53A.quest_desc: ["Fuel rods and coolant go in here."]
+	quest.143F72981838B53A.quest_desc: [
+		"Fuel rods and coolant go in here."
+		""
+		"§e§lHow to complete:§r Craft or make Nuclear Item Hatch and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.143F72981838B53A.title: "Nuclear Hatches"
-	quest.16E4112FE909E2A8.quest_desc: ["EV's circuit."]
+	quest.16E4112FE909E2A8.quest_desc: [
+		"EV's circuit."
+		""
+		"§e§lHow to complete:§r Craft or make Processing Unit and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.16E4112FE909E2A8.title: "Processing Unit"
-	quest.16F1419F93FA8430.quest_desc: ["A heavy late-game metal."]
+	quest.16F1419F93FA8430.quest_desc: [
+		"A heavy late-game metal."
+		""
+		"§e§lHow to complete:§r Craft or make Tungsten Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.16F1419F93FA8430.title: "Tungsten"
-	quest.176BA29AE6875AAA.quest_desc: ["Cut from the crystal."]
+	quest.174C426ADE8357C1.quest_desc: [
+		"§e§lHow to complete:§r Craft or make EV Energy Input Hatch and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.174C426ADE8357C1.title: "EV Energy Hatch"
+	quest.176BA29AE6875AAA.quest_desc: [
+		"Cut from the crystal."
+		""
+		"§e§lHow to complete:§r Craft or make Silicon Wafer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.176BA29AE6875AAA.title: "Silicon Wafer"
-	quest.1D11E149A2746BF3.quest_desc: ["Carries insane amounts of power."]
+	quest.17E137AF37A10601.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Processing Unit Board and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.17E137AF37A10601.title: "Processing Board"
+	quest.181C785B2025C7CE.quest_desc: [
+		"Needed for the implosion compressor."
+		""
+		"§e§lHow to complete:§r Craft or make Blastproof Alloy Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.181C785B2025C7CE.title: "Blastproof Alloy"
+	quest.19B1B5021B81553A.quest_desc: [
+		"For EV multiblocks."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Solid Titanium Machine Casing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.19B1B5021B81553A.title: "Titanium Casing"
+	quest.1AE5B023F2914E79.quest_desc: [
+		"§e§lHow to complete:§r Craft or make 4 x Diode and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1AE5B023F2914E79.title: "Diode"
+	quest.1B5BD1A691F6422B.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Digital Circuit Board and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1B5BD1A691F6422B.title: "Digital Circuit Board"
+	quest.1BE0164E5FA741C3.quest_desc: [
+		"Needed for advanced alloys."
+		""
+		"§e§lHow to complete:§r Craft or make Chromium Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1BE0164E5FA741C3.title: "Chromium"
+	quest.1D11E149A2746BF3.quest_desc: [
+		"Carries insane amounts of power."
+		""
+		"§e§lHow to complete:§r Craft or make Superconductor Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1D11E149A2746BF3.title: "Superconductor"
-	quest.1D51D692A3B0D6A6.quest_desc: ["For EV machines."]
+	quest.1D51D692A3B0D6A6.quest_desc: [
+		"For EV machines."
+		""
+		"§e§lHow to complete:§r Craft or make Highly Advanced Machine Hull and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1D51D692A3B0D6A6.title: "Highly Advanced Hull"
-	quest.1DDBCF4E0AA58AF9.quest_desc: ["Moves heat between fluids for steam."]
+	quest.1D5C1F622AB7EA3D.quest_desc: [
+		"A digital part."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Transistor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1D5C1F622AB7EA3D.title: "Transistor"
+	quest.1DDBCF4E0AA58AF9.quest_desc: [
+		"Moves heat between fluids for steam."
+		""
+		"§e§lHow to complete:§r Craft or make Heat Exchanger and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1DDBCF4E0AA58AF9.title: "Heat Exchanger"
-	quest.1ED73373756A8D22.quest_desc: ["A tough EV metal."]
+	quest.1E9064659D83647F.quest_desc: [
+		"Fuel for later fusion."
+		""
+		"§e§lHow to complete:§r Craft or make Deuterium Bucket and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1E9064659D83647F.title: "Deuterium"
+	quest.1ED73373756A8D22.quest_desc: [
+		"A tough EV metal."
+		""
+		"§e§lHow to complete:§r Craft or make Titanium Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1ED73373756A8D22.title: "Titanium"
-	quest.219E864E5CBDC14E.quest_desc: ["A careful, rewarding power source."]
+	quest.219E864E5CBDC14E.quest_desc: [
+		"The Nuclear Reactor is a big, flexible multiblock. You place fuel rods and coolant cells in the hatches in patterns; heat goes into coolant and turns water into steam."
+		""
+		"§eTip:§r start small with a few rods and plenty of cooling. Check the guidebook for tested layouts."
+		""
+		"§e§lHow to complete:§r Craft or make Nuclear Reactor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.219E864E5CBDC14E.title: "Nuclear Reactor"
-	quest.29EAE4B90F87D1E4.quest_desc: ["Another digital component."]
+	quest.29EAE4B90F87D1E4.quest_desc: [
+		"Another digital component."
+		""
+		"§e§lHow to complete:§r Craft or make Arithmetic Logic Unit and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.29EAE4B90F87D1E4.title: "ALU"
-	quest.2B9047E018D78197.quest_desc: ["HV's circuit."]
+	quest.2AC57250FA2E9B41.quest_desc: [
+		"§e§lHow to complete:§r Craft or make 8 x Turbo Machine Casing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.2AC57250FA2E9B41.title: "Turbo Casing"
+	quest.2B9047E018D78197.quest_desc: [
+		"HV's circuit."
+		""
+		"§e§lHow to complete:§r Craft or make Digital Circuit and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.2B9047E018D78197.title: "Digital Circuit"
-	quest.32E1E0047702A0B8.quest_desc: ["Makes dense materials with explosives."]
+	quest.32E1E0047702A0B8.quest_desc: [
+		"Makes dense materials with explosives."
+		""
+		"§e§lHow to complete:§r Craft or make Implosion Compressor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.32E1E0047702A0B8.title: "Implosion Compressor"
-	quest.4D93DF8D3C7083F1.quest_desc: ["A digital component."]
+	quest.4885212266332043.quest_desc: [
+		"Cool it in the freezer."
+		""
+		"§e§lHow to complete:§r Craft or make Titanium Hot Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4885212266332043.title: "Hot Titanium"
+	quest.4C41C75F6623C498.quest_desc: [
+		"A better reactor coolant."
+		""
+		"§e§lHow to complete:§r Craft or make Heavy Water Bucket and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4C41C75F6623C498.title: "Heavy Water"
+	quest.4D93DF8D3C7083F1.quest_desc: [
+		"A digital component."
+		""
+		"§e§lHow to complete:§r Craft or make Random Access Memory and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.4D93DF8D3C7083F1.title: "RAM"
-	quest.54BF34F3FE07B46C.quest_desc: ["For HV machines."]
+	quest.5235A166A48FFF0A.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Memory Management Unit and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5235A166A48FFF0A.title: "Memory Management Unit"
+	quest.54BF34F3FE07B46C.quest_desc: [
+		"For HV machines."
+		""
+		"§e§lHow to complete:§r Craft or make Turbo Machine Hull and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.54BF34F3FE07B46C.title: "Turbo Hull"
-	quest.6B07C15625C94F65.quest_desc: ["Quantum circuits and fusion wait in &5MI: Endgame&r."]
+	quest.5C736DBD9025B125.quest_desc: [
+		"Made in the implosion compressor. Singularities start here."
+		""
+		"§e§lHow to complete:§r Craft or make Ultradense Metal Ball and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5C736DBD9025B125.title: "Ultradense Metal"
+	quest.5FC738A8C170F1D4.quest_desc: [
+		"A huge portable power store."
+		""
+		"§e§lHow to complete:§r Craft or make Plutonium Battery and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.5FC738A8C170F1D4.title: "Plutonium Battery"
+	quest.6A9403CDC52C11A5.quest_desc: [
+		"For coolant."
+		""
+		"§e§lHow to complete:§r Craft or make Nuclear Fluid Hatch and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.6A9403CDC52C11A5.title: "Nuclear Fluid Hatch"
+	quest.6B07C15625C94F65.quest_desc: [
+		"Quantum circuits and fusion wait in §5MI: Endgame§r."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Digital Circuit and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.6B07C15625C94F65.title: "The Endgame"
-	quest.6B645DDAE4388BD2.quest_desc: ["Keeps the reactor from overheating."]
+	quest.6B645DDAE4388BD2.quest_desc: [
+		"Keeps the reactor from overheating."
+		""
+		"§e§lHow to complete:§r Craft or make Cooling Cell and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.6B645DDAE4388BD2.title: "Cooling Cell"
 }

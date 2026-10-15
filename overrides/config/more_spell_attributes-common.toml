@@ -1,0 +1,17 @@
+[enchantments]
+	#Bonus per level for Spell Channeling.
+	# Default: 0.05
+	# Range: 0.0 ~ 10.0
+	channelingBonus = 0.05
+	#Bonus per level for Viscosity.
+	# Default: 0.03
+	# Range: 0.0 ~ 10.0
+	viscosityBonus = 0.03
+	#Bonus per level for Fertility.
+	# Default: 0.03
+	# Range: 0.0 ~ 10.0
+	fertilityBonus = 0.03
+	#Bonus per level for Volatility.
+	# Default: 0.03
+	# Range: 0.0 ~ 10.0
+	volatilityBonus = 0.03

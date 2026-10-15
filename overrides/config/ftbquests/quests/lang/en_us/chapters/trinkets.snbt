@@ -1,51 +1,211 @@
 {
-	quest.0F26827B923B22D8.quest_desc: ["A risky but strong ring."]
+	quest.0F26827B923B22D8.quest_desc: [
+		"A risky but strong ring."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Ring of the Seven Deadly Sins and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.0F26827B923B22D8.title: "Ring of the Seven Deadly Sins"
-	quest.1054E6DC75A9E7FA.quest_desc: ["See in the dark."]
+	quest.1054E6DC75A9E7FA.quest_desc: [
+		"See in the dark."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Night Vision Goggles and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1054E6DC75A9E7FA.title: "Night Vision Goggles"
 	quest.10B68033FB40063A.quest_desc: [
-		"&dNine Craft Quest Book&r"
+		"§dNine Craft Quest Book§r"
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.10B68033FB40063A.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.10B68033FB40063A.title: "&5Nine Craft&r - Quest Book Notice"
-	quest.12703842A08B8522.quest_desc: ["Sprint faster."]
+	quest.10B68033FB40063A.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.10C06B2F274EE8FF.quest_desc: [
+		"Heal a bit when you hit."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Vampiric Glove and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.10C06B2F274EE8FF.title: "Vampiric Glove"
+	quest.10EF7E979F752E93.quest_desc: [
+		"Teleport where you point."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Chorus Staff and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.10EF7E979F752E93.title: "Chorus Staff"
+	quest.11C32E17BB917B26.quest_desc: [
+		"Attack faster."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Feral Claws and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.11C32E17BB917B26.title: "Feral Claws"
+	quest.12703842A08B8522.quest_desc: [
+		"Sprint faster."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Running Shoes and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.12703842A08B8522.title: "Running Shoes"
+	quest.13F48277D618FBA1.quest_desc: [
+		"§e§lHow to complete:§r Find, mine or loot Glitchy Mantle and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.13F48277D618FBA1.title: "Glitchy Mantle"
+	quest.16197BBA71E42B14.quest_desc: [
+		"Slow falling and rain protection."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Umbrella and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.16197BBA71E42B14.title: "Umbrella"
+	quest.18211D1B39BFC512.quest_desc: [
+		"Stealth relic."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Midnight Mantle and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.18211D1B39BFC512.title: "Midnight Mantle"
 	quest.18FBAB43ABCA0C32.quest_desc: [
-		"Relics gain experience and unlock stronger abilities as you use them."
+		"Relics gain experience when you use their abilities. Open a relic's page (shift-hover) to see its abilities and level. Upgrade abilities with relic experience."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Leafy Mantle and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.18FBAB43ABCA0C32.title: "Relics"
-	quest.19A5FFE30EBEBC38.quest_desc: ["Pulls in nearby items."]
+	quest.19A5FFE30EBEBC38.quest_desc: [
+		"Pulls in nearby items."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Universal Attractor and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.19A5FFE30EBEBC38.title: "Universal Attractor"
-	quest.19FDCE4F1CD444B1.quest_desc: ["Jump higher, no fall damage."]
+	quest.19FDCE4F1CD444B1.quest_desc: [
+		"Jump higher, no fall damage."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Bunny Hoppers and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.19FDCE4F1CD444B1.title: "Bunny Hoppers"
-	quest.1C03ABAFDF4261E5.quest_desc: ["Mine faster bare-handed."]
+	quest.1A5FA26D32E02D7A.quest_desc: [
+		"Longer water breathing."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Snorkel and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1A5FA26D32E02D7A.title: "Snorkel"
+	quest.1BF39C3AF57FCC33.quest_desc: [
+		"Teleports you to safety instead of dying."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Chorus Totem and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1BF39C3AF57FCC33.title: "Chorus Totem"
+	quest.1C03ABAFDF4261E5.quest_desc: [
+		"Mine faster bare-handed."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Digging Claws and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1C03ABAFDF4261E5.title: "Digging Claws"
-	quest.254E0A8CD06FDB86.quest_desc: ["Fire resistance when you get burned."]
+	quest.1E331AF06FCEAE06.quest_desc: [
+		"Piglins leave you alone."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Piglin Mask and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1E331AF06FCEAE06.title: "Piglin Mask"
+	quest.1E7F962ABFE60B18.quest_desc: [
+		"More attack damage."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Power Glove and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1E7F962ABFE60B18.title: "Power Glove"
+	quest.1ECCE42D0A2030B8.quest_desc: [
+		"Throw ender pearls for free."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Warp Drive and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1ECCE42D0A2030B8.title: "Warp Drive"
+	quest.1F3C7B0190406021.quest_desc: [
+		"Swim much faster."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Flippers and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1F3C7B0190406021.title: "Flippers"
+	quest.1F8C164A8E2F57C1.quest_desc: [
+		"Speed boost when you're hurt."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Panic Necklace and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1F8C164A8E2F57C1.title: "Panic Necklace"
+	quest.200351F1BCC7F71B.quest_desc: [
+		"Reflects damage back."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Reflective Necklace and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.200351F1BCC7F71B.title: "Reflective Necklace"
+	quest.254E0A8CD06FDB86.quest_desc: [
+		"Fire resistance when you get burned."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Obsidian Skull and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.254E0A8CD06FDB86.title: "Obsidian Skull"
-	quest.26041F931ACDC3D6.quest_desc: ["Levels up a relic directly."]
+	quest.26041F931ACDC3D6.quest_desc: [
+		"Levels up a relic directly."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Relic Experience Bottle and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.26041F931ACDC3D6.title: "Relic Experience"
-	quest.521AB59681710ED9.quest_desc: ["Bounce high."]
+	quest.27218939731839D6.quest_desc: [
+		"Longer invincibility after being hit."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Cross Necklace and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.27218939731839D6.title: "Cross Necklace"
+	quest.521AB59681710ED9.quest_desc: [
+		"Bounce high."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Springy Boot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.521AB59681710ED9.title: "Springy Boot"
-	quest.537FE34C0A0B7795.quest_desc: ["Food that never runs out."]
+	quest.537FE34C0A0B7795.quest_desc: [
+		"Food that never runs out."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Eternal Steak and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.537FE34C0A0B7795.title: "Eternal Steak"
-	quest.5DC7AA977BC9B720.quest_desc: ["Some chests bite back. Beat them for artifacts."]
+	quest.5DC7AA977BC9B720.quest_desc: [
+		"Some chests bite back. Beat them for artifacts."
+		""
+		"§e§lHow to complete:§r Kill Mimic. The quest completes on its own as soon as you do it."
+	]
 	quest.5DC7AA977BC9B720.title: "Mimic!"
-	quest.5FA925ADE99BCB1A.quest_desc: ["Gain speed while moving."]
+	quest.5FA925ADE99BCB1A.quest_desc: [
+		"Gain speed while moving."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Roller Skate and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.5FA925ADE99BCB1A.title: "Roller Skates"
-	quest.6308BFEF4CC1F2B8.quest_desc: ["Double jump."]
+	quest.6308BFEF4CC1F2B8.quest_desc: [
+		"Double jump."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Cloud in a Bottle and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.6308BFEF4CC1F2B8.title: "Cloud in a Bottle"
-	quest.6D2F537A76464275.quest_desc: ["More damage with tamed pets."]
+	quest.67E1E549AB9AE785.quest_desc: [
+		"A pocketful of the best artifacts and relics."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Chorus Totem, Cloud in a Bottle, Bunny Hoppers and Reflective Necklace and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.67E1E549AB9AE785.title: "Treasure Hunter"
+	quest.6D2F537A76464275.quest_desc: [
+		"More damage with tamed pets."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Hunting Belt and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.6D2F537A76464275.title: "Hunting Belt"
+	quest.7014B0CD0F72CCEE.quest_desc: [
+		"§e§lHow to complete:§r Find, mine or loot Sphere of Self-Sacrifice and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.7014B0CD0F72CCEE.title: "Sphere of Self-Sacrifice"
 	quest.7C3D740DA5D9A172.quest_desc: [
-		"Artifacts are rare trinkets found in chests and mimics. Relics level up as you use them. Wear them in your accessory slots."
+		"Artifacts are rare trinkets found in dungeon chests and mimics. Relics level up as you use them and unlock stronger abilities."
+		""
+		"§eHow:§r put them in your accessory slots (the Curios button in your inventory). Collect some emeralds; villagers and wandering traders sometimes sell treasure."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 3 x Emerald and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.7C3D740DA5D9A172.title: "Treasure!"
 }

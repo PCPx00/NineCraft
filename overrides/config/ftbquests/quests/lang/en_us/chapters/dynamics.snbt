@@ -1,41 +1,137 @@
 {
-	quest.088739640C5D5CC3.quest_desc: ["Squeezes menril logs into resin."]
+	quest.088739640C5D5CC3.quest_desc: [
+		"Squeezes menril logs into resin."
+		""
+		"§e§lHow to complete:§r Craft or make Squeezer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.088739640C5D5CC3.title: "Squeezer"
-	quest.106349C4DD9B843F.quest_desc: ["Find blue menril trees in meadows and forests."]
+	quest.106349C4DD9B843F.quest_desc: [
+		"Find blue menril trees in meadows and forests."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 8 x Menril Log and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.106349C4DD9B843F.title: "Menril Trees"
-	quest.135C9CE64D552AA1.quest_desc: ["A searchable view of everything on the network."]
+	quest.116E31E0FF63F6A1.quest_desc: [
+		"Stores power for your network."
+		""
+		"§e§lHow to complete:§r Craft or make Energy Battery and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.116E31E0FF63F6A1.title: "Energy Battery"
+	quest.135C9CE64D552AA1.quest_desc: [
+		"A searchable view of everything on the network."
+		""
+		"§e§lHow to complete:§r Craft or make Terminal Storage and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.135C9CE64D552AA1.title: "Storage Terminal"
-	quest.15A6E34B9D04BD72.quest_desc: ["Autocrafting over logic networks."]
+	quest.147E01A970B02BEE.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Mechanical Squeezer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.147E01A970B02BEE.title: "Mechanical Squeezer"
+	quest.15A6E34B9D04BD72.quest_desc: [
+		"Autocrafting over logic networks."
+		""
+		"§e§lHow to complete:§r Craft or make Interface Crafting and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.15A6E34B9D04BD72.title: "Integrated Crafting"
 	quest.177827BB58BC9179.quest_desc: [
-		"Integrated Dynamics lets you read and write almost anything with logic cables and variable cards. It's powerful and a little nerdy."
+		"Integrated Dynamics lets you build logic networks: read values from the world, run them through operators and act on the results."
+		""
+		"It starts with menril trees and a few simple machines, then moves to cables, readers and writers. Grab some bone meal to help menril grow."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Bone Meal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.177827BB58BC9179.title: "Program Your Base"
-	quest.1888754BED7E89CB.quest_desc: ["Holds many variables for the network."]
+	quest.1888754BED7E89CB.quest_desc: [
+		"Holds many variables for the network."
+		""
+		"§e§lHow to complete:§r Craft or make Variable Store and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1888754BED7E89CB.title: "Variable Store"
-	quest.1C7784570DCA72A6.quest_desc: ["Write logic onto variable cards."]
+	quest.19698DC9BDA01583.quest_desc: [
+		"Simple network power."
+		""
+		"§e§lHow to complete:§r Craft or make Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.19698DC9BDA01583.title: "Coal Generator"
+	quest.1B97DE8D29FB5C78.quest_desc: [
+		"Program on the go."
+		""
+		"§e§lHow to complete:§r Craft or make Portable Logic Programmer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1B97DE8D29FB5C78.title: "Portable Programmer"
+	quest.1C7784570DCA72A6.quest_desc: [
+		"The Logic Programmer is where you write variable cards. Pick an operator (like \"greater than\" or \"item count\"), plug in values and write it to a card."
+		""
+		"§eFirst project:§r make a card that reads a chest's item count and shows it on a Display Panel."
+		""
+		"§e§lHow to complete:§r Craft or make Logic Programmer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1C7784570DCA72A6.title: "Logic Programmer"
-	quest.3CF203FC90D27FC1.quest_desc: ["Move items, fluids and energy through logic networks."]
+	quest.1FF75DF0A9E1B627.quest_desc: [
+		"A programmer, a variable store and a storage terminal. Your base can think for itself."
+		""
+		"§e§lHow to complete:§r Craft or make Logic Programmer, Variable Store and Terminal Storage and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1FF75DF0A9E1B627.title: "Dynamics Mastered"
+	quest.296D499DE27D9BF0.quest_desc: [
+		"A powered, faster drying basin."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Drying Basin and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.296D499DE27D9BF0.title: "Mechanical Drying Basin"
+	quest.352E0786CF786D54.quest_desc: [
+		"Removes cables and parts."
+		""
+		"§e§lHow to complete:§r Craft or make Wrench and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.352E0786CF786D54.title: "ID Wrench"
+	quest.3CF203FC90D27FC1.quest_desc: [
+		"Move items, fluids and energy through logic networks."
+		""
+		"§e§lHow to complete:§r Craft or make Interface Item and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.3CF203FC90D27FC1.title: "Integrated Tunnels"
-	quest.41BE602B1C7B8D52.quest_desc: ["Connects parts into a network."]
+	quest.41BE602B1C7B8D52.quest_desc: [
+		"Connects parts into a network."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Logic Cable and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.41BE602B1C7B8D52.title: "Logic Cable"
 	quest.511AA5FBAC9BD6BE.quest_desc: [
-		"&dNine Craft Quest Book&r"
+		"§dNine Craft Quest Book§r"
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.511AA5FBAC9BD6BE.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.511AA5FBAC9BD6BE.title: "&5Nine Craft&r - Quest Book Notice"
-	quest.54134DEEE75C5192.quest_desc: ["Hold values and operations."]
+	quest.511AA5FBAC9BD6BE.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.54134DEEE75C5192.quest_desc: [
+		"Hold values and operations."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Variable Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.54134DEEE75C5192.title: "Variable Cards"
-	quest.59FDCADA1A504E6E.quest_desc: ["Dries menril resin into crystals."]
+	quest.59FDCADA1A504E6E.quest_desc: [
+		"Dries menril resin into crystals."
+		""
+		"§e§lHow to complete:§r Craft or make Drying Basin and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.59FDCADA1A504E6E.title: "Drying Basin"
-	quest.7C2F7F0F2468C526.quest_desc: ["The core material."]
+	quest.5FB3254A160702B7.quest_desc: [
+		"Pass variables between networks."
+		""
+		"§e§lHow to complete:§r Craft or make 2 x Input Variable Transformer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.5FB3254A160702B7.title: "Variable Transformers"
+	quest.7C2F7F0F2468C526.quest_desc: [
+		"The core material."
+		""
+		"§e§lHow to complete:§r Craft or make Crystallized Menril Chunk and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.7C2F7F0F2468C526.title: "Menril Crystal"
 }

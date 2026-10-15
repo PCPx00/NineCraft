@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 16.5d
 			x: 7.25d
-			y: -13.0d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: -3.0d
+			y: 25.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 24.0d
-			y: -7.5d
+			x: 19.5d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 10.0d
-			y: 5.5d
+			x: 8.0d
+			y: 53.0d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,56 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 24.0d
-			y: 1.0d
+			x: 19.5d
+			y: 48.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/mysticalag_0.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/mysticalag_1.png"
+			rotation: 0.0d
+			width: 7.5d
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/mysticalag_2.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: 2.0d
+			y: 16.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/mysticalag_3.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: 2.0d
+			y: 27.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/mysticalag_4.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 2.25d
+			y: 30.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/mysticalag_5.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: 2.0d
+			y: 43.0d
 		}
 	]
 	order_index: 1
@@ -92,7 +140,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["10758FCC764BF760"]
@@ -125,11 +173,12 @@
 				}
 			]
 			x: 2.5d
-			y: -1.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["10758FCC764BF760"]
 			id: "1F6EE7C3F50C09EF"
+			hide_dependent_lines: true
 			rewards: [
 				{
 					id: "5AF89B997B132480"
@@ -148,7 +197,7 @@
 				}
 			]
 			x: 2.5d
-			y: 1.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["1F6EE7C3F50C09EF", "1F92B1DF1EF42963"]
@@ -189,7 +238,7 @@
 				}
 			]
 			x: 5.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["11E65F7A8CFF9018"]
@@ -212,7 +261,7 @@
 				}
 			]
 			x: 7.5d
-			y: 0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["11E65F7A8CFF9018"]
@@ -259,10 +308,10 @@
 				}
 			]
 			x: 10.0d
-			y: 2.0d
+			y: 1.5d
 		}
 		{
-			dependencies: ["1F92B1DF1EF42963"]
+			dependencies: ["1F92B1DF1EF42963", "1F6EE7C3F50C09EF"]
 			id: "1419E6DA174D7C13"
 			rewards: [
 				{
@@ -291,11 +340,12 @@
 				}
 			]
 			x: 5.0d
-			y: -2.5d
+			y: 2.0d
 		}
 		{
-			dependencies: ["1419E6DA174D7C13"]
+			dependencies: ["1419E6DA174D7C13", "1608A003608AE9B5"]
 			id: "17C1A142F4BED58E"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "162FA1F557EAC14D"
@@ -322,12 +372,13 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -3.0d
+			x: 0.0d
+			y: 11.0d
 		}
 		{
-			dependencies: ["17C1A142F4BED58E"]
+			dependencies: ["373521009B40184A", "3C938DFBFDF7D3AE"]
 			id: "72709843AA65B683"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "08C83F349117EB68"
@@ -345,12 +396,13 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -5.0d
+			x: 0.0d
+			y: 21.5d
 		}
 		{
 			dependencies: ["72709843AA65B683"]
 			id: "125C0E0FD87C9E56"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "06F900E1976EB192"
@@ -368,12 +420,18 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -7.0d
+			x: 0.0d
+			y: 28.5d
 		}
 		{
-			dependencies: ["125C0E0FD87C9E56"]
+			dependencies: [
+				"151F5A38EC245AF6"
+				"127932829B664B14"
+				"1527C78183C14055"
+				"11FBDFE9FA5BC42F"
+			]
 			id: "2CDA357F1DDAA0D9"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "6459A78F6E9A5645"
@@ -393,11 +451,11 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -7.0d
+			x: 0.0d
+			y: 36.5d
 		}
 		{
-			dependencies: ["51904BFAC8764EFE", "17C1A142F4BED58E"]
+			dependencies: ["17C1A142F4BED58E"]
 			id: "373521009B40184A"
 			rewards: [
 				{
@@ -416,11 +474,11 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 0.0d
+			x: 2.5d
+			y: 7.5d
 		}
 		{
-			dependencies: ["373521009B40184A", "125C0E0FD87C9E56"]
+			dependencies: ["125C0E0FD87C9E56"]
 			id: "151F5A38EC245AF6"
 			rewards: [
 				{
@@ -439,8 +497,8 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -3.5d
+			x: 2.5d
+			y: 28.5d
 		}
 		{
 			dependencies: ["17C1A142F4BED58E"]
@@ -463,8 +521,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -3.0d
+			x: 2.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["72709843AA65B683"]
@@ -486,8 +544,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -5.0d
+			x: 2.5d
+			y: 18.0d
 		}
 		{
 			dependencies: ["1F92B1DF1EF42963"]
@@ -511,7 +569,7 @@
 				}
 			]
 			x: 5.0d
-			y: -0.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["17C1A142F4BED58E"]
@@ -534,8 +592,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -1.5d
+			x: 2.5d
+			y: 11.0d
 		}
 		{
 			dependencies: ["72709843AA65B683"]
@@ -557,8 +615,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -3.0d
+			x: 2.5d
+			y: 19.5d
 		}
 		{
 			dependencies: ["2CDA357F1DDAA0D9"]
@@ -580,8 +638,8 @@
 					type: "item"
 				}
 			]
-			x: 17.5d
-			y: -8.0d
+			x: 2.5d
+			y: 32.0d
 		}
 		{
 			dependencies: ["14D44ACD465440D1"]
@@ -605,12 +663,13 @@
 					type: "item"
 				}
 			]
-			x: 20.0d
-			y: -8.5d
+			x: 5.0d
+			y: 35.5d
 		}
 		{
-			dependencies: ["2CDA357F1DDAA0D9"]
+			dependencies: ["1B0098687B2CBD2D", "121BEA6FCDE69BA3", "1369F06099BDDCA5"]
 			id: "167326D15742EAD0"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "3A5FE57139FEE209"
@@ -628,8 +687,8 @@
 					type: "item"
 				}
 			]
-			x: 17.5d
-			y: -6.0d
+			x: 0.0d
+			y: 47.0d
 		}
 		{
 			dependencies: ["167326D15742EAD0"]
@@ -652,8 +711,8 @@
 					type: "item"
 				}
 			]
-			x: 20.0d
-			y: -6.5d
+			x: 2.5d
+			y: 44.5d
 		}
 		{
 			dependencies: ["167326D15742EAD0"]
@@ -678,8 +737,611 @@
 					type: "item"
 				}
 			]
-			x: 20.0d
-			y: -5.0d
+			x: 2.5d
+			y: 46.5d
+		}
+		{
+			dependencies: ["2CDA357F1DDAA0D9"]
+			id: "17838F4207C08D0D"
+			rewards: [
+				{
+					id: "166F3EDF9A8B1AF7"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1A83902415372B77"
+					item: {
+						count: 1
+						id: "mysticalagriculture:master_infusion_crystal"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 34.0d
+		}
+		{
+			dependencies: ["1608A003608AE9B5"]
+			id: "1B7DFFAD8CBA4BCB"
+			rewards: [
+				{
+					id: "1D50E015629BDA53"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "369A7C853D46CA74"
+					item: {
+						count: 1
+						id: "mysticalagriculture:coal_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["17C1A142F4BED58E"]
+			id: "1E14102DF3EA676C"
+			rewards: [
+				{
+					id: "14D488D27B5757B2"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "19C69BB6775DD1D4"
+					item: {
+						count: 1
+						id: "mysticalagriculture:copper_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["72709843AA65B683"]
+			id: "1A2249E261034D45"
+			rewards: [
+				{
+					id: "152E39E23270AC53"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1557F9A9C79110C2"
+					item: {
+						count: 1
+						id: "mysticalagriculture:gold_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["373521009B40184A"]
+			id: "1D10151AE6C1CD45"
+			rewards: [
+				{
+					id: "17FFC6597D90014A"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "71DD7E8C3F14AEE4"
+					item: {
+						count: 1
+						id: "mysticalagriculture:redstone_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["373521009B40184A"]
+			id: "3882C86D7C36F2E5"
+			rewards: [
+				{
+					id: "5FC383F290DE9978"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1B8A70EF4075C225"
+					item: {
+						count: 1
+						id: "mysticalagriculture:osmium_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["151F5A38EC245AF6"]
+			id: "2B4026DC181E2E5C"
+			rewards: [
+				{
+					id: "1786AEEFD720B3E0"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4468C410F6C1FDEB"
+					item: {
+						count: 1
+						id: "mysticalagriculture:emerald_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["2CDA357F1DDAA0D9"]
+			id: "1B0098687B2CBD2D"
+			rewards: [
+				{
+					id: "1DC27613F5C10531"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6FA1621939E5E178"
+					item: {
+						count: 1
+						id: "mysticalagriculture:netherite_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 35.5d
+		}
+		{
+			dependencies: ["167326D15742EAD0"]
+			id: "1DC464505EE3F6B9"
+			rewards: [
+				{
+					id: "105E5B0A9D481F42"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "10DDE75DD15B5493"
+					item: {
+						count: 1
+						id: "mysticalagriculture:wither_skeleton_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 48.0d
+		}
+		{
+			dependencies: ["1DC464505EE3F6B9"]
+			id: "460483D39A12A458"
+			rewards: [
+				{
+					id: "0F2E781267853D73"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1092496AC36C6AA8"
+					item: {
+						count: 1
+						id: "mysticalagriculture:starmetal_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 48.0d
+		}
+		{
+			dependencies: ["460483D39A12A458"]
+			id: "1EE922EA1EB20E44"
+			rewards: [
+				{
+					id: "185A2ACB28748EC5"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "173B14BAB799464A"
+					item: {
+						count: 1
+						id: "mysticalagriculture:draconium_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 48.0d
+		}
+		{
+			dependencies: ["1A5198BCD80DC572", "373521009B40184A"]
+			id: "121BEA6FCDE69BA3"
+			rewards: [
+				{
+					id: "13F96BF3E3D34618"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "075530A5FA4FAE2E"
+					item: {
+						count: 1
+						id: "mysticalagriculture:zombie_seeds"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["17C1A142F4BED58E"]
+			id: "39DF48CB98C16C5A"
+			rewards: [
+				{
+					id: "18E94205991D0C1D"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "239BF1241757FB1F"
+					item: {
+						count: 1
+						id: "mysticalagriculture:soulium_dagger"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["39DF48CB98C16C5A"]
+			id: "1A5198BCD80DC572"
+			rewards: [
+				{
+					id: "16495F20E7C10F63"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7D80D7E3E9AB8944"
+					item: {
+						count: 1
+						id: "mysticalagriculture:soul_jar"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["72709843AA65B683"]
+			id: "127932829B664B14"
+			rewards: [
+				{
+					id: "1826C834102D5ECE"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "17671B328AE06D71"
+					item: {
+						count: 1
+						id: "mysticalagriculture:tertium_farmland"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["2CDA357F1DDAA0D9"]
+			id: "1369F06099BDDCA5"
+			rewards: [
+				{
+					id: "655917307969FF51"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4C1D7A994B02414E"
+					item: {
+						count: 1
+						id: "mysticalagriculture:supremium_farmland"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 37.5d
+		}
+		{
+			dependencies: ["167326D15742EAD0"]
+			id: "1BBA7176D1C7A840"
+			rewards: [
+				{
+					id: "429EA56A484E8636"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "456EA55EE27B8C95"
+					item: {
+						count: 1
+						id: "mysticalagradditions:insanium_farmland"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 49.5d
+		}
+		{
+			dependencies: ["2CDA357F1DDAA0D9"]
+			id: "1023F28D04FB55E7"
+			rewards: [
+				{
+					id: "3BED5465F75EE074"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1E3875A1F8200D33"
+					item: {
+						count: 1
+						id: "mysticalagriculture:supremium_growth_accelerator"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 39.0d
+		}
+		{
+			dependencies: ["2CDA357F1DDAA0D9"]
+			id: "1252705CE8F660CA"
+			rewards: [
+				{
+					id: "18CB877DFF153A85"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "481508630E6CEC79"
+					item: {
+						count: 1
+						id: "mysticalagriculture:supremium_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 41.0d
+		}
+		{
+			dependencies: ["1252705CE8F660CA"]
+			id: "10448753984D5250"
+			rewards: [
+				{
+					id: "19002C919F7506C2"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7AD8884A1CDDD74D"
+					item: {
+						count: 1
+						id: "mysticalagriculture:supremium_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["6D79C1CE1E7B0B1C", "10448753984D5250"]
+			id: "1C26B025FD5FE6F7"
+			rewards: [
+				{
+					id: "4D60B47158646397"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "293C5BD636237E1B"
+					item: {
+						count: 1
+						id: "mysticalagriculture:awakened_supremium_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 36.5d
+		}
+		{
+			dependencies: ["1C69C29EAD1AC03E"]
+			id: "108E13A3D93B04F4"
+			rewards: [
+				{
+					id: "38962E1D27D7FADB"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "66412AA6E0AF3302"
+					item: {
+						count: 1
+						id: "mysticalagriculture:seed_reprocessor"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["1A5198BCD80DC572"]
+			id: "3133D9B7C1936024"
+			rewards: [
+				{
+					id: "38D8E1E387793EE7"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0D9B8A435707F89A"
+					item: {
+						count: 1
+						id: "mysticalagriculture:soul_extractor"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["72709843AA65B683"]
+			id: "1297D9568044F953"
+			optional: true
+			rewards: [
+				{
+					id: "399F8FDD0202CF0C"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1FFF7E0BB9B76787"
+					item: {
+						count: 1
+						id: "mysticalagriculture:enchanter"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 25.0d
+		}
+		{
+			dependencies: [
+				"1EE922EA1EB20E44"
+				"1C26B025FD5FE6F7"
+				"1BBA7176D1C7A840"
+				"17838F4207C08D0D"
+				"2CEB49D71E7F2C94"
+			]
+			id: "0E69F2B7EA561D66"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "1CB89B105EB75F66"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "14FEBB398E58F49C"
+					item: {
+						count: 1
+						id: "mysticalagriculture:draconium_seeds"
+					}
+					type: "item"
+				}
+				{
+					id: "1E43E70B639AD7CC"
+					item: {
+						count: 1
+						id: "mysticalagriculture:awakened_supremium_ingot_block"
+					}
+					type: "item"
+				}
+				{
+					id: "11B29202FA777D91"
+					item: {
+						count: 1
+						id: "mysticalagradditions:insanium_farmland"
+					}
+					type: "item"
+				}
+			]
+			x: 15.5d
+			y: 25.0d
 		}
 		{
 			icon: {
@@ -698,7 +1360,7 @@
 				}
 			]
 			x: -3.0d
-			y: -11.5d
+			y: -3.0d
 		}
 	]
 }

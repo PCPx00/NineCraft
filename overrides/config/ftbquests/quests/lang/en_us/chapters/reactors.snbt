@@ -1,59 +1,205 @@
 {
-	quest.06D7DFE28B6A7607.quest_desc: ["Reprocessed fuel."]
+	quest.06D7DFE28B6A7607.quest_desc: [
+		"Reprocessed fuel."
+		""
+		"§e§lHow to complete:§r Craft or make Blutonium Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.06D7DFE28B6A7607.title: "Blutonium"
-	quest.08A2953B5F1011A9.quest_desc: ["Replace some casing with glass to see inside."]
+	quest.08A2953B5F1011A9.quest_desc: [
+		"Replace some casing with glass to see inside."
+		""
+		"§e§lHow to complete:§r Craft or make Reactor Glass (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.08A2953B5F1011A9.title: "Reactor Glass"
-	quest.0FC19877E9D44293.quest_desc: ["Holds the rotor shaft."]
+	quest.0FC19877E9D44293.quest_desc: [
+		"Holds the rotor shaft."
+		""
+		"§e§lHow to complete:§r Craft or make Turbine Rotor Bearing (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.0FC19877E9D44293.title: "Rotor Bearing"
-	quest.16DDB9097A66D8D0.quest_desc: ["Stronger parts for bigger reactors."]
+	quest.104D786C63FCD58B.quest_desc: [
+		"Steam in, water out."
+		""
+		"§e§lHow to complete:§r Craft or make 2 x Turbine Active Forge Fluid Port (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.104D786C63FCD58B.title: "Turbine Fluid Ports"
+	quest.109FFC8E316FD24F.quest_desc: [
+		"A reinforced reactor feeding a set of turbines with recycled fuel. That's peak Extreme Reactors."
+		""
+		"§e§lHow to complete:§r Craft or make Insanite Block and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.109FFC8E316FD24F.title: "Reactor Master"
+	quest.166976B6169B023B.quest_desc: [
+		"Turbines spin up to 900 or 1800 RPM, where they work best. Adjust the steam flow in the turbine controller until the RPM is stable."
+		""
+		"§e§lHow to complete:§r Craft or make 32 x Turbine Rotor Blade (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.166976B6169B023B.title: "Spin It Up"
+	quest.16DDB9097A66D8D0.quest_desc: [
+		"Stronger parts for bigger reactors."
+		""
+		"§e§lHow to complete:§r Craft or make Reactor Casing (Reinforced) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.16DDB9097A66D8D0.title: "Reinforced Tier"
-	quest.175093652A6F6E16.quest_desc: ["The spine of the rotor."]
+	quest.175093652A6F6E16.quest_desc: [
+		"The spine of the rotor."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Turbine Rotor Shaft (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.175093652A6F6E16.title: "Rotor Shaft"
-	quest.1761425C20F0F906.quest_desc: ["Put fuel in and take waste out."]
+	quest.175C6758D1EB5942.quest_desc: [
+		"A late-game material for the best reactor parts."
+		""
+		"§e§lHow to complete:§r Craft or make Ludicrite Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.175C6758D1EB5942.title: "Ludicrite"
+	quest.1761425C20F0F906.quest_desc: [
+		"Put fuel in and take waste out."
+		""
+		"§e§lHow to complete:§r Craft or make Reactor Solid Access Port (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1761425C20F0F906.title: "Access Port"
 	quest.177E36A3C5DF0ED9.quest_desc: [
 		"Sit on top of each fuel rod column. Lower them to make less heat."
+		""
+		"§e§lHow to complete:§r Craft or make Reactor Control Rod (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.177E36A3C5DF0ED9.title: "Control Rods"
 	quest.1794E63C69642209.quest_desc: [
-		"&dNine Craft Quest Book&r"
+		"§dNine Craft Quest Book§r"
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.1794E63C69642209.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.1794E63C69642209.title: "&5Nine Craft&r - Quest Book Notice"
-	quest.180ED5CFD5484B62.quest_desc: ["The fuel. Mine yellorite ore and smelt it."]
+	quest.1794E63C69642209.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.180ED5CFD5484B62.quest_desc: [
+		"The fuel. Mine yellorite ore and smelt it."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 16 x Yellorium Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.180ED5CFD5484B62.title: "Yellorium"
-	quest.18850070AAAC4F4A.quest_desc: ["Spent fuel. Reprocess it into blutonium."]
+	quest.18850070AAAC4F4A.quest_desc: [
+		"Spent fuel. Reprocess it into blutonium."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Cyanite Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.18850070AAAC4F4A.title: "Cyanite"
-	quest.1A06E821013D5994.quest_desc: ["Stack fuel rods inside the frame, top to bottom."]
+	quest.18D716D67D616F0B.quest_desc: [
+		"See the rotor spin!"
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Turbine Glass (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.18D716D67D616F0B.title: "Turbine Glass"
+	quest.1A06E821013D5994.quest_desc: [
+		"Stack fuel rods inside the frame, top to bottom."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Reactor Fuel Rod (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1A06E821013D5994.title: "Fuel Rods"
 	quest.1A12C5A9732CCDA9.quest_desc: [
-		"Extreme Reactors lets you build your own reactor and turbine in any size you like. Bigger means more power."
+		"Extreme Reactors lets you design your own reactor. Any size from 3x3x3 up to huge. A bigger reactor with more fuel rods makes more power."
+		""
+		"This chapter walks you through a small passive reactor first, then a turbine setup and finally reprocessing and top-tier materials. Start with some coal to make graphite."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 32 x Coal and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.1A12C5A9732CCDA9.title: "Build a Reactor"
-	quest.1C6188AD981E9D5B.quest_desc: ["Pulls energy out of a passive reactor."]
+	quest.1C6188AD981E9D5B.quest_desc: [
+		"Pulls energy out of a passive reactor."
+		""
+		"§e§lHow to complete:§r Craft or make Reactor Active Forge Energy Power Tap (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1C6188AD981E9D5B.title: "Power Tap"
-	quest.1F82A42C2EDF2210.quest_desc: ["Used in casings and as a moderator."]
+	quest.1C8CD2B429B40056.quest_desc: [
+		"Feeds cyanite into the reprocessor."
+		""
+		"§e§lHow to complete:§r Craft or make Reprocessor Waste Injector and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1C8CD2B429B40056.title: "Waste Injector"
+	quest.1E62FD80ED382DB2.quest_desc: [
+		"Reinforced reactors need fluid ports to take water in and send steam out."
+		""
+		"§e§lHow to complete:§r Craft or make 2 x Reactor Active Forge Fluid Port (Reinforced) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1E62FD80ED382DB2.title: "Coolant Ports"
+	quest.1F82A42C2EDF2210.quest_desc: [
+		"Used in casings and as a moderator."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Graphite Bar and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1F82A42C2EDF2210.title: "Graphite"
-	quest.1FC4D67D28870D94.quest_desc: ["Attach to the shaft. More blades catch more steam."]
+	quest.1FC4D67D28870D94.quest_desc: [
+		"Attach to the shaft. More blades catch more steam."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Turbine Rotor Blade (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1FC4D67D28870D94.title: "Rotor Blades"
-	quest.23664CB82ACADAC8.quest_desc: ["Build the outer frame of your reactor from these."]
+	quest.23664CB82ACADAC8.quest_desc: [
+		"Build the outer frame of your reactor from these."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Reactor Casing (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.23664CB82ACADAC8.title: "Reactor Casing"
-	quest.32EE1D1C5873AF5F.quest_desc: ["The brain of the reactor. One per reactor."]
+	quest.32EE1D1C5873AF5F.quest_desc: [
+		"§eBuilding your first reactor:§r make a 5x5x5 hollow box of Reactor Casing. Replace one wall block with the Controller, one with an Access Port and one with a Power Tap."
+		""
+		"Inside, put fuel rod columns with a control rod on top of each column (in the top face). Right-click the controller: if the multiblock is valid, it turns on!"
+		""
+		"§e§lHow to complete:§r Craft or make Reactor Controller (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.32EE1D1C5873AF5F.title: "Controller"
-	quest.46212D2739385BD8.quest_desc: ["The top reactor material."]
+	quest.46212D2739385BD8.quest_desc: [
+		"The top reactor material."
+		""
+		"§e§lHow to complete:§r Craft or make Insanite Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.46212D2739385BD8.title: "Insanite"
-	quest.542AC73D5D5702B3.quest_desc: ["A multiblock that recycles cyanite."]
+	quest.4C1F13F7933580E0.quest_desc: [
+		"Power out of the turbine."
+		""
+		"§e§lHow to complete:§r Craft or make Turbine Active Forge Energy Power Tap (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4C1F13F7933580E0.title: "Turbine Power Tap"
+	quest.52CC2C8F9906EC76.quest_desc: [
+		"A passive reactor sends power straight out of the Power Tap. It's easy and safe. Once it's running, check the controller GUI to watch fuel use and heat."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 32 x Yellorium Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.52CC2C8F9906EC76.title: "Go Passive First"
+	quest.542AC73D5D5702B3.quest_desc: [
+		"A multiblock that recycles cyanite."
+		""
+		"§e§lHow to complete:§r Craft or make Reprocessor Controller and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.542AC73D5D5702B3.title: "Reprocessor"
+	quest.5D57987B8C5225C6.quest_desc: [
+		"A multiblock that turns solid fuels into liquid ones for the biggest reactors."
+		""
+		"§e§lHow to complete:§r Craft or make Fluidizer Controller and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.5D57987B8C5225C6.title: "Fluidizer"
+	quest.601AE6B0E1E48279.quest_desc: [
+		"Fill the empty space around fuel rods with a moderator (like water, a block of graphite or diamond) to change how efficient the reactor is. Experiment with it!"
+		""
+		"§e§lHow to complete:§r Find, mine or loot Water Bucket and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.601AE6B0E1E48279.title: "Moderators"
+	quest.60A188FF39CB8314.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Ridiculite Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.60A188FF39CB8314.title: "Ridiculite"
 	quest.7AD90A3427217C55.quest_desc: [
-		"An active reactor makes steam. Turbines turn that steam into much more power."
+		"An §eActive reactor§r uses Coolant Ports instead of a Power Tap. It turns water into steam, and a turbine turns steam into far more power than a passive reactor."
+		""
+		"Build a turbine of turbine casings with a rotor shaft running up the middle, bearing at the bottom, blades on the shaft and coils (like iron or gold blocks) around the top of the shaft."
+		""
+		"§e§lHow to complete:§r Craft or make Turbine Controller (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.7AD90A3427217C55.title: "Turbine"
 }

@@ -1,54 +1,229 @@
 {
-	quest.0B9E0AC7E4FDDF14.quest_desc: ["A machine boss in an ancient factory."]
+	quest.0B9E0AC7E4FDDF14.quest_desc: [
+		"A machine boss in an ancient factory."
+		""
+		"§e§lHow to complete:§r Kill The Harbinger. The quest completes on its own as soon as you do it."
+	]
 	quest.0B9E0AC7E4FDDF14.title: "The Harbinger"
+	quest.0C7C64D127013864.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Ignitium Chestplate and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.0C7C64D127013864.title: "Ignitium Armor"
-	quest.12FBA8072EE37C9D.quest_desc: ["A grappling claw from the Leviathan."]
+	quest.107E3E04C1ECF3BE.quest_desc: [
+		"Leads you to the Frosted Prison."
+		""
+		"§e§lHow to complete:§r Craft or make Eye of Curse and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.107E3E04C1ECF3BE.title: "Cursed Eye"
+	quest.12FBA8072EE37C9D.quest_desc: [
+		"A grappling claw from the Leviathan."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Tidal Claws and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.12FBA8072EE37C9D.title: "Tidal Claws"
-	quest.153CC3CDDADB3290.quest_desc: ["A heavy punching gauntlet from the Guardian."]
+	quest.14450CD1A06E8818.quest_desc: [
+		"Dropped by the Ender Guardian."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Void Core and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.14450CD1A06E8818.title: "Void Core"
+	quest.146BA51461FD5D8E.quest_desc: [
+		"Leads you to Scylla's domain."
+		""
+		"§e§lHow to complete:§r Craft or make Eye of Storm and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.146BA51461FD5D8E.title: "Storm Eye"
+	quest.153CC3CDDADB3290.quest_desc: [
+		"A heavy punching gauntlet from the Guardian."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Gauntlet of Guard and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.153CC3CDDADB3290.title: "Gauntlet of Guard"
 	quest.178A391C93A6369B.quest_desc: [
-		"&dNine Craft Quest Book&r"
+		"§dNine Craft Quest Book§r"
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.178A391C93A6369B.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.178A391C93A6369B.title: "&5Nine Craft&r - Quest Book Notice"
-	quest.1A92C4ED4A039DB2.quest_desc: ["A sea monster in a sunken city."]
+	quest.178A391C93A6369B.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.1921257AD822AA1D.quest_desc: [
+		"Leads you to the Netherite Monstrosity."
+		""
+		"§e§lHow to complete:§r Craft or make Eye of Monstrous and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1921257AD822AA1D.title: "Monstrous Eye"
+	quest.193B9B9A252994F8.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Wrath of the Desert and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.193B9B9A252994F8.title: "Wrath of the Desert"
+	quest.196A452746E7877A.quest_desc: [
+		"Leads you to the Cursed Pyramid."
+		""
+		"§e§lHow to complete:§r Craft or make Eye of Desert and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.196A452746E7877A.title: "Desert Eye"
+	quest.1A92C4ED4A039DB2.quest_desc: [
+		"The Leviathan lives in the Sunken City, deep in the ocean. You'll need water breathing and a way to fight underwater. She's invincible outside of water."
+		""
+		"§e§lHow to complete:§r Kill The Leviathan. The quest completes on its own as soon as you do it."
+	]
 	quest.1A92C4ED4A039DB2.title: "The Leviathan"
-	quest.1BEF0AACD61ED747.quest_desc: ["A flaming knight in the Burning Arena."]
+	quest.1BEF0AACD61ED747.quest_desc: [
+		"Ignis fights in the Burning Arena in the Nether. He has three phases and gets faster each time. Fire resistance is a must!"
+		""
+		"§e§lHow to complete:§r Kill Ignis. The quest completes on its own as soon as you do it."
+	]
 	quest.1BEF0AACD61ED747.title: "Ignis"
-	quest.1C7C2734FAB60DB8.quest_desc: ["A fiery shield."]
+	quest.1C10E815D61F9632.quest_desc: [
+		"A material from the Harbinger."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Witherite Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1C10E815D61F9632.title: "Witherite"
+	quest.1C5E08C91B644BD5.quest_desc: [
+		"You've beaten every Cataclysm boss and wear their best gear."
+		""
+		"§e§lHow to complete:§r Craft or make Ignitium Elytra Chestplate, Cursium Chestplate, Astrape and The Annihilator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1C5E08C91B644BD5.title: "Cataclysm Conqueror"
+	quest.1C7C2734FAB60DB8.quest_desc: [
+		"A fiery shield."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Bulwark of the Flame and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1C7C2734FAB60DB8.title: "Bulwark of the Flame"
-	quest.1CC178E34D71C008.quest_desc: ["Combine boss materials into weapons."]
+	quest.1CC178E34D71C008.quest_desc: [
+		"Combine boss materials into weapons."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Fusion Anvil and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1CC178E34D71C008.title: "Fusion Anvil"
-	quest.1DF38903D762E334.quest_desc: ["A giant hammer from the Monstrosity."]
+	quest.1D0C3DA501480218.quest_desc: [
+		"Leads you to the Ancient Factory."
+		""
+		"§e§lHow to complete:§r Craft or make Eye of Mech and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1D0C3DA501480218.title: "Mech Eye"
+	quest.1DBE1D8CF6B0D78E.quest_desc: [
+		"Leads you to the Ruined Citadel in the End."
+		""
+		"§e§lHow to complete:§r Craft or make Eye of Void and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1DBE1D8CF6B0D78E.title: "Void Eye"
+	quest.1DF38903D762E334.quest_desc: [
+		"A giant hammer from the Monstrosity."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Infernal Forge and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.1DF38903D762E334.title: "Infernal Forge"
+	quest.1F0639BC8ADB17CA.quest_desc: [
+		"Leads you to the Burning Arena."
+		""
+		"§e§lHow to complete:§r Craft or make Eye of Flame and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1F0639BC8ADB17CA.title: "Flame Eye"
+	quest.20029023401530E7.quest_desc: [
+		"Armor and wings in one piece."
+		""
+		"§e§lHow to complete:§r Craft or make Ignitium Elytra Chestplate and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.20029023401530E7.title: "Ignitium Elytra"
 	quest.21F5054F452C9265.quest_desc: [
-		"Special eyes lead you to each boss's lair. Some drop from mobs, others are crafted."
+		"The Abyss Eye leads you to the Sunken City, home of the Leviathan. Other bosses have their own eyes; each one is its own quest here."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Eye of Abyss and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.21F5054F452C9265.title: "Boss Eyes"
-	quest.26823B0D9FFDE5E4.quest_desc: ["A giant skeletal beast in a desert tomb."]
+	quest.26823B0D9FFDE5E4.quest_desc: [
+		"A giant skeletal beast in a desert tomb."
+		""
+		"§e§lHow to complete:§r Kill Ancient Remnant. The quest completes on its own as soon as you do it."
+	]
 	quest.26823B0D9FFDE5E4.title: "Ancient Remnant"
-	quest.414B59DDBA232C30.quest_desc: ["A lava-filled giant deep in the Nether."]
+	quest.26B200A4ADC9E002.quest_desc: [
+		"A void-powered weapon."
+		""
+		"§e§lHow to complete:§r Craft or make Void Forge and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.26B200A4ADC9E002.title: "Void Forge"
+	quest.2B3FD44BEAAC0BF3.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Cursium Chestplate and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.2B3FD44BEAAC0BF3.title: "Cursium Armor"
+	quest.334F8B924FD94DFA.quest_desc: [
+		"Dropped by Scylla."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Lacrima and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.334F8B924FD94DFA.title: "Lacrima"
+	quest.414B59DDBA232C30.quest_desc: [
+		"A lava-filled giant deep in the Nether."
+		""
+		"§e§lHow to complete:§r Kill Netherite Monstrosity. The quest completes on its own as soon as you do it."
+	]
 	quest.414B59DDBA232C30.title: "Netherite Monstrosity"
-	quest.4679C399982CBC88.quest_desc: ["The storm-bringer."]
+	quest.42FB4C38C004DE77.quest_desc: [
+		"Scylla's lightning spear."
+		""
+		"§e§lHow to complete:§r Craft or make Astrape and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.42FB4C38C004DE77.title: "Astrape"
+	quest.4679C399982CBC88.quest_desc: [
+		"The storm-bringer."
+		""
+		"§e§lHow to complete:§r Kill Scylla. The quest completes on its own as soon as you do it."
+	]
 	quest.4679C399982CBC88.title: "Scylla"
-	quest.5368EBD4C102BFCC.quest_desc: ["Forge fireproof armor from it."]
+	quest.5368EBD4C102BFCC.quest_desc: [
+		"Forge fireproof armor from it."
+		""
+		"§e§lHow to complete:§r Craft or make Ignitium Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.5368EBD4C102BFCC.title: "Ignitium"
-	quest.53FCF00304DD4E80.quest_desc: ["Armor that grants a second chance."]
+	quest.53FCF00304DD4E80.quest_desc: [
+		"Armor that grants a second chance."
+		""
+		"§e§lHow to complete:§r Craft or make Cursium Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.53FCF00304DD4E80.title: "Cursium"
+	quest.6B11EEA760E8AF93.quest_desc: [
+		"Dropped by the Ancient Remnant."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Remnant's Skull and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.6B11EEA760E8AF93.title: "Remnant Skull"
+	quest.71FA70E99E6E0E76.quest_desc: [
+		"A big Harbinger weapon."
+		""
+		"§e§lHow to complete:§r Craft or make The Annihilator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.71FA70E99E6E0E76.title: "The Annihilator"
 	quest.73C92D3D010CA831.quest_desc: [
-		"L_Ender's Cataclysm adds huge bosses with their own dungeons. Each drops materials for amazing gear. Bring your best."
+		"L_Ender's Cataclysm adds huge bosses with their own dungeons. Every boss drops materials for great gear, and later bosses are tougher."
+		""
+		"§eHow it works:§r most bosses are found with special eyes. Throw the eye and it flies toward the boss's structure. Some structures, like the Sunken City, you have to explore to find. Suit up with a diamond sword at least."
+		""
+		"§eSuggested order:§r Ender Guardian, Netherite Monstrosity, Ignis, Ancient Remnant, the Harbinger, Maledictus, the Leviathan, then Scylla."
+		""
+		"§e§lHow to complete:§r Craft or make Diamond Sword and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.73C92D3D010CA831.title: "Big Bosses"
-	quest.769668110B504A7A.quest_desc: ["A cursed warlord in a frozen prison."]
+	quest.769668110B504A7A.quest_desc: [
+		"A cursed warlord in a frozen prison."
+		""
+		"§e§lHow to complete:§r Kill Maledictus. The quest completes on its own as soon as you do it."
+	]
 	quest.769668110B504A7A.title: "Maledictus"
-	quest.7828628FA81FEB2F.quest_desc: ["A heavy golem guarding a ruined End castle."]
+	quest.7828628FA81FEB2F.quest_desc: [
+		"A heavy golem guarding a ruined End castle."
+		""
+		"§e§lHow to complete:§r Kill Ender Guardian. The quest completes on its own as soon as you do it."
+	]
 	quest.7828628FA81FEB2F.title: "Ender Guardian"
 }

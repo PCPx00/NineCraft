@@ -1,0 +1,23 @@
+#If true, an Ender Pouch in the Curios pouch slot is restored to the player after death.
+curiosPouchKeepOnDeath = true
+#How many normal items the Advanced Bundle can hold.
+# Default: 64
+# Range: 1 ~ 256
+advancedBundleCapacity = 64
+#Controls which non-stackable and container items the Advanced Bundle accepts.
+#Allowed Values: DEFAULT, VANILLA_UNSTACKABLES
+advancedBundleMode = "DEFAULT"
+#If false, the Advanced Bundle is hidden from the mod tab and cannot be used.
+advancedBundleEnabled = true
+#If false, the Linked Barrel is hidden from the mod tab and cannot be placed.
+linkedBarrelEnabled = true
+#If false, the Wooden Hopper is hidden from the mod tab and cannot be placed.
+woodenHopperEnabled = true
+#If false, the Ender Hopper is hidden from the mod tab and cannot be placed.
+enderHopperEnabled = true
+#If false, existing Ender Hoppers stop moving items and pouches cannot link to them.
+enderHopperFunctionEnabled = true
+#If false, the Binder Station cannot create or copy linked pouch variants.
+binderStationPouchCreationEnabled = true
+#If false, an unlinked Ender Pouch cannot open the player's Ender Chest.
+enderPouchChestEnabled = true

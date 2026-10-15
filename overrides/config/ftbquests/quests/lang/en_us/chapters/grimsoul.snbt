@@ -1,0 +1,299 @@
+{
+	quest.007D39294E0B0A5F.quest_desc: [
+		"Level a Soul Card bound to the Wither or the Ender Dragon to Soulforged, then forge it at the Soul Forge. In a Virtualization Chamber it halves the power cost of running a boss."
+		""
+		"§e§lHow to complete:§r Craft or make Boss Core Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.007D39294E0B0A5F.title: "Boss Core Card"
+	quest.024C8622FD7594FE.quest_desc: [
+		"Paper, iron, ender pearls and a compass. A bigger work area for the Reaper Block (up to 23x13x23), a longer push for the Fan, a wider magnet for the XP Tank and a bigger spawn area. Up to 10."
+		""
+		"§e§lHow to complete:§r Craft or make Range Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.024C8622FD7594FE.title: "Range Card"
+	quest.02E1535B548B0D78.quest_desc: [
+		"The Codex's safe farm: a Spawner with a No AI Card, its spawn area lined up with a Reaper Block's work area, and a Generator on §ePass§r eating the drops. The farm powers itself."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Spawner, 4 x Count Card and 16 x Speed Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.02E1535B548B0D78.title: "Spawner Farm"
+	quest.0AD4770C4CBE0A56.quest_desc: [
+		"Every upgrade card is paper around a few special items. The colored band at the bottom of a card shows where it goes: gray for any machine, purple for the Reaper Block, gold for the Spawner and cyan for the Chamber."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 16 x Paper and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.0AD4770C4CBE0A56.title: "Card Stock"
+	quest.0B75A41B5B35A664.quest_desc: [
+		"Put it together: a Reaper Block with Speed and Range cards, a Fan to herd mobs in, and a Crate or XP Tank to catch the loot. Build it next to a dark area or a mob spawner."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Block, 8 x Speed Card and 4 x Range Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.0B75A41B5B35A664.title: "Your First Mob Farm"
+	quest.0E45962E7F5398FD.quest_desc: [
+		"Burns mob drops for power: rotten flesh, bones and string at the low end, up to blaze rods and nether stars. Hover any drop to see its FE value."
+		""
+		"Turn on §ePass§r and items that aren't fuel flow on through it, so a whole farm's drops can pass by."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.0E45962E7F5398FD.title: "Reaper Generator"
+	quest.11036351A7A46424.quest_desc: [
+		"The spawner keeps running with nobody nearby."
+		""
+		"§e§lHow to complete:§r Craft or make No Player Needed Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.11036351A7A46424.title: "No Player Needed Card"
+	quest.1114353C55484A54.quest_desc: [
+		"A row of four chambers, each with its own Soul Card. Keep them running and the cards reach Soulforged, the top tier, with a 100% success rate."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Reaper Virtualization Chamber and 4 x Reaper Soul Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1114353C55484A54.title: "Soulforged"
+	quest.1266578039723930.quest_desc: [
+		"Wheat and a bucket. The Reaper Block collects wool, milk and eggs from adult animals without hurting them."
+		""
+		"§e§lHow to complete:§r Craft or make Harvest Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1266578039723930.title: "Harvest Card"
+	quest.126D66C02D318A1F.quest_desc: [
+		"Give the chamber a Player Kill Card for player-only loot and XP, and Speed Cards so a run takes 1 second instead of 10."
+		""
+		"§e§lHow to complete:§r Craft or make Player Kill Card and 16 x Speed Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.126D66C02D318A1F.title: "Fast Virtualization"
+	quest.12C239A7FA1778F0.quest_desc: [
+		"The Virtualization Chamber is reinforced with netherite scrap. Mine ancient debris low in the Nether."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 4 x Netherite Scrap and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.12C239A7FA1778F0.title: "Netherite Scrap"
+	quest.13227473A672DD90.quest_desc: [
+		"Pushes every mob in front of it, 4 blocks by default and 2 more per Range Card. Use it to herd mobs into a Reaper Block's work area."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Fan and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.13227473A672DD90.title: "Reaper Fan"
+	quest.1493CD485D195F69.quest_desc: [
+		"A soul lantern with amethyst and an iron nugget."
+		""
+		"§eHow:§r right-click a mob to trap it inside, and right-click a block to let it out again. A filled lantern is also what tells the Reaper Spawner which mob to spawn. Bosses can't be captured."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper's Lantern and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1493CD485D195F69.title: "Reaper's Lantern"
+	quest.14B62C2E599F80BF.quest_desc: [
+		"Netherite scrap, a diamond block, tinted glass, a Soul Card and a Reaper Generator."
+		""
+		"Put in a bound Soul Card and give it power. Each run rolls the mob's real loot with no mob spawned. The card's tier sets the success chance: 10% at Hollow up to 100% at Soulforged."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Virtualization Chamber and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.14B62C2E599F80BF.title: "Reaper Virtualization Chamber"
+	quest.14BDE3C6F115F48D.quest_desc: [
+		"Cobweb and a lead. Spawned mobs stand completely still and never attack, so you can walk through your farm safely."
+		""
+		"§e§lHow to complete:§r Craft or make No AI Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.14BDE3C6F115F48D.title: "No AI Card"
+	quest.16D818BEC72FD4C3.quest_desc: [
+		"Sets mobs on fire, 4 seconds per card. Burning mobs drop cooked food."
+		""
+		"§e§lHow to complete:§r Craft or make Fire Aspect Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.16D818BEC72FD4C3.title: "Fire Aspect Card"
+	quest.1740BB2BF77E1FB9.quest_desc: [
+		"Paper, amethyst, flint and an iron sword. +2 damage per hit for each card, up to 35."
+		""
+		"§e§lHow to complete:§r Craft or make Damage Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1740BB2BF77E1FB9.title: "Damage Card"
+	quest.188AB11A8594A21D.quest_desc: [
+		"Spawns at any light level. Mobs still need a block to stand on."
+		""
+		"§e§lHow to complete:§r Craft or make Ignore Light Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.188AB11A8594A21D.title: "Ignore Light Card"
+	quest.192BF222A7420B2D.quest_desc: [
+		"A Reaper Block, a Reaper Spawner, a Virtualization Chamber, a Soul Forge and an Energy Cell: the whole Grim Soul Industries line. Every mob in Nine Craft now works for you."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Block, Reaper Spawner, Reaper Virtualization Chamber, Soul Forge and Reaper Energy Cell and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.192BF222A7420B2D.title: "Grim Soul Industrialist"
+	quest.1959E7BDBCC13ECE.quest_desc: [
+		"Redstone, gold nuggets and amethyst. Right-click a mob to bind the card to that mob type."
+		""
+		"Every kill of that mob adds data, by you or by a Reaper Block holding the card. Five tiers: §7Hollow§r, Whispering (25), Restless (150), Wraithbound (600) and §5Soulforged§r (2,500)."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Soul Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1959E7BDBCC13ECE.title: "Reaper Soul Card"
+	quest.195F8646294634D3.quest_desc: [
+		"Before you automate anything, get used to the mobs you'll be farming. Take out a few zombies by hand."
+		""
+		"§eTip:§r catch one alive with the lantern for the Reaper Spawner later."
+		""
+		"§e§lHow to complete:§r Kill 5 x Zombie. The quest completes on its own as soon as you do it."
+	]
+	quest.195F8646294634D3.title: "Practice Run"
+	quest.1A68E7CCF9AAC103.quest_desc: [
+		"Lets the Reaper Block's filter delete unwanted items instead of keeping them."
+		""
+		"§e§lHow to complete:§r Craft or make Void Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1A68E7CCF9AAC103.title: "Void Card"
+	quest.1A87C9A5C997D8DC.quest_desc: [
+		"Looting I to X, one level per card. It needs a Player Kill Card in the same machine to work."
+		""
+		"§e§lHow to complete:§r Craft or make Looting Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1A87C9A5C997D8DC.title: "Looting Card"
+	quest.1AC90C1E1EE75374.quest_desc: [
+		"Paper, iron, sugar and redstone. The Reaper Block attacks faster, and the Spawner and Chamber work faster. Up to 30 per machine."
+		""
+		"§e§lHow to complete:§r Craft or make Speed Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1AC90C1E1EE75374.title: "Speed Card"
+	quest.1B0A00060E62F34C.quest_desc: [
+		"Blackstone, crying obsidian and Soul Steel. Each craft makes 4, and the forge needs 24, so 6 crafts."
+		""
+		"§e§lHow to complete:§r Craft or make 24 x Soul Forge Casing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1B0A00060E62F34C.title: "Soul Forge Casing"
+	quest.1B25394923760283.quest_desc: [
+		"A diamond and a diamond sword. Kills count as player kills, so mobs drop full XP and player-only loot like wither skeleton skulls. It works in the Virtualization Chamber too."
+		""
+		"§e§lHow to complete:§r Craft or make Player Kill Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1B25394923760283.title: "Player Kill Card"
+	quest.1B27023083CAC8C9.quest_desc: [
+		"A netherite ingot and a nether star. The metal of the endgame, used in Soul Forge Casing and in every forge craft."
+		""
+		"§e§lHow to complete:§r Craft or make 6 x Soul Steel and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1B27023083CAC8C9.title: "Soul Steel"
+	quest.1ED03CA2FEF0DBFB.quest_desc: [
+		"Grim Soul Industries is Nine Craft's own mob-farming mod, made by §dxTri6§r. It starts with a laser grinder you can build on day one and ends with farms that have no mobs in them at all."
+		""
+		"§eThe path:§r Tier I kills mobs with the Reaper Block. Tier II spawns your own mobs and burns their drops for power. Tier III simulates kills with Soul Cards. The Soul Forge is the endgame."
+		""
+		"Almost every recipe uses amethyst, so start by collecting some shards."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 16 x Amethyst Shard and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1ED03CA2FEF0DBFB.title: "§5Grim Soul Industries"
+	quest.1ED1A67F5A866D7A.quest_desc: [
+		"The heart of every farm: iron, an iron sword, amethyst and redstone."
+		""
+		"Place it, open it and switch it on. It starts off and set to hostile mobs only, so it never zaps you by surprise. It fires a purple laser at every mob in its work area and pulls in their drops and XP."
+		""
+		"Turn on §eShow area§r to see the work area as an outline."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Block and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1ED1A67F5A866D7A.title: "Reaper Block"
+	quest.1EF9518B8733271A.quest_desc: [
+		"Skips every spawn rule (block type, light, biome, height). It only needs room."
+		""
+		"§e§lHow to complete:§r Craft or make Ignore Spawn Conditions Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1EF9518B8733271A.title: "Ignore Spawn Conditions Card"
+	quest.1F03AA620EE32629.quest_desc: [
+		"The mod's own guide book: a book and a bone. Every block, card and recipe is in it, and the recipes it shows are read live from your game."
+		""
+		"Lost it? Just craft another."
+		""
+		"§e§lHow to complete:§r Craft or make Grim Soul Codex and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1F03AA620EE32629.title: "Grim Soul Codex"
+	quest.24C53145AB1AEC33.quest_desc: [
+		"Bind a Soul Card to zombies and kill 25 of them with it in your inventory. That's enough data to go from Hollow to Whispering."
+		""
+		"§e§lHow to complete:§r Kill 25 x Zombie. The quest completes on its own as soon as you do it."
+	]
+	quest.24C53145AB1AEC33.title: "Whispering Tier"
+	quest.306FFD57A039E5A3.quest_desc: [
+		"+9 inventory slots per card in the Reaper Block, up to 5 cards (54 slots)."
+		""
+		"§e§lHow to complete:§r Craft or make Storage Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.306FFD57A039E5A3.title: "Storage Card"
+	quest.3BC5170127E57102.quest_desc: [
+		"A multiblock: build a 3x3x3 cube with the Soul Forge in the bottom middle and Casing in the other 24 spots. Leave the two spots above the forge empty as a shaft to reach it. Power it with FE."
+		""
+		"§eWhat it makes:§r a spawn egg from a Soulforged Soul Card, a soulbound copy of any item (kept when you die), or a Boss Core Card."
+		""
+		"§e§lHow to complete:§r Craft or make Soul Forge and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.3BC5170127E57102.title: "Soul Forge"
+	quest.40BFAD9E297307B5.quest_desc: [
+		"The Soul Forge needs nether stars, both for its core and for Soul Steel. Defeat the Wither."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Nether Star and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.40BFAD9E297307B5.title: "Nether Star"
+	quest.4F59916FB5D28F70.quest_desc: [
+		"Stores up to 1,000,000 XP as Liquid Experience. Place it next to a Reaper Block and it fills on its own, and it pulls in loose XP orbs within 3 blocks."
+		""
+		"Take XP out in its screen, or pipe the liquid to other mods."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper XP Tank and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4F59916FB5D28F70.title: "Reaper XP Tank"
+	quest.58121D0BF64147EE.quest_desc: [
+		"54 slots that pipes, hoppers and AE2 can use from any side. Turn on §eEject§r in the Reaper Block and it pushes drops straight in."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Output Crate and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.58121D0BF64147EE.title: "Reaper Output Crate"
+	quest.5A75C637E1D42E04.quest_desc: [
+		"Each card adds a chance for zombies, skeletons, creepers and piglins to drop their heads. Up to 10."
+		""
+		"§e§lHow to complete:§r Craft or make Beheading Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5A75C637E1D42E04.title: "Beheading Card"
+	quest.5E6E790FD770F5CC.quest_desc: [
+		"Prismarine, lapis and a redstone block. Uses less power per run. A full set of 20 cuts the cost by 75%."
+		""
+		"§e§lHow to complete:§r Craft or make Efficiency Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5E6E790FD770F5CC.title: "Efficiency Card"
+	quest.66A1EF3E206C1707.quest_desc: [
+		"+1 mob per spawn, up to 20 at once. Each extra mob adds to the power cost."
+		""
+		"§e§lHow to complete:§r Craft or make Count Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.66A1EF3E206C1707.title: "Count Card"
+	quest.67D216C266479DE8.quest_desc: [
+		"Stores 10,000,000 FE and keeps its charge when you break it. Set each side to In, Out or Off."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Energy Cell and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.67D216C266479DE8.title: "Reaper Energy Cell"
+	quest.6AFAB8952B89334A.quest_desc: [
+		"Right-click a machine to copy its settings (work area, filter, eject, redstone mode). Right-click another machine of the same kind to paste them. Sneak-right-click to clear it."
+		""
+		"§e§lHow to complete:§r Craft or make Settings Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.6AFAB8952B89334A.title: "Settings Card"
+	quest.6BBA6146985EE68C.quest_desc: [
+		"§dNine Craft Quest Book§r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"§8This quest is hidden and only appears in edit mode.§r"
+	]
+	quest.6BBA6146985EE68C.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.6BBA6146985EE68C.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.7A5257956171C822.quest_desc: [
+		"Crying obsidian, a diamond, iron bars, an eye of ender and your Reaper's Lantern."
+		""
+		"§eHow:§r put a filled lantern in its slot and give it power. It spawns 1 mob every 10 seconds by default. Use the §eSpawn area§r controls to choose exactly where the mobs appear."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Spawner and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.7A5257956171C822.title: "Reaper Spawner"
+}

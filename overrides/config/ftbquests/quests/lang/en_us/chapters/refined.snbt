@@ -1,65 +1,251 @@
 {
-	quest.05A3F398F855E655.quest_desc: ["Reach the network from a distance."]
-	quest.05A3F398F855E655.title: "Wireless Transmitter"
-	quest.09CEBF5E6DA71633.quest_desc: ["Treat chests and drawers as part of the network."]
-	quest.09CEBF5E6DA71633.title: "External Storage"
-	quest.0E969C7CD43EF4C9.quest_desc: ["Disks can hold fluids too."]
-	quest.0E969C7CD43EF4C9.title: "Fluid Storage"
-	quest.118911D676CE2BC8.title: "Basic Processor"
-	quest.1231A369A020A786.quest_desc: ["Faster elite, ultra and mega versions of RS parts."]
-	quest.1231A369A020A786.title: "Cable Tiers"
-	quest.1277A87A46EE765C.quest_desc: ["Write patterns here."]
-	quest.1277A87A46EE765C.title: "Pattern Grid"
-	quest.1540E485286B9A3A.title: "4k Part"
-	quest.15B0AA43682FF0BB.quest_desc: ["The frame for RS blocks."]
-	quest.15B0AA43682FF0BB.title: "Machine Casing"
-	quest.16638A2C369E1490.title: "Improved Processor"
-	quest.17B0553E8E1E9E8F.quest_desc: ["Portable access."]
-	quest.17B0553E8E1E9E8F.title: "Wireless Grid"
-	quest.17F5BF79403598EB.quest_desc: ["Craft from storage."]
-	quest.17F5BF79403598EB.title: "Crafting Grid"
-	quest.1A101FCC660004EF.quest_desc: ["Combine with housing to make a disk."]
-	quest.1A101FCC660004EF.title: "1k Storage Part"
-	quest.1C484751688795DD.quest_desc: ["Runs patterns automatically."]
-	quest.1C484751688795DD.title: "Autocrafter"
-	quest.1CA55D5CBE5C7A43.quest_desc: ["Watch your crafting jobs."]
-	quest.1CA55D5CBE5C7A43.title: "Crafting Monitor"
-	quest.1DB551A6A54CE7A2.quest_desc: ["Pushes items out."]
-	quest.1DB551A6A54CE7A2.title: "Exporter"
-	quest.1DBB5A4EF4C89BDF.quest_desc: ["Holds storage disks."]
-	quest.1DBB5A4EF4C89BDF.title: "Disk Drive"
-	quest.2EBD1FF8EBD765B7.quest_desc: ["Connects everything to the controller."]
-	quest.2EBD1FF8EBD765B7.title: "Cable"
-	quest.34936E119C964A44.quest_desc: ["Autocrafting recipes."]
-	quest.34936E119C964A44.title: "Patterns"
-	quest.36ACCACC264C4DBE.quest_desc: ["Pulls items in."]
-	quest.36ACCACC264C4DBE.title: "Importer"
-	quest.4018CA7C094245D4.quest_desc: ["Powers the whole network."]
-	quest.4018CA7C094245D4.title: "Controller"
-	quest.48CB6AE8439BA240.title: "64k Part"
-	quest.512856F604CEE6C7.quest_desc: [
-		"&dNine Craft Quest Book&r"
+	quest.05A3F398F855E655.quest_desc: [
+		"Reach the network from a distance."
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"§e§lHow to complete:§r Craft or make Wireless Transmitter and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.05A3F398F855E655.title: "Wireless Transmitter"
+	quest.09CEBF5E6DA71633.quest_desc: [
+		"Treat chests and drawers as part of the network."
+		""
+		"§e§lHow to complete:§r Craft or make External Storage and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.09CEBF5E6DA71633.title: "External Storage"
+	quest.0B2C86E354484770.quest_desc: [
+		"Moves whole stacks."
+		""
+		"§e§lHow to complete:§r Craft or make Stack Upgrade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.0B2C86E354484770.title: "Stack Upgrade"
+	quest.0E969C7CD43EF4C9.quest_desc: [
+		"Disks can hold fluids too."
+		""
+		"§e§lHow to complete:§r Craft or make 64B Fluid Storage Part and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.0E969C7CD43EF4C9.title: "Fluid Storage"
+	quest.118911D676CE2BC8.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Basic Processor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.118911D676CE2BC8.title: "Basic Processor"
+	quest.11E754AA53F5B489.quest_desc: [
+		"Breaks blocks into the network."
+		""
+		"§e§lHow to complete:§r Craft or make Destructor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.11E754AA53F5B489.title: "Destructor"
+	quest.1231A369A020A786.quest_desc: [
+		"Faster elite, ultra and mega versions of RS parts."
+		""
+		"§e§lHow to complete:§r Craft or make Elite Importer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1231A369A020A786.title: "Cable Tiers"
+	quest.1277A87A46EE765C.quest_desc: [
+		"Write patterns here."
+		""
+		"§e§lHow to complete:§r Craft or make Pattern Grid and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1277A87A46EE765C.title: "Pattern Grid"
+	quest.13E67F626F85DCA4.quest_desc: [
+		"A grid with a disk slot, no network needed."
+		""
+		"§e§lHow to complete:§r Craft or make Portable Grid and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.13E67F626F85DCA4.title: "Portable Grid"
+	quest.1540E485286B9A3A.quest_desc: [
+		"§e§lHow to complete:§r Craft or make 4k Storage Part and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1540E485286B9A3A.title: "4k Part"
+	quest.15B0AA43682FF0BB.quest_desc: [
+		"The frame for RS blocks."
+		""
+		"§e§lHow to complete:§r Craft or make Machine Casing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.15B0AA43682FF0BB.title: "Machine Casing"
+	quest.16638A2C369E1490.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Improved Processor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.16638A2C369E1490.title: "Improved Processor"
+	quest.17B0553E8E1E9E8F.quest_desc: [
+		"Portable access."
+		""
+		"§e§lHow to complete:§r Craft or make Wireless Grid and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.17B0553E8E1E9E8F.title: "Wireless Grid"
+	quest.17F5BF79403598EB.quest_desc: [
+		"Craft from storage."
+		""
+		"§e§lHow to complete:§r Craft or make Crafting Grid and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.17F5BF79403598EB.title: "Crafting Grid"
+	quest.1872124FE3354D96.quest_desc: [
+		"Holds processors together."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Processor Binding and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1872124FE3354D96.title: "Processor Binding"
+	quest.1A101FCC660004EF.quest_desc: [
+		"Combine with housing to make a disk."
+		""
+		"§e§lHow to complete:§r Craft or make 1k Storage Part and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1A101FCC660004EF.title: "1k Storage Part"
+	quest.1BB03551F5460D68.quest_desc: [
+		"The fastest importers and exporters."
+		""
+		"§e§lHow to complete:§r Craft or make Mega Importer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1BB03551F5460D68.title: "Mega Cable Tiers"
+	quest.1C484751688795DD.quest_desc: [
+		"Put patterns in the Autocrafter and face it into a machine (or leave it free for normal crafting recipes). Request items from the grid with the crafting button."
+		""
+		"§e§lHow to complete:§r Craft or make Autocrafter and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1C484751688795DD.title: "Autocrafter"
+	quest.1CA55D5CBE5C7A43.quest_desc: [
+		"Watch your crafting jobs."
+		""
+		"§e§lHow to complete:§r Craft or make Autocrafting Monitor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1CA55D5CBE5C7A43.title: "Crafting Monitor"
+	quest.1DB551A6A54CE7A2.quest_desc: [
+		"Pushes items out."
+		""
+		"§e§lHow to complete:§r Craft or make Exporter and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1DB551A6A54CE7A2.title: "Exporter"
+	quest.1DBB5A4EF4C89BDF.quest_desc: [
+		"Holds storage disks."
+		""
+		"§e§lHow to complete:§r Craft or make Disk Drive and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1DBB5A4EF4C89BDF.title: "Disk Drive"
+	quest.1ED0690D242EDCAC.quest_desc: [
+		"Keeps a set amount of an item in a target."
+		""
+		"§e§lHow to complete:§r Craft or make Regulator Upgrade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1ED0690D242EDCAC.title: "Regulator Upgrade"
+	quest.1EFE2D58D0E00727.quest_desc: [
+		"Places blocks from the network."
+		""
+		"§e§lHow to complete:§r Craft or make Constructor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1EFE2D58D0E00727.title: "Constructor"
+	quest.1FCFF05FB7D6A66C.quest_desc: [
+		"Faster importers and exporters."
+		""
+		"§e§lHow to complete:§r Craft or make 2 x Speed Upgrade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1FCFF05FB7D6A66C.title: "Speed Upgrade"
+	quest.2EBD1FF8EBD765B7.quest_desc: [
+		"Connects everything to the controller."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Cable and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.2EBD1FF8EBD765B7.title: "Cable"
+	quest.34936E119C964A44.quest_desc: [
+		"Autocrafting recipes."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Pattern and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.34936E119C964A44.title: "Patterns"
+	quest.36ACCACC264C4DBE.quest_desc: [
+		"Pulls items in."
+		""
+		"§e§lHow to complete:§r Craft or make Importer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.36ACCACC264C4DBE.title: "Importer"
+	quest.4018CA7C094245D4.quest_desc: [
+		"The Controller powers everything on the network. Feed it FE from any generator. Every cable, drive and grid connected to it becomes part of the network."
+		""
+		"§e§lHow to complete:§r Craft or make Controller and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4018CA7C094245D4.title: "Controller"
+	quest.48CB6AE8439BA240.quest_desc: [
+		"§e§lHow to complete:§r Craft or make 64k Storage Part and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.48CB6AE8439BA240.title: "64k Part"
+	quest.4A64430A8278BACB.quest_desc: [
+		"Link networks across dimensions."
+		""
+		"§e§lHow to complete:§r Craft or make Network Transmitter and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.4A64430A8278BACB.title: "Network Transmitter"
+	quest.512856F604CEE6C7.quest_desc: [
+		"§dNine Craft Quest Book§r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.512856F604CEE6C7.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.512856F604CEE6C7.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.512856F604CEE6C7.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.5A17E8B10B60F4EE.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Advanced Processor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.5A17E8B10B60F4EE.title: "Advanced Processor"
-	quest.5FD5B23BBC170BFF.quest_desc: ["The shell of a storage disk."]
+	quest.5B88925F0B6A6FB4.quest_desc: [
+		"Autocrafters, big disks and wireless access."
+		""
+		"§e§lHow to complete:§r Craft or make Controller, 4 x Autocrafter, 4 x 64k Storage Part and Wireless Grid and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5B88925F0B6A6FB4.title: "Refined Master"
+	quest.5FD5B23BBC170BFF.quest_desc: [
+		"The shell of a storage disk."
+		""
+		"§e§lHow to complete:§r Craft or make Storage Housing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.5FD5B23BBC170BFF.title: "Storage Housing"
+	quest.63818474F4CDE9F7.quest_desc: [
+		"Printed processors start raw. Smelt them."
+		""
+		"§e§lHow to complete:§r Craft or make Raw Basic Processor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.63818474F4CDE9F7.title: "Raw Processor"
+	quest.639F9BE91C3A77AA.quest_desc: [
+		"Shows an item's count on a block."
+		""
+		"§e§lHow to complete:§r Craft or make Storage Monitor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.639F9BE91C3A77AA.title: "Storage Monitor"
+	quest.6800177D2C6855A6.quest_desc: [
+		"Move items between disks."
+		""
+		"§e§lHow to complete:§r Craft or make Disk Interface and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.6800177D2C6855A6.title: "Disk Interface"
+	quest.6F293A731A22AE92.quest_desc: [
+		"§e§lHow to complete:§r Craft or make 16k Storage Part and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.6F293A731A22AE92.title: "16k Part"
-	quest.7755CE14F25AAC46.quest_desc: ["Your window into storage."]
+	quest.6FD6B1AA8BD43499.quest_desc: [
+		"Control who can use your network."
+		""
+		"§e§lHow to complete:§r Craft or make Security Manager and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.6FD6B1AA8BD43499.title: "Security Manager"
+	quest.7755CE14F25AAC46.quest_desc: [
+		"Your window into storage."
+		""
+		"§e§lHow to complete:§r Craft or make Grid and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.7755CE14F25AAC46.title: "Grid"
-	quest.79CA677152BB5E5D.quest_desc: ["The base material for almost everything."]
+	quest.79CA677152BB5E5D.quest_desc: [
+		"The base material for almost everything."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Quartz Enriched Iron and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.79CA677152BB5E5D.title: "Quartz Enriched Iron"
 	quest.7FFE358FD81292D4.quest_desc: [
-		"A simpler take on digital storage. No channels to worry about. Place a controller, give it power and start adding disks."
+		"Refined Storage is a simpler digital storage mod with no channels to worry about. Place a controller, give it power and add disks."
+		""
+		"§eThe path:§r quartz enriched iron, processors, controller, disk drive and grid. Later: importers, exporters, autocrafting and wireless. Start with some iron ingots."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 16 x Iron Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.7FFE358FD81292D4.title: "Refined Storage"
 }

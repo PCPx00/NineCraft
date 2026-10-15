@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 7.5d
 			x: 2.75d
-			y: -11.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: -1.0d
+			y: 13.5d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 16.5d
-			y: -6.0d
+			x: 22.0d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 6.0d
-			y: 9.0d
+			x: 9.0d
+			y: 30.5d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,32 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 16.5d
-			y: 4.5d
+			x: 22.0d
+			y: 26.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/cataclysm_0.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 2.25d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/cataclysm_1.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 3.25d
+			y: 12.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/cataclysm_2.png"
+			rotation: 0.0d
+			width: 13.5d
+			x: 5.5d
+			y: 20.0d
 		}
 	]
 	order_index: 0
@@ -91,7 +115,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["73C92D3D010CA831"]
@@ -117,7 +141,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["21F5054F452C9265"]
+			dependencies: ["1DBE1D8CF6B0D78E"]
 			id: "7828628FA81FEB2F"
 			rewards: [
 				{
@@ -135,7 +159,7 @@
 				}
 			]
 			x: 5.0d
-			y: -4.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["7828628FA81FEB2F"]
@@ -158,11 +182,17 @@
 				}
 			]
 			x: 7.5d
-			y: -7.0d
+			y: 3.5d
 		}
 		{
-			dependencies: ["21F5054F452C9265"]
+			dependencies: [
+				"7828628FA81FEB2F"
+				"1921257AD822AA1D"
+				"1F0639BC8ADB17CA"
+				"196A452746E7877A"
+			]
 			id: "414B59DDBA232C30"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "19A822F1FCA7AC76"
@@ -178,8 +208,8 @@
 					value: 1L
 				}
 			]
-			x: 5.0d
-			y: -2.5d
+			x: 0.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["414B59DDBA232C30"]
@@ -188,7 +218,7 @@
 				{
 					id: "1068F244A48137D3"
 					type: "xp_levels"
-					xp_levels: 2
+					xp_levels: 3
 				}
 			]
 			tasks: [
@@ -201,8 +231,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -5.0d
+			x: 2.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["414B59DDBA232C30"]
@@ -211,7 +241,7 @@
 				{
 					id: "11FEA64AC6D9D0AD"
 					type: "xp_levels"
-					xp_levels: 6
+					xp_levels: 7
 				}
 			]
 			shape: "hexagon"
@@ -224,8 +254,8 @@
 					value: 1L
 				}
 			]
-			x: 7.5d
-			y: -3.0d
+			x: 2.5d
+			y: 16.0d
 		}
 		{
 			dependencies: ["1BEF0AACD61ED747"]
@@ -247,8 +277,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -3.0d
+			x: 5.0d
+			y: 15.0d
 		}
 		{
 			dependencies: ["5368EBD4C102BFCC"]
@@ -270,17 +300,23 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -3.0d
+			x: 7.5d
+			y: 15.0d
 		}
 		{
-			dependencies: ["21F5054F452C9265"]
+			dependencies: [
+				"26823B0D9FFDE5E4"
+				"1D0C3DA501480218"
+				"107E3E04C1ECF3BE"
+				"21F5054F452C9265"
+			]
 			id: "0B9E0AC7E4FDDF14"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "14A5F0E3D7A552E9"
 					type: "xp_levels"
-					xp_levels: 2
+					xp_levels: 4
 				}
 			]
 			tasks: [
@@ -291,17 +327,17 @@
 					value: 1L
 				}
 			]
-			x: 5.0d
-			y: -1.0d
+			x: 0.0d
+			y: 25.5d
 		}
 		{
-			dependencies: ["21F5054F452C9265"]
+			dependencies: ["769668110B504A7A"]
 			id: "1A92C4ED4A039DB2"
 			rewards: [
 				{
 					id: "7545ED3D910B3A16"
 					type: "xp_levels"
-					xp_levels: 2
+					xp_levels: 5
 				}
 			]
 			tasks: [
@@ -313,7 +349,7 @@
 				}
 			]
 			x: 5.0d
-			y: 1.0d
+			y: 22.5d
 		}
 		{
 			dependencies: ["1A92C4ED4A039DB2"]
@@ -322,7 +358,7 @@
 				{
 					id: "2F542AC95E873A86"
 					type: "xp_levels"
-					xp_levels: 2
+					xp_levels: 5
 				}
 			]
 			tasks: [
@@ -336,16 +372,16 @@
 				}
 			]
 			x: 7.5d
-			y: 2.0d
+			y: 21.5d
 		}
 		{
-			dependencies: ["21F5054F452C9265"]
+			dependencies: ["1BEF0AACD61ED747"]
 			id: "26823B0D9FFDE5E4"
 			rewards: [
 				{
 					id: "23B7EC0C13DF3B6C"
 					type: "xp_levels"
-					xp_levels: 2
+					xp_levels: 3
 				}
 			]
 			tasks: [
@@ -357,16 +393,16 @@
 				}
 			]
 			x: 5.0d
-			y: 2.5d
+			y: 17.0d
 		}
 		{
-			dependencies: ["21F5054F452C9265"]
+			dependencies: ["0B9E0AC7E4FDDF14"]
 			id: "769668110B504A7A"
 			rewards: [
 				{
 					id: "11458D54208B01B2"
 					type: "xp_levels"
-					xp_levels: 2
+					xp_levels: 4
 				}
 			]
 			tasks: [
@@ -377,8 +413,8 @@
 					value: 1L
 				}
 			]
-			x: 5.0d
-			y: 4.5d
+			x: 2.5d
+			y: 23.5d
 		}
 		{
 			dependencies: ["769668110B504A7A"]
@@ -386,7 +422,7 @@
 			rewards: [
 				{
 					id: "11C0ED6FCA3647AC"
-					table_id: 1467623321632268434L
+					table_id: 1597714221544942633L
 					type: "random"
 				}
 			]
@@ -400,17 +436,17 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 5.5d
+			x: 5.0d
+			y: 25.0d
 		}
 		{
-			dependencies: ["1A92C4ED4A039DB2", "769668110B504A7A"]
+			dependencies: ["146BA51461FD5D8E"]
 			id: "4679C399982CBC88"
 			rewards: [
 				{
 					id: "1082B628999B0048"
 					type: "xp_levels"
-					xp_levels: 6
+					xp_levels: 10
 				}
 			]
 			shape: "hexagon"
@@ -423,8 +459,8 @@
 					value: 1L
 				}
 			]
-			x: 7.5d
-			y: 4.0d
+			x: 10.0d
+			y: 23.0d
 		}
 		{
 			dependencies: ["0B9E0AC7E4FDDF14"]
@@ -432,7 +468,7 @@
 			rewards: [
 				{
 					id: "19539FD6CAF63A90"
-					table_id: 1467623321632268434L
+					table_id: 3087784268654967924L
 					type: "random"
 				}
 			]
@@ -446,8 +482,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 0.5d
+			x: 2.5d
+			y: 25.5d
 		}
 		{
 			dependencies: ["414B59DDBA232C30"]
@@ -457,7 +493,7 @@
 				{
 					id: "1AB1C07E9804CDA3"
 					type: "xp_levels"
-					xp_levels: 2
+					xp_levels: 3
 				}
 			]
 			tasks: [
@@ -470,8 +506,457 @@
 					type: "item"
 				}
 			]
+			x: 2.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["73C92D3D010CA831"]
+			id: "1F0639BC8ADB17CA"
+			rewards: [
+				{
+					id: "14C09EFB0866C0D6"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "18812DC6445AD31E"
+					item: {
+						count: 1
+						id: "cataclysm:flame_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["73C92D3D010CA831"]
+			id: "1DBE1D8CF6B0D78E"
+			rewards: [
+				{
+					id: "76AFDF26F7E5D95A"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "18AF68CF7359D68E"
+					item: {
+						count: 1
+						id: "cataclysm:void_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["73C92D3D010CA831"]
+			id: "1D0C3DA501480218"
+			rewards: [
+				{
+					id: "1DEC7C02715985D8"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "17DBB4F977D97572"
+					item: {
+						count: 1
+						id: "cataclysm:mech_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["73C92D3D010CA831"]
+			id: "196A452746E7877A"
+			rewards: [
+				{
+					id: "61FDDACDD202449A"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "48AA8D83387F064F"
+					item: {
+						count: 1
+						id: "cataclysm:desert_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["73C92D3D010CA831"]
+			id: "107E3E04C1ECF3BE"
+			rewards: [
+				{
+					id: "1E597B9D4418E684"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "12C9DC5CF8BF533E"
+					item: {
+						count: 1
+						id: "cataclysm:cursed_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["1A92C4ED4A039DB2"]
+			id: "146BA51461FD5D8E"
+			rewards: [
+				{
+					id: "303531BDE9C5FCE7"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "132442977DE98F5E"
+					item: {
+						count: 1
+						id: "cataclysm:storm_eye"
+					}
+					type: "item"
+				}
+			]
 			x: 7.5d
-			y: -1.5d
+			y: 23.5d
+		}
+		{
+			dependencies: ["73C92D3D010CA831"]
+			id: "1921257AD822AA1D"
+			rewards: [
+				{
+					id: "190FBD915A0F9FBD"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1766E78FB8D06191"
+					item: {
+						count: 1
+						id: "cataclysm:monstrous_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["7828628FA81FEB2F"]
+			id: "14450CD1A06E8818"
+			rewards: [
+				{
+					id: "667B849C90743536"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "2B83DD32F117CB18"
+					item: {
+						count: 1
+						id: "cataclysm:void_core"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["14450CD1A06E8818"]
+			id: "26B200A4ADC9E002"
+			rewards: [
+				{
+					id: "1D20936639FADEB5"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "23097727401634B1"
+					item: {
+						count: 1
+						id: "cataclysm:void_forge"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0B9E0AC7E4FDDF14"]
+			id: "1C10E815D61F9632"
+			rewards: [
+				{
+					id: "1A1E96AD98938276"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [
+				{
+					id: "17C13EA299DB11CF"
+					item: {
+						count: 1
+						id: "cataclysm:witherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 27.0d
+		}
+		{
+			dependencies: ["1C10E815D61F9632"]
+			id: "71FA70E99E6E0E76"
+			rewards: [
+				{
+					id: "03ED72468C879F29"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "35635B1B56DB0789"
+					item: {
+						count: 1
+						id: "cataclysm:the_annihilator"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["26823B0D9FFDE5E4"]
+			id: "6B11EEA760E8AF93"
+			rewards: [
+				{
+					id: "14A1E483837AC62F"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [
+				{
+					id: "150DF356A7AA2709"
+					item: {
+						count: 1
+						id: "cataclysm:remnant_skull"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["6B11EEA760E8AF93"]
+			id: "193B9B9A252994F8"
+			rewards: [
+				{
+					id: "12B90E414794CA48"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3EA84FF665595824"
+					item: {
+						count: 1
+						id: "cataclysm:wrath_of_the_desert"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0C7C64D127013864"]
+			id: "20029023401530E7"
+			rewards: [
+				{
+					id: "149EA299D8EC5ACE"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "259B2DA7C480C39B"
+					item: {
+						count: 1
+						id: "cataclysm:ignitium_elytra_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["53FCF00304DD4E80"]
+			id: "2B3FD44BEAAC0BF3"
+			rewards: [
+				{
+					id: "1454CBDB5F279148"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6DFF27BF9DBC4712"
+					item: {
+						count: 1
+						id: "cataclysm:cursium_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 25.0d
+		}
+		{
+			dependencies: ["4679C399982CBC88"]
+			id: "334F8B924FD94DFA"
+			rewards: [
+				{
+					id: "13742940F6EE33BD"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [
+				{
+					id: "5D1ADF56EDDB8C1B"
+					item: {
+						count: 1
+						id: "cataclysm:lacrima"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["334F8B924FD94DFA"]
+			id: "42FB4C38C004DE77"
+			rewards: [
+				{
+					id: "192C795159E4C6E8"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1C596FE68D03F95C"
+					item: {
+						count: 1
+						id: "cataclysm:astrape"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 23.0d
+		}
+		{
+			dependencies: [
+				"20029023401530E7"
+				"2B3FD44BEAAC0BF3"
+				"42FB4C38C004DE77"
+				"71FA70E99E6E0E76"
+				"12FBA8072EE37C9D"
+				"193B9B9A252994F8"
+				"26B200A4ADC9E002"
+			]
+			id: "1C5E08C91B644BD5"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "1C523285FC0F124A"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1E458AA163E5AC52"
+					item: {
+						count: 1
+						id: "cataclysm:ignitium_elytra_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "5EA5237C70A33895"
+					item: {
+						count: 1
+						id: "cataclysm:cursium_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "17ABF21F58C98087"
+					item: {
+						count: 1
+						id: "cataclysm:astrape"
+					}
+					type: "item"
+				}
+				{
+					id: "17CAEF09F8FDDEF2"
+					item: {
+						count: 1
+						id: "cataclysm:the_annihilator"
+					}
+					type: "item"
+				}
+			]
+			x: 18.0d
+			y: 13.5d
 		}
 		{
 			icon: {
@@ -490,7 +975,7 @@
 				}
 			]
 			x: -3.0d
-			y: -10.0d
+			y: -3.0d
 		}
 	]
 }

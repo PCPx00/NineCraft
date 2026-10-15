@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 9.0d
 			x: 3.5d
-			y: -11.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: 0.0d
+			y: 18.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 29.0d
-			y: -6.0d
+			x: 22.0d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 12.5d
-			y: 10.0d
+			x: 9.0d
+			y: 39.5d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,32 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 29.0d
-			y: 5.5d
+			x: 22.0d
+			y: 35.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/metals_0.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 1.25d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/metals_1.png"
+			rotation: 0.0d
+			width: 8.5d
+			x: 3.0d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/metals_2.png"
+			rotation: 0.0d
+			width: 14.0d
+			x: 5.75d
+			y: 28.5d
 		}
 	]
 	order_index: 0
@@ -91,7 +115,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["3D2304D6DCA49438"]
@@ -114,7 +138,7 @@
 				}
 			]
 			x: 2.5d
-			y: -2.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["13B2B4C5863B64AA"]
@@ -137,7 +161,7 @@
 				}
 			]
 			x: 5.0d
-			y: -7.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["13B2B4C5863B64AA"]
@@ -160,7 +184,7 @@
 				}
 			]
 			x: 5.0d
-			y: -5.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["13B2B4C5863B64AA"]
@@ -183,7 +207,7 @@
 				}
 			]
 			x: 5.0d
-			y: -3.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["13B2B4C5863B64AA"]
@@ -206,7 +230,7 @@
 				}
 			]
 			x: 5.0d
-			y: -1.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["13B2B4C5863B64AA"]
@@ -230,11 +254,12 @@
 				}
 			]
 			x: 5.0d
-			y: 0.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["13B2B4C5863B64AA"]
 			id: "69C49375F2A31F3A"
+			hide_dependent_lines: true
 			rewards: [
 				{
 					id: "14AF701A4D43A33E"
@@ -253,11 +278,12 @@
 				}
 			]
 			x: 5.0d
-			y: 2.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["3D2304D6DCA49438"]
 			id: "1EEAC24BCF894728"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "5E1F16FAF54D32C5"
@@ -284,8 +310,8 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: 0.0d
+			x: 0.0d
+			y: 24.5d
 		}
 		{
 			dependencies: ["1EEAC24BCF894728"]
@@ -307,8 +333,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 3.5d
+			x: 2.5d
+			y: 24.5d
 		}
 		{
 			dependencies: ["212F4719C0477B40"]
@@ -330,8 +356,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 3.5d
+			x: 5.0d
+			y: 24.5d
 		}
 		{
 			dependencies: ["183B5A39566A99BE"]
@@ -365,8 +391,8 @@
 					count: 9L
 				}
 			]
-			x: 10.0d
-			y: 3.5d
+			x: 7.5d
+			y: 24.5d
 		}
 		{
 			dependencies: ["1B0D7432B2502C3D"]
@@ -388,12 +414,13 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: 2.5d
+			x: 10.0d
+			y: 23.0d
 		}
 		{
 			dependencies: ["170E7E160F55310B"]
 			id: "1EA5C7C27092D4DE"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "06B7CC1A34D23146"
@@ -421,8 +448,8 @@
 					count: 9L
 				}
 			]
-			x: 15.0d
-			y: 1.0d
+			x: 0.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["1EA5C7C27092D4DE"]
@@ -444,8 +471,8 @@
 					type: "item"
 				}
 			]
-			x: 17.5d
-			y: -1.0d
+			x: 2.5d
+			y: 30.5d
 		}
 		{
 			dependencies: ["16BA642BF941E43A"]
@@ -470,8 +497,8 @@
 					count: 9L
 				}
 			]
-			x: 20.0d
-			y: -1.0d
+			x: 5.0d
+			y: 31.5d
 		}
 		{
 			dependencies: ["1EA5C7C27092D4DE"]
@@ -493,8 +520,8 @@
 					type: "item"
 				}
 			]
-			x: 17.5d
-			y: 1.0d
+			x: 2.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["2DBB9D9CDE331BD6", "1600CEC74BFAC850"]
@@ -516,8 +543,8 @@
 					type: "item"
 				}
 			]
-			x: 22.5d
-			y: 0.0d
+			x: 7.5d
+			y: 33.5d
 		}
 		{
 			dependencies: ["1D31800682D15323"]
@@ -539,8 +566,8 @@
 					type: "item"
 				}
 			]
-			x: 25.0d
-			y: 0.0d
+			x: 10.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["1EA5C7C27092D4DE"]
@@ -563,8 +590,8 @@
 					type: "item"
 				}
 			]
-			x: 17.5d
-			y: 3.0d
+			x: 2.5d
+			y: 34.0d
 		}
 		{
 			dependencies: ["1B0D7432B2502C3D"]
@@ -586,8 +613,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: 4.5d
+			x: 10.0d
+			y: 24.5d
 		}
 		{
 			dependencies: ["11E4CC90A097EA92"]
@@ -606,8 +633,8 @@
 					type: "dimension"
 				}
 			]
-			x: 15.0d
-			y: 3.0d
+			x: 12.5d
+			y: 22.5d
 		}
 		{
 			dependencies: ["11E4CC90A097EA92"]
@@ -627,8 +654,8 @@
 					type: "dimension"
 				}
 			]
-			x: 15.0d
-			y: 5.0d
+			x: 12.5d
+			y: 24.5d
 		}
 		{
 			dependencies: ["11E4CC90A097EA92"]
@@ -648,8 +675,8 @@
 					type: "dimension"
 				}
 			]
-			x: 15.0d
-			y: 6.5d
+			x: 12.5d
+			y: 26.0d
 		}
 		{
 			dependencies: ["3D2304D6DCA49438"]
@@ -673,7 +700,577 @@
 				}
 			]
 			x: 2.5d
-			y: 2.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["13B2B4C5863B64AA"]
+			id: "18C01B7AAD296008"
+			rewards: [
+				{
+					id: "09724F366792BFD4"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "1AADE7EF52C4419E"
+					item: {
+						count: 1
+						id: "alltheores:nickel_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["13B2B4C5863B64AA"]
+			id: "16A8A70A9EA40088"
+			rewards: [
+				{
+					id: "12349C7B1EFE4601"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "1F7328B2E7E24B7C"
+					item: {
+						count: 1
+						id: "alltheores:zinc_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["13B2B4C5863B64AA"]
+			id: "20E9848AEAD25170"
+			rewards: [
+				{
+					id: "13E0598156C86C22"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "10F06F905884A6F2"
+					item: {
+						count: 1
+						id: "alltheores:aluminum_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["13B2B4C5863B64AA"]
+			id: "1F6C51FC59CBB345"
+			rewards: [
+				{
+					id: "1FDC4BE18669FD25"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "6C763EF4C81DAA71"
+					item: {
+						count: 1
+						id: "alltheores:platinum_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["1AB6C4510B99D0F7"]
+			id: "1B63CF54AB7DA5A2"
+			rewards: [
+				{
+					id: "18F9A549E7FA5A28"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "7F9696A622722B86"
+					item: {
+						count: 1
+						id: "alltheores:sapphire"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["1AB6C4510B99D0F7"]
+			id: "476DDCA2312D76C8"
+			rewards: [
+				{
+					id: "130EBBDD1207320A"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "11A84F572FAE97E9"
+					item: {
+						count: 1
+						id: "alltheores:peridot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["69C49375F2A31F3A", "09D3DEB31434C891"]
+			id: "1E5A546E32923B08"
+			rewards: [
+				{
+					id: "1894D9D0D76589BC"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "359165BA731A07DF"
+					item: {
+						count: 1
+						id: "alltheores:electrum_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["69C49375F2A31F3A", "18C01B7AAD296008"]
+			id: "17736E84F80970F8"
+			rewards: [
+				{
+					id: "47DEEFCD6EF70F55"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1718A607531D67DF"
+					item: {
+						count: 1
+						id: "alltheores:invar_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["69C49375F2A31F3A", "18C01B7AAD296008"]
+			id: "542D4B872D2D30ED"
+			rewards: [
+				{
+					id: "18DD2AFF272E7BC2"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "681B7198AFE57CDE"
+					item: {
+						count: 1
+						id: "alltheores:constantan_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["13B2B4C5863B64AA"]
+			id: "12FE1C2115EB95D6"
+			rewards: [
+				{
+					id: "19F2CE2C2E1BFDEC"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4E2E692193488C23"
+					item: {
+						count: 1
+						id: "alltheores:bronze_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["69C49375F2A31F3A", "09D3DEB31434C891"]
+			id: "6C8E17E3E4D34827"
+			optional: true
+			rewards: [
+				{
+					id: "1A6F357A8D5ADDE7"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "19FC0997FDC984F6"
+					item: {
+						count: 1
+						id: "alltheores:signalum_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["69C49375F2A31F3A", "09D3DEB31434C891"]
+			id: "182DDF647F7B2D79"
+			optional: true
+			rewards: [
+				{
+					id: "19DC8FD3B83F65A9"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1AFB199A48E2A4D6"
+					item: {
+						count: 1
+						id: "alltheores:lumium_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6C8E17E3E4D34827", "182DDF647F7B2D79", "184DBB2986020E13"]
+			id: "422A4C973C283EB5"
+			optional: true
+			rewards: [
+				{
+					id: "11C5D2E71A42288B"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2384FA938831336F"
+					item: {
+						count: 1
+						id: "alltheores:enderium_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["13B2B4C5863B64AA"]
+			id: "1DF2F8209FE532BD"
+			rewards: [
+				{
+					id: "08CEF1751D0D1832"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7D140F94D8DED116"
+					item: {
+						count: 1
+						id: "alltheores:copper_ore_hammer"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1B0D7432B2502C3D"]
+			id: "209BD7F2E2606375"
+			rewards: [
+				{
+					id: "6916911D45625724"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1C2BCED5C1B5630E"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_block"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["1EA5C7C27092D4DE"]
+			id: "1F5DAAD78F8A6875"
+			rewards: [
+				{
+					id: "7C027BEC37D818B6"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "11E396B91497E17D"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_block"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 36.0d
+		}
+		{
+			dependencies: ["2DBB9D9CDE331BD6"]
+			id: "161B193E6B157BE1"
+			rewards: [
+				{
+					id: "1146AA75C7F55C39"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1B69C5C2071E50E2"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_block"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 30.0d
+		}
+		{
+			dependencies: ["2DBB9D9CDE331BD6"]
+			id: "169F18404492605D"
+			rewards: [
+				{
+					id: "0D462B1BBF360560"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4796FC3E93410F17"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_pickaxe"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 31.5d
+		}
+		{
+			dependencies: ["1D0A358B3E692094"]
+			id: "7A6B8F358CD053F3"
+			rewards: [
+				{
+					id: "749BA108FC6C2351"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1E494E35FCC022B6"
+					item: {
+						count: 1
+						id: "allthemodium:alloy_pick"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 33.0d
+		}
+		{
+			dependencies: ["7A6B8F358CD053F3"]
+			id: "7F1E25E95A9679D2"
+			rewards: [
+				{
+					id: "7F6D44F979C9E2E1"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1071F7B82BD96E49"
+					item: {
+						count: 1
+						id: "allthemodium:alloy_paxel"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 33.0d
+		}
+		{
+			dependencies: ["1BA8AD3C347810A2"]
+			id: "5C5A9EB45D14F379"
+			optional: true
+			rewards: [
+				{
+					id: "15F2E3FB5DF25222"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1744E4C02DC57321"
+					item: {
+						count: 1
+						id: "allthemodium:piglich_heart_block"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 34.5d
+		}
+		{
+			dependencies: ["17C9C054BBA574B2"]
+			id: "5100CCFFA3DCEBE7"
+			optional: true
+			rewards: [
+				{
+					id: "1BACE176D5AD9C6F"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [
+				{
+					id: "21C5689587A1C96C"
+					item: {
+						count: 1
+						id: "allthemodium:ancient_sapling"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 23.0d
+		}
+		{
+			dependencies: [
+				"7F1E25E95A9679D2"
+				"161B193E6B157BE1"
+				"1F5DAAD78F8A6875"
+				"209BD7F2E2606375"
+				"169F18404492605D"
+				"11E4CC90A097EA92"
+			]
+			id: "185A93B8E29605C0"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "59BD7454C2441CF6"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1B87EFD84F605586"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_block"
+					}
+					type: "item"
+				}
+				{
+					id: "17940C0E3A451285"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_block"
+					}
+					type: "item"
+				}
+				{
+					id: "269F5AA936353C5A"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_block"
+					}
+					type: "item"
+				}
+				{
+					id: "55082A7BEE7E3E54"
+					item: {
+						count: 1
+						id: "allthemodium:alloy_paxel"
+					}
+					type: "item"
+				}
+			]
+			x: 18.0d
+			y: 18.0d
 		}
 		{
 			icon: {
@@ -692,7 +1289,7 @@
 				}
 			]
 			x: -3.0d
-			y: -10.0d
+			y: -3.0d
 		}
 	]
 }

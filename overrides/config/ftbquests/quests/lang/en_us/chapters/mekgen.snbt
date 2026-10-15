@@ -1,67 +1,239 @@
 {
-	quest.01CB90EF050B5B9B.quest_desc: ["Made from lithium in a fission reactor."]
+	quest.01CB90EF050B5B9B.quest_desc: [
+		"Tritium gas is made from lithium in the Solar Neutron Activator. Keep it in a chemical tank for the reactor."
+		""
+		"§e§lHow to complete:§r Craft or make Solar Neutron Activator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.01CB90EF050B5B9B.title: "Tritium"
-	quest.070C0F20028800B5.quest_desc: ["Coils turn spinning into power."]
+	quest.054A804E7F67242E.quest_desc: [
+		"A lit fusion reactor, a spinning turbine and a solar field. Mekanism's power problems are solved for good."
+		""
+		"§e§lHow to complete:§r Craft or make Fusion Reactor Controller, 8 x Turbine Rotor and 4 x Advanced Solar Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.054A804E7F67242E.title: "Generators Mastered"
+	quest.070C0F20028800B5.quest_desc: [
+		"Coils turn spinning into power."
+		""
+		"§e§lHow to complete:§r Craft or make Electromagnetic Coil and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.070C0F20028800B5.title: "Electromagnetic Coils"
-	quest.118EE9F526C5B1FA.quest_desc: ["Power from sunlight."]
+	quest.10702E3943885EFE.quest_desc: [
+		"Sits on top of the rotor stack."
+		""
+		"§e§lHow to complete:§r Craft or make Rotational Complex and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.10702E3943885EFE.title: "Rotational Complex"
+	quest.118EE9F526C5B1FA.quest_desc: [
+		"Power from sunlight."
+		""
+		"§e§lHow to complete:§r Craft or make Solar Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.118EE9F526C5B1FA.title: "Solar Generator"
-	quest.11D97B01C729FE20.quest_desc: ["Blades mount on rotors."]
+	quest.11D97B01C729FE20.quest_desc: [
+		"Blades mount on rotors."
+		""
+		"§e§lHow to complete:§r Craft or make Turbine Rotor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.11D97B01C729FE20.title: "Rotor"
-	quest.11F0C6FEF088E763.quest_desc: ["A much stronger solar panel."]
+	quest.11F0C6FEF088E763.quest_desc: [
+		"A much stronger solar panel."
+		""
+		"§e§lHow to complete:§r Craft or make Advanced Solar Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.11F0C6FEF088E763.title: "Advanced Solar"
-	quest.12576C4C39DFFECE.quest_desc: ["More blades, more power."]
+	quest.12576C4C39DFFECE.quest_desc: [
+		"More blades, more power."
+		""
+		"§e§lHow to complete:§r Craft or make Turbine Blade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.12576C4C39DFFECE.title: "Turbine Blades"
-	quest.14C6E3ECABA45976.quest_desc: ["Start the fusion reaction with a laser and a hohlraum."]
+	quest.136948E238D6DCFB.quest_desc: [
+		"Stores laser energy and releases it all at once to ignite fusion."
+		""
+		"§e§lHow to complete:§r Craft or make Laser Amplifier and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.136948E238D6DCFB.title: "Laser Amplifier"
+	quest.14C6E3ECABA45976.quest_desc: [
+		"Start the fusion reaction with a laser and a hohlraum."
+		""
+		"§e§lHow to complete:§r Craft or make Hohlraum and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.14C6E3ECABA45976.title: "Hohlraum"
-	quest.14E74A7E45E9B004.quest_desc: ["Burns bio fuel made from crops."]
+	quest.14E74A7E45E9B004.quest_desc: [
+		"Burns bio fuel made from crops."
+		""
+		"§e§lHow to complete:§r Craft or make Bio-Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.14E74A7E45E9B004.title: "Bio Generator"
-	quest.1552D506A4894657.quest_desc: ["Lava or burnable fuel makes steady power."]
+	quest.1552D506A4894657.quest_desc: [
+		"Lava or burnable fuel makes steady power."
+		""
+		"§e§lHow to complete:§r Craft or make Heat Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1552D506A4894657.title: "Heat Generator"
-	quest.15DD0353686D56F3.quest_desc: ["Returns steam to water."]
+	quest.1587471474592A57.quest_desc: [
+		"Vents let used steam out. Put them along the top of the turbine walls."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Turbine Vent and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1587471474592A57.title: "Turbine Vents"
+	quest.15DD0353686D56F3.quest_desc: [
+		"Returns steam to water."
+		""
+		"§e§lHow to complete:§r Craft or make Saturating Condenser and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.15DD0353686D56F3.title: "Condenser"
 	quest.164BB0216E6E365F.quest_desc: [
 		"Made by the Supercritical Phase Shifter chain. Worth it for top-tier crafts."
+		""
+		"§e§lHow to complete:§r Craft or make Antimatter Pellet and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
 	]
 	quest.164BB0216E6E365F.title: "Antimatter"
-	quest.19308FAC4B393D56.quest_desc: ["Burns fissile fuel to make heat. Handle with care."]
+	quest.19308FAC4B393D56.quest_desc: [
+		"The Fission Reactor burns fissile fuel for heat. The heat turns water or sodium into steam."
+		""
+		"§cWarning:§r if it runs out of coolant or overheats, it melts down and explodes with radiation. Always build a Logic Adapter that shuts it down when the temperature or damage gets too high."
+		""
+		"§e§lHow to complete:§r Craft or make Fission Reactor Casing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.19308FAC4B393D56.title: "Fission Reactor"
-	quest.19EF1710E8E39940.quest_desc: ["The reactor's core."]
+	quest.19EF1710E8E39940.quest_desc: [
+		"The reactor's core."
+		""
+		"§e§lHow to complete:§r Craft or make Fission Fuel Assembly and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.19EF1710E8E39940.title: "Fuel Assembly"
+	quest.1A62F189FFAB208D.quest_desc: [
+		"Uranium ore goes through the Chemical Dissolution line to make yellow cake. Oxidize it and spin it in the Isotopic Centrifuge to make fissile fuel for the reactor."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Yellow Cake Uranium and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1A62F189FFAB208D.title: "Yellow Cake"
 	quest.1AF57146258016C1.quest_desc: [
-		"Mekanism Generators ranges from a little heat generator all the way to fusion."
+		"Mekanism Generators goes from a single heat generator all the way to fusion power. Work through it from top to bottom: each generator here makes a lot more power than the last."
+		""
+		"Start with a lava bucket. Heat generators love lava."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Lava Bucket and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.1AF57146258016C1.title: "Power for Mekanism"
-	quest.1AF9D8E24ADBB309.quest_desc: ["A multiblock that turns steam into lots of power."]
+	quest.1AF9D8E24ADBB309.quest_desc: [
+		"The Industrial Turbine is a multiblock. Build a hollow box of Turbine Casings (the outside can include glass and vents), with rotors and blades up the middle, a Rotational Complex on top of the rotors, then coils and a Pressure Disperser layer."
+		""
+		"Feed it steam from a boiler or fission reactor and it turns into huge amounts of power."
+		""
+		"§e§lHow to complete:§r Craft or make Turbine Casing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1AF9D8E24ADBB309.title: "Industrial Turbine"
 	quest.1DEE0DDC1E86E55C.quest_desc: [
 		"Emits redstone to SCRAM the reactor when things get hot. Build this!"
+		""
+		"§e§lHow to complete:§r Craft or make Fission Reactor Logic Adapter and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.1DEE0DDC1E86E55C.title: "Logic Adapter"
-	quest.3EA14EC63F2296E6.quest_desc: ["Caps a stack of fuel assemblies."]
+	quest.1F240465A7055BD9.quest_desc: [
+		"Charges your MekaSuit in daylight."
+		""
+		"§e§lHow to complete:§r Craft or make Module Solar Recharging Unit and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1F240465A7055BD9.title: "Solar Module"
+	quest.2ADE3E3B54E212EC.quest_desc: [
+		"Steam goes in and power comes out through valves."
+		""
+		"§e§lHow to complete:§r Craft or make 2 x Turbine Valve and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.2ADE3E3B54E212EC.title: "Turbine Valves"
+	quest.2C32ECB4EA161BA1.quest_desc: [
+		"See inside reactors and turbines."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Reactor Glass and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.2C32ECB4EA161BA1.title: "Reactor Glass"
+	quest.31C4075DC7B06A33.quest_desc: [
+		"Fuel goes in and energy comes out here."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Fusion Reactor Port and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.31C4075DC7B06A33.title: "Fusion Ports"
+	quest.3EA14EC63F2296E6.quest_desc: [
+		"Caps a stack of fuel assemblies."
+		""
+		"§e§lHow to complete:§r Craft or make Control Rod Assembly and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.3EA14EC63F2296E6.title: "Control Rod"
-	quest.487F2F5F837A310C.quest_desc: ["Burns hydrogen or ethylene."]
+	quest.3EFA2E56E3C2AA2B.quest_desc: [
+		"A MekaSuit module that charges you while standing in lava."
+		""
+		"§e§lHow to complete:§r Craft or make Module Geothermal Generator Unit and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.3EFA2E56E3C2AA2B.title: "Geothermal Module"
+	quest.487F2F5F837A310C.quest_desc: [
+		"Burns hydrogen or ethylene."
+		""
+		"§e§lHow to complete:§r Craft or make Gas-Burning Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.487F2F5F837A310C.title: "Gas Generator"
-	quest.56C51F07B9DA50C0.quest_desc: ["Separated from heavy water."]
+	quest.56C51F07B9DA50C0.quest_desc: [
+		"Put a Filter Upgrade in an Electric Pump to pump heavy water from any water source. Split heavy water in an Electrolytic Separator to get deuterium."
+		""
+		"§e§lHow to complete:§r Craft or make Filter Upgrade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.56C51F07B9DA50C0.title: "Deuterium"
-	quest.5CC23D03C1F1BBF2.quest_desc: ["Tritium and deuterium fuse into huge amounts of power."]
+	quest.5CC23D03C1F1BBF2.quest_desc: [
+		"Fusion is the best power in Mekanism. A 5x5x5 ring-shaped frame with ports, a laser-ignited core, and a steady supply of deuterium and tritium."
+		""
+		"Once lit, it keeps itself going as long as fuel flows in."
+		""
+		"§e§lHow to complete:§r Craft or make Fusion Reactor Controller and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.5CC23D03C1F1BBF2.title: "Fusion Reactor"
-	quest.5E8752A00332CA17.quest_desc: ["Works better the higher you place it."]
+	quest.5E8752A00332CA17.quest_desc: [
+		"Works better the higher you place it."
+		""
+		"§e§lHow to complete:§r Craft or make Wind Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.5E8752A00332CA17.title: "Wind Generator"
-	quest.60955EB9843A7BE1.quest_desc: ["Build lasers to ignite fusion."]
+	quest.60955EB9843A7BE1.quest_desc: [
+		"Build lasers to ignite fusion."
+		""
+		"§e§lHow to complete:§r Craft or make Laser and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.60955EB9843A7BE1.title: "Lasers"
-	quest.765039ACE33E800C.quest_desc: ["Pipes fuel in and waste out."]
+	quest.6E324F8254AF67FB.quest_desc: [
+		"Charge the Laser Amplifier to at least 1 GJ, put a filled Hohlraum in the controller, then pulse the amplifier with redstone. If the reactor starts, keep deuterium and tritium flowing!"
+		""
+		"§e§lHow to complete:§r Craft or make Laser Focus Matrix and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.6E324F8254AF67FB.title: "Light the Reactor"
+	quest.7490F47A76A4C087.quest_desc: [
+		"The casing of the fusion reactor."
+		""
+		"§e§lHow to complete:§r Craft or make 36 x Fusion Reactor Frame and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.7490F47A76A4C087.title: "Fusion Frame"
+	quest.765039ACE33E800C.quest_desc: [
+		"Pipes fuel in and waste out."
+		""
+		"§e§lHow to complete:§r Craft or make Fission Reactor Port and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.765039ACE33E800C.title: "Reactor Port"
 	quest.779DFD06B53FA1D7.quest_desc: [
-		"&dNine Craft Quest Book&r"
+		"§dNine Craft Quest Book§r"
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.779DFD06B53FA1D7.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.779DFD06B53FA1D7.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.779DFD06B53FA1D7.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.7910C8AC5F26959F.quest_desc: [
+		"A full layer of these goes right above the Rotational Complex."
+		""
+		"§e§lHow to complete:§r Craft or make 9 x Pressure Disperser and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.7910C8AC5F26959F.title: "Pressure Disperser"
 }

@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 15.75d
 			x: 6.875d
-			y: -5.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: 0.0d
+			y: 5.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 21.5d
-			y: 0.0d
+			x: 24.5d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 9.0d
-			y: 4.5d
+			x: 10.0d
+			y: 14.0d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,24 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 21.5d
-			y: 0.0d
+			x: 24.5d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/dynamics_0.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 1.75d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/dynamics_1.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 3.25d
+			y: 7.5d
 		}
 	]
 	order_index: 10
@@ -92,7 +108,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["177827BB58BC9179"]
@@ -116,7 +132,7 @@
 				}
 			]
 			x: 2.5d
-			y: 0.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["106349C4DD9B843F"]
@@ -139,7 +155,7 @@
 				}
 			]
 			x: 5.0d
-			y: -1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["106349C4DD9B843F"]
@@ -162,7 +178,7 @@
 				}
 			]
 			x: 5.0d
-			y: 1.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["59FDCADA1A504E6E", "088739640C5D5CC3"]
@@ -185,11 +201,12 @@
 				}
 			]
 			x: 7.5d
-			y: 0.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["7C2F7F0F2468C526"]
 			id: "41BE602B1C7B8D52"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "1575A3E2F5F239E4"
@@ -208,8 +225,8 @@
 					count: 16L
 				}
 			]
-			x: 10.0d
-			y: -1.0d
+			x: 0.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["7C2F7F0F2468C526"]
@@ -233,7 +250,7 @@
 				}
 			]
 			x: 10.0d
-			y: 1.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["54134DEEE75C5192"]
@@ -258,7 +275,7 @@
 				}
 			]
 			x: 12.5d
-			y: 1.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["1C7784570DCA72A6"]
@@ -281,7 +298,7 @@
 				}
 			]
 			x: 15.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["41BE602B1C7B8D52"]
@@ -304,8 +321,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -1.0d
+			x: 2.5d
+			y: 9.0d
 		}
 		{
 			dependencies: ["3CF203FC90D27FC1"]
@@ -323,13 +340,13 @@
 					id: "14280B237A9AE38C"
 					item: {
 						count: 1
-						id: "integratedterminals:part_terminal_storage_item"
+						id: "integratedterminals:part_terminal_storage"
 					}
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -1.0d
+			x: 5.0d
+			y: 9.5d
 		}
 		{
 			dependencies: ["135C9CE64D552AA1"]
@@ -347,13 +364,218 @@
 					id: "569931D56153CB2B"
 					item: {
 						count: 1
-						id: "integratedcrafting:part_interface_crafting_item"
+						id: "integratedcrafting:part_interface_crafting"
 					}
 					type: "item"
 				}
 			]
+			x: 7.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["41BE602B1C7B8D52"]
+			id: "352E0786CF786D54"
+			rewards: [
+				{
+					id: "1A376DA584F86E9A"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1F789DD91615BCA4"
+					item: {
+						count: 1
+						id: "integrateddynamics:wrench"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["7C2F7F0F2468C526"]
+			id: "116E31E0FF63F6A1"
+			rewards: [
+				{
+					id: "1309EFDC21C942D7"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "10C1289E97436967"
+					item: {
+						count: 1
+						id: "integrateddynamics:energy_battery"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7C2F7F0F2468C526"]
+			id: "19698DC9BDA01583"
+			rewards: [
+				{
+					id: "075EDB8AB0C794AB"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1378EE103134F209"
+					item: {
+						count: 1
+						id: "integrateddynamics:coal_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["19698DC9BDA01583"]
+			id: "296D499DE27D9BF0"
+			rewards: [
+				{
+					id: "10644A1AED4EA337"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "47F6E0C4EE1A92D9"
+					item: {
+						count: 1
+						id: "integrateddynamics:mechanical_drying_basin"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["19698DC9BDA01583"]
+			id: "147E01A970B02BEE"
+			rewards: [
+				{
+					id: "472F3A1B56864206"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "14925E060A5C82CC"
+					item: {
+						count: 1
+						id: "integrateddynamics:mechanical_squeezer"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1C7784570DCA72A6"]
+			id: "1B97DE8D29FB5C78"
+			rewards: [
+				{
+					id: "17301BCB0287B1DF"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0E886C20A21DAEB7"
+					item: {
+						count: 1
+						id: "integrateddynamics:portable_logic_programmer"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1888754BED7E89CB"]
+			id: "5FB3254A160702B7"
+			optional: true
+			rewards: [
+				{
+					id: "710D1BCD21C6BFA4"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4D329C2B288D2242"
+					item: {
+						count: 1
+						id: "integrateddynamics:variable_transformer_input"
+					}
+					type: "item"
+					count: 2L
+				}
+			]
 			x: 17.5d
-			y: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["15A6E34B9D04BD72", "1888754BED7E89CB"]
+			id: "1FF75DF0A9E1B627"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "611B2B4822D5573E"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "269AC9B5DDAC2A44"
+					item: {
+						count: 1
+						id: "integrateddynamics:logic_programmer"
+					}
+					type: "item"
+				}
+				{
+					id: "35E860B0AE22BFE8"
+					item: {
+						count: 1
+						id: "integrateddynamics:variablestore"
+					}
+					type: "item"
+				}
+				{
+					id: "20BB3830AF695FD2"
+					item: {
+						count: 1
+						id: "integratedterminals:part_terminal_storage"
+					}
+					type: "item"
+				}
+			]
+			x: 20.5d
+			y: 5.0d
 		}
 		{
 			icon: {
@@ -372,7 +594,7 @@
 				}
 			]
 			x: -3.0d
-			y: -4.0d
+			y: -3.0d
 		}
 	]
 }

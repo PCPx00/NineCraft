@@ -1,103 +1,443 @@
 {
-	quest.06EF6114877165EF.quest_desc: ["Shows speed and stress when you look at machines."]
+	quest.06EF6114877165EF.quest_desc: [
+		"Shows speed and stress when you look at machines."
+		""
+		"§e§lHow to complete:§r Craft or make Engineer's Goggles and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.06EF6114877165EF.title: "Engineer's Goggles"
-	quest.07AD3F6B55851237.quest_desc: ["Mines blocks in front of it."]
+	quest.07AD3F6B55851237.quest_desc: [
+		"Mines blocks in front of it."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Drill and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.07AD3F6B55851237.title: "Mechanical Drill"
-	quest.0DAAC1C4E26E6F31.quest_desc: ["Changes speed when paired with a small cog."]
+	quest.0AA9B188DFF41BE7.quest_desc: [
+		"Set an exact RPM for part of your factory."
+		""
+		"§e§lHow to complete:§r Craft or make Rotation Speed Controller and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.0AA9B188DFF41BE7.title: "Speed Controller"
+	quest.0B7A3981E46EF64D.quest_desc: [
+		"Shows how much stress your network has left."
+		""
+		"§e§lHow to complete:§r Craft or make Stressometer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.0B7A3981E46EF64D.title: "Stressometer"
+	quest.0DAAC1C4E26E6F31.quest_desc: [
+		"Changes speed when paired with a small cog."
+		""
+		"§e§lHow to complete:§r Craft or make Large Cogwheel and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.0DAAC1C4E26E6F31.title: "Large Cogwheel"
-	quest.10878B206A1D3628.quest_desc: ["Carry rotation in a straight line."]
+	quest.10878B206A1D3628.quest_desc: [
+		"Carry rotation in a straight line."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Shaft and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.10878B206A1D3628.title: "Shafts"
-	quest.10B024D0D07EFBDB.quest_desc: ["Mixes ingredients in a basin."]
+	quest.10B024D0D07EFBDB.quest_desc: [
+		"Mixes ingredients in a basin."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Mixer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.10B024D0D07EFBDB.title: "Mixer"
-	quest.11979E94D6A42843.quest_desc: ["Stores fluids. Stack for more."]
+	quest.11979E94D6A42843.quest_desc: [
+		"Stores fluids. Stack for more."
+		""
+		"§e§lHow to complete:§r Craft or make Fluid Tank and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.11979E94D6A42843.title: "Fluid Tank"
-	quest.11D2D059EDC7BC84.quest_desc: ["Uses items like a player would."]
+	quest.11D2D059EDC7BC84.quest_desc: [
+		"Uses items like a player would."
+		""
+		"§e§lHow to complete:§r Craft or make Deployer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.11D2D059EDC7BC84.title: "Deployer"
-	quest.1482A8317677D61D.quest_desc: ["Automate your train's route."]
+	quest.11EE6E69E18C26DC.quest_desc: [
+		"Empties fluids out of items like buckets."
+		""
+		"§e§lHow to complete:§r Craft or make Item Drain and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.11EE6E69E18C26DC.title: "Item Drain"
+	quest.12E88013A309A8CA.quest_desc: [
+		"Reverses rotation with a redstone signal."
+		""
+		"§e§lHow to complete:§r Craft or make Gearshift and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.12E88013A309A8CA.title: "Gearshift"
+	quest.12F1AACECCE1319B.quest_desc: [
+		"Moves items straight down."
+		""
+		"§e§lHow to complete:§r Craft or make Chute and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.12F1AACECCE1319B.title: "Chute"
+	quest.1463308345E454A6.quest_desc: [
+		"Splits and filters items on belts."
+		""
+		"§e§lHow to complete:§r Craft or make Brass Tunnel and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1463308345E454A6.title: "Brass Tunnel"
+	quest.1482A8317677D61D.quest_desc: [
+		"Give your train a Schedule by right-clicking the train conductor. Set stations, wait conditions and repeat. Now it runs itself!"
+		""
+		"§e§lHow to complete:§r Craft or make Train Schedule and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1482A8317677D61D.title: "Schedule"
-	quest.14FBDA3F6F4FA067.quest_desc: ["Box items up and send them around your factory."]
+	quest.14FBDA3F6F4FA067.quest_desc: [
+		"Box items up and send them around your factory."
+		""
+		"§e§lHow to complete:§r Craft or make Packager and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.14FBDA3F6F4FA067.title: "Packages"
-	quest.16A6C9355BBC34E4.quest_desc: ["Where trains stop and schedule from."]
+	quest.152341326C767EAD.quest_desc: [
+		"Drains or fills large bodies of fluid."
+		""
+		"§e§lHow to complete:§r Craft or make Hose Pulley and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.152341326C767EAD.title: "Hose Pulley"
+	quest.15251EE292A29154.quest_desc: [
+		"§e§lHow to complete:§r Craft or make 2 x Train Door and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.15251EE292A29154.title: "Train Doors"
+	quest.15713F5A1AFAB109.quest_desc: [
+		"Request items from your package network."
+		""
+		"§e§lHow to complete:§r Craft or make Stock Ticker and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.15713F5A1AFAB109.title: "Stock Ticker"
+	quest.15EC867323F9D969.quest_desc: [
+		"Zinc ore is found deep in the overworld. Needed for brass."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 8 x Zinc Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.15EC867323F9D969.title: "Zinc"
+	quest.16A37F0D65935023.quest_desc: [
+		"Stops rotation with a redstone signal."
+		""
+		"§e§lHow to complete:§r Craft or make Clutch and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.16A37F0D65935023.title: "Clutch"
+	quest.16A6C9355BBC34E4.quest_desc: [
+		"Where trains stop and schedule from."
+		""
+		"§e§lHow to complete:§r Craft or make Train Station and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.16A6C9355BBC34E4.title: "Train Station"
-	quest.172073FE01AA0C82.quest_desc: ["Cuts trees and planks."]
+	quest.17164F8CC261B536.quest_desc: [
+		"Press ingots into sheets with the Mechanical Press on a depot or belt."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Iron Sheet and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.17164F8CC261B536.title: "Iron Sheets"
+	quest.172073FE01AA0C82.quest_desc: [
+		"Cuts trees and planks."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Saw and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.172073FE01AA0C82.title: "Mechanical Saw"
-	quest.1817DB108BAAE90C.quest_desc: ["Two wheels crush ores into extra outputs."]
+	quest.178367BAB278B6AC.quest_desc: [
+		"Throws items to a target."
+		""
+		"§e§lHow to complete:§r Craft or make Weighted Ejector and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.178367BAB278B6AC.title: "Weighted Ejector"
+	quest.17D5161940522E54.quest_desc: [
+		"Makes a working clock!"
+		""
+		"§e§lHow to complete:§r Craft or make Clockwork Bearing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.17D5161940522E54.title: "Clockwork Bearing"
+	quest.1817DB108BAAE90C.quest_desc: [
+		"Two wheels crush ores into extra outputs."
+		""
+		"§e§lHow to complete:§r Craft or make Crushing Wheel and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1817DB108BAAE90C.title: "Crushing Wheels"
-	quest.182F47348484464E.quest_desc: ["Rotates attached blocks as a contraption."]
+	quest.182F47348484464E.quest_desc: [
+		"Rotates attached blocks as a contraption."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Bearing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.182F47348484464E.title: "Mechanical Bearing"
-	quest.1980B00AC0C64C2D.quest_desc: ["Boiler-powered rotation for big factories."]
+	quest.184EADEBC627E130.quest_desc: [
+		"Super-heats a blaze burner for the hottest recipes."
+		""
+		"§e§lHow to complete:§r Craft or make Blaze Cake and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.184EADEBC627E130.title: "Blaze Cake"
+	quest.1980B00AC0C64C2D.quest_desc: [
+		"§eSteam engines:§r build a fluid tank (up to 9 wide), put a Blaze Burner under it, pump water in, then place the Steam Engine on the side of the tank with a shaft coming out. Bigger boilers with more burners run more engines."
+		""
+		"§e§lHow to complete:§r Craft or make Steam Engine and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1980B00AC0C64C2D.title: "Steam Engine"
-	quest.19909F88DE18B8E3.quest_desc: ["Heats the basin for advanced mixing."]
+	quest.19909F88DE18B8E3.quest_desc: [
+		"Heats the basin for advanced mixing."
+		""
+		"§e§lHow to complete:§r Craft or make Blaze Burner and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.19909F88DE18B8E3.title: "Blaze Burner"
-	quest.1B428EAA153365BE.quest_desc: ["A sequenced assembly part."]
+	quest.19C92493A446DF1F.quest_desc: [
+		"Grinds items slowly. A simple early crusher."
+		""
+		"§e§lHow to complete:§r Craft or make Millstone and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.19C92493A446DF1F.title: "Millstone"
+	quest.1B428EAA153365BE.quest_desc: [
+		"Precision Mechanisms are made by §eSequenced Assembly§r: a golden sheet goes along a belt under a deployer and press, getting cogs and nuggets added over several passes. JEI shows the steps."
+		""
+		"§e§lHow to complete:§r Craft or make Precision Mechanism and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1B428EAA153365BE.title: "Precision Mechanism"
-	quest.1B48799548315EF2.quest_desc: ["The driver's seat of a train."]
+	quest.1B48799548315EF2.quest_desc: [
+		"The driver's seat of a train."
+		""
+		"§e§lHow to complete:§r Craft or make Train Controls and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1B48799548315EF2.title: "Train Controls"
-	quest.1BC35B154DF9B45B.quest_desc: ["Flowing water turns it forever."]
+	quest.1BC35B154DF9B45B.quest_desc: [
+		"Place a Water Wheel on a shaft and let flowing water hit its blades. Free, steady power forever."
+		""
+		"§e§lHow to complete:§r Craft or make Water Wheel and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1BC35B154DF9B45B.title: "Water Wheel"
-	quest.1C4DFA206D322995.quest_desc: ["Move items between shafts."]
+	quest.1C4DFA206D322995.quest_desc: [
+		"Move items between shafts."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Belt and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1C4DFA206D322995.title: "Belts"
-	quest.1C966E9F77BD94D0.quest_desc: ["Sticks blocks together into one contraption."]
+	quest.1C85944691F2D703.quest_desc: [
+		"Polished rose quartz on an iron sheet. Needed for smart parts."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Electron Tube and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1C85944691F2D703.title: "Electron Tubes"
+	quest.1C966E9F77BD94D0.quest_desc: [
+		"Sticks blocks together into one contraption."
+		""
+		"§e§lHow to complete:§r Craft or make Super Glue and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1C966E9F77BD94D0.title: "Super Glue"
 	quest.1CC0553775C14AFB.quest_desc: [
-		"Create is all about spinning shafts and cogs. Build contraptions, factories and trains with mechanical power."
+		"Create is about mechanical power: shafts, cogs, belts and moving machines. It doesn't use electricity at all."
+		""
+		"§eKey idea: stress.§r Every machine uses some stress units (SU). Every power source provides some. If your machines use more stress than you make, everything stops. Engineer's Goggles show you the numbers."
+		""
+		"The chapter goes from a hand crank all the way to trains and fully automated factories. Start with a stack of andesite."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 32 x Andesite and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.1CC0553775C14AFB.title: "Rotational Power"
-	quest.1CF9CD356BA078DE.quest_desc: ["Change direction and connect side by side."]
+	quest.1CF9CD356BA078DE.quest_desc: [
+		"Change direction and connect side by side."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Cogwheel and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1CF9CD356BA078DE.title: "Cogwheels"
 	quest.1DC58A42EB6DBEC1.quest_desc: [
-		"&dNine Craft Quest Book&r"
+		"§dNine Craft Quest Book§r"
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.1DC58A42EB6DBEC1.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.1DC58A42EB6DBEC1.title: "&5Nine Craft&r - Quest Book Notice"
-	quest.1F84B2B02AC330BF.quest_desc: ["Holds items for the press and mixer."]
+	quest.1DC58A42EB6DBEC1.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.1F75EC14ABFA0B6F.quest_desc: [
+		"On a moving contraption, harvests crops without breaking them."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Harvester and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1F75EC14ABFA0B6F.title: "Mechanical Harvester"
+	quest.1F84B2B02AC330BF.quest_desc: [
+		"Holds items for the press and mixer."
+		""
+		"§e§lHow to complete:§r Craft or make Basin and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1F84B2B02AC330BF.title: "Basin"
-	quest.1FA3590176CB3579.quest_desc: ["Picks and places items between spots."]
+	quest.1FA3590176CB3579.quest_desc: [
+		"Picks and places items between spots."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Arm and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1FA3590176CB3579.title: "Mechanical Arm"
-	quest.2416589842BB8061.quest_desc: ["Splits rotation in four directions."]
+	quest.2416589842BB8061.quest_desc: [
+		"Splits rotation in four directions."
+		""
+		"§e§lHow to complete:§r Craft or make Gearbox and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.2416589842BB8061.title: "Gearbox"
-	quest.2B240FC0625D58C9.quest_desc: ["Pushes whole structures."]
+	quest.27A8356A5F672E90.quest_desc: [
+		"A filtered chute."
+		""
+		"§e§lHow to complete:§r Craft or make Smart Chute and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.27A8356A5F672E90.title: "Smart Chute"
+	quest.2B240FC0625D58C9.quest_desc: [
+		"Pushes whole structures."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Piston and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.2B240FC0625D58C9.title: "Mechanical Piston"
-	quest.2B82A222FCA4412C.quest_desc: ["Fills items with fluids."]
+	quest.2B82A222FCA4412C.quest_desc: [
+		"Fills items with fluids."
+		""
+		"§e§lHow to complete:§r Craft or make Spout and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.2B82A222FCA4412C.title: "Spout"
-	quest.2ECB58E3EB5C7FD0.quest_desc: ["A place for machines to work on items."]
+	quest.2D928EE571EBF22D.quest_desc: [
+		"Builds bigger contraptions that move blocks around them."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Linear Chassis and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.2D928EE571EBF22D.title: "Chassis"
+	quest.2ECB58E3EB5C7FD0.quest_desc: [
+		"A place for machines to work on items."
+		""
+		"§e§lHow to complete:§r Craft or make Depot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.2ECB58E3EB5C7FD0.title: "Depot"
-	quest.3F173246F6D35BDD.quest_desc: ["Attach sails to make wind power."]
+	quest.34FD2DF57F4413B6.quest_desc: [
+		"Sixteen precision mechanisms, two stations and a wall of crafters. Your factory runs itself."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Precision Mechanism, 2 x Train Station and 8 x Mechanical Crafter and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.34FD2DF57F4413B6.title: "Create Mastered"
+	quest.36072E4B4AA87B74.quest_desc: [
+		"Display text and numbers."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Nixie Tube and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.36072E4B4AA87B74.title: "Nixie Tubes"
+	quest.3F173246F6D35BDD.quest_desc: [
+		"Attach sails to make wind power."
+		""
+		"§e§lHow to complete:§r Craft or make Windmill Bearing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.3F173246F6D35BDD.title: "Windmill"
-	quest.4324003FAEF9C32C.quest_desc: ["Muscle power. Fine for testing."]
+	quest.4040499107C054A1.quest_desc: [
+		"Quartz and redstone. Polish it for electron tubes."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Rose Quartz and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4040499107C054A1.title: "Rose Quartz"
+	quest.4324003FAEF9C32C.quest_desc: [
+		"Muscle power. Fine for testing."
+		""
+		"§e§lHow to complete:§r Craft or make Hand Crank and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.4324003FAEF9C32C.title: "Hand Crank"
-	quest.48661940BEC44018.quest_desc: ["Lay down tracks for trains."]
+	quest.48661940BEC44018.quest_desc: [
+		"Lay down tracks for trains."
+		""
+		"§e§lHow to complete:§r Craft or make 32 x Train Track and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.48661940BEC44018.title: "Train Tracks"
 	quest.4A1DC62BFDFB6C70.quest_desc: [
 		"Push air through lava or water to wash, smelt or smoke items."
+		""
+		"§e§lHow to complete:§r Craft or make Encased Fan and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.4A1DC62BFDFB6C70.title: "Encased Fan"
-	quest.4E9AF5CD85F174BD.quest_desc: ["More sails, more stress capacity."]
+	quest.4E9AF5CD85F174BD.quest_desc: [
+		"More sails, more stress capacity."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Windmill Sail and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.4E9AF5CD85F174BD.title: "Sails"
-	quest.51A2E3F4D422DAC7.quest_desc: ["Big cheap storage."]
+	quest.51A2E3F4D422DAC7.quest_desc: [
+		"Big cheap storage."
+		""
+		"§e§lHow to complete:§r Craft or make Item Vault and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.51A2E3F4D422DAC7.title: "Item Vault"
-	quest.5B38823C8AABAA95.quest_desc: ["Copper and zinc mixed with heat."]
+	quest.595AB8A14131E490.quest_desc: [
+		"Keep trains from crashing into each other."
+		""
+		"§e§lHow to complete:§r Craft or make 2 x Train Signal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.595AB8A14131E490.title: "Signals"
+	quest.5B38823C8AABAA95.quest_desc: [
+		"Copper and zinc mixed with heat."
+		""
+		"§e§lHow to complete:§r Craft or make Brass Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.5B38823C8AABAA95.title: "Brass"
-	quest.5D81355C47CCD78A.quest_desc: ["Casing for many machines."]
+	quest.5C875B38A6427CBF.quest_desc: [
+		"For fluid machines."
+		""
+		"§e§lHow to complete:§r Craft or make Copper Casing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5C875B38A6427CBF.title: "Copper Casing"
+	quest.5D81355C47CCD78A.quest_desc: [
+		"Casing for many machines."
+		""
+		"§e§lHow to complete:§r Craft or make Andesite Casing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.5D81355C47CCD78A.title: "Andesite Casing"
-	quest.62CC5793D50252A6.quest_desc: ["Crafts big recipes automatically."]
+	quest.62CC5793D50252A6.quest_desc: [
+		"Crafts big recipes automatically."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Crafter and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.62CC5793D50252A6.title: "Mechanical Crafter"
-	quest.7040AD6D13723BB2.quest_desc: ["Put items onto or take them off belts."]
+	quest.6A0736C62A15C486.quest_desc: [
+		"Frogs deliver packages along a chain conveyor!"
+		""
+		"§e§lHow to complete:§r Craft or make Package Frogport and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.6A0736C62A15C486.title: "Frogport"
+	quest.6ABBB04890A51123.quest_desc: [
+		"Turns minecarts into moving contraptions."
+		""
+		"§e§lHow to complete:§r Craft or make Cart Assembler and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.6ABBB04890A51123.title: "Cart Assembler"
+	quest.7040AD6D13723BB2.quest_desc: [
+		"Put items onto or take them off belts."
+		""
+		"§e§lHow to complete:§r Craft or make Andesite Funnel and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.7040AD6D13723BB2.title: "Funnels"
-	quest.723B7089CBB46696.quest_desc: ["Moves fluids through pipes."]
+	quest.723B7089CBB46696.quest_desc: [
+		"Moves fluids through pipes."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Pump and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.723B7089CBB46696.title: "Mechanical Pump"
-	quest.772CC33BDB38074D.quest_desc: ["For advanced machines."]
+	quest.7688D4A03689EF46.quest_desc: [
+		"Used to make packages for the logistics system."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Cardboard and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.7688D4A03689EF46.title: "Cardboard"
+	quest.772CC33BDB38074D.quest_desc: [
+		"For advanced machines."
+		""
+		"§e§lHow to complete:§r Craft or make Brass Casing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.772CC33BDB38074D.title: "Brass Casing"
-	quest.7DD6DC56BE0C4313.quest_desc: ["Presses ingots into sheets."]
+	quest.7CE878FA135C4C64.quest_desc: [
+		"Tills soil and breaks small blocks as it moves."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Plough and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.7CE878FA135C4C64.title: "Plough"
+	quest.7DD6DC56BE0C4313.quest_desc: [
+		"Presses ingots into sheets."
+		""
+		"§e§lHow to complete:§r Craft or make Mechanical Press and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.7DD6DC56BE0C4313.title: "Mechanical Press"
-	quest.7E1E52DE06C5DF8C.quest_desc: ["Andesite and iron nuggets make the core Create material."]
+	quest.7E1E52DE06C5DF8C.quest_desc: [
+		"§eHow:§r craft andesite with iron nuggets (or zinc nuggets) in a crafting grid. Later you'll mix it in bulk with a mixer."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Andesite Alloy and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.7E1E52DE06C5DF8C.title: "Andesite Alloy"
 }

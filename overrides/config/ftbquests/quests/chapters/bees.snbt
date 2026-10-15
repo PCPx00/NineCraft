@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 12.0d
 			x: 5.0d
-			y: -7.0d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: 1.0d
+			y: 11.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 16.5d
-			y: -1.5d
+			x: 14.5d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 6.0d
-			y: 8.5d
+			x: 5.0d
+			y: 25.0d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,24 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 16.5d
-			y: 4.0d
+			x: 14.5d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/bees_0.png"
+			rotation: 0.0d
+			width: 7.5d
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/bees_1.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 2.75d
+			y: 11.0d
 		}
 	]
 	order_index: 2
@@ -92,7 +108,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["10611044EA9A6FDA"]
@@ -115,7 +131,7 @@
 				}
 			]
 			x: 2.5d
-			y: -1.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["10611044EA9A6FDA"]
@@ -147,7 +163,7 @@
 				}
 			]
 			x: 2.5d
-			y: 1.0d
+			y: 6.5d
 		}
 		{
 			dependencies: ["64107AB7F7FAD883"]
@@ -170,11 +186,12 @@
 				}
 			]
 			x: 5.0d
-			y: -0.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["64107AB7F7FAD883"]
 			id: "11E07A3753040B42"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "12BC4CB08091363F"
@@ -201,8 +218,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 1.5d
+			x: 0.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["11E07A3753040B42"]
@@ -224,8 +241,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -2.0d
+			x: 2.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["11E07A3753040B42"]
@@ -256,8 +273,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 0.0d
+			x: 2.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["1BE46D64C2C3B470"]
@@ -279,8 +296,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -1.0d
+			x: 5.0d
+			y: 13.5d
 		}
 		{
 			dependencies: ["4C35A29C623D2E55"]
@@ -302,8 +319,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -1.0d
+			x: 7.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["11E07A3753040B42"]
@@ -325,8 +342,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 1.5d
+			x: 2.5d
+			y: 16.0d
 		}
 		{
 			dependencies: ["1DF6B4A4D0E9E7B0"]
@@ -348,8 +365,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 2.0d
+			x: 5.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["63900648710DC3BE"]
@@ -372,8 +389,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: 2.0d
+			x: 7.5d
+			y: 17.0d
 		}
 		{
 			dependencies: ["64107AB7F7FAD883"]
@@ -397,7 +414,7 @@
 				}
 			]
 			x: 5.0d
-			y: 3.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["182D253853B4C96B"]
@@ -420,7 +437,7 @@
 				}
 			]
 			x: 5.0d
-			y: -2.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1BE46D64C2C3B470"]
@@ -444,8 +461,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 0.5d
+			x: 5.0d
+			y: 15.0d
 		}
 		{
 			dependencies: ["11E07A3753040B42"]
@@ -468,8 +485,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 3.0d
+			x: 2.5d
+			y: 18.0d
 		}
 		{
 			dependencies: ["11E07A3753040B42"]
@@ -492,8 +509,291 @@
 					type: "item"
 				}
 			]
+			x: 2.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["182D253853B4C96B"]
+			id: "1EF965BE852ED247"
+			rewards: [
+				{
+					id: "10C215582D593A05"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "10CF8906FF7DFC69"
+					item: {
+						count: 1
+						id: "productivebees:stone_nest"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1EF965BE852ED247"]
+			id: "1265D4877AE992F3"
+			rewards: [
+				{
+					id: "1C401FDE867F4A82"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "123582D2E9CC525F"
+					item: {
+						count: 1
+						id: "productivebees:nether_quartz_nest"
+					}
+					type: "item"
+				}
+			]
 			x: 7.5d
-			y: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1EF965BE852ED247"]
+			id: "1BF1A6BF63640C54"
+			optional: true
+			rewards: [
+				{
+					id: "148595C18FAE5298"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1EA4535E6D0CB8CA"
+					item: {
+						count: 1
+						id: "productivebees:end_stone_nest"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1EF965BE852ED247"]
+			id: "1BF3289FBADE1216"
+			optional: true
+			rewards: [
+				{
+					id: "1FA783F3968488D7"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "43EDDE164ACB8E76"
+					item: {
+						count: 1
+						id: "productivebees:slimy_nest"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["64107AB7F7FAD883"]
+			id: "39B6332C08D1ACD5"
+			rewards: [
+				{
+					id: "119DD00544386151"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "14893672674E5F3C"
+					item: {
+						count: 1
+						id: "productivebees:honey_treat"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["64107AB7F7FAD883"]
+			id: "1A2E4548299E4F27"
+			optional: true
+			rewards: [
+				{
+					id: "19A331E0799F1A2D"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "160A3496A99ADBD1"
+					item: {
+						count: 1
+						id: "productivebees:jar_oak"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["11E07A3753040B42"]
+			id: "170272B5236409AB"
+			optional: true
+			rewards: [
+				{
+					id: "1F5D848189691DED"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "42D3498D2F201BCF"
+					item: {
+						count: 1
+						id: "productivebees:bamboo_hive"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["210632353467FC4A"]
+			id: "159F6F4F8AAEF1AF"
+			rewards: [
+				{
+					id: "15D506080121AEB4"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "192D9F417E54B724"
+					item: {
+						count: 1
+						id: "productivebees:configurable_comb"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["63900648710DC3BE"]
+			id: "2159D954BBF16C90"
+			rewards: [
+				{
+					id: "1AE4B1022CE24B14"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5DA27A65F2861F9B"
+					item: {
+						count: 1
+						id: "productivebees:gene"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 18.5d
+		}
+		{
+			dependencies: ["39B6332C08D1ACD5"]
+			id: "1CC9E161AEDCA0C9"
+			optional: true
+			rewards: [
+				{
+					id: "1276128BA5F83EA6"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1FCDE3CF81180EF5"
+					item: {
+						count: 1
+						id: "productivebees:treat_on_a_stick"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"1DDB53860F4F5CB6"
+				"2159D954BBF16C90"
+				"159F6F4F8AAEF1AF"
+				"167FD89726FC18E3"
+			]
+			id: "1A33B814C9BDC4D7"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "4642E30676183C7B"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "103F793AC88E6BA6"
+					item: {
+						count: 1
+						id: "productivebees:heated_centrifuge"
+					}
+					type: "item"
+				}
+				{
+					id: "30158F0512A0CCAF"
+					item: {
+						count: 1
+						id: "productivebees:breeding_chamber"
+					}
+					type: "item"
+				}
+				{
+					id: "1559092CC1C60FE6"
+					item: {
+						count: 1
+						id: "productivebees:gene_indexer"
+					}
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: 11.0d
 		}
 		{
 			icon: {
@@ -512,7 +812,7 @@
 				}
 			]
 			x: -3.0d
-			y: -5.5d
+			y: -3.0d
 		}
 	]
 }

@@ -1,0 +1,143 @@
+{
+	quest.104D25730471C208.quest_desc: [
+		"Iron and amethyst. The only tool you need."
+		""
+		"§eClick a pipe end§r to switch it between §5Output§r (purple plate) and §6Input§r (gold plate, pulls from the block). Sneak-click an end to disconnect that side, and sneak-click a pipe's core to take that one strand out. Wrenches from other mods work too."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Wrench and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.104D25730471C208.title: "Reaper Wrench"
+	quest.10805BABEB01ECAD.quest_desc: [
+		"Empty-hand right-click an §6Input§r end to open its screen: a speed card slot, a 9-slot filter, redstone control and how it shares items out (Round-robin, Nearest first or Random)."
+		""
+		"Right-click an §5Output§r end to set its priority and its own filter. Higher priority fills first."
+		""
+		"§e§lHow to complete:§r Craft or make 2 x Hopper and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.10805BABEB01ECAD.title: "Input and Output Ends"
+	quest.10E515CB77F13718.quest_desc: [
+		"Paper, amethyst and a glow ink sac. Sneak-click an end to copy its settings, then click other ends to paste them. Speed cards stay put. Great for big sorting walls."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Imprint and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.10E515CB77F13718.title: "Reaper Imprint"
+	quest.112744859E5087D1.quest_desc: [
+		"A full Soulforged Omni line: items, fluids, power and chemicals through one clean pipe at top speed, with zero lag."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Reaper Omni Pipe and 4 x Soulforged Pipe Upgrade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.112744859E5087D1.title: "Grim Pipe Master"
+	quest.1185BACA85DC1797.quest_desc: [
+		"Item, Fluid and Energy Pipes around an ender pearl. One pipe that moves all four kinds: items, fluids, energy and chemicals."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Reaper Omni Pipe and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1185BACA85DC1797.title: "Reaper Omni Pipe"
+	quest.119C51A28D6DF438.quest_desc: [
+		"Nine Craft's own pipe mod, made by §dxTri6§r. Small, black-and-purple, lag-free pipes for items, fluids, energy and Mekanism chemicals, built to match Grim Soul Industries."
+		""
+		"§eThe idea:§r place a pipe, flip the end that should pull to §6Input§r with the Reaper Wrench, and you're done. Speed comes from one card in the Input end, never from the pipes in between."
+		""
+		"Every pipe is polished deepslate and amethyst, so dig up some deepslate to start."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 32 x Cobbled Deepslate and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.119C51A28D6DF438.title: "§5Grim Pipe Industries"
+	quest.1287D35F7921B7B3.quest_desc: [
+		"Gold, amethyst and redstone. Put it in an §6Input§r end: 32 items a second instead of 8, and 8,000 FE a tick instead of 1,000. One card speeds up the whole line."
+		""
+		"§e§lHow to complete:§r Craft or make Whispering Pipe Upgrade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1287D35F7921B7B3.title: "Whispering Pipe Upgrade"
+	quest.12A91DAEE72A540A.quest_desc: [
+		"Right-click a placed pipe with a different kind of pipe and both share that one block. Each strand connects to the same face of a machine on its own, so one face can take items, fluids and power at once."
+		""
+		"Sneak-click an empty-handed pipe to see every end in that block on one screen."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Reaper Item Pipe, 4 x Reaper Fluid Pipe and 4 x Reaper Energy Pipe and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.12A91DAEE72A540A.title: "Bundle Them Up"
+	quest.147134F4E3D9D601.quest_desc: [
+		"Amethyst, ender pearls and an echo shard (or a Reaper's Lantern if you have Grim Soul Industries). Click one pipe, then another anywhere in the same dimension, and their networks join with no pipe in between. Both ends must be loaded."
+		""
+		"§e§lHow to complete:§r Craft or make Soul Link and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.147134F4E3D9D601.title: "Soul Link"
+	quest.14DEEA21925D4CE5.quest_desc: [
+		"A Restless card with crying obsidian and ender pearls. 640 items a second and 512,000 FE a tick."
+		""
+		"§e§lHow to complete:§r Craft or make Wraithbound Pipe Upgrade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.14DEEA21925D4CE5.title: "Wraithbound Pipe Upgrade"
+	quest.14ED0356DCD1A4D0.quest_desc: [
+		"Paper, amethyst and redstone. Put it in any filter slot and type rules: §e#c:ingots§r for a tag, §e@mekanism§r for a whole mod, or §e*_log§r with a wildcard. It shows what matches as you type."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Tag Filter and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.14ED0356DCD1A4D0.title: "Reaper Tag Filter"
+	quest.177E23A10974CB39.quest_desc: [
+		"The same recipe with a bucket in the middle. Moves any fluid from any tank."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Reaper Fluid Pipe and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.177E23A10974CB39.title: "Reaper Fluid Pipe"
+	quest.1CCB37735217149B.quest_desc: [
+		"A book and an Item Pipe make a 10-page guide that teaches the whole mod in-game."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Field Guide and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1CCB37735217149B.title: "Reaper Field Guide"
+	quest.1F01ED0572BC6047.quest_desc: [
+		"§dNine Craft Quest Book§r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"§8This quest is hidden and only appears in edit mode.§r"
+	]
+	quest.1F01ED0572BC6047.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1F01ED0572BC6047.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.24EEC9A4CF00A41E.quest_desc: [
+		"A Wraithbound card with netherite scrap and echo shards (or Grim Soul Speed Cards). 5,120 items a second and over 4 million FE a tick: the top tier."
+		""
+		"§e§lHow to complete:§r Craft or make Soulforged Pipe Upgrade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.24EEC9A4CF00A41E.title: "Soulforged Pipe Upgrade"
+	quest.29B845CD7BCC3E77.quest_desc: [
+		"Build a line that sorts: one Input end pulls from a storage chest, and each Output end has a whitelist filter (ores into one chest, food into another). Give the leftover chest the lowest priority."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Reaper Item Pipe and 4 x Chest and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.29B845CD7BCC3E77.title: "Sorting Wall"
+	quest.2BDBC1FC875E40E1.quest_desc: [
+		"The same recipe with an osmium ingot in the middle. Moves Mekanism gases, infuse types, pigments and slurries."
+		""
+		"§eTip:§r like Mekanism's own tubes, set the machine's side configuration to Output on the side you pull from."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Reaper Chemical Pipe and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.2BDBC1FC875E40E1.title: "Reaper Chemical Pipe"
+	quest.4FA01EA1D3D27852.quest_desc: [
+		"The same recipe with a block of redstone in the middle. Moves Forge Energy from any generator or battery."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Reaper Energy Pipe and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4FA01EA1D3D27852.title: "Reaper Energy Pipe"
+	quest.5BB130FB187103CC.quest_desc: [
+		"A Whispering card with diamonds and amethyst. 128 items a second and 1,600 mB of fluid a tick."
+		""
+		"§e§lHow to complete:§r Craft or make Restless Pipe Upgrade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5BB130FB187103CC.title: "Restless Pipe Upgrade"
+	quest.5BF41E41E7E6E436.quest_desc: [
+		"Polished deepslate, amethyst and a hopper. Moves items from any inventory: chests, machines, AE2, Refined Storage and more."
+		""
+		"§eTry it:§r run a pipe from a chest to a furnace and set the chest end to Input with the wrench. Items arrive instantly, with nothing flying around inside the pipe."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Reaper Item Pipe and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5BF41E41E7E6E436.title: "Reaper Item Pipe"
+}

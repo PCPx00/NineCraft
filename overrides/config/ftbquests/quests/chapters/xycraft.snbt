@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 6.0d
 			x: 2.0d
-			y: -10.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: -1.0d
+			y: 14.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 11.5d
-			y: -5.0d
+			x: 12.0d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -44,7 +44,7 @@
 			rotation: -8.0d
 			width: 3.5d
 			x: 4.0d
-			y: 8.0d
+			y: 31.0d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,24 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 11.5d
-			y: 3.5d
+			x: 12.0d
+			y: 26.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/xycraft_0.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 2.25d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/xycraft_1.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: 2.0d
+			y: 12.0d
 		}
 	]
 	order_index: 11
@@ -92,7 +108,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["68EB4F20CEA24E5F"]
@@ -116,7 +132,7 @@
 				}
 			]
 			x: 2.5d
-			y: -4.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["68EB4F20CEA24E5F"]
@@ -140,7 +156,7 @@
 				}
 			]
 			x: 2.5d
-			y: -2.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["68EB4F20CEA24E5F"]
@@ -164,7 +180,7 @@
 				}
 			]
 			x: 2.5d
-			y: -1.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["68EB4F20CEA24E5F"]
@@ -188,7 +204,7 @@
 				}
 			]
 			x: 2.5d
-			y: 1.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["68EB4F20CEA24E5F"]
@@ -212,7 +228,7 @@
 				}
 			]
 			x: 2.5d
-			y: 2.5d
+			y: 7.0d
 		}
 		{
 			dependencies: ["68EB4F20CEA24E5F"]
@@ -237,11 +253,12 @@
 				}
 			]
 			x: 2.5d
-			y: 4.5d
+			y: 8.5d
 		}
 		{
 			dependencies: ["7F2E88A33C6D66C8", "1EFD4D20DF9CDFB3", "13835EEE743A3318"]
 			id: "0F85EC8F62F3C4C9"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "1F4CB2CBD494D7E9"
@@ -259,8 +276,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -2.5d
+			x: 0.0d
+			y: 20.5d
 		}
 		{
 			dependencies: ["0F85EC8F62F3C4C9"]
@@ -282,8 +299,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -6.0d
+			x: 2.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["0F85EC8F62F3C4C9"]
@@ -305,8 +322,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -4.0d
+			x: 2.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["0F85EC8F62F3C4C9"]
@@ -328,8 +345,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -2.5d
+			x: 2.5d
+			y: 17.0d
 		}
 		{
 			dependencies: ["0F85EC8F62F3C4C9"]
@@ -353,8 +370,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -1.0d
+			x: 2.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0F85EC8F62F3C4C9"]
@@ -376,8 +393,215 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 1.0d
+			x: 2.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["0F85EC8F62F3C4C9"]
+			id: "146E1D73BC23AD65"
+			rewards: [
+				{
+					id: "1E737C501E58949F"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1EF39136FFFE90EF"
+					item: {
+						count: 1
+						id: "xycraft_machines:port_item"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 22.5d
+		}
+		{
+			dependencies: ["0F85EC8F62F3C4C9"]
+			id: "64FD5C99709C8392"
+			rewards: [
+				{
+					id: "16773AA267EAD58B"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6094BD1DCE0FB2D6"
+					item: {
+						count: 1
+						id: "xycraft_machines:port_fluid"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 24.0d
+		}
+		{
+			dependencies: ["64FD5C99709C8392"]
+			id: "13045CC903F6B825"
+			rewards: [
+				{
+					id: "18F5C562E942EEB0"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "61F606CB202004AD"
+					item: {
+						count: 1
+						id: "xycraft_machines:valve"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["0F85EC8F62F3C4C9"]
+			id: "1D4134D55B235CEF"
+			optional: true
+			rewards: [
+				{
+					id: "1A1715F5C2D308ED"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1740C1C6F6207AB9"
+					item: {
+						count: 1
+						id: "xycraft_machines:void_container"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 26.0d
+		}
+		{
+			dependencies: ["0F85EC8F62F3C4C9"]
+			id: "4E86B46D02CE85A9"
+			rewards: [
+				{
+					id: "1FC0DBA2E4F7B341"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "16A40EF237F0DBA5"
+					item: {
+						count: 1
+						id: "xycraft_machines:ignition_plate"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 27.5d
+		}
+		{
+			dependencies: ["68EB4F20CEA24E5F"]
+			id: "16E2C27D3DF3EBF5"
+			optional: true
+			rewards: [
+				{
+					id: "128C2943E5E3A5D1"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "11795782177A5217"
+					item: {
+						count: 1
+						id: "xycraft_world:lamp_cube_white"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 2.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7F2E88A33C6D66C8"]
+			id: "1BFA8E7C9ADCCBE2"
+			optional: true
+			rewards: [
+				{
+					id: "1484B268D0513CE2"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4229E3BA03135399"
+					item: {
+						count: 1
+						id: "xycraft_world:xychorium_storage_blue"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7CF9FCDD95352B6C", "0EB77EA04DCCB2E8", "1AEEC1025447CB1C"]
+			id: "1D94F146BC778910"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "1D0151873C556E36"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1693FA9C7CB54F33"
+					item: {
+						count: 1
+						id: "xycraft_machines:fabricator"
+					}
+					type: "item"
+				}
+				{
+					id: "4F4E662F11722BDB"
+					item: {
+						count: 1
+						id: "xycraft_machines:planter"
+					}
+					type: "item"
+				}
+				{
+					id: "10CB09AAB6D6B94A"
+					item: {
+						count: 1
+						id: "xycraft_machines:collector"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 14.0d
 		}
 		{
 			icon: {
@@ -396,7 +620,7 @@
 				}
 			]
 			x: -3.0d
-			y: -9.0d
+			y: -3.0d
 		}
 	]
 }

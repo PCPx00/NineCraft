@@ -1,0 +1,154 @@
+[seeds]
+	#Enable or disable the Prosperity Seed
+	prosperity_seed = true
+	#Master switch for all Inferium upgrade seeds. When OFF, all upgrade seeds are disabled
+	inferium_upgrade_seeds = true
+	#Enable or disable the Prudentium Seed
+	prudentium_seed = true
+	#Enable or disable the Tertium Seed
+	tertium_seed = true
+	#Enable or disable the Imperium Seed
+	imperium_seed = true
+	#Enable or disable the Supremium Seed
+	supremium_seed = true
+	#Enable or disable the Awakened Supremium Seed
+	awakened_supremium_seed = true
+	#Enable or disable the Fertilized Seed
+	fertilized_seed = true
+	#Enable or disable the Seed of Seeds (tier 3)
+	seed_of_seeds_seed = true
+	#Master switch for all Mekanism seeds (only when Mekanism is installed)
+	mekanism_seeds = true
+	#Enable or disable the Infused Alloy Seed
+	mekanism_alloy_infused = true
+	#Enable or disable the Reinforced Alloy Seed
+	mekanism_alloy_reinforced = true
+	#Enable or disable the Atomic Alloy Seed
+	mekanism_alloy_atomic = true
+	#Enable or disable the Bio Fuel Seed (tier 3)
+	bio_fuel_seed = true
+	#Enable or disable the Lithium Seed (tier 4)
+	lithium_seed = true
+	#Enable or disable the HDPE Pellet Seed (tier 5)
+	hdpe_seed = true
+	#Master switch for all nuclear seeds (only when Mekanism is installed)
+	nuclear_seeds = true
+	#Enable or disable the Yellow Cake Uranium Seed (tier 5)
+	yellow_cake_uranium_seed = true
+	#Enable or disable the Polonium Seed (tier 6, requires Mystical Agradditions)
+	polonium_seed = true
+	#Enable or disable the Plutonium Seed (tier 6, requires Mystical Agradditions)
+	plutonium_seed = true
+	#Enable or disable the Antimatter Seed (tier 6, requires Mystical Agradditions)
+	antimatter_seed = true
+	#Enable or disable the Bee Seed (tier 6, requires Productive Bees and Mystical Agradditions)
+	bee_seed = true
+	#Enable or disable the Echo Shard Seed (tier 5)
+	echo_shard_seed = true
+	#Enable or disable the Heavy Core Seed (tier 5)
+	heavy_core_seed = true
+	#Enable or disable the Deuterium Seed (tier 5, requires Mekanism Generators)
+	deuterium_seed = true
+	#Enable or disable the Tritium Seed (tier 5, requires Mekanism Generators)
+	tritium_seed = true
+	#Enable or disable the Fusion Fuel Seed (tier 6, requires Mekanism Generators and Mystical Agradditions)
+	fusion_fuel_seed = true
+	#Master switch for all Ars Nouveau seeds (only when Ars Nouveau is installed)
+	ars_seeds = true
+	#Enable or disable the Source Gem Seed (tier 4)
+	source_gem_seed = true
+	#Enable or disable the Elemental Air Seed (tier 4)
+	air_seed = true
+	#Enable or disable the Elemental Earth Seed (tier 4)
+	earth_seed = true
+	#Enable or disable the Elemental Fire Seed (tier 4)
+	fire_seed = true
+	#Enable or disable the Elemental Water Seed (tier 4)
+	water_seed = true
+	#Enable or disable the Abjuration Seed (tier 4)
+	abjuration_seed = true
+	#Enable or disable the Conjuration Seed (tier 4)
+	conjuration_seed = true
+	#Enable or disable the Manipulation Seed (tier 4)
+	manipulation_seed = true
+	#Master switch for the whole base line (prosperity, Inferium upgrades, fertilized).
+	#When OFF, all of them are disabled no matter what the entries below say.
+	mystical_agriculture_seeds = true
+	#Enable or disable the Infinity Seed (tier 6, made in the grand ritual, requires Mystical Agradditions)
+	infinity_seed = true
+	#Enable or disable the Radiance Alloy Seed (tier 6, requires Mekanism Extras and Mystical Agradditions)
+	mekanism_alloy_radiance = true
+	#Enable or disable the Thermonuclear Alloy Seed (tier 7, requires Mekanism Extras and Mystical Extended Tier)
+	mekanism_alloy_thermonuclear = true
+	#Enable or disable the Shining Alloy Seed (tier 8, requires Mekanism Extras and Mystical Extended Tier)
+	mekanism_alloy_shining = true
+	#Enable or disable the Spectrum Alloy Seed (tier 9, requires Mekanism Extras and Mystical Extended Tier)
+	mekanism_alloy_spectrum = true
+	#Enable or disable the Fissile Fuel Seed (tier 5)
+	fissile_fuel_seed = true
+	#Master switch for all Mekanism Generators seeds (only when Mekanism Generators is installed)
+	generators_seeds = true
+	#Master switch for all Productive Bees seeds (only when Productive Bees is installed)
+	productive_bees_seeds = true
+	#Master switch for all vanilla (mod-free) seeds
+	vanilla_seeds = true
+	#Enable or disable the FE Seed (tier 2 to 6, set by the energy it holds)
+	fe_seed = true
+	#Master switch for the Allthemodium, Vibranium and Unobtainium seeds and their alloys (only with the
+	#Allthemodium mod; the three metals also need Mystical Agradditions and turn themselves off in packs that
+	#already grow them, like All the Mods; the alloys need Mystical Extended Tier)
+	allthemodium_seeds = true
+	#Enable or disable the Allthemodium Seed (tier 7, Magical)
+	allthemodium_seed = true
+	#Enable or disable the Vibranium Seed (tier 7, Magical)
+	vibranium_seed = true
+	#Enable or disable the Unobtainium Seed (tier 7, Magical)
+	unobtainium_seed = true
+	#Enable or disable the Vibranium - Allthemodium Alloy Seed (tier 7, Mystical Extended Tier)
+	vibranium_allthemodium_alloy_seed = true
+	#Enable or disable the Unobtainium - Allthemodium Alloy Seed (tier 8, Mystical Extended Tier)
+	unobtainium_allthemodium_alloy_seed = true
+	#Enable or disable the Unobtainium - Vibranium Alloy Seed (tier 8, Mystical Extended Tier)
+	unobtainium_vibranium_alloy_seed = true
+	#Master switch for the seeds of other mods' materials (each only when its mod is installed)
+	other_mods_seeds = true
+	#Enable or disable the Flux Dust Seed (tier 3, requires Flux Networks)
+	flux_dust_seed = true
+	#Enable or disable the Andesite Alloy Seed (tier 3, requires Create)
+	andesite_alloy_seed = true
+	#Enable or disable the Dark Gem Seed (tier 4, requires EvilCraft)
+	dark_gem_seed = true
+	#Enable or disable the Arcane Crystal Seed (tier 4, requires Forbidden & Arcanus)
+	arcane_crystal_seed = true
+	#Enable or disable the Iesnium Seed (tier 5, requires Occultism)
+	iesnium_seed = true
+	#Enable or disable the Dimensional Shard Seed (tier 5, requires RFTools Base)
+	dimensional_shard_seed = true
+	#Enable or disable the Pink Slime Seed (tier 5, requires Industrial Foregoing)
+	pink_slime_seed = true
+	#Enable or disable the Plastic Seed (tier 3, requires Industrial Foregoing)
+	plastic_seed = true
+	#Enable or disable the Ether Gas Seed (tier 5, requires Industrial Foregoing)
+	ether_gas_seed = true
+	#Enable or disable the Chaos Shard Seed (tier 9, requires Draconic Evolution, Mystical Extended Tier)
+	chaos_shard_seed = true
+	#Master switch for all Just Dire Things seeds (only when Just Dire Things is installed)
+	just_dire_things_seeds = true
+	#Enable or disable the Ferricore Seed (tier 3)
+	ferricore_seed = true
+	#Enable or disable the Blazegold Seed (tier 4)
+	blazegold_seed = true
+	#Enable or disable the Celestigem Seed (tier 5)
+	celestigem_seed = true
+	#Enable or disable the Eclipse Alloy Seed (tier 5)
+	eclipse_alloy_seed = true
+	#Enable or disable the Time Crystal Seed (tier 6, requires Mystical Agradditions)
+	time_crystal_seed = true
+
+[bees]
+	#Bees the Random Bee Egg will never produce.
+	#Each entry is matched against the bee id as a case insensitive substring.
+	#Productive Bees ids look like productivebees:atm/starry, so an entry can be
+	#as precise as "atm/starry" or as broad as "vibranium".
+	#Leave the list empty to allow every bee.
+	random_bee_egg_blocklist = ["atm/allthemodium", "atm/unobtainium", "atm/vibranium", "atm/starry", "atm/patrick", "atm/gregstar"]

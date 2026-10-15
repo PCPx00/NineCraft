@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 7.5d
 			x: 2.75d
-			y: -10.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: -1.0d
+			y: 17.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 31.5d
-			y: -5.0d
+			x: 17.0d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 14.0d
-			y: 7.0d
+			x: 6.5d
+			y: 37.0d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,32 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 31.5d
-			y: 2.5d
+			x: 17.0d
+			y: 32.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/mi_steam_0.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 1.75d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/mi_steam_1.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 3.25d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/mi_steam_2.png"
+			rotation: 0.0d
+			width: 5.5d
+			x: 1.5d
+			y: 23.0d
 		}
 	]
 	order_index: 0
@@ -92,7 +116,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["4312418F31B3C8A2"]
@@ -115,7 +139,7 @@
 				}
 			]
 			x: 2.5d
-			y: -1.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["4312418F31B3C8A2"]
@@ -148,7 +172,7 @@
 				}
 			]
 			x: 2.5d
-			y: 1.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["57781849181831D0"]
@@ -171,11 +195,12 @@
 				}
 			]
 			x: 5.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1CFD8E023A1175A1"]
 			id: "28596EB53A2AFCB5"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "1314CEB7EFD09D05"
@@ -193,8 +218,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 0.0d
+			x: 0.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["28596EB53A2AFCB5"]
@@ -226,8 +251,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 0.0d
+			x: 2.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["1229EB557E29278F"]
@@ -249,8 +274,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -3.5d
+			x: 5.0d
+			y: 10.5d
 		}
 		{
 			dependencies: ["1229EB557E29278F"]
@@ -272,8 +297,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -2.0d
+			x: 5.0d
+			y: 12.0d
 		}
 		{
 			dependencies: ["1229EB557E29278F"]
@@ -295,8 +320,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: 0.0d
+			x: 5.0d
+			y: 14.0d
 		}
 		{
 			dependencies: ["1229EB557E29278F"]
@@ -318,8 +343,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: 2.0d
+			x: 5.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["1229EB557E29278F"]
@@ -341,8 +366,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: 3.5d
+			x: 5.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["1CFD8E023A1175A1"]
@@ -365,11 +390,12 @@
 				}
 			]
 			x: 7.5d
-			y: 2.0d
+			y: 1.0d
 		}
 		{
-			dependencies: ["1707BD103B2DD6EF"]
+			dependencies: ["1707BD103B2DD6EF", "3ED88C3368B4ED75", "154721AAF1DE139A"]
 			id: "18249316CD3A0645"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "01965854B445D23D"
@@ -396,8 +422,8 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -3.5d
+			x: 0.0d
+			y: 29.0d
 		}
 		{
 			dependencies: ["18249316CD3A0645"]
@@ -420,8 +446,8 @@
 					count: 16L
 				}
 			]
-			x: 17.5d
-			y: -4.5d
+			x: 2.5d
+			y: 28.0d
 		}
 		{
 			dependencies: ["18249316CD3A0645"]
@@ -444,8 +470,8 @@
 					count: 32L
 				}
 			]
-			x: 17.5d
-			y: -2.5d
+			x: 2.5d
+			y: 30.0d
 		}
 		{
 			dependencies: ["23DE28C72B39C6AC", "16CF0B5280160F7A"]
@@ -478,8 +504,8 @@
 					type: "item"
 				}
 			]
-			x: 20.0d
-			y: -3.5d
+			x: 5.0d
+			y: 29.0d
 		}
 		{
 			dependencies: ["6917FEF1DD3749BE"]
@@ -502,8 +528,8 @@
 					count: 16L
 				}
 			]
-			x: 22.5d
-			y: -3.5d
+			x: 7.5d
+			y: 29.0d
 		}
 		{
 			dependencies: ["2C419830F6FF2D31"]
@@ -526,8 +552,8 @@
 					type: "item"
 				}
 			]
-			x: 25.0d
-			y: -6.0d
+			x: 10.0d
+			y: 24.5d
 		}
 		{
 			dependencies: ["2C419830F6FF2D31"]
@@ -550,8 +576,8 @@
 					type: "item"
 				}
 			]
-			x: 25.0d
-			y: -4.5d
+			x: 10.0d
+			y: 26.5d
 		}
 		{
 			dependencies: ["2C419830F6FF2D31"]
@@ -573,8 +599,8 @@
 					type: "item"
 				}
 			]
-			x: 25.0d
-			y: -2.5d
+			x: 10.0d
+			y: 28.0d
 		}
 		{
 			dependencies: ["2C419830F6FF2D31"]
@@ -596,12 +622,18 @@
 					type: "item"
 				}
 			]
-			x: 25.0d
-			y: -1.0d
+			x: 10.0d
+			y: 30.0d
 		}
 		{
-			dependencies: ["40FCD65183DA5881"]
+			dependencies: [
+				"40FCD65183DA5881"
+				"3028D0D343E0748D"
+				"12FA78C0D832CAEA"
+				"14DF5CB4238209C7"
+			]
 			id: "1ADB7DEA8D41391A"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "15D9D9D4ED5F7E4C"
@@ -609,7 +641,7 @@
 					type: "random"
 				}
 			]
-			shape: "hexagon"
+			shape: "pentagon"
 			size: 2.0d
 			tasks: [
 				{
@@ -621,8 +653,219 @@
 					type: "item"
 				}
 			]
-			x: 27.5d
-			y: -1.0d
+			x: 13.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["57781849181831D0"]
+			id: "5426143056C1577F"
+			rewards: [
+				{
+					id: "7B39A84815A9DB21"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "196C6C1A56D2256D"
+					item: {
+						count: 1
+						id: "modern_industrialization:wrench"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1229EB557E29278F"]
+			id: "12FA78C0D832CAEA"
+			rewards: [
+				{
+					id: "1FC3C5C2C38E2E12"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "169D78C1141AD22E"
+					item: {
+						count: 1
+						id: "modern_industrialization:fluid_pipe"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 5.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["57781849181831D0"]
+			id: "6FBB598555A352AA"
+			optional: true
+			rewards: [
+				{
+					id: "165C64CC4E6D1833"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2A433A5DC2095F70"
+					item: {
+						count: 1
+						id: "modern_industrialization:bronze_barrel"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["57781849181831D0"]
+			id: "12514C86B339500A"
+			optional: true
+			rewards: [
+				{
+					id: "49A37E59B264AA5F"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3A9C835DFC52707F"
+					item: {
+						count: 1
+						id: "modern_industrialization:bronze_tank"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["57781849181831D0"]
+			id: "154721AAF1DE139A"
+			rewards: [
+				{
+					id: "506F5370685BCCBF"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "102739914C4AE38D"
+					item: {
+						count: 1
+						id: "modern_industrialization:bronze_drill"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["28596EB53A2AFCB5"]
+			id: "1105EC500F1CB7C2"
+			rewards: [
+				{
+					id: "3CE9764F6AAD9C5D"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "13AB2CB9C0CEF445"
+					item: {
+						count: 1
+						id: "modern_industrialization:bronze_item_input_hatch"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 21.0d
+		}
+		{
+			dependencies: ["1105EC500F1CB7C2"]
+			id: "3ED88C3368B4ED75"
+			rewards: [
+				{
+					id: "4DDD65A608754721"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "354D4624B88832DD"
+					item: {
+						count: 1
+						id: "modern_industrialization:bronze_fluid_input_hatch"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["2C419830F6FF2D31"]
+			id: "1AE8A339747E337F"
+			rewards: [
+				{
+					id: "6517E8ABCCDD192A"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "15A40585860107EA"
+					item: {
+						count: 1
+						id: "modern_industrialization:steel_hammer"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 31.5d
+		}
+		{
+			dependencies: ["2C419830F6FF2D31"]
+			id: "3028D0D343E0748D"
+			rewards: [
+				{
+					id: "2143EBF21E2523C9"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "688C502FD4A8662C"
+					item: {
+						count: 1
+						id: "modern_industrialization:steel_machine_casing"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 10.0d
+			y: 33.5d
 		}
 		{
 			icon: {
@@ -641,7 +884,7 @@
 				}
 			]
 			x: -3.0d
-			y: -9.0d
+			y: -3.0d
 		}
 	]
 }

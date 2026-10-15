@@ -1,0 +1,134 @@
+#Speeds for each pipe tier. Each value applies to ONE pipe end (one side of one pipe).
+[tiers]
+
+	[tiers.hollow]
+		#Items moved per operation by one Input end.
+		# Default: 4
+		# Range: 1 ~ 4096
+		itemsPerOperation = 4
+		#Ticks between item operations (20 ticks = 1 second).
+		# Default: 10
+		# Range: 1 ~ 200
+		itemIntervalTicks = 10
+		#Fluid moved per tick, in mB.
+		# Default: 100
+		# Range: > 1
+		fluidPerTick = 100
+		#Energy moved per tick, in FE.
+		# Default: 1000
+		# Range: > 1
+		energyPerTick = 1000
+		#Mekanism chemicals moved per tick, in mB.
+		# Default: 200
+		# Range: > 1
+		chemicalPerTick = 200
+
+	[tiers.whispering]
+		#Items moved per operation by one Input end.
+		# Default: 16
+		# Range: 1 ~ 4096
+		itemsPerOperation = 16
+		#Ticks between item operations (20 ticks = 1 second).
+		# Default: 10
+		# Range: 1 ~ 200
+		itemIntervalTicks = 10
+		#Fluid moved per tick, in mB.
+		# Default: 400
+		# Range: > 1
+		fluidPerTick = 400
+		#Energy moved per tick, in FE.
+		# Default: 8000
+		# Range: > 1
+		energyPerTick = 8000
+		#Mekanism chemicals moved per tick, in mB.
+		# Default: 800
+		# Range: > 1
+		chemicalPerTick = 800
+
+	[tiers.restless]
+		#Items moved per operation by one Input end.
+		# Default: 32
+		# Range: 1 ~ 4096
+		itemsPerOperation = 32
+		#Ticks between item operations (20 ticks = 1 second).
+		# Default: 5
+		# Range: 1 ~ 200
+		itemIntervalTicks = 5
+		#Fluid moved per tick, in mB.
+		# Default: 1600
+		# Range: > 1
+		fluidPerTick = 1600
+		#Energy moved per tick, in FE.
+		# Default: 64000
+		# Range: > 1
+		energyPerTick = 64000
+		#Mekanism chemicals moved per tick, in mB.
+		# Default: 3200
+		# Range: > 1
+		chemicalPerTick = 3200
+
+	[tiers.wraithbound]
+		#Items moved per operation by one Input end.
+		# Default: 64
+		# Range: 1 ~ 4096
+		itemsPerOperation = 64
+		#Ticks between item operations (20 ticks = 1 second).
+		# Default: 2
+		# Range: 1 ~ 200
+		itemIntervalTicks = 2
+		#Fluid moved per tick, in mB.
+		# Default: 6400
+		# Range: > 1
+		fluidPerTick = 6400
+		#Energy moved per tick, in FE.
+		# Default: 512000
+		# Range: > 1
+		energyPerTick = 512000
+		#Mekanism chemicals moved per tick, in mB.
+		# Default: 12800
+		# Range: > 1
+		chemicalPerTick = 12800
+
+	[tiers.soulforged]
+		#Items moved per operation by one Input end.
+		# Default: 256
+		# Range: 1 ~ 4096
+		itemsPerOperation = 256
+		#Ticks between item operations (20 ticks = 1 second).
+		# Default: 1
+		# Range: 1 ~ 200
+		itemIntervalTicks = 1
+		#Fluid moved per tick, in mB.
+		# Default: 25600
+		# Range: > 1
+		fluidPerTick = 25600
+		#Energy moved per tick, in FE.
+		# Default: 4096000
+		# Range: > 1
+		energyPerTick = 4096000
+		#Mekanism chemicals moved per tick, in mB.
+		# Default: 51200
+		# Range: > 1
+		chemicalPerTick = 51200
+
+[performance]
+	#When an Input end finds nothing to move, it waits longer before trying again, up to this many ticks.
+	#Higher = less work on idle pipes, slower to notice new items. Set to 1 to disable backoff.
+	# Default: 40
+	# Range: 1 ~ 400
+	idleBackoffMaxTicks = 40
+	#Fluids and chemicals are moved in batches every this many ticks (the per-tick rate is multiplied to match).
+	#Energy always moves every tick.
+	# Default: 2
+	# Range: 1 ~ 20
+	fluidBatchTicks = 2
+
+[features]
+	#Pipes show a subtle flow animation while they are moving something.
+	#Pipes switch it on or off at most once a second, with a 2-second hold, so it costs almost nothing.
+	flowAnimation = true
+	#Furthest a Soul Link can reach, in blocks. 0 = anywhere in the same dimension.
+	#Both linked pipes must be loaded for the link to carry anything; pipes never load chunks.
+	# Default: 0
+	# Range: 0 ~ 1000000
+	soulLinkRange = 0

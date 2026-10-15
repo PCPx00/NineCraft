@@ -1,0 +1,8 @@
+#搜索历史列表最多显示的记录数量，屏幕空间不足时会减少。 / Maximum visible search history entries; reduced when screen space is limited.
+# Default: 5
+# Range: 1 ~ 20
+maxVisibleSearchHistory = 5
+#已保存的搜索历史记录。 / Saved search history entries.
+searchHistory = []
+#搜索历史向上展开（默认 false，向下展开）。 / Expand search history upwards (default: false, expands downwards).
+searchHistoryAbove = false

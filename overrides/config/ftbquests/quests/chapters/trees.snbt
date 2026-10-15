@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 13.5d
 			x: 5.75d
-			y: -9.0d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: 1.0d
+			y: 10.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 9.0d
-			y: -3.5d
+			x: 14.5d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 2.5d
-			y: 9.5d
+			x: 5.0d
+			y: 23.5d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,24 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 9.0d
-			y: 5.0d
+			x: 14.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/trees_0.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 2.75d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/trees_1.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 2.75d
+			y: 14.5d
 		}
 	]
 	order_index: 3
@@ -92,16 +108,17 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 7.0d
 		}
 		{
-			dependencies: ["16F541BBD83DA103"]
+			dependencies: ["1BE611C8641F88E5"]
 			id: "0A071C12E7D40EE6"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "78B1EEF7F21B50ED"
 					type: "xp_levels"
-					xp_levels: 1
+					xp_levels: 2
 				}
 			]
 			tasks: [
@@ -114,8 +131,8 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: -2.5d
+			x: 0.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["0A071C12E7D40EE6"]
@@ -138,8 +155,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -4.5d
+			x: 2.5d
+			y: 16.0d
 		}
 		{
 			dependencies: ["0A071C12E7D40EE6"]
@@ -162,18 +179,18 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -3.0d
+			x: 2.5d
+			y: 18.0d
 		}
 		{
-			dependencies: ["16F541BBD83DA103"]
+			dependencies: ["1BE611C8641F88E5"]
 			id: "129A9CEF32B394F0"
 			optional: true
 			rewards: [
 				{
 					id: "16949D3EE5A1012E"
 					type: "xp_levels"
-					xp_levels: 1
+					xp_levels: 2
 				}
 			]
 			tasks: [
@@ -186,18 +203,18 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: -1.0d
+			x: 5.0d
+			y: 1.0d
 		}
 		{
-			dependencies: ["16F541BBD83DA103"]
+			dependencies: ["2149E3F49CA92CA4"]
 			id: "1684515B925FDE44"
 			optional: true
 			rewards: [
 				{
 					id: "1403804E4DD5D3D8"
 					type: "xp_levels"
-					xp_levels: 1
+					xp_levels: 2
 				}
 			]
 			tasks: [
@@ -210,17 +227,17 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: 1.0d
+			x: 7.5d
+			y: 12.5d
 		}
 		{
-			dependencies: ["16F541BBD83DA103"]
+			dependencies: ["1BE611C8641F88E5"]
 			id: "44C3F5AE95C01324"
 			rewards: [
 				{
 					id: "1CA6736885125682"
 					type: "xp_levels"
-					xp_levels: 1
+					xp_levels: 2
 				}
 			]
 			tasks: [
@@ -234,8 +251,8 @@
 					count: 16L
 				}
 			]
-			x: 2.5d
-			y: 2.5d
+			x: 5.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["44C3F5AE95C01324"]
@@ -257,8 +274,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 0.5d
+			x: 7.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["44C3F5AE95C01324"]
@@ -280,8 +297,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 2.5d
+			x: 7.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["44C3F5AE95C01324"]
@@ -303,8 +320,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 4.0d
+			x: 7.5d
+			y: 7.0d
 		}
 		{
 			dependencies: ["44C3F5AE95C01324"]
@@ -327,17 +344,17 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 6.0d
+			x: 7.5d
+			y: 9.0d
 		}
 		{
-			dependencies: ["0A071C12E7D40EE6", "44C3F5AE95C01324"]
+			dependencies: ["16F541BBD83DA103", "11E07A3753040B42"]
 			id: "1BE611C8641F88E5"
 			rewards: [
 				{
 					id: "5C0075ED6CB1E108"
 					type: "xp_levels"
-					xp_levels: 6
+					xp_levels: 5
 				}
 			]
 			shape: "hexagon"
@@ -352,8 +369,276 @@
 					type: "item"
 				}
 			]
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["129A9CEF32B394F0"]
+			id: "11F31E087FBBE9C7"
+			optional: true
+			rewards: [
+				{
+					id: "38092DC9CA0EADA5"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "1B154A5DF28A0996"
+					item: {
+						count: 1
+						id: "productivetrees:butternut"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A071C12E7D40EE6"]
+			id: "00CD96E9DA6CFAB6"
+			rewards: [
+				{
+					id: "01667A2AE3425600"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "1098E567D46AB518"
+					item: {
+						count: 1
+						id: "productivetrees:black_cherry"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["00CD96E9DA6CFAB6"]
+			id: "184FD5D0174C84C1"
+			optional: true
+			rewards: [
+				{
+					id: "46A7CFCB503F48CD"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [
+				{
+					id: "16EB4B3182C86840"
+					item: {
+						count: 1
+						id: "productivetrees:cherry_plum"
+					}
+					type: "item"
+				}
+			]
 			x: 5.0d
-			y: -1.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["129A9CEF32B394F0"]
+			id: "0D551A69989B6B6D"
+			optional: true
+			rewards: [
+				{
+					id: "0C0E6949EB90F902"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "1F58B7AB509793F9"
+					item: {
+						count: 1
+						id: "productivetrees:cashew"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1560066B37397A75"]
+			id: "01293C3C093A605F"
+			optional: true
+			rewards: [
+				{
+					id: "1472179E29222FF1"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [
+				{
+					id: "6F563850CA7A5C5C"
+					item: {
+						count: 1
+						id: "productivetrees:breadfruit"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["1BE611C8641F88E5"]
+			id: "11A9DFEC2E76BEB6"
+			rewards: [
+				{
+					id: "2C796230A6AAC7FD"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "6E6AB0DBFFB3469D"
+					item: {
+						count: 1
+						id: "productivetrees:cacao_sapling"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1BE611C8641F88E5"]
+			id: "600F892922012D8D"
+			rewards: [
+				{
+					id: "1B49F725BA9A1FB6"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "6ECD5A73F9F1BA4F"
+					item: {
+						count: 1
+						id: "productivetrees:coconut_sapling"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["1BE611C8641F88E5"]
+			id: "2149E3F49CA92CA4"
+			rewards: [
+				{
+					id: "1FEE2144F4E601C1"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "1DFFBFEBA718A0D3"
+					item: {
+						count: 1
+						id: "productivetrees:coffea_sapling"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["44C3F5AE95C01324"]
+			id: "1D9D24B9C11E148A"
+			optional: true
+			rewards: [
+				{
+					id: "5209318D4A22E01F"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "2676389B5DDB9D68"
+					item: {
+						count: 1
+						id: "productivetrees:cedar_sapling"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"11A9DFEC2E76BEB6"
+				"600F892922012D8D"
+				"2149E3F49CA92CA4"
+				"0A071C12E7D40EE6"
+				"129A9CEF32B394F0"
+			]
+			id: "5A41A75C83215261"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "16C940769C9E774F"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "446B96AA5D34DA74"
+					item: {
+						count: 1
+						id: "productivetrees:cacao_sapling"
+					}
+					type: "item"
+				}
+				{
+					id: "1BD9EDDE43FCF0AA"
+					item: {
+						count: 1
+						id: "productivetrees:coconut_sapling"
+					}
+					type: "item"
+				}
+				{
+					id: "192047913E6B6E54"
+					item: {
+						count: 1
+						id: "productivetrees:coffea_sapling"
+					}
+					type: "item"
+				}
+				{
+					id: "4D4E05BD4F44BA3E"
+					item: {
+						count: 1
+						id: "productivetrees:almond_sapling"
+					}
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: 10.0d
 		}
 		{
 			icon: {
@@ -372,7 +657,7 @@
 				}
 			]
 			x: -3.0d
-			y: -7.5d
+			y: -3.0d
 		}
 	]
 }

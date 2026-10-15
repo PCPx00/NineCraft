@@ -1,87 +1,283 @@
 {
-	quest.10E36739A0D4DD5A.quest_desc: [
-		"&dNine Craft Quest Book&r"
+	quest.0610C23AEFD0B339.quest_desc: [
+		"One of the strongest swords in the pack."
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"§e§lHow to complete:§r Craft or make Unobtainium Sword and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.0610C23AEFD0B339.title: "Unobtainium Sword"
+	quest.07B55A2BD59790C9.quest_desc: [
+		"Hits harder than a bow, and can fire fireworks."
+		""
+		"§e§lHow to complete:§r Craft or make Crossbow and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.07B55A2BD59790C9.title: "Crossbow"
+	quest.10E36739A0D4DD5A.quest_desc: [
+		"§dNine Craft Quest Book§r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.10E36739A0D4DD5A.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.10E36739A0D4DD5A.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.10E36739A0D4DD5A.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.10F639CE80A31363.quest_desc: [
+		"Uses less fuel per item."
+		""
+		"§e§lHow to complete:§r Craft or make Augment: Fuel Efficiency and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.10F639CE80A31363.title: "Fuel Augment"
 	quest.1175EDFF464EBE23.quest_desc: [
 		"Upgrade diamond gear at a smithing table with netherite ingots."
+		""
+		"§e§lHow to complete:§r Craft or make Netherite Chestplate and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.1175EDFF464EBE23.title: "Netherite"
 	quest.11BF4A515641B245.quest_desc: [
 		"Crush ores into dust in the crafting grid. A cheap early way to get more out of your ore."
+		""
+		"§e§lHow to complete:§r Craft or make Iron Ore Hammer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.11BF4A515641B245.title: "Ore Hammer"
 	quest.1269E9C0B21EC87B.quest_desc: [
 		"A magnet vacuums up nearby drops. Toggle it with a right-click."
+		""
+		"§e§lHow to complete:§r Craft or make Basicmagnet and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.1269E9C0B21EC87B.title: "Pull It In"
-	quest.16D0E07139947692.quest_desc: ["Simple mob damage. The start of many mob farms."]
+	quest.136EB18AA7B9569F.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Allthemodium Sword and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.136EB18AA7B9569F.title: "Allthemodium Sword"
+	quest.13751010E02BE851.quest_desc: [
+		"Your first real weapon."
+		""
+		"§e§lHow to complete:§r Craft or make Iron Sword and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.13751010E02BE851.title: "Iron Sword"
+	quest.13A63C15421371A0.quest_desc: [
+		"Powers Iron Furnaces with energy instead of fuel."
+		""
+		"§e§lHow to complete:§r Craft or make Wireless Heat Transmitter and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.13A63C15421371A0.title: "Furnace Heater"
+	quest.13DD4D04B648B3F5.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Vibranium Furnace and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.13DD4D04B648B3F5.title: "Vibranium Furnace"
+	quest.151B532911D460C1.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Diamond Sword and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.151B532911D460C1.title: "Diamond Sword"
+	quest.16D0E07139947692.quest_desc: [
+		"Simple mob damage. The start of many mob farms."
+		""
+		"§e§lHow to complete:§r Craft or make Iron Spikes and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.16D0E07139947692.title: "Spikes"
 	quest.16E40A621AD110FA.quest_desc: [
 		"A rainbow monster furnace for anyone who wants to smelt everything forever."
+		""
+		"§e§lHow to complete:§r Craft or make Rainbow Furnace and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
 	]
 	quest.16E40A621AD110FA.title: "The Million Furnace"
+	quest.17E6D2FF2BD7A8DE.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Unobtainium Leggings and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.17E6D2FF2BD7A8DE.title: "Unobtainium Leggings"
 	quest.181C33AD334D04D9.quest_desc: [
 		"Iron Jetpacks let you fly early. Pick a tier in JEI, craft it, charge it with energy and hold jump."
+		""
+		"§e§lHow to complete:§r Craft or make Jetpack and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.181C33AD334D04D9.title: "Take Flight"
-	quest.187AA27DA0CC9B87.quest_desc: ["Near-instant smelting for vanilla standards."]
+	quest.187AA27DA0CC9B87.quest_desc: [
+		"Near-instant smelting for vanilla standards."
+		""
+		"§e§lHow to complete:§r Craft or make Netherite Furnace and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.187AA27DA0CC9B87.title: "Netherite Furnace"
 	quest.19579F1EF0A6D360.quest_desc: [
 		"Swap between tools from a quick radial menu without filling your hotbar."
+		""
+		"§e§lHow to complete:§r Craft or make Tool Belt and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
 	]
 	quest.19579F1EF0A6D360.title: "Tool Belt"
 	quest.19EE00E236113052.quest_desc: [
-		"Good tools make everything faster. This chapter covers furnaces, armor, tools and a few early helpers."
+		"Good tools make everything faster. This chapter takes you from your first iron pickaxe to the best armor in the pack."
+		""
+		"It covers furnaces, armor tiers, jetpacks, magnets and a few early helpers. Grab an iron pickaxe to start."
+		""
+		"§e§lHow to complete:§r Craft or make Iron Pickaxe and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.19EE00E236113052.title: "Gear Up"
-	quest.1A190ABD8477878B.quest_desc: ["Augments tweak a furnace. Speed trades fuel for time."]
+	quest.1A190ABD8477878B.quest_desc: [
+		"Augments tweak a furnace. Speed trades fuel for time."
+		""
+		"§e§lHow to complete:§r Craft or make Augment: Speed and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.1A190ABD8477878B.title: "Speed Augment"
+	quest.1A9712EFA9644E6F.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Allthemodium Boots and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1A9712EFA9644E6F.title: "Allthemodium Boots"
 	quest.1AA09D05B9C48053.quest_desc: [
 		"Turns a furnace into a multi-slot smelter. Perfect for ore batches."
+		""
+		"§e§lHow to complete:§r Craft or make Augment: Factory and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
 	]
 	quest.1AA09D05B9C48053.title: "Factory Augment"
-	quest.1AE89A26BF77D165.quest_desc: ["Faster again. Worth it once gold is flowing."]
+	quest.1AE89A26BF77D165.quest_desc: [
+		"Faster again. Worth it once gold is flowing."
+		""
+		"§e§lHow to complete:§r Craft or make Golden Furnace and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1AE89A26BF77D165.title: "Gold Furnace"
+	quest.1B278A8D0C151AA0.quest_desc: [
+		"Spikes are fine, but the Reaper Block does the killing and the collecting. See the §5Grim Soul Industries§r chapter."
+		""
+		"§e§lHow to complete:§r Craft or make Reaper Block and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1B278A8D0C151AA0.title: "Better Than Spikes"
+	quest.1C4508D5EA3794D7.quest_desc: [
+		"Allthemodium gear is upgraded from netherite with a smithing template. Duplicate templates with the right materials."
+		""
+		"§e§lHow to complete:§r Craft or make Allthemodium Smithing Template and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1C4508D5EA3794D7.title: "Smithing Templates"
+	quest.1CF4767F57532DC4.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Allthemodium Helmet and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1CF4767F57532DC4.title: "Allthemodium Helmet"
 	quest.1D6E3C7341CF4AAD.quest_desc: [
 		"Place hundreds of blocks at once. A huge time saver for walls and floors."
+		""
+		"§e§lHow to complete:§r Craft or make Building Gadget and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
 	]
 	quest.1D6E3C7341CF4AAD.title: "Building Gadgets"
-	quest.1E826FD31A404C21.quest_desc: ["Enough protection for most of the early game."]
+	quest.1D9C3A30CC230B8F.quest_desc: [
+		"Copy a build and paste it anywhere."
+		""
+		"§e§lHow to complete:§r Craft or make Copy Paste Gadget and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1D9C3A30CC230B8F.title: "Copy Paste Gadget"
+	quest.1DCDEAD906A645D3.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Unobtainium Boots and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1DCDEAD906A645D3.title: "Unobtainium Boots"
+	quest.1E769A38B3B6A922.quest_desc: [
+		"Swap blocks in a big area."
+		""
+		"§e§lHow to complete:§r Craft or make Exchanging Gadget and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1E769A38B3B6A922.title: "Exchanging Gadget"
+	quest.1E826FD31A404C21.quest_desc: [
+		"Enough protection for most of the early game."
+		""
+		"§e§lHow to complete:§r Craft or make Iron Chestplate and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1E826FD31A404C21.title: "Iron Armor"
+	quest.1E9E78099BBE6175.quest_desc: [
+		"A full unobtainium set and sword. You're ready for anything."
+		""
+		"§e§lHow to complete:§r Craft or make Unobtainium Helmet, Unobtainium Chestplate, Unobtainium Leggings, Unobtainium Boots and Unobtainium Sword and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1E9E78099BBE6175.title: "Fully Geared"
 	quest.1EE1B65A0A582184.quest_desc: [
 		"The cheapest Iron Furnace. Already quicker than a vanilla furnace."
+		""
+		"§e§lHow to complete:§r Craft or make Copper Furnace and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.1EE1B65A0A582184.title: "Copper Furnace"
 	quest.282CACF7DE68FE63.quest_desc: [
 		"The first of the three special metals. Hardy and fire resistant."
+		""
+		"§e§lHow to complete:§r Craft or make Allthemodium Chestplate and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.282CACF7DE68FE63.title: "Allthemodium Armor"
-	quest.2FBA865056E5CC9E.quest_desc: ["A solid step up in speed."]
+	quest.2FBA865056E5CC9E.quest_desc: [
+		"A solid step up in speed."
+		""
+		"§e§lHow to complete:§r Craft or make Iron Furnace and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.2FBA865056E5CC9E.title: "Iron Furnace"
-	quest.31FF5972852C9A34.quest_desc: ["Tougher again. Upgrade with a smithing template."]
+	quest.30D3EE9B5F179C18.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Obsidian Furnace and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.30D3EE9B5F179C18.title: "Obsidian Furnace"
+	quest.3172B59255F1F4D0.quest_desc: [
+		"Blazing fast."
+		""
+		"§e§lHow to complete:§r Craft or make Allthemodium Furnace and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.3172B59255F1F4D0.title: "Allthemodium Furnace"
+	quest.31FF5972852C9A34.quest_desc: [
+		"Tougher again. Upgrade with a smithing template."
+		""
+		"§e§lHow to complete:§r Craft or make Vibranium Chestplate and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.31FF5972852C9A34.title: "Vibranium Armor"
+	quest.381FF939728C3C9D.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Netherite Sword and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.381FF939728C3C9D.title: "Netherite Sword"
 	quest.3D4813E0CE097BAF.quest_desc: [
 		"Don't break your furnace to improve it. Right-click it with an upgrade and it keeps its contents."
+		""
+		"§e§lHow to complete:§r Craft or make Stone to Iron Furnace Upgrade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.3D4813E0CE097BAF.title: "Upgrade in Place"
-	quest.496CCA9DF98D80ED.quest_desc: ["Survive the Nether with confidence."]
+	quest.496CCA9DF98D80ED.quest_desc: [
+		"Survive the Nether with confidence."
+		""
+		"§e§lHow to complete:§r Craft or make Diamond Chestplate and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.496CCA9DF98D80ED.title: "Diamond Armor"
+	quest.57CBB9FEF1C0D8D7.quest_desc: [
+		"Hit mobs before they get close."
+		""
+		"§e§lHow to complete:§r Craft or make Bow and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.57CBB9FEF1C0D8D7.title: "Bow"
 	quest.5D43F52B6E7092F1.quest_desc: [
-		"Want custom tools? The &5Silent Gear&r chapter builds tools from any material you like."
+		"Want custom tools? The §5Silent Gear§r chapter builds tools from any material you like."
+		""
+		"§e§lHow to complete:§r Craft or make Pickaxe Blueprint and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
 	]
 	quest.5D43F52B6E7092F1.title: "See Silent Gear"
-	quest.63FA918D87162382.quest_desc: ["Quick enough to keep up with an early ore line."]
+	quest.63FA918D87162382.quest_desc: [
+		"Quick enough to keep up with an early ore line."
+		""
+		"§e§lHow to complete:§r Craft or make Diamond Furnace and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.63FA918D87162382.title: "Diamond Furnace"
-	quest.686849C126A9682A.quest_desc: ["Top-tier armor from the rarest metal around."]
+	quest.686849C126A9682A.quest_desc: [
+		"Top-tier armor from the rarest metal around."
+		""
+		"§e§lHow to complete:§r Craft or make Unobtainium Chestplate and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.686849C126A9682A.title: "Unobtainium Armor"
+	quest.6A34AC6F9A3CFA65.quest_desc: [
+		"Mekanism's jetpack runs on hydrogen."
+		""
+		"§e§lHow to complete:§r Craft or make Jetpack and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.6A34AC6F9A3CFA65.title: "Hydrogen Jetpack"
+	quest.6BFE8B899D18E7AB.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Unobtainium Furnace and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.6BFE8B899D18E7AB.title: "Unobtainium Furnace"
+	quest.76374AA5D6FDB449.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Unobtainium Helmet and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.76374AA5D6FDB449.title: "Unobtainium Helmet"
+	quest.7E731F49EC1BA0F0.quest_desc: [
+		"Turns the furnace into a fast blast furnace for ores."
+		""
+		"§e§lHow to complete:§r Craft or make Augment: Blasting and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.7E731F49EC1BA0F0.title: "Blasting Augment"
 }

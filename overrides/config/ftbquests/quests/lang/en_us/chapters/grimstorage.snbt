@@ -1,0 +1,305 @@
+{
+	quest.06D4EDE39CCE86F0.quest_desc: [
+		"The Singularity Core needs a nether star. Defeat the Wither."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Nether Star and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.06D4EDE39CCE86F0.title: "Nether Star"
+	quest.1051A2969101A3FD.quest_desc: [
+		"Netherite scrap, diamonds and Echo Soulite Alloy. About 67 million items."
+		""
+		"§e§lHow to complete:§r Craft or make Netherite Storage Cell (64M) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1051A2969101A3FD.title: "Netherite Storage Cell"
+	quest.109F767C86553A48.quest_desc: [
+		"Soulite, soul sand and a furnace. Your first machine: put in a Soulite Ingot, Soul Sand and Nether Quartz to make Infused Soulite. No fuel needed."
+		""
+		"§e§lHow to complete:§r Craft or make Soul Infuser and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.109F767C86553A48.title: "Soul Infuser"
+	quest.10B4810153F78B38.quest_desc: [
+		"String and Soulite. To reach further, run cable. One cable carries everything: items, fluids, energy, XP, chemicals and Source."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Soul Cable and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.10B4810153F78B38.title: "Soul Cable"
+	quest.1140132B1767F4FC.quest_desc: [
+		"Iron and Soulite. Click a cable connection to cut it, click a bus to take it off, and sneak-click any Grim Storage block to pick it up."
+		""
+		"§e§lHow to complete:§r Craft or make Soul Wrench and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1140132B1767F4FC.title: "Soul Wrench"
+	quest.11FEE3C5D1BF8255.quest_desc: [
+		"Keeps an amount of something crafted, like always 500 iron gears. When stock drops below that, it crafts more."
+		""
+		"§e§lHow to complete:§r Craft or make Stock Keeper and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.11FEE3C5D1BF8255.title: "Stock Keeper"
+	quest.1221CF0A0423F847.quest_desc: [
+		"One Infused Soulite, two Echo Soulite Shards and a Netherite Scrap. The fourth tier."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Echo Soulite Alloy and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1221CF0A0423F847.title: "Echo Soulite Alloy"
+	quest.129EBD8B1FAA9004.quest_desc: [
+		"Glass around a Soulite Ingot. The terminal is made with it, and it works as a good-looking cable too."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Soulite Glass and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.129EBD8B1FAA9004.title: "Soulite Glass"
+	quest.141810D4A45FC679.quest_desc: [
+		"Soulite and Soulite Glass. Where you see, take and store everything, with its own 3x3 crafting grid that refills itself from storage."
+		""
+		"§eTip:§r type §e@mekanism§r in the search box to search by mod."
+		""
+		"§e§lHow to complete:§r Craft or make Soul Terminal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.141810D4A45FC679.title: "Soul Terminal"
+	quest.16DFFB18CE0B4ADA.quest_desc: [
+		"Soulite, obsidian and an ender pearl. Pick up to 9 items: when storage is full, only the extra copies of those are destroyed."
+		""
+		"§e§lHow to complete:§r Craft or make Void Filter and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.16DFFB18CE0B4ADA.title: "Void Filter"
+	quest.17B89B061CAC4E73.quest_desc: [
+		"Put the cell in the drive and place the controller, drive and terminal all touching. Open the terminal: that's a working storage system."
+		""
+		"§e§lHow to complete:§r Craft or make Network Controller, Soul Drive, Copper Storage Cell (4k) and Soul Terminal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.17B89B061CAC4E73.title: "Your First Network"
+	quest.17C7470B11469D0E.quest_desc: [
+		"Holds §eone item type with no limit§r. Hold the item in your off hand and use the cell to choose it. Perfect for cobblestone or anything you farm by the million."
+		""
+		"§e§lHow to complete:§r Craft or make Singularity Cell and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.17C7470B11469D0E.title: "Singularity Cell"
+	quest.17D2CEF91C5928BF.quest_desc: [
+		"Any book and a Soulite Ingot. The full in-game guide to the mod, chapter by chapter."
+		""
+		"§e§lHow to complete:§r Craft or make Grim Storage Guide and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.17D2CEF91C5928BF.title: "Grim Storage Guide"
+	quest.17F4DA193ACFCADB.quest_desc: [
+		"Gives a redstone signal when the network has at least (or fewer than) an amount of an item. Switch a mob farm off at 10,000 bones."
+		""
+		"§e§lHow to complete:§r Craft or make Redstone Emitter and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.17F4DA193ACFCADB.title: "Redstone Emitter"
+	quest.18477F4A60BF6FEC.quest_desc: [
+		"A cell with a Basic Chemical Tank: 256 buckets of Mekanism chemicals."
+		""
+		"§e§lHow to complete:§r Craft or make Copper Chemical Cell (256 B) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.18477F4A60BF6FEC.title: "Copper Chemical Cell"
+	quest.19233C7FE9B6913C.quest_desc: [
+		"Fill an assembler with cards. Click a craftable item, type how many, and the network crafts every step for you, telling you exactly what's missing if it can't."
+		""
+		"§e§lHow to complete:§r Craft or make Soul Assembler and 9 x Recipe Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.19233C7FE9B6913C.title: "Teach the Network"
+	quest.194E8B67B25AD0E3.quest_desc: [
+		"Lets pipes from any mod (Grim Pipes too) push into the network. To let pipes pull out, open it and turn on that resource's §ePull§r switch."
+		""
+		"§e§lHow to complete:§r Craft or make Network Interface and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.194E8B67B25AD0E3.title: "Network Interface"
+	quest.19731CA54ACF9590.quest_desc: [
+		"Place it against any machine and put Processing Cards in it. The network sends the inputs in and pulls the results back out."
+		""
+		"§e§lHow to complete:§r Craft or make Processing Interface and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.19731CA54ACF9590.title: "Processing Interface"
+	quest.19B20AD4CF6BED75.quest_desc: [
+		"A cell with a Bottle o' Enchanting in it: 100,000 XP. In the Experience tab, click to take a level and right-click to store all your XP."
+		""
+		"§e§lHow to complete:§r Craft or make Copper Experience Cell (100k XP) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.19B20AD4CF6BED75.title: "Copper Experience Cell"
+	quest.1A9D4F34BDD2F4E7.quest_desc: [
+		"Sneak and use it on the Network Controller to link it, then press §eY§r to open it from up to 128 blocks away. Press §eG§r to dump your inventory into storage."
+		""
+		"§e§lHow to complete:§r Craft or make Wireless Terminal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1A9D4F34BDD2F4E7.title: "Wireless Terminal"
+	quest.1B7A66DFDD8E73E4.quest_desc: [
+		"Gold, redstone and a Block of Soulite. 65,536 items."
+		""
+		"§e§lHow to complete:§r Craft or make Gold Storage Cell (64k) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1B7A66DFDD8E73E4.title: "Gold Storage Cell"
+	quest.1C3350E7D009E705.quest_desc: [
+		"Soulite, redstone and a block of redstone. The heart of a network: every network needs §eexactly one§r."
+		""
+		"Open it to see how full your storage is, and to trust other players. Whoever places it owns the network."
+		""
+		"§e§lHow to complete:§r Craft or make Network Controller and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1C3350E7D009E705.title: "Network Controller"
+	quest.1CA7994B01E6A6C1.quest_desc: [
+		"§dNine Craft Quest Book§r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
+		""
+		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
+		""
+		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
+		""
+		"§8This quest is hidden and only appears in edit mode.§r"
+	]
+	quest.1CA7994B01E6A6C1.quest_subtitle: "Copyright (c) 2026 Nine Craft"
+	quest.1CA7994B01E6A6C1.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.1D6CAFA5DED7DEBA.quest_desc: [
+		"Soulite, a hopper and redstone. Takes everything out of the block it faces and into the network: items, fluids, power and XP."
+		""
+		"§eTip:§r facing open air, it picks up dropped items and XP orbs. Put one under a mob farm."
+		""
+		"§e§lHow to complete:§r Craft or make Import Bus and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1D6CAFA5DED7DEBA.title: "Import Bus"
+	quest.1D8BFE2445D01902.quest_desc: [
+		"Diamonds, redstone and Infused Soulite. About a million items."
+		""
+		"§e§lHow to complete:§r Craft or make Diamond Storage Cell (1M) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1D8BFE2445D01902.title: "Diamond Storage Cell"
+	quest.1DD9C843051B3EE9.quest_desc: [
+		"Soulite, a dropper and redstone. Sends only the items you pick in its filter into the block it faces, so it never empties your storage by accident."
+		""
+		"§e§lHow to complete:§r Craft or make Export Bus and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1DD9C843051B3EE9.title: "Export Bus"
+	quest.1DED1171552394E3.quest_desc: [
+		"Infused Soulite, glowstone and redstone. Each one doubles a Soul Assembler's speed (up to 4), and Import and Export Buses take up to 8."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Speed Upgrade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1DED1171552394E3.title: "Speed Upgrade"
+	quest.1E92BD87E7A1C737.quest_desc: [
+		"A cell with a Source Gem: 10,000 Ars Nouveau Source. A Machine Bus on an Imbuement Chamber pays the Source for you."
+		""
+		"§e§lHow to complete:§r Craft or make Copper Source Cell (10k) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1E92BD87E7A1C737.title: "Copper Source Cell"
+	quest.1EC340CDCFE8AB8A.quest_desc: [
+		"Copper, redstone and a Soulite Ingot. Holds 4,096 items of any mix. Cells count items, not types."
+		""
+		"§e§lHow to complete:§r Craft or make Copper Storage Cell (4k) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1EC340CDCFE8AB8A.title: "Copper Storage Cell"
+	quest.1F7C0A062899352F.quest_desc: [
+		"A Wireless Terminal and a Singularity Core. Works at any distance, in any dimension."
+		""
+		"§e§lHow to complete:§r Craft or make Singularity Terminal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1F7C0A062899352F.title: "Singularity Terminal"
+	quest.21B5970CFE4D2AB3.quest_desc: [
+		"An Echo Soulite Shard, string and an ender pearl. Use it on the first Quantum Link, then on the second, to pair them."
+		""
+		"§e§lHow to complete:§r Craft or make Soul Tether and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.21B5970CFE4D2AB3.title: "Soul Tether"
+	quest.240119797419B9B2.quest_desc: [
+		"Eight Echo Soulite Alloys around a nether star. The end-game trophy of the mod."
+		""
+		"§e§lHow to complete:§r Craft or make Singularity Core and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.240119797419B9B2.title: "Singularity Core"
+	quest.28D210A57753C0CD.quest_desc: [
+		"Rare Echo Soulite Ore sits near the sculk of the Deep Dark. Mine it with a diamond pickaxe: it drops 1 or 2 shards."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 4 x Echo Soulite Shard and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.28D210A57753C0CD.title: "Echo Soulite Shards"
+	quest.2E45A7864257B87B.quest_desc: [
+		"A Recipe Card and a comparator. Writes a recipe for any machine: what goes in on the left, what comes back on the right. JEI's §e+§r button fills it in for recipes from any mod."
+		""
+		"§e§lHow to complete:§r Craft or make Processing Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.2E45A7864257B87B.title: "Processing Card"
+	quest.30CCEC5CFE21BF1C.quest_desc: [
+		"A storage cell with a bucket in it: 256 buckets of any fluid. Fill or empty buckets in the terminal's Fluids tab."
+		""
+		"§e§lHow to complete:§r Craft or make Copper Fluid Cell (256 B) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.30CCEC5CFE21BF1C.title: "Copper Fluid Cell"
+	quest.319E04B0C953B10D.quest_desc: [
+		"Nine Craft's own storage mod, made by §dxTri6§r. Simple storage that grows all the way to the end game: no channels, no byte limits and no cable rules. Any network block that touches another one joins it, and the network can craft for you."
+		""
+		"It all runs on §bSoulite§r, a pale blue ore that glows and chimes when you break it. Find it underground between Y -48 and 16 with an iron pickaxe or better, or in the soul sand of Soul Sand Valleys in the Nether."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 8 x Raw Soulite and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.319E04B0C953B10D.title: "§5Grim Storage Industries"
+	quest.31F5373F4303098D.quest_desc: [
+		"Gold, a crafting table and Soulite. Holds 9 Recipe Cards. Put it on the network and those items show in the terminal with a §eCraft§r label."
+		""
+		"§e§lHow to complete:§r Craft or make Soul Assembler and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.31F5373F4303098D.title: "Soul Assembler"
+	quest.342FE142DEBCFB38.quest_desc: [
+		"Unlimited cells, a terminal that reaches everywhere and bases joined across dimensions. Your whole world fits in one network."
+		""
+		"§e§lHow to complete:§r Craft or make Singularity Cell, Singularity Terminal, Netherite Storage Cell (64M) and Quantum Link and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.342FE142DEBCFB38.title: "Grim Storage Master"
+	quest.407DB1B4A47159B8.quest_desc: [
+		"Fluids, power and XP all sit in the same Soul Drive as your items. The terminal's first tab shows them all in one list."
+		""
+		"§e§lHow to complete:§r Craft or make Copper Fluid Cell (256 B), Copper Energy Cell (16M FE) and Copper Experience Cell (100k XP) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.407DB1B4A47159B8.title: "Everything in One Drive"
+	quest.41DBBF38885EA7F0.quest_desc: [
+		"Soulite nuggets, paper and redstone. Use a blank card and click items into its grid: they're only pictures, nothing is used up. With JEI, just press §e+§r on any recipe."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Recipe Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.41DBBF38885EA7F0.title: "Recipe Card"
+	quest.42A7EA42C49D3DB3.quest_desc: [
+		"Soulite, chests and redstone. Holds 8 storage cells of any kind. Cells keep everything inside them, even when you move them."
+		""
+		"§e§lHow to complete:§r Craft or make Soul Drive and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.42A7EA42C49D3DB3.title: "Soul Drive"
+	quest.44219D24EF3B514E.quest_desc: [
+		"Clip it onto a furnace or a machine from a big mod (Mekanism, Create, Ender IO, Powah, Modern Industrialization and more) and the network learns every recipe it can make. It even fuels and powers the machine for you."
+		""
+		"§e§lHow to complete:§r Craft or make Machine Bus and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.44219D24EF3B514E.title: "Machine Bus"
+	quest.47503F847C66ADB2.quest_desc: [
+		"Smelt or blast Raw Soulite into ingots. Nine ingots make a Block of Soulite, and nine nuggets make an ingot."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Soulite Ingot and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.47503F847C66ADB2.title: "Soulite Ingots"
+	quest.4E75EB055B149DA6.quest_desc: [
+		"Clips onto a chest, barrel or drawer and makes it part of your storage. Its items show in the terminal and crafts can use them."
+		""
+		"§e§lHow to complete:§r Craft or make Chest Link and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4E75EB055B149DA6.title: "Chest Link"
+	quest.4F47629AC1FA3AFB.quest_desc: [
+		"A cell with a block of redstone in it: 16 million FE. Put an Import Bus on a generator to fill it."
+		""
+		"§e§lHow to complete:§r Craft or make Copper Energy Cell (16M FE) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4F47629AC1FA3AFB.title: "Copper Energy Cell"
+	quest.5F4D69928C7CED99.quest_desc: [
+		"Crafting makes a pair. Joins two places into one network at any distance, even across dimensions. Both ends must be loaded."
+		""
+		"§e§lHow to complete:§r Craft or make 2 x Quantum Link and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5F4D69928C7CED99.title: "Quantum Link"
+	quest.66A00EDEAF895161.quest_desc: [
+		"Nine ingots each. The gold tier of the mod is built on these."
+		""
+		"§e§lHow to complete:§r Craft or make 2 x Block of Soulite and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.66A00EDEAF895161.title: "Block of Soulite"
+	quest.6B4105C245127947.quest_desc: [
+		"Made in the Soul Infuser. It unlocks the third tier: Diamond cells, Speed Upgrades, the Stock Keeper and wireless terminals."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Infused Soulite and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.6B4105C245127947.title: "Infused Soulite"
+}

@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 6.0d
 			x: 2.0d
-			y: -12.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: -3.0d
+			y: 23.5d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 26.5d
-			y: -7.0d
+			x: 19.5d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 11.0d
-			y: 6.0d
+			x: 8.0d
+			y: 50.5d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,48 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 26.5d
-			y: 1.5d
+			x: 19.5d
+			y: 46.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/oritech_0.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 3.25d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/oritech_1.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 1.75d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/oritech_2.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: 2.0d
+			y: 26.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/oritech_3.png"
+			rotation: 0.0d
+			width: 8.5d
+			x: 3.0d
+			y: 36.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/oritech_4.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 3.25d
+			y: 44.0d
 		}
 	]
 	order_index: 5
@@ -92,7 +132,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["10EBC77A32BDECC6"]
@@ -124,10 +164,10 @@
 				}
 			]
 			x: 2.5d
-			y: -1.0d
+			y: 3.5d
 		}
 		{
-			dependencies: ["0E94E1CE72EC68C2"]
+			dependencies: ["1F136B491A887248"]
 			id: "1EA9711032BF3496"
 			rewards: [
 				{
@@ -146,8 +186,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -2.0d
+			x: 2.5d
+			y: 20.5d
 		}
 		{
 			dependencies: ["0E94E1CE72EC68C2"]
@@ -178,7 +218,7 @@
 			rewards: [
 				{
 					id: "1065ED3D7CABA9AB"
-					table_id: 6126799873689625950L
+					table_id: 1467623321632268434L
 					type: "random"
 				}
 				{
@@ -201,12 +241,13 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -2.0d
+			x: 5.0d
+			y: 19.5d
 		}
 		{
-			dependencies: ["15C7C200F4672C46"]
+			dependencies: ["1C2010B6478730FC"]
 			id: "1431DEF1557E2457"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "15A8DBD93983A966"
@@ -224,16 +265,17 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -5.5d
+			x: 0.0d
+			y: 32.0d
 		}
 		{
-			dependencies: ["15C7C200F4672C46"]
+			dependencies: ["15C03E12DFD9E73B"]
 			id: "1F136B491A887248"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "15F33DD3913C631F"
-					table_id: 1467623321632268434L
+					table_id: 6126799873689625950L
 					type: "random"
 				}
 			]
@@ -247,16 +289,16 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -4.0d
+			x: 0.0d
+			y: 20.5d
 		}
 		{
-			dependencies: ["15C7C200F4672C46"]
+			dependencies: ["0E94E1CE72EC68C2"]
 			id: "15C03E12DFD9E73B"
 			rewards: [
 				{
 					id: "280D4BD9A8497A5A"
-					table_id: 1467623321632268434L
+					table_id: 6126799873689625950L
 					type: "random"
 				}
 			]
@@ -270,8 +312,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -2.0d
+			x: 5.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["15C7C200F4672C46"]
@@ -293,8 +335,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 0.0d
+			x: 7.5d
+			y: 17.5d
 		}
 		{
 			dependencies: ["0C5C363BDC5FC0AC"]
@@ -316,8 +358,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -1.0d
+			x: 10.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["15C7C200F4672C46"]
@@ -339,8 +381,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 1.5d
+			x: 7.5d
+			y: 21.5d
 		}
 		{
 			dependencies: ["26EA1CE8D998D9D5"]
@@ -362,8 +404,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: 1.0d
+			x: 10.0d
+			y: 19.0d
 		}
 		{
 			dependencies: ["26EA1CE8D998D9D5"]
@@ -386,8 +428,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: 2.5d
+			x: 10.0d
+			y: 21.0d
 		}
 		{
 			dependencies: ["1431DEF1557E2457"]
@@ -409,8 +451,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -6.5d
+			x: 2.5d
+			y: 29.0d
 		}
 		{
 			dependencies: ["6B447FFF96D4C9E2"]
@@ -432,11 +474,11 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -7.0d
+			x: 5.0d
+			y: 28.0d
 		}
 		{
-			dependencies: ["6B447FFF96D4C9E2", "1C2010B6478730FC"]
+			dependencies: ["6B447FFF96D4C9E2"]
 			id: "1B01E0F9C4CD77CF"
 			rewards: [
 				{
@@ -457,8 +499,8 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -3.5d
+			x: 5.0d
+			y: 29.5d
 		}
 		{
 			dependencies: ["6B447FFF96D4C9E2"]
@@ -480,8 +522,8 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -5.5d
+			x: 5.0d
+			y: 31.5d
 		}
 		{
 			dependencies: ["1AD6F694E03CC160"]
@@ -489,7 +531,7 @@
 			rewards: [
 				{
 					id: "1B9AFB4B1529B8FD"
-					table_id: 1467623321632268434L
+					table_id: 3087784268654967924L
 					type: "random"
 				}
 			]
@@ -503,8 +545,8 @@
 					type: "item"
 				}
 			]
-			x: 17.5d
-			y: -8.0d
+			x: 7.5d
+			y: 28.0d
 		}
 		{
 			dependencies: ["1431DEF1557E2457"]
@@ -526,8 +568,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -4.5d
+			x: 2.5d
+			y: 31.0d
 		}
 		{
 			dependencies: ["1AD6F694E03CC160"]
@@ -535,7 +577,7 @@
 			rewards: [
 				{
 					id: "1EF986BE64C1EE14"
-					table_id: 1467623321632268434L
+					table_id: 3087784268654967924L
 					type: "random"
 				}
 			]
@@ -549,8 +591,8 @@
 					type: "item"
 				}
 			]
-			x: 17.5d
-			y: -6.0d
+			x: 7.5d
+			y: 29.5d
 		}
 		{
 			dependencies: ["10EBC77A32BDECC6"]
@@ -573,7 +615,7 @@
 				}
 			]
 			x: 2.5d
-			y: 1.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["1C2010B6478730FC"]
@@ -596,11 +638,11 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -1.5d
+			x: 12.5d
+			y: 17.5d
 		}
 		{
-			dependencies: ["4F153C14E019F74E", "13D2E91F30A75AEC"]
+			dependencies: ["4FB145F53C4EEE9E"]
 			id: "356EC68CB0AEAA27"
 			rewards: [
 				{
@@ -621,8 +663,8 @@
 					type: "item"
 				}
 			]
-			x: 20.0d
-			y: -5.0d
+			x: 2.5d
+			y: 38.5d
 		}
 		{
 			dependencies: ["356EC68CB0AEAA27"]
@@ -645,8 +687,694 @@
 					type: "item"
 				}
 			]
-			x: 22.5d
-			y: -5.0d
+			x: 5.0d
+			y: 38.0d
+		}
+		{
+			dependencies: ["1EA9711032BF3496"]
+			id: "5A07BCA3AF0BD81B"
+			rewards: [
+				{
+					id: "5714FCFEAE514CE4"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0B82BE986688C897"
+					item: {
+						count: 1
+						id: "oritech:nickel_gem"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 5.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["0E94E1CE72EC68C2"]
+			id: "13AD86639DC2441C"
+			rewards: [
+				{
+					id: "0C3430523281403A"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "18E3CABAC327BFC2"
+					item: {
+						count: 1
+						id: "oritech:fuel_generator_block"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0E94E1CE72EC68C2"]
+			id: "1207F584216E0680"
+			rewards: [
+				{
+					id: "62FA35F959C4F76E"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "55D5F66946F9E0D7"
+					item: {
+						count: 1
+						id: "oritech:lava_generator_block"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0E94E1CE72EC68C2"]
+			id: "16E8B3AA91A39CFA"
+			rewards: [
+				{
+					id: "48E862DC72B4B0A2"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "15530E2D961C89DE"
+					item: {
+						count: 1
+						id: "oritech:bio_generator_block"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["16E8B3AA91A39CFA"]
+			id: "6F2723EBDBEAD34D"
+			rewards: [
+				{
+					id: "2A17F808CDA33E81"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4030B6C5AC913076"
+					item: {
+						count: 1
+						id: "oritech:biomass"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 7.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["1C93A03B168A6AD4"]
+			id: "7165AB2EAF15E05B"
+			rewards: [
+				{
+					id: "19543A474B6BCDFD"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1E7F9F6E672A6CD4"
+					item: {
+						count: 1
+						id: "oritech:energy_pipe"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 5.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1C93A03B168A6AD4"]
+			id: "171D12FF08FEF1E2"
+			rewards: [
+				{
+					id: "15A54890F0137D19"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1DD7505EF2189EB5"
+					item: {
+						count: 1
+						id: "oritech:fluid_pipe"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 5.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["1C93A03B168A6AD4"]
+			id: "4EC83334C43D88D6"
+			rewards: [
+				{
+					id: "75F46CE4B2BE2148"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "19F756D2878716FA"
+					item: {
+						count: 1
+						id: "oritech:item_filter_block"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["1C93A03B168A6AD4"]
+			id: "4325A6D9B9800F9E"
+			optional: true
+			rewards: [
+				{
+					id: "17FA8686C233FF36"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "256FC9AF60C883C2"
+					item: {
+						count: 1
+						id: "oritech:pipe_booster_block"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["4F153C14E019F74E", "13D2E91F30A75AEC"]
+			id: "4FB145F53C4EEE9E"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "102767DBDA626FBC"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6FC26A8A2767F39B"
+					item: {
+						count: 1
+						id: "oritech:machine_core_2"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 40.0d
+		}
+		{
+			dependencies: ["4FB145F53C4EEE9E"]
+			id: "1617329D652BC05B"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "18F2F7D95CFEBCEC"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "30923C2DDAFD33F2"
+					item: {
+						count: 1
+						id: "oritech:machine_core_4"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["1617329D652BC05B"]
+			id: "128EFFECEA86AF54"
+			rewards: [
+				{
+					id: "4B68BC22527FD48F"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1A2C5CDC5CE57A47"
+					item: {
+						count: 1
+						id: "oritech:machine_core_6"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 45.5d
+		}
+		{
+			dependencies: ["26EA1CE8D998D9D5"]
+			id: "1556AA84228F90AF"
+			rewards: [
+				{
+					id: "1B20EFFECF7ED590"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "14ECF7A990541FE0"
+					item: {
+						count: 1
+						id: "oritech:machine_extender"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["26EA1CE8D998D9D5"]
+			id: "6EC340FE59B4F7A1"
+			optional: true
+			rewards: [
+				{
+					id: "08DC75927E554B7C"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "07D4389AFC859729"
+					item: {
+						count: 1
+						id: "oritech:machine_fluid_addon"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["1431DEF1557E2457"]
+			id: "5CA71AF34A40EB8A"
+			rewards: [
+				{
+					id: "141BC293C57C7B0B"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "18A2BC3AF89F97D4"
+					item: {
+						count: 1
+						id: "oritech:carbon_fibre_strands"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 2.5d
+			y: 32.5d
+		}
+		{
+			dependencies: ["1431DEF1557E2457"]
+			id: "351C2A6B892443F1"
+			rewards: [
+				{
+					id: "1C2B00EF056C86AC"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "14579499F3352044"
+					item: {
+						count: 1
+						id: "oritech:enderic_compound"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 2.5d
+			y: 34.5d
+		}
+		{
+			dependencies: ["4F153C14E019F74E"]
+			id: "37378D4D35CB8FC8"
+			rewards: [
+				{
+					id: "1D225858FCD75571"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1ACE388B165C7C61"
+					item: {
+						count: 1
+						id: "oritech:energite_ingot"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 10.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["5D682EB5FE54D170"]
+			id: "3F6A6A4C9DD49F39"
+			rewards: [
+				{
+					id: "6B2098F09EB44CBA"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "10D044C8454E9795"
+					item: {
+						count: 1
+						id: "oritech:adamant_ingot"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 5.0d
+			y: 46.5d
+		}
+		{
+			dependencies: ["3F6A6A4C9DD49F39"]
+			id: "1FB09A4B725FCE1A"
+			rewards: [
+				{
+					id: "70E9B244DF41620A"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1C0746F2D163A078"
+					item: {
+						count: 1
+						id: "oritech:prometheum_ingot"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 7.5d
+			y: 46.5d
+		}
+		{
+			dependencies: ["4FB145F53C4EEE9E"]
+			id: "24DD31207DAAF7B1"
+			rewards: [
+				{
+					id: "1E4167860F88F8F8"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "39EE025497458748"
+					item: {
+						count: 1
+						id: "oritech:refinery_block"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 40.0d
+		}
+		{
+			dependencies: ["24DD31207DAAF7B1"]
+			id: "03F0499109433E1B"
+			rewards: [
+				{
+					id: "5B313FDFD2947E83"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "12893F9732547C12"
+					item: {
+						count: 1
+						id: "oritech:refinery_module_block"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 41.5d
+		}
+		{
+			dependencies: ["1617329D652BC05B"]
+			id: "5D682EB5FE54D170"
+			rewards: [
+				{
+					id: "1C915080E0117840"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1BBFF783E76FCFB1"
+					item: {
+						count: 1
+						id: "oritech:atomic_forge_block"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 47.0d
+		}
+		{
+			dependencies: ["1FB09A4B725FCE1A"]
+			id: "10F38F57CBA99645"
+			rewards: [
+				{
+					id: "19AD4EC1B41C61BB"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "70A3B101247F1EA7"
+					item: {
+						count: 1
+						id: "oritech:super_ai_chip"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 46.5d
+		}
+		{
+			dependencies: ["10F38F57CBA99645"]
+			id: "1B14657AFE0FC0D0"
+			rewards: [
+				{
+					id: "120B5FC88C41EF20"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6725B855873DB76C"
+					item: {
+						count: 1
+						id: "oritech:advanced_computing_engine"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 46.5d
+		}
+		{
+			dependencies: ["356EC68CB0AEAA27"]
+			id: "161B3925CA1AF884"
+			rewards: [
+				{
+					id: "02E601A7E2AE67D9"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0419CC97A34EC9DC"
+					item: {
+						count: 1
+						id: "oritech:uranium_gem"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 5.0d
+			y: 39.5d
+		}
+		{
+			dependencies: ["161B3925CA1AF884"]
+			id: "1F12D6227241D5A1"
+			rewards: [
+				{
+					id: "1990DC713673B87E"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1EFC0F9327EE0602"
+					item: {
+						count: 1
+						id: "oritech:plutonium_pellet"
+					}
+					type: "item"
+					count: 2L
+				}
+			]
+			x: 7.5d
+			y: 39.5d
+		}
+		{
+			dependencies: ["4FB145F53C4EEE9E"]
+			id: "3901EC51AA0FDE07"
+			rewards: [
+				{
+					id: "1D34A440AED28D0F"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "13CAAB0F5FE1EE7B"
+					item: {
+						count: 1
+						id: "oritech:large_storage_block"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 42.0d
+		}
+		{
+			dependencies: [
+				"1B14657AFE0FC0D0"
+				"1F12D6227241D5A1"
+				"1B01E0F9C4CD77CF"
+				"128EFFECEA86AF54"
+			]
+			id: "11E76F971A4FF87E"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "7804EFA9BDBE6363"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "7159AE67FD3E5A1F"
+					item: {
+						count: 1
+						id: "oritech:reactor_controller"
+					}
+					type: "item"
+				}
+				{
+					id: "621B3F705566E12A"
+					item: {
+						count: 1
+						id: "oritech:super_ai_chip"
+					}
+					type: "item"
+				}
+				{
+					id: "0538F30B9AC8ABDF"
+					item: {
+						count: 1
+						id: "oritech:prometheum_ingot"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 15.5d
+			y: 23.5d
 		}
 		{
 			icon: {
@@ -665,7 +1393,7 @@
 				}
 			]
 			x: -3.0d
-			y: -11.0d
+			y: -3.0d
 		}
 	]
 }

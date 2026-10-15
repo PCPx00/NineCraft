@@ -1,0 +1,12 @@
+Nine Craft Quest Book
+Copyright (c) 2026 Nine Craft. All Rights Reserved.
+
+This covers the quest text, chapter layouts and chapter artwork in
+config/ftbquests/quests and kubejs/assets/ninecraft.
+
+You may use, edit and redistribute this quest book as part of the Nine Craft
+modpack. Copying it into other public modpacks requires written permission
+from the Nine Craft team.
+
+Mod names, item names and item textures shown in the quest book belong to
+their respective mod authors.

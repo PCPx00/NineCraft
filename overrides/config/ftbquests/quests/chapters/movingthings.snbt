@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 14.25d
 			x: 6.125d
-			y: -14.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: -3.0d
+			y: 14.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 14.0d
-			y: -9.0d
+			x: 22.0d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 5.0d
-			y: 8.0d
+			x: 9.0d
+			y: 32.0d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,24 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 14.0d
-			y: 3.5d
+			x: 22.0d
+			y: 27.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/movingthings_0.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 3.75d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/movingthings_1.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: 2.0d
+			y: 17.5d
 		}
 	]
 	order_index: 2
@@ -91,7 +107,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["1A20AE3E63A6CCAC"]
@@ -114,7 +130,7 @@
 				}
 			]
 			x: 2.5d
-			y: -4.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["123341EA4A392F9C"]
@@ -146,7 +162,7 @@
 				}
 			]
 			x: 5.0d
-			y: -6.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["3A103079174B2D48"]
@@ -169,7 +185,7 @@
 				}
 			]
 			x: 7.5d
-			y: -9.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["79C79BDA7C454E8C"]
@@ -192,7 +208,7 @@
 				}
 			]
 			x: 10.0d
-			y: -10.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["79C79BDA7C454E8C"]
@@ -215,11 +231,12 @@
 				}
 			]
 			x: 10.0d
-			y: -8.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["1A20AE3E63A6CCAC"]
 			id: "11A261D921225BE4"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "63E95233EB01DC6C"
@@ -255,8 +272,8 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: -2.5d
+			x: 0.0d
+			y: 22.0d
 		}
 		{
 			dependencies: ["11A261D921225BE4"]
@@ -278,8 +295,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -4.5d
+			x: 2.5d
+			y: 20.5d
 		}
 		{
 			dependencies: ["11A261D921225BE4"]
@@ -301,8 +318,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -2.5d
+			x: 2.5d
+			y: 22.0d
 		}
 		{
 			dependencies: ["128237396F6D63AF"]
@@ -324,8 +341,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -5.0d
+			x: 5.0d
+			y: 21.25d
 		}
 		{
 			dependencies: ["128237396F6D63AF"]
@@ -347,8 +364,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -3.0d
+			x: 5.0d
+			y: 23.0d
 		}
 		{
 			dependencies: ["11A261D921225BE4"]
@@ -370,8 +387,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -1.0d
+			x: 2.5d
+			y: 24.0d
 		}
 		{
 			dependencies: ["128237396F6D63AF"]
@@ -393,8 +410,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -1.5d
+			x: 5.0d
+			y: 19.5d
 		}
 		{
 			dependencies: ["128237396F6D63AF"]
@@ -417,11 +434,11 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 0.5d
+			x: 5.0d
+			y: 24.75d
 		}
 		{
-			dependencies: ["1A20AE3E63A6CCAC"]
+			dependencies: ["1EF63CA633649D13"]
 			id: "273465B737126E1F"
 			rewards: [
 				{
@@ -440,8 +457,8 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: -1.0d
+			x: 5.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["273465B737126E1F"]
@@ -463,8 +480,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 1.0d
+			x: 7.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["1A08F60D4E7CF0C0"]
@@ -473,7 +490,7 @@
 			rewards: [
 				{
 					id: "17EA94CCBE5DC775"
-					table_id: 6126799873689625950L
+					table_id: 1467623321632268434L
 					type: "random"
 				}
 			]
@@ -487,8 +504,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 2.0d
+			x: 10.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["1A20AE3E63A6CCAC"]
@@ -512,7 +529,7 @@
 				}
 			]
 			x: 2.5d
-			y: 1.0d
+			y: 8.5d
 		}
 		{
 			dependencies: ["1A20AE3E63A6CCAC"]
@@ -536,7 +553,7 @@
 				}
 			]
 			x: 2.5d
-			y: 2.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["1A20AE3E63A6CCAC"]
@@ -560,7 +577,452 @@
 				}
 			]
 			x: 2.5d
-			y: 4.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["1A20AE3E63A6CCAC"]
+			id: "1BB417F0CD4A5D13"
+			optional: true
+			rewards: [
+				{
+					id: "12FCB020536FA85B"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "475F8E554FD8543C"
+					item: {
+						count: 1
+						id: "grimpipes:item_pipe"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 2.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["79C79BDA7C454E8C"]
+			id: "6408CC029D810D6E"
+			rewards: [
+				{
+					id: "14BB8FF66150D3F4"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1AC126611E1D55BC"
+					item: {
+						count: 1
+						id: "modularrouters:vacuum_module"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["79C79BDA7C454E8C"]
+			id: "127317976718F363"
+			rewards: [
+				{
+					id: "5674984EE0B2001B"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1098BA2A1198B5C4"
+					item: {
+						count: 1
+						id: "modularrouters:breaker_module"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["79C79BDA7C454E8C"]
+			id: "251FCA22EB6C76DF"
+			rewards: [
+				{
+					id: "5456DB1DA8633284"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "36872F951A92CA81"
+					item: {
+						count: 1
+						id: "modularrouters:placer_module"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["3A103079174B2D48"]
+			id: "17010E2ECE1730E1"
+			rewards: [
+				{
+					id: "62A8C6EC445E2D8D"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "462A65EE15D565B0"
+					item: {
+						count: 1
+						id: "modularrouters:speed_upgrade"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3A103079174B2D48"]
+			id: "3600DE9DB3552E37"
+			rewards: [
+				{
+					id: "11C511518315E74A"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "092771700D39C553"
+					item: {
+						count: 1
+						id: "modularrouters:stack_upgrade"
+					}
+					type: "item"
+					count: 2L
+				}
+			]
+			x: 7.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["6C70CCA23E138D15"]
+			id: "5D534DB56E2BF1A8"
+			rewards: [
+				{
+					id: "11DFA4EC56A996F1"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1DF6D3EE25C1E019"
+					item: {
+						count: 1
+						id: "modularrouters:sender_module_2"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5D534DB56E2BF1A8"]
+			id: "3858A4D4BCE4430F"
+			rewards: [
+				{
+					id: "289F58A2F876A4B6"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "12E267B600F6DE51"
+					item: {
+						count: 1
+						id: "modularrouters:distributor_module"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["79C79BDA7C454E8C"]
+			id: "1B6BC51891564FF9"
+			rewards: [
+				{
+					id: "6442DF45EC1C637D"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "581F3D897AC32D23"
+					item: {
+						count: 1
+						id: "modularrouters:tag_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["128237396F6D63AF"]
+			id: "1C550FC373AB471A"
+			optional: true
+			rewards: [
+				{
+					id: "2317E9849AE0E809"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1B4FA62682921777"
+					item: {
+						count: 1
+						id: "laserio:card_holder"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["128237396F6D63AF"]
+			id: "5AE18272A162FB64"
+			rewards: [
+				{
+					id: "3E25A28684EEFF41"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "57926579D0793189"
+					item: {
+						count: 1
+						id: "laserio:card_redstone"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 28.25d
+		}
+		{
+			dependencies: ["128237396F6D63AF"]
+			id: "15C40FCCE5A80811"
+			optional: true
+			rewards: [
+				{
+					id: "132BE10DB838F63F"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "197E7EC41C26C48D"
+					item: {
+						count: 1
+						id: "laserio:card_chemical"
+					}
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 24.75d
+		}
+		{
+			dependencies: ["128237396F6D63AF"]
+			id: "17622F634189C9DD"
+			rewards: [
+				{
+					id: "1126024F72898116"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1EA014EE304CAC0B"
+					item: {
+						count: 1
+						id: "laserio:logic_chip"
+					}
+					type: "item"
+					count: 2L
+				}
+			]
+			x: 7.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["1682236028FB1938"]
+			id: "14622F2E4E8B5DD9"
+			rewards: [
+				{
+					id: "0EAD62DC8D6C6937"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1DA9BFC31DB9AB47"
+					item: {
+						count: 1
+						id: "laserio:filter_count"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["1682236028FB1938"]
+			id: "17F68BCCF93AF6CD"
+			optional: true
+			rewards: [
+				{
+					id: "14CBD3C4857F72B0"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7EC913E680A5E29D"
+					item: {
+						count: 1
+						id: "laserio:filter_mod"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["1A20AE3E63A6CCAC"]
+			id: "1EF63CA633649D13"
+			rewards: [
+				{
+					id: "18B79BE9AEED747B"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "764BF0108267AB0A"
+					item: {
+						count: 1
+						id: "fluxnetworks:flux_core"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 2.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["5B45308C0CAC4774"]
+			id: "1A4D4E8124DB5151"
+			rewards: [
+				{
+					id: "6C635070A18C098E"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1BE6B167320DB54F"
+					item: {
+						count: 1
+						id: "fluxnetworks:flux_controller"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["78E8473DC52922E5", "3858A4D4BCE4430F", "1A4D4E8124DB5151"]
+			id: "5BA6856FED100C40"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "5C4B23E6650D48B7"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "27F5E748889A8F04"
+					item: {
+						count: 1
+						id: "laserio:laser_node"
+					}
+					type: "item"
+					count: 8L
+				}
+				{
+					id: "03E8D6ED3D9894FA"
+					item: {
+						count: 1
+						id: "modularrouters:modular_router"
+					}
+					type: "item"
+					count: 4L
+				}
+				{
+					id: "250F024EDB2C1F6A"
+					item: {
+						count: 1
+						id: "fluxnetworks:flux_point"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 18.0d
+			y: 14.0d
 		}
 		{
 			icon: {
@@ -579,7 +1041,7 @@
 				}
 			]
 			x: -3.0d
-			y: -13.0d
+			y: -3.0d
 		}
 	]
 }

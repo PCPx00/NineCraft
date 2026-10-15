@@ -1,55 +1,185 @@
 {
 	quest.10611044EA9A6FDA.quest_desc: [
-		"Productive Bees adds hundreds of bees that make combs full of ores, gems and more. Breed them, house them and spin their combs."
+		"Productive Bees adds hundreds of bees that make combs full of ores, gems and more."
+		""
+		"§eThe path:§r catch bees from nests, house them in hives, spin their combs in a centrifuge, then breed new species. It ends with automated breeding, genes and tons of resource combs. Grab a few honeycombs first."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 3 x Honeycomb and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.10611044EA9A6FDA.title: "Resource Bees"
-	quest.117C9E5B75E463D9.quest_desc: ["Keeps bees near their flowers so they work faster."]
+	quest.117C9E5B75E463D9.quest_desc: [
+		"Keeps bees near their flowers so they work faster."
+		""
+		"§e§lHow to complete:§r Craft or make Feeding Slab and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.117C9E5B75E463D9.title: "Feeder"
-	quest.11E07A3753040B42.quest_desc: ["Holds more bees and outputs combs into its inventory."]
+	quest.11E07A3753040B42.quest_desc: [
+		"Holds more bees and outputs combs into its inventory."
+		""
+		"§e§lHow to complete:§r Craft or make Advanced Oak Beehive and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.11E07A3753040B42.title: "Advanced Beehive"
-	quest.14C959CC3AF774BD.quest_desc: ["Catches bees that fly near it."]
+	quest.1265D4877AE992F3.quest_desc: [
+		"Attracts quartz bees in the Nether."
+		""
+		"§e§lHow to complete:§r Craft or make Quartz Nest and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1265D4877AE992F3.title: "Nether Quartz Nest"
+	quest.14C959CC3AF774BD.quest_desc: [
+		"Catches bees that fly near it."
+		""
+		"§e§lHow to complete:§r Craft or make Catcher and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.14C959CC3AF774BD.title: "Bee Catcher"
-	quest.167FD89726FC18E3.quest_desc: ["Sort and store gene samples."]
+	quest.159F6F4F8AAEF1AF.quest_desc: [
+		"Compact combs into blocks for storage or the heated centrifuge."
+		""
+		"§e§lHow to complete:§r Craft or make Comb Block and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.159F6F4F8AAEF1AF.title: "Comb Blocks"
+	quest.167FD89726FC18E3.quest_desc: [
+		"Sort and store gene samples."
+		""
+		"§e§lHow to complete:§r Craft or make Gene Indexer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.167FD89726FC18E3.title: "Gene Indexer"
+	quest.170272B5236409AB.quest_desc: [
+		"A cute alternative hive."
+		""
+		"§e§lHow to complete:§r Craft or make Bamboo Nest and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.170272B5236409AB.title: "Bamboo Hive"
 	quest.182D253853B4C96B.quest_desc: [
 		"Wild bees live in nests all over the world. Each nest type attracts different bees."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Oak Nest and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.182D253853B4C96B.title: "Find a Nest"
-	quest.1874D9834937EE8D.quest_desc: ["Place on top of a hive for more bee space."]
-	quest.1874D9834937EE8D.title: "Expansion Box"
-	quest.1BE46D64C2C3B470.quest_desc: ["Spins combs into their resources and wax."]
-	quest.1BE46D64C2C3B470.title: "Centrifuge"
-	quest.1DDB53860F4F5CB6.quest_desc: ["Processes combs straight into blocks."]
-	quest.1DDB53860F4F5CB6.title: "Heated Centrifuge"
-	quest.1DF6B4A4D0E9E7B0.quest_desc: ["Breed two bees together to discover new species."]
-	quest.1DF6B4A4D0E9E7B0.title: "Breeding Chamber"
-	quest.1FE54A14072FD67D.quest_desc: [
-		"&dNine Craft Quest Book&r"
+	quest.1874D9834937EE8D.quest_desc: [
+		"Place on top of a hive for more bee space."
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"§e§lHow to complete:§r Craft or make Oak Expansion Box and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1874D9834937EE8D.title: "Expansion Box"
+	quest.1A2E4548299E4F27.quest_desc: [
+		"Display a caged bee on your shelf."
+		""
+		"§e§lHow to complete:§r Craft or make Bee Jar and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1A2E4548299E4F27.title: "Bee Jar"
+	quest.1A33B814C9BDC4D7.quest_desc: [
+		"Heated centrifuges, breeding and genes. You run a real apiary now."
+		""
+		"§e§lHow to complete:§r Craft or make Heated Centrifuge, Breeding Chamber and Gene Indexer and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1A33B814C9BDC4D7.title: "Bee Keeper"
+	quest.1BE46D64C2C3B470.quest_desc: [
+		"Spins combs into their resources and wax."
+		""
+		"§e§lHow to complete:§r Craft or make Centrifuge and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1BE46D64C2C3B470.title: "Centrifuge"
+	quest.1BF1A6BF63640C54.quest_desc: [
+		"For end bees."
+		""
+		"§e§lHow to complete:§r Craft or make End Stone Nest and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1BF1A6BF63640C54.title: "End Stone Nest"
+	quest.1BF3289FBADE1216.quest_desc: [
+		"For slimy bees."
+		""
+		"§e§lHow to complete:§r Craft or make Slimy Nest and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1BF3289FBADE1216.title: "Slimy Nest"
+	quest.1CC9E161AEDCA0C9.quest_desc: [
+		"Lead bees around like a pig with a carrot."
+		""
+		"§e§lHow to complete:§r Craft or make Treat on a Stick and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1CC9E161AEDCA0C9.title: "Treat on a Stick"
+	quest.1DDB53860F4F5CB6.quest_desc: [
+		"Processes combs straight into blocks."
+		""
+		"§e§lHow to complete:§r Craft or make Heated Centrifuge and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1DDB53860F4F5CB6.title: "Heated Centrifuge"
+	quest.1DF6B4A4D0E9E7B0.quest_desc: [
+		"Put two different bees and their favorite flower item in the Breeding Chamber. JEI shows every breeding combination under the bee's page."
+		""
+		"§e§lHow to complete:§r Craft or make Breeding Chamber and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1DF6B4A4D0E9E7B0.title: "Breeding Chamber"
+	quest.1EF965BE852ED247.quest_desc: [
+		"Stone nests attract stone-loving bees. Place one in a cave."
+		""
+		"§e§lHow to complete:§r Craft or make Stone Nest and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1EF965BE852ED247.title: "Stone Nest"
+	quest.1FE54A14072FD67D.quest_desc: [
+		"§dNine Craft Quest Book§r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.1FE54A14072FD67D.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.1FE54A14072FD67D.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.1FE54A14072FD67D.title: "§5Nine Craft§r - Quest Book Notice"
 	quest.210632353467FC4A.quest_desc: [
 		"Every resource bee makes its own comb. Look them up in JEI to plan your breeding."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Honeycomb and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.210632353467FC4A.title: "Resource Combs"
-	quest.23BFA75AF7B107F8.quest_desc: ["Bottles honey from hives."]
+	quest.2159D954BBF16C90.quest_desc: [
+		"Genes change a bee's traits, like productivity or temperature tolerance."
+		""
+		"§e§lHow to complete:§r Craft or make Gene Sample and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.2159D954BBF16C90.title: "Genes"
+	quest.23BFA75AF7B107F8.quest_desc: [
+		"Bottles honey from hives."
+		""
+		"§e§lHow to complete:§r Craft or make Bottler and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.23BFA75AF7B107F8.title: "Bottler"
-	quest.3A2D6063FACFFD16.quest_desc: ["A cage you can reuse."]
+	quest.39B6332C08D1ACD5.quest_desc: [
+		"Feed a bee to make it happy, or to help with breeding."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Honey Treat and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.39B6332C08D1ACD5.title: "Honey Treat"
+	quest.3A2D6063FACFFD16.quest_desc: [
+		"A cage you can reuse."
+		""
+		"§e§lHow to complete:§r Craft or make Sturdy Bee Cage and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.3A2D6063FACFFD16.title: "Sturdy Cage"
-	quest.4C35A29C623D2E55.quest_desc: ["Much faster, runs on energy."]
+	quest.4C35A29C623D2E55.quest_desc: [
+		"Much faster, runs on energy."
+		""
+		"§e§lHow to complete:§r Craft or make Powered Centrifuge and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.4C35A29C623D2E55.title: "Powered Centrifuge"
-	quest.61E129006A2ECF58.quest_desc: ["Points you to the nearest nest of a chosen type."]
+	quest.61E129006A2ECF58.quest_desc: [
+		"Points you to the nearest nest of a chosen type."
+		""
+		"§e§lHow to complete:§r Craft or make Nest Locator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.61E129006A2ECF58.title: "Nest Locator"
-	quest.63900648710DC3BE.quest_desc: ["Hatch baby bees and apply genes."]
+	quest.63900648710DC3BE.quest_desc: [
+		"Hatch baby bees and apply genes."
+		""
+		"§e§lHow to complete:§r Craft or make BaBee Incubator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.63900648710DC3BE.title: "Incubator"
-	quest.64107AB7F7FAD883.quest_desc: ["Catch a bee by right-clicking it with a cage."]
+	quest.64107AB7F7FAD883.quest_desc: [
+		"§eHow to catch a bee:§r right-click a bee with an empty Bee Cage. Right-click a hive with the caged bee to put it inside."
+		""
+		"§e§lHow to complete:§r Craft or make Bee Cage and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.64107AB7F7FAD883.title: "Bee Cage"
 }

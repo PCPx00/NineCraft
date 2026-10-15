@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 11.25d
 			x: 4.625d
-			y: -8.0d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: 0.0d
+			y: 11.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 21.5d
-			y: -2.5d
+			x: 19.5d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 9.0d
-			y: 7.0d
+			x: 8.0d
+			y: 25.0d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,32 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 21.5d
-			y: 2.5d
+			x: 19.5d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/basicpower_0.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 2.75d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/basicpower_1.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 3.75d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/basicpower_2.png"
+			rotation: 0.0d
+			width: 10.5d
+			x: 4.0d
+			y: 16.0d
 		}
 	]
 	order_index: 1
@@ -92,7 +116,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["0405A8F0D82D9834"]
@@ -115,7 +139,7 @@
 				}
 			]
 			x: 2.5d
-			y: -2.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["01209F6BE7124B04"]
@@ -138,7 +162,7 @@
 				}
 			]
 			x: 5.0d
-			y: -3.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["402221BC6127FF8E"]
@@ -161,7 +185,7 @@
 				}
 			]
 			x: 7.5d
-			y: -3.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["0405A8F0D82D9834"]
@@ -184,11 +208,12 @@
 				}
 			]
 			x: 2.5d
-			y: -1.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["0405A8F0D82D9834"]
 			id: "16A80336D90FF474"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "1AB01C1A1C99EEC2"
@@ -215,8 +240,8 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: 1.0d
+			x: 0.0d
+			y: 12.0d
 		}
 		{
 			dependencies: ["16A80336D90FF474"]
@@ -247,8 +272,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 0.0d
+			x: 2.5d
+			y: 10.5d
 		}
 		{
 			dependencies: ["1E8BE008E3ECEC62"]
@@ -278,8 +303,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 0.0d
+			x: 5.0d
+			y: 10.5d
 		}
 		{
 			dependencies: ["16A80336D90FF474"]
@@ -302,8 +327,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 1.5d
+			x: 2.5d
+			y: 12.0d
 		}
 		{
 			dependencies: ["16A80336D90FF474"]
@@ -326,12 +351,13 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 3.5d
+			x: 2.5d
+			y: 14.0d
 		}
 		{
-			dependencies: ["144C60B75B73BB5C"]
+			dependencies: ["1768B27E3FA6DFFE", "195C4DCE49E34C98"]
 			id: "1582D8953EC02956"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "110441644377C332"
@@ -349,8 +375,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -1.0d
+			x: 0.0d
+			y: 19.5d
 		}
 		{
 			dependencies: ["1582D8953EC02956"]
@@ -372,8 +398,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -1.0d
+			x: 2.5d
+			y: 19.5d
 		}
 		{
 			dependencies: ["1CFA890C9DF855EE"]
@@ -397,8 +423,8 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -1.0d
+			x: 5.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["144C60B75B73BB5C"]
@@ -421,8 +447,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 1.0d
+			x: 7.5d
+			y: 7.0d
 		}
 		{
 			dependencies: ["104BF845CFD109F7"]
@@ -446,7 +472,7 @@
 				}
 			]
 			x: 5.0d
-			y: -2.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["0405A8F0D82D9834"]
@@ -470,18 +496,26 @@
 				}
 			]
 			x: 2.5d
-			y: 2.5d
+			y: 3.5d
 		}
 		{
-			dependencies: ["5485BBC23F4A1052"]
+			dependencies: [
+				"12B9B28FD7499DA7"
+				"6FDD31B72D7285AB"
+				"1EA152430B43E62B"
+				"30FAAEC062912051"
+			]
 			id: "12895E2363089FB0"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "4011D4DDE14B1AEC"
-					table_id: 1467623321632268434L
+					table_id: 1597714221544942633L
 					type: "random"
 				}
 			]
+			shape: "pentagon"
+			size: 2.0d
 			tasks: [
 				{
 					id: "12CDBA987ED73D36"
@@ -492,8 +526,267 @@
 					type: "item"
 				}
 			]
-			x: 17.5d
-			y: -1.0d
+			x: 15.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["144C60B75B73BB5C"]
+			id: "1E2D39782ECE1675"
+			rewards: [
+				{
+					id: "11046CDA1400F890"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "156ED63E03F82D13"
+					item: {
+						count: 1
+						id: "generatorgalore:emerald_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1E2D39782ECE1675"]
+			id: "12908DBB8C4B16F0"
+			rewards: [
+				{
+					id: "1E19E364F18A4170"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1F38FDBA29F9BD0C"
+					item: {
+						count: 1
+						id: "generatorgalore:diamond_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["12908DBB8C4B16F0"]
+			id: "195C4DCE49E34C98"
+			rewards: [
+				{
+					id: "45967924D864B9AB"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "30F6603497EDD0E1"
+					item: {
+						count: 1
+						id: "generatorgalore:netherite_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["144C60B75B73BB5C"]
+			id: "11C6FF8A727A4BA3"
+			optional: true
+			rewards: [
+				{
+					id: "10D7F05C92A1700B"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "63E91F827A15E4BF"
+					item: {
+						count: 1
+						id: "generatorgalore:ender_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["144C60B75B73BB5C"]
+			id: "636F3E538898A3E8"
+			optional: true
+			rewards: [
+				{
+					id: "1846930B0AFBA939"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1162263CF17F606D"
+					item: {
+						count: 1
+						id: "generatorgalore:potion_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["144C60B75B73BB5C"]
+			id: "1DAB6BA06BCD3374"
+			optional: true
+			rewards: [
+				{
+					id: "12DD1C2D406EBDF4"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1E735746F6828A91"
+					item: {
+						count: 1
+						id: "generatorgalore:enchantment_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["1CFA890C9DF855EE"]
+			id: "6FDD31B72D7285AB"
+			rewards: [
+				{
+					id: "18181AA7F83DDA57"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "14051D1C5D1B508C"
+					item: {
+						count: 1
+						id: "generatorgalore:netherite_generator_8x"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["1CFA890C9DF855EE"]
+			id: "1F8BE56B8CEDF8B9"
+			rewards: [
+				{
+					id: "6AA44779979CE47E"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1EA52D52CFB5575C"
+					item: {
+						count: 1
+						id: "generatorgalore:netherstar_generator_8x"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["1F8BE56B8CEDF8B9", "5485BBC23F4A1052"]
+			id: "12B9B28FD7499DA7"
+			rewards: [
+				{
+					id: "6F6ECC37FA384B1F"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "14D908486752A01B"
+					item: {
+						count: 1
+						id: "generatorgalore:netherstar_generator_64x"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["104BF845CFD109F7"]
+			id: "1EA152430B43E62B"
+			rewards: [
+				{
+					id: "1FDBEB85ABE7D8F9"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "11E365455E2ECD47"
+					item: {
+						count: 1
+						id: "powah:solar_panel_basic"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1A4C0918FDAAA6A5"]
+			id: "6B25AE1FB1C68CD0"
+			optional: true
+			rewards: [
+				{
+					id: "366A8110C27B68B6"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "27AA30DFF01563AF"
+					item: {
+						count: 1
+						id: "mekanismgenerators:wind_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 2.0d
 		}
 		{
 			icon: {
@@ -512,7 +805,7 @@
 				}
 			]
 			x: -3.0d
-			y: -6.5d
+			y: -3.0d
 		}
 	]
 }

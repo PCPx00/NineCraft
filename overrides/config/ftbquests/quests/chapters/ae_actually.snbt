@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 15.0d
 			x: 6.5d
-			y: -7.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: -1.0d
+			y: 2.5d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 11.5d
-			y: -2.0d
+			x: 17.0d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 4.0d
-			y: 4.5d
+			x: 6.5d
+			y: 8.5d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,8 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 11.5d
-			y: 0.0d
+			x: 17.0d
+			y: 4.0d
 		}
 	]
 	order_index: 9
@@ -91,7 +91,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["67FD45905267692C"]
@@ -114,7 +114,7 @@
 				}
 			]
 			x: 2.5d
-			y: -1.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["1C3A3034A6BCCEFD"]
@@ -139,7 +139,7 @@
 				}
 			]
 			x: 5.0d
-			y: -1.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["67FD45905267692C"]
@@ -162,7 +162,7 @@
 				}
 			]
 			x: 2.5d
-			y: 1.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["15E204F77D2313D1"]
@@ -185,7 +185,7 @@
 				}
 			]
 			x: 7.5d
-			y: -3.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["15E204F77D2313D1"]
@@ -208,7 +208,7 @@
 				}
 			]
 			x: 7.5d
-			y: -1.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["15E204F77D2313D1"]
@@ -232,7 +232,7 @@
 				}
 			]
 			x: 7.5d
-			y: 1.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["78954ACD74C3DCF8"]
@@ -256,7 +256,103 @@
 				}
 			]
 			x: 5.0d
-			y: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["15E204F77D2313D1"]
+			id: "14A22643FA544065"
+			optional: true
+			rewards: [
+				{
+					id: "106C5E854B8E3A29"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "78E6C7B093E6EFAF"
+					item: {
+						count: 1
+						id: "actuallyadditions:lens_of_disenchanting"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3A6379E31AE01B0D"]
+			id: "3D6F138AB0855D0E"
+			optional: true
+			rewards: [
+				{
+					id: "3FA0B61A9BB52C00"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "15FB5285027FC585"
+					item: {
+						count: 1
+						id: "actuallyadditions:lens_of_the_killer"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"1286C6226BA32C14"
+				"1D4F31D941359935"
+				"3A6379E31AE01B0D"
+				"1D0E70B89F98AAC5"
+			]
+			id: "6043B6C2F0170013"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "32B567F2121E578E"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "19AFE23EFDFFB538"
+					item: {
+						count: 1
+						id: "actuallyadditions:atomic_reconstructor"
+					}
+					type: "item"
+				}
+				{
+					id: "32B3FF3DEDC8DEE9"
+					item: {
+						count: 1
+						id: "actuallyadditions:void_crystal"
+					}
+					type: "item"
+					count: 16L
+				}
+				{
+					id: "195DFEA8392AEE02"
+					item: {
+						count: 1
+						id: "actuallyadditions:lens_of_the_miner"
+					}
+					type: "item"
+				}
+			]
+			x: 13.0d
+			y: 2.5d
 		}
 		{
 			icon: {
@@ -275,7 +371,7 @@
 				}
 			]
 			x: -3.0d
-			y: -6.0d
+			y: -3.0d
 		}
 	]
 }

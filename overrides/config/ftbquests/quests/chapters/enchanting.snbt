@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 8.25d
 			x: 3.125d
-			y: -10.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: -1.0d
+			y: 14.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 21.5d
-			y: -5.0d
+			x: 19.5d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 9.0d
-			y: 7.0d
+			x: 8.0d
+			y: 31.5d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,32 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 21.5d
-			y: 2.5d
+			x: 19.5d
+			y: 27.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/enchanting_0.png"
+			rotation: 0.0d
+			width: 9.5d
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/enchanting_1.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 2.75d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/enchanting_2.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 3.75d
+			y: 19.5d
 		}
 	]
 	order_index: 3
@@ -92,11 +116,12 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["110D3ADE8B48EE09"]
 			id: "75D2105DD74987B2"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "4513317DF1FA812D"
@@ -114,8 +139,8 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: -2.0d
+			x: 0.0d
+			y: 14.5d
 		}
 		{
 			dependencies: ["75D2105DD74987B2"]
@@ -147,12 +172,13 @@
 					count: 15L
 				}
 			]
-			x: 5.0d
-			y: -5.5d
+			x: 2.5d
+			y: 11.0d
 		}
 		{
-			dependencies: ["4525A64CCF9B53BC"]
+			dependencies: ["168050DAD1612A76"]
 			id: "1A9D5F211B24398B"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "293F1E092CEFAF5F"
@@ -170,8 +196,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -6.0d
+			x: 0.0d
+			y: 26.0d
 		}
 		{
 			dependencies: ["4525A64CCF9B53BC"]
@@ -193,8 +219,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -4.0d
+			x: 5.0d
+			y: 8.5d
 		}
 		{
 			dependencies: ["1A9D5F211B24398B"]
@@ -216,8 +242,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -6.0d
+			x: 2.5d
+			y: 26.0d
 		}
 		{
 			dependencies: ["1FADAB05F698FC62"]
@@ -239,11 +265,11 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -4.0d
+			x: 7.5d
+			y: 9.0d
 		}
 		{
-			dependencies: ["3E9CA2FA57D709A1", "168050DAD1612A76"]
+			dependencies: ["3E9CA2FA57D709A1"]
 			id: "11792462C3B22932"
 			rewards: [
 				{
@@ -262,8 +288,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -5.0d
+			x: 5.0d
+			y: 23.5d
 		}
 		{
 			dependencies: ["11792462C3B22932"]
@@ -285,16 +311,16 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -5.0d
+			x: 7.5d
+			y: 21.0d
 		}
 		{
-			dependencies: ["4F590031817E7FE5"]
+			dependencies: ["2DD72E038A9648D0"]
 			id: "5C644C8EC89DD685"
 			rewards: [
 				{
 					id: "1E6398805187262A"
-					table_id: 3087784268654967924L
+					table_id: 1597714221544942633L
 					type: "random"
 				}
 			]
@@ -310,8 +336,8 @@
 					type: "item"
 				}
 			]
-			x: 17.5d
-			y: -5.0d
+			x: 12.5d
+			y: 21.5d
 		}
 		{
 			dependencies: ["75D2105DD74987B2"]
@@ -333,8 +359,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -3.5d
+			x: 2.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["75D2105DD74987B2"]
@@ -357,8 +383,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -2.0d
+			x: 2.5d
+			y: 16.0d
 		}
 		{
 			dependencies: ["1130E23358E9E07C"]
@@ -381,8 +407,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -2.5d
+			x: 5.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["110D3ADE8B48EE09"]
@@ -405,7 +431,7 @@
 				}
 			]
 			x: 2.5d
-			y: 0.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["6FD33302F40DB44D"]
@@ -476,7 +502,7 @@
 				}
 			]
 			x: 7.5d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["6FD33302F40DB44D"]
@@ -523,7 +549,447 @@
 				}
 			]
 			x: 2.5d
-			y: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4525A64CCF9B53BC"]
+			id: "0DE876A75B5BEDAC"
+			optional: true
+			rewards: [
+				{
+					id: "1C2DD3A9A2E085C5"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "558DB6641A1F2E95"
+					item: {
+						count: 1
+						id: "apothic_enchanting:stoneshelf"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["4525A64CCF9B53BC"]
+			id: "165344BAF630AC7F"
+			optional: true
+			rewards: [
+				{
+					id: "155E002F95C347F6"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1EFFB46261824FC8"
+					item: {
+						count: 1
+						id: "apothic_enchanting:melonshelf"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["4525A64CCF9B53BC"]
+			id: "1DA126A86D0D3EFE"
+			optional: true
+			rewards: [
+				{
+					id: "2249AF80ADDDDAAE"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "194CC2635E9EA898"
+					item: {
+						count: 1
+						id: "apothic_enchanting:beeshelf"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["3E9CA2FA57D709A1"]
+			id: "7115A67319CFD1C0"
+			rewards: [
+				{
+					id: "1C6EFF769EC77033"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1879825087C0F139"
+					item: {
+						count: 1
+						id: "apothic_enchanting:glowing_hellshelf"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 28.0d
+		}
+		{
+			dependencies: ["7115A67319CFD1C0"]
+			id: "1B3F19A990DBA411"
+			rewards: [
+				{
+					id: "4361D9D2CDB7A6F3"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "103B7CCA2A9B4DF4"
+					item: {
+						count: 1
+						id: "apothic_enchanting:blazing_hellshelf"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 28.0d
+		}
+		{
+			dependencies: ["168050DAD1612A76"]
+			id: "2085B337DB563850"
+			rewards: [
+				{
+					id: "17D53901A8C26D04"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2937ACCE64735EE5"
+					item: {
+						count: 1
+						id: "apothic_enchanting:crystal_seashelf"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2085B337DB563850"]
+			id: "1F0177DBCA03C971"
+			rewards: [
+				{
+					id: "179676EABE9EC814"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0004C761CB2A6FD8"
+					item: {
+						count: 1
+						id: "apothic_enchanting:heart_seashelf"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["11792462C3B22932"]
+			id: "225BA0E6A883DC8B"
+			rewards: [
+				{
+					id: "11FFBB95AD34EFD7"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1EBCAC8EE0DCE636"
+					item: {
+						count: 1
+						id: "apothic_enchanting:echoing_sculkshelf"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["4F590031817E7FE5"]
+			id: "2DD72E038A9648D0"
+			rewards: [
+				{
+					id: "1FDE3652DABA2CD5"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1220AA3BC4171168"
+					item: {
+						count: 1
+						id: "apothic_enchanting:pearl_endshelf"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["3ED6EA1B72500412"]
+			id: "0B02566573ABAF68"
+			rewards: [
+				{
+					id: "19B3AE89A0F95A9C"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "18042E08FE2C0095"
+					item: {
+						count: 1
+						id: "apothic_enchanting:ender_library"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["11792462C3B22932"]
+			id: "5A9F608024817F6F"
+			optional: true
+			rewards: [
+				{
+					id: "13A4718BCD38D62C"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "62E07642F03CD478"
+					item: {
+						count: 1
+						id: "apothic_enchanting:filtering_shelf"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 24.5d
+		}
+		{
+			dependencies: ["11792462C3B22932"]
+			id: "1A11DDAB3F531D50"
+			rewards: [
+				{
+					id: "19F29C653BC7DAF5"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "11B725BB6C4DDE59"
+					item: {
+						count: 1
+						id: "apothic_enchanting:treasure_shelf"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 26.5d
+		}
+		{
+			dependencies: ["75D2105DD74987B2"]
+			id: "1E4BC81C29EBCF59"
+			optional: true
+			rewards: [
+				{
+					id: "1FA60C925E6C9F72"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "42DA3A8A70D12F84"
+					item: {
+						count: 1
+						id: "apothic_enchanting:pickaxe_tome"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["6FD33302F40DB44D"]
+			id: "1B83AB78939C38E6"
+			optional: true
+			rewards: [
+				{
+					id: "0D00B8B4A31FB565"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "15DEF9F59083A663"
+					item: {
+						count: 1
+						id: "apotheosis:gem_case"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1119E7565D4F97B4"]
+			id: "06F3B6D5E97FDB58"
+			rewards: [
+				{
+					id: "1E0093F64E9E33D2"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1FEE6501DC2A4A80"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_malice"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["06F3B6D5E97FDB58"]
+			id: "6D779DB903E355E7"
+			rewards: [
+				{
+					id: "1178EE29AA8C6359"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "12EFFE955C3DFA57"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_supremacy"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1119E7565D4F97B4"]
+			id: "5F1EBA9589AC2B33"
+			rewards: [
+				{
+					id: "1647445FA086FD4D"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1CF1A1F8957AC3CF"
+					item: {
+						count: 1
+						id: "apotheosis:augmenting_table"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5C644C8EC89DD685", "0B02566573ABAF68", "6D779DB903E355E7"]
+			id: "210D14139A708B5A"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "5A008C971F99C2A2"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1B0B3291B24D19AE"
+					item: {
+						count: 1
+						id: "apothic_enchanting:draconic_endshelf"
+					}
+					type: "item"
+					count: 4L
+				}
+				{
+					id: "11D5E8BC49BFC28B"
+					item: {
+						count: 1
+						id: "apothic_enchanting:ender_library"
+					}
+					type: "item"
+				}
+				{
+					id: "17DD4F412AEB5BE9"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_supremacy"
+					}
+					type: "item"
+				}
+			]
+			x: 15.5d
+			y: 14.0d
 		}
 		{
 			icon: {
@@ -542,7 +1008,7 @@
 				}
 			]
 			x: -3.0d
-			y: -9.0d
+			y: -3.0d
 		}
 	]
 }

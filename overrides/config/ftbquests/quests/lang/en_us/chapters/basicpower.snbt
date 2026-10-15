@@ -1,67 +1,179 @@
 {
 	quest.01209F6BE7124B04.quest_desc: [
 		"Powah's Furnator burns anything a furnace would. Easy early power."
+		""
+		"§e§lHow to complete:§r Craft or make Furnator (Starter) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.01209F6BE7124B04.title: "Burn Stuff"
 	quest.0405A8F0D82D9834.quest_desc: [
-		"Most machines here run on Forge Energy, measured in FE. Any generator works with any machine, so start simple."
+		"Most machines in Nine Craft run on Forge Energy (FE). Any generator can power any machine, so start simple and upgrade as you go."
+		""
+		"§eHow power moves:§r a generator makes FE, cables carry it and machines use it. Batteries (energy cells) store it for later. This chapter takes you from burning coal to 64x generators."
+		""
+		"Collect some redstone to start. Nearly every power block needs it."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 16 x Redstone Dust and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.0405A8F0D82D9834.title: "Power 101"
-	quest.104BF845CFD109F7.quest_desc: ["Solar panels need nothing but daylight."]
+	quest.104BF845CFD109F7.quest_desc: [
+		"Solar panels need nothing but daylight."
+		""
+		"§e§lHow to complete:§r Craft or make Solar Panel (Starter) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.104BF845CFD109F7.title: "Free Sunlight"
+	quest.11C6FF8A727A4BA3.quest_desc: [
+		"Burns ender pearls and eyes."
+		""
+		"§e§lHow to complete:§r Craft or make Ender Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.11C6FF8A727A4BA3.title: "Ender Generator"
 	quest.12895E2363089FB0.quest_desc: [
-		"Ready for more? &5Powah&r, &5Mekanism Generators&r, &5Extreme Reactors&r and &5Modern Industrialization&r all scale far beyond this."
+		"Ready for more? §5Powah§r, §5Mekanism Generators§r, §5Extreme Reactors§r and §5Modern Industrialization§r all scale far beyond this."
+		""
+		"§e§lHow to complete:§r Craft or make Energizing Orb and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.12895E2363089FB0.title: "Where to Next?"
-	quest.13F658ACE9851265.quest_desc: ["Turns food into power. Great next to a crop farm."]
+	quest.12908DBB8C4B16F0.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Diamond Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.12908DBB8C4B16F0.title: "Diamond Generator"
+	quest.12B9B28FD7499DA7.quest_desc: [
+		"The single most powerful Generator Galore block."
+		""
+		"§e§lHow to complete:§r Craft or make 64x Netherstar Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.12B9B28FD7499DA7.title: "64x Nether Star Generator"
+	quest.13F658ACE9851265.quest_desc: [
+		"Turns food into power. Great next to a crop farm."
+		""
+		"§e§lHow to complete:§r Craft or make Culinary Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.13F658ACE9851265.title: "Culinary Generator"
-	quest.144C60B75B73BB5C.quest_desc: ["A strong mid-game coal burner."]
+	quest.144C60B75B73BB5C.quest_desc: [
+		"A strong mid-game coal burner."
+		""
+		"§e§lHow to complete:§r Craft or make Gold Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.144C60B75B73BB5C.title: "Gold Generator"
 	quest.1582D8953EC02956.quest_desc: [
 		"Lava in, energy out. Pair it with a lava pump or a cobblegen-to-lava setup."
+		""
+		"§e§lHow to complete:§r Craft or make Magmatic Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.1582D8953EC02956.title: "Magmatic Generator"
 	quest.16A80336D90FF474.quest_desc: [
-		"These generators each burn one kind of fuel. The Copper Generator runs on plain coal and charcoal."
+		"§eHow:§r place the generator, put coal or charcoal in its slot, and it starts making power. Connect a cable from any side to your machines."
+		""
+		"§e§lHow to complete:§r Craft or make Copper Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.16A80336D90FF474.title: "Generator Galore"
-	quest.1768B27E3FA6DFFE.quest_desc: ["Burns Nether Stars for an enormous burst of energy."]
+	quest.1768B27E3FA6DFFE.quest_desc: [
+		"Burns Nether Stars for an enormous burst of energy."
+		""
+		"§e§lHow to complete:§r Craft or make Netherstar Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.1768B27E3FA6DFFE.title: "Nether Star Generator"
+	quest.195C4DCE49E34C98.quest_desc: [
+		"The top solid-fuel generator."
+		""
+		"§e§lHow to complete:§r Craft or make Netherite Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.195C4DCE49E34C98.title: "Netherite Generator"
 	quest.1A4C0918FDAAA6A5.quest_desc: [
 		"A sturdier solar option. Mekanism has lots more in its own chapter."
+		""
+		"§e§lHow to complete:§r Craft or make Solar Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
 	]
 	quest.1A4C0918FDAAA6A5.title: "Mekanism Solar"
 	quest.1CFA890C9DF855EE.quest_desc: [
 		"Eight identical generators combine into one block that does the work of all eight."
+		""
+		"§e§lHow to complete:§r Craft or make 8x Magmatic Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.1CFA890C9DF855EE.title: "Eight in One"
-	quest.1E8BE008E3ECEC62.quest_desc: ["More power per tick and a bigger buffer."]
+	quest.1DAB6BA06BCD3374.quest_desc: [
+		"Burns enchanted books."
+		""
+		"§e§lHow to complete:§r Craft or make Enchantment Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1DAB6BA06BCD3374.title: "Enchantment Generator"
+	quest.1E2D39782ECE1675.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Emerald Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1E2D39782ECE1675.title: "Emerald Generator"
+	quest.1E8BE008E3ECEC62.quest_desc: [
+		"More power per tick and a bigger buffer."
+		""
+		"§e§lHow to complete:§r Craft or make Iron Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1E8BE008E3ECEC62.title: "Iron Generator"
-	quest.30FAAEC062912051.quest_desc: ["Cables carry energy from generators to machines."]
+	quest.1EA152430B43E62B.quest_desc: [
+		"Powah's basic solar panel is a solid step up."
+		""
+		"§e§lHow to complete:§r Craft or make Solar Panel (Basic) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1EA152430B43E62B.title: "Better Solar"
+	quest.1F8BE56B8CEDF8B9.quest_desc: [
+		"§e§lHow to complete:§r Craft or make 8x Netherstar Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1F8BE56B8CEDF8B9.title: "8x Nether Star Generator"
+	quest.30FAAEC062912051.quest_desc: [
+		"Cables carry energy from generators to machines."
+		""
+		"§e§lHow to complete:§r Craft or make Energy Cable (Starter) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.30FAAEC062912051.title: "Move It"
 	quest.402221BC6127FF8E.quest_desc: [
 		"An energy cell buffers power so nothing is wasted at night."
+		""
+		"§e§lHow to complete:§r Craft or make Energy Cell (Starter) and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.402221BC6127FF8E.title: "Store It"
 	quest.411CA8E34C1996B6.quest_desc: [
-		"&dNine Craft Quest Book&r"
+		"§dNine Craft Quest Book§r"
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.411CA8E34C1996B6.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.411CA8E34C1996B6.title: "&5Nine Craft&r - Quest Book Notice"
-	quest.416F2FB838BADDC6.quest_desc: ["Sits next to lava for steady passive power."]
+	quest.411CA8E34C1996B6.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.416F2FB838BADDC6.quest_desc: [
+		"Sits next to lava for steady passive power."
+		""
+		"§e§lHow to complete:§r Craft or make Heat Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.416F2FB838BADDC6.title: "Heat Generator"
 	quest.5485BBC23F4A1052.quest_desc: [
 		"Combine again for a 64x block. Serious power in a single space."
+		""
+		"§e§lHow to complete:§r Craft or make 64x Magmatic Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.5485BBC23F4A1052.title: "Sixty-Four in One"
-	quest.59379F87617334AE.quest_desc: ["Bees make honey, honey makes power."]
+	quest.59379F87617334AE.quest_desc: [
+		"Bees make honey, honey makes power."
+		""
+		"§e§lHow to complete:§r Craft or make Honey Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.59379F87617334AE.title: "Honey Generator"
+	quest.636F3E538898A3E8.quest_desc: [
+		"Burns potions for power."
+		""
+		"§e§lHow to complete:§r Craft or make Potion Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.636F3E538898A3E8.title: "Potion Generator"
+	quest.6B25AE1FB1C68CD0.quest_desc: [
+		"Place it high up for more power."
+		""
+		"§e§lHow to complete:§r Craft or make Wind Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.6B25AE1FB1C68CD0.title: "Wind Power"
+	quest.6FDD31B72D7285AB.quest_desc: [
+		"§e§lHow to complete:§r Craft or make 8x Netherite Generator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.6FDD31B72D7285AB.title: "8x Netherite Generator"
 }

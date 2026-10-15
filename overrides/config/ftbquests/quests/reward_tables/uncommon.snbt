@@ -383,6 +383,66 @@
 			}
 			weight: 2.0f
 		}
+		{
+			count: 2
+			id: "5BB6369A925BD98D"
+			item: {
+				count: 1
+				id: "grimsoul:speed_card"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "1E5CA51A9B09DED2"
+			item: {
+				count: 1
+				id: "grimsoul:range_card"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "13D2B973B1C39EB9"
+			item: {
+				count: 1
+				id: "grimsoul:damage_card"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 16
+			id: "19E7B3E20AF05A05"
+			item: {
+				count: 1
+				id: "grimpipes:item_pipe"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "163D37A74A6399DA"
+			item: {
+				count: 1
+				id: "grimpipes:whispering_upgrade"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 12
+			id: "1B17A579CA37B8A0"
+			item: {
+				count: 1
+				id: "grimstorage:soulite_ingot"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "189500DCE4BC9135"
+			item: {
+				count: 1
+				id: "grimstorage:storage_cell_4k"
+			}
+			weight: 2.0f
+		}
 	]
 	use_title: true
 }

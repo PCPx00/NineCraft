@@ -1,0 +1,120 @@
+[SourcePipe]
+	#Max sleep ticks for Source Pipes when idle. 0 = disable sleep (never hide the Smart Sleep toggle).
+	# Default: 40
+	# Range: 0 ~ 1200
+	sourceMaxSleep = 40
+
+	[SourcePipe.BaseUpgrades]
+		#Base transfer rate (No Upgrade)
+		# Default: 50
+		# Range: > 1
+		sourceRateBase = 50
+		#Transfer rate for Basic Upgrade
+		# Default: 200
+		# Range: > 1
+		sourceRateBasic = 200
+		#Transfer rate for Improved Upgrade
+		# Default: 1000
+		# Range: > 1
+		sourceRateImproved = 1000
+		#Transfer rate for Advanced Upgrade
+		# Default: 4000
+		# Range: > 1
+		sourceRateAdvanced = 4000
+		#Transfer rate for Ultimate Upgrade
+		# Default: 16000
+		# Range: > 1
+		sourceRateUltimate = 16000
+
+	[SourcePipe.CustomUpgrades]
+		#Transfer rate for ATM Upgrade
+		# Default: 64000
+		# Range: > 1
+		sourceRateAtm = 64000
+		#Transfer rate for Vibranium Upgrade
+		# Default: 256000
+		# Range: > 1
+		sourceRateVibranium = 256000
+		#Transfer rate for Unobtainium Upgrade
+		# Default: 1024000
+		# Range: > 1
+		sourceRateUnobtainium = 1024000
+		#Transfer rate for Stellar Upgrade
+		# Default: 4096000
+		# Range: > 1
+		sourceRateStellar = 4096000
+
+[PressurePipe]
+	#Enable explosion when pressure exceeds limit
+	enableExplosion = true
+	#Max sleep ticks for Pressure Pipes when idle. 0 = disable sleep (never hide the Smart Sleep toggle).
+	# Default: 40
+	# Range: 0 ~ 1200
+	pressureMaxSleep = 40
+
+	[PressurePipe.Rates]
+		#Base transfer rate (mL/t, No Upgrade)
+		# Default: 100
+		# Range: > 1
+		rateBase = 100
+		#Transfer rate for Basic Upgrade
+		# Default: 500
+		# Range: > 1
+		rateBasic = 500
+		#Transfer rate for Improved Upgrade
+		# Default: 2000
+		# Range: > 1
+		rateImproved = 2000
+		#Transfer rate for Advanced Upgrade
+		# Default: 10000
+		# Range: > 1
+		rateAdvanced = 10000
+		#Transfer rate for Ultimate Upgrade
+		# Default: 50000
+		# Range: > 1
+		rateUltimate = 50000
+		#Transfer rate for ATM Upgrade
+		# Default: 200000
+		# Range: > 1
+		rateAtm = 200000
+		#Transfer rate for Vibranium Upgrade
+		# Default: 1000000
+		# Range: > 1
+		rateVibranium = 1000000
+		#Transfer rate for Unobtainium Upgrade
+		# Default: 4000000
+		# Range: > 1
+		rateUnobtainium = 4000000
+		#Transfer rate for Stellar Upgrade
+		# Default: 16000000
+		# Range: > 1
+		rateStellar = 16000000
+
+	[PressurePipe.MaxPressure]
+		# Default: 7.0
+		# Range: 0.0 ~ 1000.0
+		maxBase = 7.0
+		# Default: 7.0
+		# Range: 0.0 ~ 1000.0
+		maxBasic = 7.0
+		# Default: 7.0
+		# Range: 0.0 ~ 1000.0
+		maxImproved = 7.0
+		# Default: 7.0
+		# Range: 0.0 ~ 1000.0
+		maxAdvanced = 7.0
+		# Default: 25.0
+		# Range: 0.0 ~ 1000.0
+		maxUltimate = 25.0
+		# Default: 25.0
+		# Range: 0.0 ~ 1000.0
+		maxAtm = 25.0
+		# Default: 25.0
+		# Range: 0.0 ~ 1000.0
+		maxVibranium = 25.0
+		# Default: 25.0
+		# Range: 0.0 ~ 1000.0
+		maxUnobtainium = 25.0
+		# Default: 50.0
+		# Range: 0.0 ~ 1000.0
+		maxStellar = 50.0

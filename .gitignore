@@ -11,3 +11,7 @@
 *.log
 .DS_Store
 Thumbs.db
+
+# KubeJS local web-server login token (generated per install, never share)
+/overrides/kubejs/config/web_server.json
+*.bak

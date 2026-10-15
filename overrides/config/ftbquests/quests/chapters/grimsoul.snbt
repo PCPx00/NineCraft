@@ -1,0 +1,1341 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "grimsoul"
+	group: "47FDD49D5CA751DC"
+	icon: {
+		id: "grimsoul:reaper_block"
+	}
+	id: "11FF269C330F8C89"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/grimsoul.png"
+			rotation: 0.0d
+			width: 16.5d
+			x: 7.25d
+			y: -4.5d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:grimsoul:reaper_block"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: 14.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:grimsoul:simulation_chamber"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 24.5d
+			y: 1.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:grimsoul:soul_forge"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 10.0d
+			y: 31.5d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:grimsoul:reapers_lantern"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 24.5d
+			y: 27.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimsoul_0.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimsoul_1.png"
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.25d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimsoul_2.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 3.25d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimsoul_3.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 3.25d
+			y: 26.5d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1ED03CA2FEF0DBFB"
+			rewards: [
+				{
+					id: "5BD05A89959098AD"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "2C3451134031BF4E"
+					item: {
+						count: 1
+						id: "minecraft:soul_lantern"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1C0B90264FA59326"
+					item: {
+						count: 1
+						id: "minecraft:iron_nugget"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "5764BF9AB922DAD9"
+					item: {
+						count: 1
+						id: "minecraft:amethyst_shard"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["1ED03CA2FEF0DBFB"]
+			id: "1F03AA620EE32629"
+			rewards: [
+				{
+					id: "0A61C56F4280E73E"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "75BDAC5D2196F550"
+					item: {
+						count: 1
+						id: "grimsoul:guide_book"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1ED03CA2FEF0DBFB"]
+			id: "1493CD485D195F69"
+			rewards: [
+				{
+					id: "5A039E66D815CDEB"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "136B5B94A042D467"
+					item: {
+						count: 1
+						id: "grimsoul:reapers_lantern"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1493CD485D195F69"]
+			id: "195F8646294634D3"
+			rewards: [
+				{
+					id: "1EA87451AA715858"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:zombie"
+					id: "6A12E8A7E944596B"
+					type: "kill"
+					value: 5L
+				}
+			]
+			x: 5.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["195F8646294634D3"]
+			id: "1ED1A67F5A866D7A"
+			rewards: [
+				{
+					id: "0EA2102B39259C4B"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 16
+					id: "4CDC2FBE9BADDF07"
+					item: {
+						count: 1
+						id: "minecraft:paper"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7EB3D99445DE90C5"
+					item: {
+						count: 1
+						id: "minecraft:amethyst_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "1A9F72246BB9C76F"
+					item: {
+						count: 1
+						id: "grimsoul:reaper_block"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["1ED1A67F5A866D7A"]
+			id: "13227473A672DD90"
+			rewards: [
+				{
+					id: "19289D94B9436638"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1C4A06DD905F81A9"
+					item: {
+						count: 1
+						id: "grimsoul:mob_fan"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["1ED1A67F5A866D7A"]
+			id: "4F59916FB5D28F70"
+			hide_dependent_lines: true
+			rewards: [
+				{
+					id: "1EE43E1FB781F086"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "19512A550C72ED57"
+					item: {
+						count: 1
+						id: "grimsoul:xp_tank"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1ED1A67F5A866D7A"]
+			id: "58121D0BF64147EE"
+			hide_dependent_lines: true
+			rewards: [
+				{
+					id: "135FFDB4EBE74D67"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "02A9EB1F47948BFD"
+					item: {
+						count: 1
+						id: "grimsoul:output_crate"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["1ED1A67F5A866D7A"]
+			id: "0AD4770C4CBE0A56"
+			rewards: [
+				{
+					id: "17111472A6E145E1"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [
+				{
+					id: "610F77FF0800FA32"
+					item: {
+						count: 1
+						id: "minecraft:paper"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0AD4770C4CBE0A56"]
+			id: "1AC90C1E1EE75374"
+			rewards: [
+				{
+					id: "1B48294259D0184C"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "089BA358460CA7C0"
+					item: {
+						count: 1
+						id: "grimsoul:speed_card"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0AD4770C4CBE0A56"]
+			id: "024C8622FD7594FE"
+			rewards: [
+				{
+					id: "084F15286933A55E"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "07C3FEB0823279FB"
+					item: {
+						count: 1
+						id: "grimsoul:range_card"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0AD4770C4CBE0A56"]
+			id: "1740BB2BF77E1FB9"
+			rewards: [
+				{
+					id: "1343FF31538F0E2E"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "37BFAE0C026993F7"
+					item: {
+						count: 1
+						id: "grimsoul:damage_card"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0AD4770C4CBE0A56"]
+			id: "306FFD57A039E5A3"
+			rewards: [
+				{
+					id: "07ED7A959B42C773"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1F054B4764948A1A"
+					item: {
+						count: 1
+						id: "grimsoul:storage_card"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["306FFD57A039E5A3"]
+			id: "1A68E7CCF9AAC103"
+			rewards: [
+				{
+					id: "1F63F32C4C89ED90"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "15BC976316E22C18"
+					item: {
+						count: 1
+						id: "grimsoul:void_card"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1740BB2BF77E1FB9"]
+			id: "16D818BEC72FD4C3"
+			rewards: [
+				{
+					id: "7EBDA6B360E1AD15"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "165EECCE6D491CE0"
+					item: {
+						count: 1
+						id: "grimsoul:fire_aspect_card"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1740BB2BF77E1FB9"]
+			id: "5A75C637E1D42E04"
+			rewards: [
+				{
+					id: "1E59DFE3168753B7"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "16E51F16ABF98CE2"
+					item: {
+						count: 1
+						id: "grimsoul:beheading_card"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0AD4770C4CBE0A56"]
+			id: "1266578039723930"
+			rewards: [
+				{
+					id: "1862E154A7E40A79"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "14CC5FFEE2A3C02D"
+					item: {
+						count: 1
+						id: "grimsoul:harvest_card"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1740BB2BF77E1FB9"]
+			id: "1B25394923760283"
+			rewards: [
+				{
+					id: "1F310AAC08B3211D"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "196B3F0762E0195F"
+					item: {
+						count: 1
+						id: "grimsoul:player_kill_card"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1B25394923760283"]
+			id: "1A87C9A5C997D8DC"
+			rewards: [
+				{
+					id: "1BC9D3518E14AAB5"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1384A9A694DC856A"
+					item: {
+						count: 1
+						id: "grimsoul:looting_card"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1ED1A67F5A866D7A"]
+			id: "6AFAB8952B89334A"
+			rewards: [
+				{
+					id: "1F6661DC4DEB8568"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "07157B4FA3F35D64"
+					item: {
+						count: 1
+						id: "grimsoul:settings_card"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"1AC90C1E1EE75374"
+				"024C8622FD7594FE"
+				"58121D0BF64147EE"
+				"4F59916FB5D28F70"
+				"13227473A672DD90"
+			]
+			id: "0B75A41B5B35A664"
+			rewards: [
+				{
+					id: "52D3D8D8EAA3670F"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "7F5E248BD9682959"
+					item: {
+						count: 1
+						id: "minecraft:redstone_block"
+					}
+					type: "item"
+				}
+				{
+					id: "6725CD161C4CB917"
+					item: {
+						count: 1
+						id: "minecraft:obsidian"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1D0CD5B2960D791F"
+					item: {
+						count: 1
+						id: "grimsoul:reaper_block"
+					}
+					type: "item"
+				}
+				{
+					id: "2F77D61F27681CD4"
+					item: {
+						count: 1
+						id: "grimsoul:speed_card"
+					}
+					type: "item"
+					count: 8L
+				}
+				{
+					id: "117EFC0C2012EE77"
+					item: {
+						count: 1
+						id: "grimsoul:range_card"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 15.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["0B75A41B5B35A664"]
+			id: "0E45962E7F5398FD"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "1DA4FA612B0F9243"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "1B6E7EE0E1997222"
+					item: {
+						count: 1
+						id: "minecraft:crying_obsidian"
+					}
+					type: "item"
+				}
+				{
+					id: "1A045BA765730905"
+					item: {
+						count: 1
+						id: "minecraft:ender_eye"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "1816BE1F02A2707F"
+					item: {
+						count: 1
+						id: "grimsoul:reaper_generator"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["0E45962E7F5398FD"]
+			id: "67D216C266479DE8"
+			hide_dependent_lines: true
+			rewards: [
+				{
+					id: "551BA1072656A30D"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0D3B53729C06EAF3"
+					item: {
+						count: 1
+						id: "grimsoul:energy_cell"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0E45962E7F5398FD"]
+			id: "7A5257956171C822"
+			rewards: [
+				{
+					id: "1F621A317BB0CEBF"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "15C93CE6701E7780"
+					item: {
+						count: 1
+						id: "grimsoul:essence_spawner"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7A5257956171C822"]
+			id: "66A1EF3E206C1707"
+			rewards: [
+				{
+					id: "1D8D105638AC9A50"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2468EB3163B4DDA6"
+					item: {
+						count: 1
+						id: "grimsoul:count_card"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7A5257956171C822"]
+			id: "11036351A7A46424"
+			rewards: [
+				{
+					id: "174D48A2F97517E2"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0AD1441903239979"
+					item: {
+						count: 1
+						id: "grimsoul:no_player_needed_card"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["7A5257956171C822"]
+			id: "188AB11A8594A21D"
+			rewards: [
+				{
+					id: "4155E669D1E29436"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "177532F219559FB7"
+					item: {
+						count: 1
+						id: "grimsoul:ignore_light_card"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["188AB11A8594A21D"]
+			id: "1EF9518B8733271A"
+			rewards: [
+				{
+					id: "1627CEE6EFC4B181"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "145030F9B84A1158"
+					item: {
+						count: 1
+						id: "grimsoul:ignore_spawn_conditions_card"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["7A5257956171C822"]
+			id: "14BDE3C6F115F48D"
+			rewards: [
+				{
+					id: "15DDA89EFCC7C52A"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "124DB0249E62ABD5"
+					item: {
+						count: 1
+						id: "grimsoul:no_ai_card"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 19.0d
+		}
+		{
+			dependencies: [
+				"66A1EF3E206C1707"
+				"11036351A7A46424"
+				"1EF9518B8733271A"
+				"14BDE3C6F115F48D"
+				"67D216C266479DE8"
+			]
+			id: "02E1535B548B0D78"
+			rewards: [
+				{
+					id: "1628DDF5B91C605E"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "3D21C6CB266DDBC8"
+					item: {
+						count: 1
+						id: "grimsoul:essence_spawner"
+					}
+					type: "item"
+				}
+				{
+					id: "1505174784C3B864"
+					item: {
+						count: 1
+						id: "grimsoul:count_card"
+					}
+					type: "item"
+					count: 4L
+				}
+				{
+					id: "138F2F64083AB0B0"
+					item: {
+						count: 1
+						id: "grimsoul:speed_card"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 10.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["02E1535B548B0D78", "1B25394923760283"]
+			id: "1959E7BDBCC13ECE"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "23D2AED9DDF9E284"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "0885D4CE751271D1"
+					item: {
+						count: 1
+						id: "minecraft:gold_nugget"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "7F4FC839AAF71C97"
+					item: {
+						count: 1
+						id: "grimsoul:data_core"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["1959E7BDBCC13ECE"]
+			id: "24C53145AB1AEC33"
+			rewards: [
+				{
+					id: "1ECB0B02F4FBBBF3"
+					type: "xp_levels"
+					xp_levels: 7
+				}
+				{
+					count: 2
+					id: "0D154F7DD4E1BC50"
+					item: {
+						count: 1
+						id: "minecraft:tinted_glass"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:zombie"
+					id: "126C4C1E4833DA4D"
+					type: "kill"
+					value: 25L
+				}
+			]
+			x: 2.5d
+			y: 22.5d
+		}
+		{
+			dependencies: ["1959E7BDBCC13ECE"]
+			id: "12C239A7FA1778F0"
+			rewards: [
+				{
+					id: "31F5E2E7629D955B"
+					type: "xp_levels"
+					xp_levels: 7
+				}
+			]
+			tasks: [
+				{
+					id: "1D738F974F2E789B"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 2.5d
+			y: 24.5d
+		}
+		{
+			dependencies: ["24C53145AB1AEC33", "12C239A7FA1778F0"]
+			id: "14B62C2E599F80BF"
+			rewards: [
+				{
+					id: "187526FF3E5EB075"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "158280A1D8C4509E"
+					item: {
+						count: 1
+						id: "grimsoul:simulation_chamber"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["14B62C2E599F80BF"]
+			id: "5E6E790FD770F5CC"
+			rewards: [
+				{
+					id: "1AD126A1ED18FE0E"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1B4F68A794E37591"
+					item: {
+						count: 1
+						id: "grimsoul:efficiency_card"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 22.5d
+		}
+		{
+			dependencies: ["14B62C2E599F80BF"]
+			id: "126D66C02D318A1F"
+			rewards: [
+				{
+					id: "72445488D84F1209"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5198A46775C64DDC"
+					item: {
+						count: 1
+						id: "grimsoul:player_kill_card"
+					}
+					type: "item"
+				}
+				{
+					id: "105B961DB7A14FC7"
+					item: {
+						count: 1
+						id: "grimsoul:speed_card"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 7.5d
+			y: 24.5d
+		}
+		{
+			dependencies: ["126D66C02D318A1F", "5E6E790FD770F5CC"]
+			id: "1114353C55484A54"
+			rewards: [
+				{
+					id: "199B39C8196810BC"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+				{
+					id: "1D9104A67B84F852"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "137DBC5DB2DDDF3A"
+					item: {
+						count: 1
+						id: "grimsoul:simulation_chamber"
+					}
+					type: "item"
+					count: 4L
+				}
+				{
+					id: "73A06C3C12B5B23B"
+					item: {
+						count: 1
+						id: "grimsoul:data_core"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 10.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["1114353C55484A54"]
+			id: "40BFAD9E297307B5"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "1BEF29A50F8AD701"
+					type: "xp_levels"
+					xp_levels: 9
+				}
+			]
+			tasks: [
+				{
+					id: "178733174B23C870"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 28.0d
+		}
+		{
+			dependencies: ["40BFAD9E297307B5"]
+			id: "1B27023083CAC8C9"
+			rewards: [
+				{
+					id: "7FECEE7B8B07DAAF"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+				{
+					count: 32
+					id: "1DCE90B26B2B9772"
+					item: {
+						count: 1
+						id: "minecraft:blackstone"
+					}
+					type: "item"
+				}
+				{
+					count: 12
+					id: "161DF32307484941"
+					item: {
+						count: 1
+						id: "minecraft:crying_obsidian"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "128F8A2B7B4BD914"
+					item: {
+						count: 1
+						id: "grimsoul:soul_steel"
+					}
+					type: "item"
+					count: 6L
+				}
+			]
+			x: 2.5d
+			y: 28.0d
+		}
+		{
+			dependencies: ["1B27023083CAC8C9"]
+			id: "1B0A00060E62F34C"
+			rewards: [
+				{
+					id: "1C48FF8E3D980B72"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "39578FE7B0A220DB"
+					item: {
+						count: 1
+						id: "grimsoul:soul_forge_casing"
+					}
+					type: "item"
+					count: 24L
+				}
+			]
+			x: 5.0d
+			y: 28.0d
+		}
+		{
+			dependencies: ["1B0A00060E62F34C"]
+			id: "3BC5170127E57102"
+			rewards: [
+				{
+					id: "2A3C0A2B4824DD19"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "145A24A830F87141"
+					item: {
+						count: 1
+						id: "grimsoul:soul_forge"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 28.0d
+		}
+		{
+			dependencies: ["3BC5170127E57102"]
+			id: "007D39294E0B0A5F"
+			rewards: [
+				{
+					id: "35B72B3CA26A94CA"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1572AACF61BFCD8C"
+					item: {
+						count: 1
+						id: "grimsoul:boss_core_card"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 28.0d
+		}
+		{
+			dependencies: [
+				"007D39294E0B0A5F"
+				"1A68E7CCF9AAC103"
+				"1A87C9A5C997D8DC"
+				"16D818BEC72FD4C3"
+				"5A75C637E1D42E04"
+				"1266578039723930"
+				"6AFAB8952B89334A"
+			]
+			id: "192BF222A7420B2D"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "12B288D12DFF0649"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "18F89BE90F94236D"
+					item: {
+						count: 1
+						id: "grimsoul:reaper_block"
+					}
+					type: "item"
+				}
+				{
+					id: "158B30DE6CE946AF"
+					item: {
+						count: 1
+						id: "grimsoul:essence_spawner"
+					}
+					type: "item"
+				}
+				{
+					id: "02E23CD27A3BEDC1"
+					item: {
+						count: 1
+						id: "grimsoul:simulation_chamber"
+					}
+					type: "item"
+				}
+				{
+					id: "1C144D84B7F2D9D7"
+					item: {
+						count: 1
+						id: "grimsoul:soul_forge"
+					}
+					type: "item"
+				}
+				{
+					id: "267808200FF00D51"
+					item: {
+						count: 1
+						id: "grimsoul:energy_cell"
+					}
+					type: "item"
+				}
+			]
+			x: 20.5d
+			y: 14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6BBA6146985EE68C"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "021B4076543D697A"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -3.0d
+		}
+	]
+}

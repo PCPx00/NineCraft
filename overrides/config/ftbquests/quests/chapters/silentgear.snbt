@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 9.0d
 			x: 3.5d
-			y: -8.0d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: 0.0d
+			y: 10.5d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 14.0d
-			y: -2.5d
+			x: 17.0d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 5.0d
-			y: 7.0d
+			x: 6.5d
+			y: 24.5d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,24 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 14.0d
-			y: 2.5d
+			x: 17.0d
+			y: 20.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/silentgear_0.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 2.25d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/silentgear_1.png"
+			rotation: 0.0d
+			width: 9.5d
+			x: 3.5d
+			y: 12.5d
 		}
 	]
 	order_index: 3
@@ -101,7 +117,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["7928E8F4133A05DB"]
@@ -124,7 +140,7 @@
 				}
 			]
 			x: 2.5d
-			y: -3.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["7928E8F4133A05DB"]
@@ -147,11 +163,12 @@
 				}
 			]
 			x: 2.5d
-			y: -2.0d
+			y: 0.5d
 		}
 		{
-			dependencies: ["7928E8F4133A05DB"]
+			dependencies: ["1A6F8332F9261FB7", "5BD392B78EB6FE41"]
 			id: "75052CF638FBC672"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "1589D2A8530DEAD6"
@@ -169,8 +186,8 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: 0.0d
+			x: 0.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["75052CF638FBC672"]
@@ -192,8 +209,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -2.0d
+			x: 2.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["75052CF638FBC672"]
@@ -215,8 +232,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 0.0d
+			x: 2.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["00645BCBB6646A00", "12749D8D1F543072"]
@@ -240,8 +257,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -1.0d
+			x: 5.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["1ABCE788EE80ED18"]
@@ -263,8 +280,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -1.0d
+			x: 7.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["7928E8F4133A05DB"]
@@ -287,7 +304,7 @@
 				}
 			]
 			x: 2.5d
-			y: 2.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["7928E8F4133A05DB"]
@@ -334,8 +351,378 @@
 					type: "item"
 				}
 			]
+			x: 2.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["5A788FC5B2504748"]
+			id: "4554CCEFA87669B3"
+			rewards: [
+				{
+					id: "54F4486DB5E0F5A5"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "497D44A3F5980918"
+					item: {
+						count: 1
+						id: "silentgear:grip_blueprint"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5A788FC5B2504748", "120E5C08CCBC09BB"]
+			id: "14471D77C80AF62F"
+			rewards: [
+				{
+					id: "138104220D1DB6CD"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "48F584F1F49EFB71"
+					item: {
+						count: 1
+						id: "silentgear:binding_blueprint"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5A788FC5B2504748"]
+			id: "1A1E22549CF76985"
+			rewards: [
+				{
+					id: "1D163D55F47C7D4A"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "162683DD7721D815"
+					item: {
+						count: 1
+						id: "silentgear:coating_blueprint"
+					}
+					type: "item"
+				}
+			]
 			x: 5.0d
 			y: 2.0d
+		}
+		{
+			dependencies: ["7928E8F4133A05DB"]
+			id: "120E5C08CCBC09BB"
+			rewards: [
+				{
+					id: "1D0A1276913471DF"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "05BA8338A3F14E9A"
+					item: {
+						count: 1
+						id: "silentgear:flax_seeds"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["75052CF638FBC672"]
+			id: "131C55588ECC7557"
+			rewards: [
+				{
+					id: "676C725ECA9CBEBC"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1A2056FCBE370DF2"
+					item: {
+						count: 1
+						id: "silentgear:recrystallizer"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["7928E8F4133A05DB"]
+			id: "5BD392B78EB6FE41"
+			rewards: [
+				{
+					id: "1F8A4E7C26960B85"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "18B3BE421441EF65"
+					item: {
+						count: 1
+						id: "silentgear:azure_silver_dust"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["75052CF638FBC672"]
+			id: "188FF48D76AF221B"
+			rewards: [
+				{
+					id: "1DC47992C269C243"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1746801E1525EAEB"
+					item: {
+						count: 1
+						id: "silentgear:blaze_gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 21.0d
+		}
+		{
+			dependencies: ["7928E8F4133A05DB"]
+			id: "1A6F8332F9261FB7"
+			rewards: [
+				{
+					id: "40DD1D0A537CACB4"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "3E944201779C93B3"
+					item: {
+						count: 1
+						id: "silentgear:crimson_iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["7AC12F104FD7BD4A"]
+			id: "1084AC1BAD1EEE8B"
+			rewards: [
+				{
+					id: "1ADDC72F3B35EC72"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3B0AA998D160CA35"
+					item: {
+						count: 1
+						id: "silentgear:starmetal_dust"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["17D1FEEAA9BFD332"]
+			id: "4354A90C9FC79E4E"
+			rewards: [
+				{
+					id: "17ABBD05863D1589"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "12C8EDFDD4A8BA8D"
+					item: {
+						count: 1
+						id: "silentgear:sturdy_repair_kit"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1ABCE788EE80ED18"]
+			id: "3279A221ABF755C9"
+			optional: true
+			rewards: [
+				{
+					id: "168285D531CEBC35"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "50051D529B7BA804"
+					item: {
+						count: 1
+						id: "silentgear:elytra_blueprint"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["5A788FC5B2504748"]
+			id: "529E8B25CE2B3F0D"
+			optional: true
+			rewards: [
+				{
+					id: "2662D750D78EF975"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "031ABC219A2BBBAA"
+					item: {
+						count: 1
+						id: "silentgear:mace_blueprint"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1D68FA8E5D527A4A"]
+			id: "16B8EFF76D419F24"
+			optional: true
+			rewards: [
+				{
+					id: "13D00922788BC164"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1DFCE79D47D2E71E"
+					item: {
+						count: 1
+						id: "sgearmetalworks:sword_cast"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["16B8EFF76D419F24"]
+			id: "13C749CFE65E4E12"
+			optional: true
+			rewards: [
+				{
+					id: "6A29729854E1F7F4"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5D35F57179FAD569"
+					item: {
+						count: 1
+						id: "sgearmetalworks:uru_metal_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 18.5d
+		}
+		{
+			dependencies: ["1084AC1BAD1EEE8B", "15CE404D444D921A", "14471D77C80AF62F"]
+			id: "6FF24E8CA08DA51E"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "28EDADA49686CDEB"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "52A16968AEDE64A4"
+					item: {
+						count: 1
+						id: "silentgear:tyrian_steel_ingot"
+					}
+					type: "item"
+					count: 8L
+				}
+				{
+					id: "1416F05720DCBFA7"
+					item: {
+						count: 1
+						id: "silentgear:starlight_charger"
+					}
+					type: "item"
+				}
+				{
+					id: "13226CCA85478A59"
+					item: {
+						count: 1
+						id: "silentgear:material_grader"
+					}
+					type: "item"
+				}
+			]
+			x: 13.0d
+			y: 10.5d
 		}
 		{
 			icon: {
@@ -354,7 +741,7 @@
 				}
 			]
 			x: -3.0d
-			y: -6.5d
+			y: -3.0d
 		}
 	]
 }

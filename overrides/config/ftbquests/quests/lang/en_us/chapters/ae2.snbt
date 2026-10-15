@@ -1,100 +1,417 @@
 {
-	quest.04969923B53980AA.quest_desc: ["Charged certus, redstone and quartz dropped in water."]
+	quest.04969923B53980AA.quest_desc: [
+		"Charged certus, redstone and quartz dropped in water."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Fluix Crystal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.04969923B53980AA.title: "Fluix Crystal"
-	quest.0E76435DAF878D0C.quest_desc: ["The center of a real network. Channels start here."]
+	quest.0A7151068ECFEBB1.quest_desc: [
+		"Queue huge crafting jobs."
+		""
+		"§e§lHow to complete:§r Craft or make 64k Crafting Storage and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.0A7151068ECFEBB1.title: "64k Crafting Storage"
+	quest.0E76435DAF878D0C.quest_desc: [
+		"The center of a real network. Channels start here."
+		""
+		"§e§lHow to complete:§r Craft or make ME Controller and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.0E76435DAF878D0C.title: "ME Controller"
-	quest.105B9567FF39D409.quest_desc: ["Every wireless terminal in one item."]
+	quest.105B9567FF39D409.quest_desc: [
+		"Every wireless terminal in one item."
+		""
+		"§e§lHow to complete:§r Craft or make Wireless Universal Terminal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.105B9567FF39D409.title: "Universal Terminal"
-	quest.12766819DBE6785F.quest_desc: ["Carries 32 channels."]
+	quest.111E9BE9AB6DC6BB.quest_desc: [
+		"Set filters and upgrades on cells."
+		""
+		"§e§lHow to complete:§r Craft or make Cell Workbench and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.111E9BE9AB6DC6BB.title: "Cell Workbench"
+	quest.12766819DBE6785F.quest_desc: [
+		"Carries 32 channels."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Fluix ME Dense Covered Cable and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.12766819DBE6785F.title: "Dense Cable"
-	quest.12DCFDB9AB62B329.quest_desc: ["Holds storage cells."]
+	quest.12DCFDB9AB62B329.quest_desc: [
+		"Holds storage cells."
+		""
+		"§e§lHow to complete:§r Craft or make ME Drive and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.12DCFDB9AB62B329.title: "ME Drive"
-	quest.137333A41FB9A1BE.quest_desc: ["Pulls items into the network."]
+	quest.137333A41FB9A1BE.quest_desc: [
+		"Pulls items into the network."
+		""
+		"§e§lHow to complete:§r Craft or make ME Import Bus and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.137333A41FB9A1BE.title: "Import Bus"
-	quest.15645775DA8DD198.quest_desc: ["Craft straight from storage."]
+	quest.1397C127C525CE4E.quest_desc: [
+		"Copy settings between devices."
+		""
+		"§e§lHow to complete:§r Craft or make Memory Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1397C127C525CE4E.title: "Memory Card"
+	quest.13A5180ED0939292.quest_desc: [
+		"Speed up your crafting CPU."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Crafting Co-Processing Unit and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.13A5180ED0939292.title: "Co-Processors"
+	quest.14FB7E365B50CD62.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Wireless Crafting Terminal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.14FB7E365B50CD62.title: "Wireless Crafting Terminal"
+	quest.155EC9C11DDDF306.quest_desc: [
+		"Watch your CPU work."
+		""
+		"§e§lHow to complete:§r Craft or make Crafting Monitor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.155EC9C11DDDF306.title: "Crafting Monitor"
+	quest.15645775DA8DD198.quest_desc: [
+		"Craft straight from storage."
+		""
+		"§e§lHow to complete:§r Craft or make ME Crafting Terminal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.15645775DA8DD198.title: "Crafting Terminal"
 	quest.163E7BF6D65FB016.quest_desc: [
-		"&dNine Craft Quest Book&r"
+		"§dNine Craft Quest Book§r"
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.163E7BF6D65FB016.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.163E7BF6D65FB016.title: "&5Nine Craft&r - Quest Book Notice"
-	quest.16726200700D6ECB.quest_desc: ["Link networks across dimensions."]
+	quest.163E7BF6D65FB016.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.16726200700D6ECB.quest_desc: [
+		"Link networks across dimensions."
+		""
+		"§e§lHow to complete:§r Craft or make ME Quantum Ring and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.16726200700D6ECB.title: "Quantum Bridge"
-	quest.17661B183611F298.quest_desc: ["Send channels, items, fluids or power across your base."]
+	quest.16B58045373D541D.quest_desc: [
+		"Turns junk items into singularities."
+		""
+		"§e§lHow to complete:§r Craft or make Matter Condenser and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.16B58045373D541D.title: "Matter Condenser"
+	quest.16D3639C14F6C9AB.quest_desc: [
+		"A full controller setup, a big CPU, top-tier cells and wireless crafting."
+		""
+		"§e§lHow to complete:§r Craft or make ME Controller, 64k Crafting Storage, 256k ME Item Storage Cell and Wireless Crafting Terminal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.16D3639C14F6C9AB.title: "ME Master"
+	quest.171A6F5477D5FEBD.quest_desc: [
+		"Pick up whole areas and store them in a cell."
+		""
+		"§e§lHow to complete:§r Craft or make Spatial IO Port and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.171A6F5477D5FEBD.title: "Spatial IO"
+	quest.17661B183611F298.quest_desc: [
+		"Send channels, items, fluids or power across your base."
+		""
+		"§e§lHow to complete:§r Craft or make ME P2P Tunnel and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.17661B183611F298.title: "P2P Tunnels"
-	quest.199E4DBFD9D82733.quest_desc: ["Speeds up quartz buds next to it."]
+	quest.18FB660089BCD1A5.quest_desc: [
+		"Stores power for the network."
+		""
+		"§e§lHow to complete:§r Craft or make Energy Cell and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.18FB660089BCD1A5.title: "Energy Cell"
+	quest.199E4DBFD9D82733.quest_desc: [
+		"Speeds up quartz buds next to it."
+		""
+		"§e§lHow to complete:§r Craft or make Growth Accelerator and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.199E4DBFD9D82733.title: "Growth Accelerator"
-	quest.1A857B253402708E.quest_desc: ["A multiblock that plans and runs autocrafting jobs."]
+	quest.19D00E462BB9B6AD.quest_desc: [
+		"Places or drops items from the network into the world."
+		""
+		"§e§lHow to complete:§r Craft or make ME Formation Plane and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.19D00E462BB9B6AD.title: "Formation Plane"
+	quest.1A857B253402708E.quest_desc: [
+		"A Crafting CPU is a multiblock of Crafting Storage blocks (and optional Co-Processing Units). Bigger storage lets you queue bigger crafts. Build it touching your network."
+		""
+		"§e§lHow to complete:§r Craft or make 1k Crafting Storage and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1A857B253402708E.title: "Crafting CPU"
+	quest.1AB9EAB6CB9AA075.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Logic Processor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1AB9EAB6CB9AA075.title: "Logic Processor"
-	quest.1B81A017B730ACF7.quest_desc: ["Pushes items out."]
+	quest.1B81A017B730ACF7.quest_desc: [
+		"Pushes items out."
+		""
+		"§e§lHow to complete:§r Craft or make ME Export Bus and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1B81A017B730ACF7.title: "Export Bus"
-	quest.1CB34F0E32705186.quest_desc: ["Now we're talking."]
+	quest.1BC14FC2E6D3EA0D.quest_desc: [
+		"The core of a quantum bridge."
+		""
+		"§e§lHow to complete:§r Craft or make ME Quantum Link Chamber and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1BC14FC2E6D3EA0D.title: "Quantum Link"
+	quest.1C1FF086C31C7018.quest_desc: [
+		"More filter slots."
+		""
+		"§e§lHow to complete:§r Craft or make Capacity Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1C1FF086C31C7018.title: "Capacity Card"
+	quest.1CB34F0E32705186.quest_desc: [
+		"Now we're talking."
+		""
+		"§e§lHow to complete:§r Craft or make 64k ME Item Storage Cell and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1CB34F0E32705186.title: "64k Storage Cell"
-	quest.1D168A2B8C2641C3.quest_desc: ["Use terminals away from the network."]
+	quest.1D168A2B8C2641C3.quest_desc: [
+		"Use terminals away from the network."
+		""
+		"§e§lHow to complete:§r Craft or make ME Wireless Access Point and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1D168A2B8C2641C3.title: "Wireless Access Point"
-	quest.1E12AFC32D010EE4.quest_desc: ["Store energy in your ME network like items."]
+	quest.1D68696201E8A3EE.quest_desc: [
+		"Emits redstone when an item count is above or below a number."
+		""
+		"§e§lHow to complete:§r Craft or make ME Level Emitter and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1D68696201E8A3EE.title: "Level Emitter"
+	quest.1DE3F4859F76F517.quest_desc: [
+		"Let the network see into a chest or drawer wall."
+		""
+		"§e§lHow to complete:§r Craft or make ME Storage Bus and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1DE3F4859F76F517.title: "Storage Bus"
+	quest.1E12AFC32D010EE4.quest_desc: [
+		"Store energy in your ME network like items."
+		""
+		"§e§lHow to complete:§r Craft or make Charged Redstone Crystal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.1E12AFC32D010EE4.title: "Applied Flux"
-	quest.1EA5589EA91E951F.quest_desc: ["Your first storage cell."]
+	quest.1E88B22DC556CDC0.quest_desc: [
+		"Transfers power without channels."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Quartz Fiber and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1E88B22DC556CDC0.title: "Quartz Fiber"
+	quest.1EA5589EA91E951F.quest_desc: [
+		"Your first storage cell."
+		""
+		"§e§lHow to complete:§r Craft or make 1k ME Item Storage Cell and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1EA5589EA91E951F.title: "1k Storage Cell"
+	quest.1EB926360EDFD775.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Engineering Processor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1EB926360EDFD775.title: "Engineering Processor"
-	quest.1F11A984246BA50A.quest_desc: ["A two-way doorway for machines."]
+	quest.1F11A984246BA50A.quest_desc: [
+		"A two-way doorway for machines."
+		""
+		"§e§lHow to complete:§r Craft or make ME Interface and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1F11A984246BA50A.title: "Interface"
-	quest.1F1FC684B1ECD7DA.quest_desc: ["Charge certus in a charger."]
+	quest.1F1FC684B1ECD7DA.quest_desc: [
+		"Charge certus in a charger."
+		""
+		"§e§lHow to complete:§r Craft or make Charged Certus Quartz Crystal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1F1FC684B1ECD7DA.title: "Charged Certus"
-	quest.20C7912F9093EDB3.quest_desc: ["Connects everything. Each cable carries 8 channels."]
+	quest.1F6C3847B38F5EBD.quest_desc: [
+		"Edit all your patterns from one place."
+		""
+		"§e§lHow to complete:§r Craft or make ME Pattern Access Terminal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1F6C3847B38F5EBD.title: "Pattern Access Terminal"
+	quest.20C7912F9093EDB3.quest_desc: [
+		"§eChannels:§r every device (terminal, bus, interface) needs one channel. A normal cable carries 8 channels, a dense cable carries 32. Without a controller, a network gets 8 channels total."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Fluix ME Glass Cable and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.20C7912F9093EDB3.title: "Fluix Cable"
 	quest.223BB077BAB52743.quest_desc: [
-		"Grows from budding certus. Mine it in meteorites and grow more at home."
+		"Certus quartz grows from Budding Certus blocks found in meteorites. Place the budding block, wait for clusters to grow on its sides and break them when they're fully grown."
+		""
+		"§eTip:§r a Growth Accelerator next to the budding block speeds this up a lot."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 16 x Certus Quartz Crystal and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.223BB077BAB52743.title: "Certus Quartz"
-	quest.2AEF6BAC8E159321.quest_desc: ["Write patterns here."]
+	quest.2AEF6BAC8E159321.quest_desc: [
+		"Write patterns here."
+		""
+		"§e§lHow to complete:§r Craft or make ME Pattern Encoding Terminal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.2AEF6BAC8E159321.title: "Pattern Encoding Terminal"
-	quest.2F6A62F1705C49B5.quest_desc: ["Shows how many channels are in use."]
+	quest.2B7C634A96BD1982.quest_desc: [
+		"Budding quartz that never decays. Found in meteorites, and the key to endless certus."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Flawless Budding Certus Quartz and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.2B7C634A96BD1982.title: "Flawless Budding Quartz"
+	quest.2EA1CFA6324F9F25.quest_desc: [
+		"Store fluids in AE2 too."
+		""
+		"§e§lHow to complete:§r Craft or make 1k ME Fluid Storage Cell and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.2EA1CFA6324F9F25.title: "Fluid Cell"
+	quest.2F6A62F1705C49B5.quest_desc: [
+		"Shows how many channels are in use."
+		""
+		"§e§lHow to complete:§r Craft or make 8 x Fluix ME Smart Cable and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.2F6A62F1705C49B5.title: "Smart Cable"
-	quest.324451733F90CCB3.quest_desc: ["Four times bigger."]
+	quest.324451733F90CCB3.quest_desc: [
+		"Four times bigger."
+		""
+		"§e§lHow to complete:§r Craft or make 4k ME Item Storage Cell and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.324451733F90CCB3.title: "4k Storage Cell"
+	quest.37C41ADA6A7F0E0D.quest_desc: [
+		"Huge MEGA cells for the late game."
+		""
+		"§e§lHow to complete:§r Craft or make 16M MEGA Storage Component and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.37C41ADA6A7F0E0D.title: "16M Component"
 	quest.3A9E19AA57275B7A.quest_desc: [
-		"Points to the nearest meteorite, where you'll find the inscriber presses."
+		"Craft the Meteorite Compass and follow it. Meteorites are craters of sky stone with a buried chest in the middle containing all four inscriber presses."
+		""
+		"§e§lHow to complete:§r Craft or make Meteorite Compass and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.3A9E19AA57275B7A.title: "Meteorite Compass"
-	quest.3AB4372D64BA95D0.quest_desc: ["Prints circuits with the presses."]
+	quest.3AB4372D64BA95D0.quest_desc: [
+		"Prints circuits with the presses."
+		""
+		"§e§lHow to complete:§r Craft or make Inscriber and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.3AB4372D64BA95D0.title: "Inscriber"
-	quest.3D7D9C0FBD305C08.quest_desc: ["Crafts patterns automatically."]
+	quest.3D7D9C0FBD305C08.quest_desc: [
+		"Crafts patterns automatically."
+		""
+		"§e§lHow to complete:§r Craft or make Molecular Assembler and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.3D7D9C0FBD305C08.title: "Molecular Assembler"
-	quest.4303F4A206826597.quest_desc: ["Recipes for autocrafting are written on patterns."]
+	quest.4303F4A206826597.quest_desc: [
+		"Recipes for autocrafting are written on patterns."
+		""
+		"§e§lHow to complete:§r Craft or make 16 x Blank Pattern and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.4303F4A206826597.title: "Patterns"
-	quest.44111A7B6CA8DB4E.quest_desc: ["Sends ingredients to machines for processing recipes."]
+	quest.44111A7B6CA8DB4E.quest_desc: [
+		"Sends ingredients to machines for processing recipes."
+		""
+		"§e§lHow to complete:§r Craft or make ME Pattern Provider and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.44111A7B6CA8DB4E.title: "Pattern Provider"
 	quest.4466FD8440301CCB.quest_desc: [
 		"MEGA adds cells into the millions and bulk cells for single items."
+		""
+		"§e§lHow to complete:§r Craft or make 1M MEGA Storage Component and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
 	]
 	quest.4466FD8440301CCB.title: "MEGA Cells"
-	quest.4A394A117E12E083.quest_desc: ["Charges certus and tools."]
+	quest.44DABA11DB303C84.quest_desc: [
+		"Needed for the quantum bridge."
+		""
+		"§e§lHow to complete:§r Craft or make Singularity and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.44DABA11DB303C84.title: "Singularity"
+	quest.450EDFE36F0008BF.quest_desc: [
+		"Breaks blocks and picks up items into the network."
+		""
+		"§e§lHow to complete:§r Craft or make ME Annihilation Plane and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.450EDFE36F0008BF.title: "Annihilation Plane"
+	quest.4A394A117E12E083.quest_desc: [
+		"Charges certus and tools."
+		""
+		"§e§lHow to complete:§r Craft or make Charger and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.4A394A117E12E083.title: "Charger"
 	quest.4B3A433ABAA59EF7.quest_desc: [
-		"AE2 stores items as data on drives. Once it's running you'll never sort a chest again. It needs channels, power and a little planning."
+		"Applied Energistics 2 turns items into data stored on drives. Once it's running you'll never sort a chest again, and it can autocraft almost anything."
+		""
+		"§eThe path:§r find a meteorite, grow certus quartz, print processors, then build a controller, drive and terminal. Later you'll learn channels, autocrafting and wireless access. Some nether quartz gets you started."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 16 x Nether Quartz and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.4B3A433ABAA59EF7.title: "Matter as Energy"
+	quest.4BC1F9E660D84E34.quest_desc: [
+		"Takes FE from any generator into AE2."
+		""
+		"§e§lHow to complete:§r Craft or make Energy Acceptor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4BC1F9E660D84E34.title: "Energy Acceptor"
+	quest.4C3AC8BA55BC0929.quest_desc: [
+		"Makes buses and assemblers faster."
+		""
+		"§e§lHow to complete:§r Craft or make 2 x Acceleration Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4C3AC8BA55BC0929.title: "Speed Card"
+	quest.5134BFFD696051C5.quest_desc: [
+		"See channel usage and wrench parts."
+		""
+		"§e§lHow to complete:§r Craft or make Network Tool and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5134BFFD696051C5.title: "Network Tool"
+	quest.5937C180B7D8D48D.quest_desc: [
+		"Every storage cell is a component in a housing."
+		""
+		"§e§lHow to complete:§r Craft or make ME Item Cell Housing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5937C180B7D8D48D.title: "Cell Housing"
+	quest.5C44415A8768F0F6.quest_desc: [
+		"Extends access point range."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Wireless Booster and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5C44415A8768F0F6.title: "Wireless Booster"
+	quest.63E18A5622FBD36B.quest_desc: [
+		"Lets export buses request crafts."
+		""
+		"§e§lHow to complete:§r Craft or make Crafting Card and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.63E18A5622FBD36B.title: "Crafting Card"
+	quest.66CD628B8383CA39.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Calculation Processor and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.66CD628B8383CA39.title: "Calculation Processor"
-	quest.6D76517FED36D882.quest_desc: ["Your network in your pocket."]
+	quest.6B713C10A945E442.quest_desc: [
+		"§e§lHow to complete:§r Craft or make 1k ME Storage Component and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.6B713C10A945E442.title: "1k Component"
+	quest.6D76517FED36D882.quest_desc: [
+		"Your network in your pocket."
+		""
+		"§e§lHow to complete:§r Craft or make Wireless Terminal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.6D76517FED36D882.title: "Wireless Terminal"
-	quest.6E924B3D6E5C9462.quest_desc: ["See everything on the network."]
+	quest.6E924B3D6E5C9462.quest_desc: [
+		"See everything on the network."
+		""
+		"§e§lHow to complete:§r Craft or make ME Terminal and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.6E924B3D6E5C9462.title: "ME Terminal"
-	quest.7402F96EADADC721.quest_desc: ["The biggest AE2 cell."]
+	quest.7402F96EADADC721.quest_desc: [
+		"The biggest AE2 cell."
+		""
+		"§e§lHow to complete:§r Craft or make 256k ME Item Storage Cell and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.7402F96EADADC721.title: "256k Storage Cell"
 	quest.7F2B005048340439.quest_desc: [
 		"Meteorites are made of sky stone. Loot the chest inside for presses."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Sky Stone and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.7F2B005048340439.title: "Sky Stone"
-	quest.7FAE3135F89868A4.quest_desc: ["The base of every processor."]
+	quest.7FAE3135F89868A4.quest_desc: [
+		"The base of every processor."
+		""
+		"§e§lHow to complete:§r Craft or make Printed Silicon and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.7FAE3135F89868A4.title: "Printed Silicon"
 }

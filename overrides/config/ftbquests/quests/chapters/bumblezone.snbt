@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 11.25d
 			x: 4.625d
-			y: -9.0d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: 0.0d
+			y: 10.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 14.0d
-			y: -3.5d
+			x: 14.5d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -44,7 +44,7 @@
 			rotation: -8.0d
 			width: 3.5d
 			x: 5.0d
-			y: 8.0d
+			y: 23.5d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,24 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 14.0d
-			y: 3.5d
+			x: 14.5d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/bumblezone_0.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 3.25d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/bumblezone_1.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 2.75d
+			y: 16.5d
 		}
 	]
 	order_index: 1
@@ -92,7 +108,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["072097DEFCE90D1C"]
@@ -123,7 +139,7 @@
 				}
 			]
 			x: 2.5d
-			y: 0.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["13A60858F300755B"]
@@ -146,7 +162,7 @@
 				}
 			]
 			x: 5.0d
-			y: -4.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["13A60858F300755B"]
@@ -170,7 +186,7 @@
 				}
 			]
 			x: 5.0d
-			y: -2.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["1DB514A169ADF638"]
@@ -193,7 +209,7 @@
 				}
 			]
 			x: 7.5d
-			y: -3.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["13A60858F300755B"]
@@ -217,7 +233,7 @@
 				}
 			]
 			x: 5.0d
-			y: -1.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["1301505AA64A29F7"]
@@ -240,7 +256,7 @@
 				}
 			]
 			x: 7.5d
-			y: -1.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["1301505AA64A29F7"]
@@ -263,7 +279,7 @@
 				}
 			]
 			x: 7.5d
-			y: 0.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["13A60858F300755B"]
@@ -286,11 +302,12 @@
 				}
 			]
 			x: 5.0d
-			y: 1.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["13A60858F300755B"]
 			id: "16A90AF2B13B8E48"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "7110790718AB6607"
@@ -308,8 +325,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 2.5d
+			x: 0.0d
+			y: 19.5d
 		}
 		{
 			dependencies: ["16A90AF2B13B8E48"]
@@ -333,8 +350,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 2.0d
+			x: 2.5d
+			y: 18.5d
 		}
 		{
 			dependencies: ["13A60858F300755B"]
@@ -358,7 +375,7 @@
 				}
 			]
 			x: 5.0d
-			y: 4.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["1F6004C52E3BA6EE"]
@@ -381,8 +398,318 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 2.0d
+			x: 5.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["13A60858F300755B"]
+			id: "17E0AC3EBCC4C169"
+			rewards: [
+				{
+					id: "664223BA2703A2BD"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "26AFA33538D53A47"
+					item: {
+						count: 1
+						id: "the_bumblezone:pollen_puff"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 5.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["13A60858F300755B"]
+			id: "21039FAD43FEAFBB"
+			rewards: [
+				{
+					id: "1B7AFCB52E5C8EF2"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "1ADD6349D0CD467F"
+					item: {
+						count: 1
+						id: "the_bumblezone:porous_honeycomb_block"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 5.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["21039FAD43FEAFBB"]
+			id: "143418DD36424AF0"
+			rewards: [
+				{
+					id: "1D4E8B125881B3A6"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "1D5C953C1EEB9F2B"
+					item: {
+						count: 1
+						id: "the_bumblezone:honeycomb_brood_block"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["13A60858F300755B"]
+			id: "1B2EFC456B6E747E"
+			rewards: [
+				{
+					id: "1CD274A81B08CCC1"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "1C00DF056D27C166"
+					item: {
+						count: 1
+						id: "the_bumblezone:sugar_water_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["13A60858F300755B"]
+			id: "1EE0C4B0C2BF6BE3"
+			rewards: [
+				{
+					id: "10465797A7F61ECF"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					entity: "the_bumblezone:honey_slime"
+					id: "378ADB6C2AE5F15E"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 5.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["16A90AF2B13B8E48"]
+			id: "65A40FEE6A9F3AF3"
+			rewards: [
+				{
+					id: "14E05F8DA5EBA805"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [
+				{
+					id: "12F1364E2289CC58"
+					item: {
+						count: 1
+						id: "the_bumblezone:royal_jelly_block"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["17BFC4499D749DAB"]
+			id: "0D9D50B7D774C3FC"
+			rewards: [
+				{
+					id: "1E2BCE1BA578920E"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "185FC0CCDA1E5ED7"
+					item: {
+						count: 1
+						id: "the_bumblezone:stingless_bee_helmet_1"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["17BFC4499D749DAB"]
+			id: "10CD385F8BCC1985"
+			rewards: [
+				{
+					id: "18BEF9E02C818CAD"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "16B518A61B9F6246"
+					item: {
+						count: 1
+						id: "the_bumblezone:carpenter_bee_boots_1"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["17BFC4499D749DAB"]
+			id: "199ECCDF1701FD3F"
+			rewards: [
+				{
+					id: "16AFFC47947EE2E5"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "17761117F56D75E2"
+					item: {
+						count: 1
+						id: "the_bumblezone:honey_bee_leggings_1"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["1DB514A169ADF638"]
+			id: "7561EF10B50E6584"
+			rewards: [
+				{
+					id: "130683D1BDAB1B3D"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "40A61D7DD4FDF427"
+					item: {
+						count: 1
+						id: "the_bumblezone:crystal_cannon"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1F6004C52E3BA6EE"]
+			id: "5CF8A1FC11FCA2DF"
+			rewards: [
+				{
+					id: "22BE1D00D682FFA2"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [
+				{
+					id: "747449229CD3B3AA"
+					item: {
+						count: 1
+						id: "the_bumblezone:essence_raging"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 19.5d
+		}
+		{
+			dependencies: [
+				"5CF8A1FC11FCA2DF"
+				"7561EF10B50E6584"
+				"0D9D50B7D774C3FC"
+				"6EDBF622DC0AF4B8"
+				"71BCAAD5720F083B"
+				"1EF1EA56A34702BC"
+			]
+			id: "104A46BA35CEA0DB"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "4A857106D74DFCDA"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "14512876CBF54BE4"
+					item: {
+						count: 1
+						id: "the_bumblezone:essence_of_the_bees"
+					}
+					type: "item"
+				}
+				{
+					id: "14C2DF76EB4406DF"
+					item: {
+						count: 1
+						id: "the_bumblezone:bee_cannon"
+					}
+					type: "item"
+				}
+				{
+					id: "49F5F5F9C184BA04"
+					item: {
+						count: 1
+						id: "the_bumblezone:honey_crystal_shield"
+					}
+					type: "item"
+				}
+				{
+					id: "6FC939FB2AA180D6"
+					item: {
+						count: 1
+						id: "the_bumblezone:stinger_spear"
+					}
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: 10.0d
 		}
 		{
 			icon: {
@@ -401,7 +728,7 @@
 				}
 			]
 			x: -3.0d
-			y: -7.5d
+			y: -3.0d
 		}
 	]
 }

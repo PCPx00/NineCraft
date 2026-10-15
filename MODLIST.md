@@ -1,6 +1,6 @@
 # 📜 Nine Craft Mod List
 
-Nine Craft **v2.0.2** runs on **Minecraft 1.21.1** with **NeoForge 21.1.250** and includes **504 mods**.
+Nine Craft **v2.5.0** runs on **Minecraft 1.21.1** with **NeoForge 21.1.250** and includes **512 mods**.
 
 This list is generated from the pack's `modlist.html`. Every mod belongs to its author; Nine Craft only references them, and CurseForge downloads each one from its official project page.
 
@@ -135,380 +135,388 @@ This list is generated from the pack's `modlist.html`. Every mod belongs to its 
 | 127 | [Cyclops Core](https://www.curseforge.com/minecraft/mc-mods/cyclops-core) | kroeser |
 | 128 | [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) | DarkhaxDev |
 | 129 | [DarkSmithing - RPG Smithing Template Recipes (Armor Trims)](https://www.curseforge.com/minecraft/mc-mods/darksmithing) | GamerPotion |
-| 130 | [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) | BlayTheNinth |
-| 131 | [Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table) | Lupin |
-| 132 | [Disable ingame tutorial](https://www.curseforge.com/minecraft/mc-mods/disable-ingame-tutorial) | Toma |
-| 133 | [DontCrashTom (Fixes for Tom's Simple Storage Mod)](https://www.curseforge.com/minecraft/mc-mods/dontcrashtom-fixes-for-toms-simple-storage-mod) | Navrelis |
-| 134 | [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) | brandon3055 |
-| 135 | [Draconic Evolution Render Patcher](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution-render-patcher) | yrley |
-| 136 | [Dragon Scale [More Magic Series]](https://www.curseforge.com/minecraft/mc-mods/dragon-scale) | Carlogamer |
-| 137 | [Dragonsteel & Star Alloy [Magical Metallurgy Series]](https://www.curseforge.com/minecraft/mc-mods/dragonsteel-more-magic-series) | Carlogamer |
-| 138 | [Drippy Early Loading Module](https://www.curseforge.com/minecraft/mc-mods/drippy-early-loading-module) | Keksuccino |
-| 139 | [Drippy Loading Screen](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen) | Keksuccino |
-| 140 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | juliand665 |
-| 141 | [Easy Disenchanting](https://www.curseforge.com/minecraft/mc-mods/easy-disenchanting) | Txni |
-| 142 | [Easy Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/easy-farmers-delight) | Celerbi |
-| 143 | [Easy Mob Farm](https://www.curseforge.com/minecraft/mc-mods/easy-mob-farm) | Kaworru |
-| 144 | [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) | henkelmax |
-| 145 | [Enchanting Infuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser) | Fuzs |
-| 146 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | DarkhaxDev |
-| 147 | [Enchantment Descriptions Compat](https://www.curseforge.com/minecraft/texture-packs/enchantment-descriptions-compat) | CyberRat2 |
-| 148 | [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) | crazypants_mc_the_second |
-| 149 | [Ender IO × Mob Grinding Utils Compatibility](https://www.curseforge.com/minecraft/mc-mods/ender-io-mob-grinding-utils-compatibility) | sinistar26alpha |
-| 150 | [Ender Storage 1.8.+](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8) | covers1624 |
-| 151 | [Enderman Overhaul](https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul) | joosh_7889 |
-| 152 | [Enhanced Boss Bars](https://www.curseforge.com/minecraft/texture-packs/enhanced-boss-bars) | Nakuring |
-| 153 | [Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling) | tr7zw |
-| 154 | [EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft) | kroeser |
-| 155 | [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) | Chaosyr |
-| 156 | [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting) | BlakeBr0 |
-| 157 | [Extended Industrialization](https://www.curseforge.com/minecraft/mc-mods/extended-industrialization) | swedzish |
-| 158 | [ExtendedAE](https://www.curseforge.com/minecraft/mc-mods/ex-pattern-provider) | GlodBlock |
-| 159 | [Extra Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/extra-hostile-neural-networks) | LMor |
-| 160 | [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) | ZeroNoRyouki |
-| 161 | [Extreme sound muffler - (Neo)Forge](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler) | LeoBeliik |
-| 162 | [Fancy Beds](https://www.curseforge.com/minecraft/texture-packs/fancy-beds) | Agente_511 |
-| 163 | [Fancy World Animations](https://www.curseforge.com/minecraft/mc-mods/fwa) | maDU59_ |
-| 164 | [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) | Keksuccino |
-| 165 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) | vectorwing |
-| 166 | [Farmer's Delight: Extended](https://www.curseforge.com/minecraft/mc-mods/farmersdelight-extended) | EeveeBeby |
-| 167 | [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads) | BlayTheNinth |
-| 168 | [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) | olafskiii |
-| 169 | [FastBoot](https://www.curseforge.com/minecraft/mc-mods/fastboot) | dnlayu |
-| 170 | [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) | Shadows_of_Fire |
-| 171 | [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | malte0811 |
-| 172 | [fix GPU memory leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak) | someaddon |
-| 173 | [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks) | sonar_sonic |
-| 174 | [Flux Networks Ultimate Addon](https://www.curseforge.com/minecraft/mc-mods/flux-networks-ultimate-addon) | gugugaga233 |
-| 175 | [Flux Overdrive](https://www.curseforge.com/minecraft/mc-mods/flux-overdrive) | Aquariverr |
-| 176 | [Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | cesarzorak |
-| 177 | [Formations (Structure Library)](https://www.curseforge.com/minecraft/mc-mods/formations) | SuperMartijn642 |
-| 178 | [Formations Nether](https://www.curseforge.com/minecraft/mc-mods/formations-nether) | SuperMartijn642 |
-| 179 | [Formations Overworld](https://www.curseforge.com/minecraft/mc-mods/formations-overworld) | SuperMartijn642 |
-| 180 | [Framework](https://www.curseforge.com/minecraft/mc-mods/framework) | MrCrayfish |
-| 181 | [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) | FreshLX |
-| 182 | [Fresh Animations: Player Extension](https://www.curseforge.com/minecraft/texture-packs/fa-player-extension) | FreshLX |
-| 183 | [FTB Backups 2](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2) | FTB |
-| 184 | [FTB Chunks (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) | FTB |
-| 185 | [FTB Essentials (Forge & Fabric)](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials) | FTB |
-| 186 | [FTB Filter System](https://www.curseforge.com/minecraft/mc-mods/ftb-filter-system) | FTB |
-| 187 | [FTB Library (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) | FTB |
-| 188 | [FTB Quests (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) | FTB |
-| 189 | [FTB Quests Optimizer](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer) | big_energy |
-| 190 | [FTB Ranks (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge) | FTB |
-| 191 | [FTB Teams (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) | FTB |
-| 192 | [FTB Ultimine (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | FTB |
-| 193 | [Functional Chemical](https://www.curseforge.com/minecraft/mc-mods/functional-chemical) | GlodBlock |
-| 194 | [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage) | Buuz135 |
-| 195 | [Functional Storage: Create & Aero](https://www.curseforge.com/minecraft/mc-mods/functional-storage-create-aero) | Buuz135 |
-| 196 | [Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) | SuperMartijn642 |
-| 197 | [Fzzy Config](https://www.curseforge.com/minecraft/mc-mods/fzzy-config) | fzzyhmstrs |
-| 198 | [Gabou's Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs) | Gaboouu |
-| 199 | [Gadgets Against Grind](https://www.curseforge.com/minecraft/mc-mods/gag) | MaxNeedsSnacks |
-| 200 | [Gateways to Eternity](https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity) | Shadows_of_Fire |
-| 201 | [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib) | Gecko |
-| 202 | [Generator Galore](https://www.curseforge.com/minecraft/mc-mods/generatorgalore) | LobsterJonn |
-| 203 | [Glassential Renewed](https://www.curseforge.com/minecraft/mc-mods/glassential-renewed) | big_energy |
-| 204 | [GlitchCore](https://www.curseforge.com/minecraft/mc-mods/glitchcore) | TheAdubbz |
-| 205 | [Glodium](https://www.curseforge.com/minecraft/mc-mods/glodium) | GlodBlock |
-| 206 | [Grim Soul Industries](https://www.curseforge.com/minecraft/mc-mods/grim-soul-industries) | xTrip |
-| 207 | [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers) | almightytallestred |
-| 208 | [GuideME](https://www.curseforge.com/minecraft/mc-mods/guideme) | shartte |
-| 209 | [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted) | terrariumearth |
-| 210 | [Hostile Neural Industrialization](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-industrialization) | Luligabi12 |
-| 211 | [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks) | Shadows_of_Fire |
-| 212 | [Iceberg [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/iceberg) | Grend_G |
-| 213 | [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | RaphiMC |
-| 214 | [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) | BluSunrize |
-| 215 | [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing) | Buuz135 |
-| 216 | [Industrial Foregoing Souls](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls) | Buuz135 |
-| 217 | [Industrial Foregoing: Additional](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-additional) | MrPup |
-| 218 | [Industrial Foregoing: Extra Upgrades](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-extra-upgrades) | y_xiao233 |
-| 219 | [Industrial Foregoing: Woot Addon](https://www.curseforge.com/minecraft/mc-mods/ifwootaddon) | pharuxtan |
-| 220 | [Industrial Foregoing：More Upgrade Plugins](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-more-upgrade-plugins) | wither_redstone |
-| 221 | [Industrialization Overdrive](https://www.curseforge.com/minecraft/mc-mods/industrialization-overdrive) | WhitePhantom |
-| 222 | [Integrated Crafting](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting) | kroeser |
-| 223 | [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics) | kroeser |
-| 224 | [Integrated Mekanism](https://www.curseforge.com/minecraft/mc-mods/integrated-mekanism) | kroeser |
-| 225 | [Integrated NBT](https://www.curseforge.com/minecraft/mc-mods/integrated-nbt) | scleox |
-| 226 | [Integrated Scripting](https://www.curseforge.com/minecraft/mc-mods/integrated-scripting) | kroeser |
-| 227 | [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals) | kroeser |
-| 228 | [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels) | kroeser |
-| 229 | [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) | cpw |
-| 230 | [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | coderbot |
-| 231 | [Iron Apples: Overhauled](https://www.curseforge.com/minecraft/mc-mods/iron-apples-overhauled) | FluffyMoment |
-| 232 | [Iron Core](https://www.curseforge.com/minecraft/mc-mods/iron-core) | FluffyMoment |
-| 233 | [Iron Furnaces](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces) | XenoMustache |
-| 234 | [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks) | BlakeBr0 |
-| 235 | [Iron's Lib](https://www.curseforge.com/minecraft/mc-mods/irons-lib) | Iron431 |
-| 236 | [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks) | Iron431 |
-| 237 | [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors) | SuperMartijn642 |
-| 238 | [Jade 🔍](https://www.curseforge.com/minecraft/mc-mods/jade) | Snownee |
-| 239 | [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) | techbrew |
-| 240 | [Just Dire Things](https://www.curseforge.com/minecraft/mc-mods/just-dire-things) | Direwolf20 |
-| 241 | [Just Dire Things Extra](https://www.curseforge.com/minecraft/mc-mods/jdte) | rulanup |
-| 242 | [Just Enough Breeding (JEBr)](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding) | Christofmeg |
-| 243 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | mezz |
-| 244 | [Just Enough Mekanism Multiblocks](https://www.curseforge.com/minecraft/mc-mods/just-enough-mekanism-multiblocks) | gisellevonbingen |
-| 245 | [Just Enough Professions (JEP)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep) | Mrbysco |
-| 246 | [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | way2muchnoise |
-| 247 | [JustHammers](https://www.curseforge.com/minecraft/mc-mods/justhammers) | ErrorMikey |
-| 248 | [Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete) | Keksuccino |
-| 249 | [Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge) | thedarkcolour |
-| 250 | [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) | Lat |
-| 251 | [KubeJS Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/kubejs-ars-nouveau) | BobVarioa |
-| 252 | [KubeJS Industrial Foregoing (Neoforge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-industrial-foregoing-neoforge) | NadienDev |
-| 253 | [KubeJS Powah](https://www.curseforge.com/minecraft/mc-mods/kubejs-powah) | BobVarioa |
-| 254 | [L2 Library](https://www.curseforge.com/minecraft/mc-mods/l2library) | lcy0x1 |
-| 255 | [L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm) | mcl_ender |
-| 256 | [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio) | Direwolf20 |
-| 257 | [LDLib](https://www.curseforge.com/minecraft/mc-mods/ldlib) | KilaBash |
-| 258 | [Legendary Tooltips [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) | Grend_G |
-| 259 | [Library Ferret - NeoForge](https://www.curseforge.com/minecraft/mc-mods/library-ferret-neoforge) | jtl_elisa |
-| 260 | [Lionfish API](https://www.curseforge.com/minecraft/mc-mods/lionfish-api) | mcl_ender |
-| 261 | [Lithium (Fabric/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/lithium) | JellySquid |
-| 262 | [Little Big Redstone](https://www.curseforge.com/minecraft/mc-mods/little-big-redstone) | swedzish |
-| 263 | [Load My F***ing Tags](https://www.curseforge.com/minecraft/mc-mods/lmft) | Blodhgarm |
-| 264 | [Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations) | someaddon |
-| 265 | [Loot Integrations: Formations Overworld & Nether](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-formations-overworld-nether) | someaddon |
-| 266 | [Lootr (Forge & NeoForge)](https://www.curseforge.com/minecraft/mc-mods/lootr) | Noobanidus |
-| 267 | [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges) | sketch_macaw |
-| 268 | [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors) | sketch_macaw |
-| 269 | [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls) | sketch_macaw |
-| 270 | [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture) | sketch_macaw |
-| 271 | [Macaw's Lights and Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps) | sketch_macaw |
-| 272 | [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings) | sketch_macaw |
-| 273 | [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings) | sketch_macaw |
-| 274 | [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs) | sketch_macaw |
-| 275 | [Macaw's Stairs](https://www.curseforge.com/minecraft/mc-mods/macaws-stairs) | sketch_macaw |
-| 276 | [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors) | sketch_macaw |
-| 277 | [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows) | sketch_macaw |
-| 278 | [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) | McJty |
-| 279 | [ME Soul Card](https://www.curseforge.com/minecraft/mc-mods/me-soul-card) | yrley |
-| 280 | [Measurements](https://www.curseforge.com/minecraft/mc-mods/measurements) | Mrbysco |
-| 281 | [MEGA Cells](https://www.curseforge.com/minecraft/mc-mods/mega-cells) | ninety |
-| 282 | [MekaGenJei (Mekanism Generator addon)](https://www.curseforge.com/minecraft/mc-mods/mekagenjei-mekanism-generator-addon) | DevDyna |
-| 283 | [MekaJadeUpgrades (Mekanism addon)](https://www.curseforge.com/minecraft/mc-mods/mekajadeupgrades) | DevDyna |
-| 284 | [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) | bradyaidanc |
-| 285 | [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions) | bradyaidanc |
-| 286 | [Mekanism Curios](https://www.curseforge.com/minecraft/mc-mods/mekanism-curios) | TonimatasDEV |
-| 287 | [Mekanism Extras](https://www.curseforge.com/minecraft/mc-mods/mekanism-extras) | lost_myself8 |
-| 288 | [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators) | bradyaidanc |
-| 289 | [Mekanism Pipez Fix](https://www.curseforge.com/minecraft/mc-mods/mekanism-pipez-fix) | yuuki1293 |
-| 290 | [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools) | bradyaidanc |
-| 291 | [Mekanism Unleashed](https://www.curseforge.com/minecraft/mc-mods/mekanism-unleashed) | WhitePhantom |
-| 292 | [Mekanism: CompactSunCompat](https://www.curseforge.com/minecraft/mc-mods/mekanism-compactsuncompat) | mumu17 |
-| 293 | [Mekanism: Enchantable MekaSuit](https://www.curseforge.com/minecraft/mc-mods/mekanism-enchantable-mekasuit) | mumu17 |
-| 294 | [Mekanism: Weapons](https://www.curseforge.com/minecraft/mc-mods/mekanism-weapons) | oMeranha_ |
-| 295 | [Mekanism:More Machine](https://www.curseforge.com/minecraft/mc-mods/mekanism-more-machine) | lost_myself8 |
-| 296 | [Mekanistic Routers](https://www.curseforge.com/minecraft/mc-mods/mekanistic-routers) | matyrobbrt |
-| 297 | [Melody](https://www.curseforge.com/minecraft/mc-mods/melody) | Keksuccino |
-| 298 | [MES - Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures) | finndog_123 |
-| 299 | [Mineable/Minable AllTheModium Ores](https://www.curseforge.com/minecraft/mc-mods/mineable-minable-allthemodium-ores) | ton185 |
-| 300 | [MmmMmmMmmMmm (Target Dummy)](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm) | MehVahdJukaar |
-| 301 | [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils) | vadis365 |
-| 302 | [Mod Change Log](https://www.curseforge.com/minecraft/mc-mods/mod-change-log) | _nArUTo_ |
-| 303 | [Modded Omelet - Modern Spawn Eggs](https://www.curseforge.com/minecraft/texture-packs/modded-omelet) | L200 |
-| 304 | [Modern Industrial Routers](https://www.curseforge.com/minecraft/mc-mods/modern-industrial-routers) | matyrobbrt |
-| 305 | [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization) | thetechnici4n |
-| 306 | [Modern Industrialization Sound Addon](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization-sound-addon) | static |
-| 307 | [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) | embeddedt |
-| 308 | [Modonomicon](https://www.curseforge.com/minecraft/mc-mods/modonomicon) | kli_kli |
-| 309 | [Modular Bees](https://www.curseforge.com/minecraft/mc-mods/modular-bees) | GlodBlock |
-| 310 | [Modular Golems](https://www.curseforge.com/minecraft/mc-mods/modulargolems) | lcy0x1 |
-| 311 | [Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers) | desht_08 |
-| 312 | [MonoLib](https://www.curseforge.com/minecraft/mc-mods/monolib) | jason13official |
-| 313 | [Moog's Structure Lib (moogs_structures)](https://www.curseforge.com/minecraft/mc-mods/moogs-structure-lib) | finndog_123 |
-| 314 | [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene) | MehVahdJukaar |
-| 315 | [More Curios Slots](https://www.curseforge.com/minecraft/mc-mods/more-curios-slots) | letru |
-| 316 | [More Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs) | Darkere |
-| 317 | [More Functional Storage](https://www.curseforge.com/minecraft/mc-mods/more-functional-storage) | matyrobbrt |
-| 318 | [More Industrial Foregoing Addons (MIFA)](https://www.curseforge.com/minecraft/mc-mods/mifa) | Christofmeg |
-| 319 | [More Mekanism Processing](https://www.curseforge.com/minecraft/mc-mods/more-mekanism-processing) | gisellevonbingen |
-| 320 | [More Pylons](https://www.curseforge.com/minecraft/mc-mods/more-pylons) | run_angie_jar |
-| 321 | [More Relics](https://www.curseforge.com/minecraft/mc-mods/more-relics) | blorbilon |
-| 322 | [More Runes [More Magic Series]](https://www.curseforge.com/minecraft/mc-mods/more-runes-more-magic-series) | Carlogamer |
-| 323 | [More Spell Attributes [More Magic Series]](https://www.curseforge.com/minecraft/mc-mods/more-spell-attributes-more-magic-series) | Carlogamer |
-| 324 | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | YaLTeR |
-| 325 | [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs) | bobmowzie |
-| 326 | [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture) | MrCrayfish |
-| 327 | [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions) | BlakeBr0 |
-| 328 | [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture) | BlakeBr0 |
-| 329 | [Mystical Agriculture Compats](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-compats) | NadienDev |
-| 330 | [Mystical Agriculture Craftable Prosperity Shard](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-craftable-prosperity-shard) | GoddessK0re |
-| 331 | [Mystical Agriculture Plus](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-plus) | Guilei12 |
-| 332 | [Mystical Agriculture Tiered Crystals](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-tiered-crystals) | Electrolyte |
-| 333 | [Mystical Engineering](https://www.curseforge.com/minecraft/mc-mods/mystical-engineering) | DragonBlak |
-| 334 | [Mystical Extended Tier](https://www.curseforge.com/minecraft/mc-mods/mystical-extended-tier) | xVelvetCrowe |
-| 335 | [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) | Chaosyr |
-| 336 | [Nirvana Library](https://www.curseforge.com/minecraft/mc-mods/nirvana-library) | Clefal15 |
-| 337 | [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | Aizistral |
-| 338 | [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) | tr7zw |
-| 339 | [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook) | SSKirillSS |
-| 340 | [Nyctography](https://www.curseforge.com/minecraft/mc-mods/nyctography) | DarkhaxDev |
-| 341 | [Occult Delight](https://www.curseforge.com/minecraft/mc-mods/occult-delight) | ItsSebastrn |
-| 342 | [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism) | kli_kli |
-| 343 | [Occultism KubeJS](https://www.curseforge.com/minecraft/mc-mods/occultism-kubejs) | kli_kli |
-| 344 | [Occultism: Extra Spirits](https://www.curseforge.com/minecraft/mc-mods/occultism-extra-spirits) | Eqis_Edu |
-| 345 | [Ok Zoomer - It's Zoom!](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) | EnnuiLangeweile |
-| 346 | [Omni Upgrades](https://www.curseforge.com/minecraft/mc-mods/omni-upgrades) | Saku_rain |
-| 347 | [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator) | vsngarcia |
-| 348 | [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech) | rearth |
-| 349 | [Oritech Things](https://www.curseforge.com/minecraft/mc-mods/oritech-things) | Lumengrid89 |
-| 350 | [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar) | tfarecnim |
-| 351 | [oωo (owo-lib)](https://www.curseforge.com/minecraft/mc-mods/owo-lib) | gliscowo |
-| 352 | [Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer) | TonimatasDEV |
-| 353 | [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops) | pamharvestcraft |
-| 354 | [Pam's HarvestCraft 2 - Fantasy](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-fantasy) | pamharvestcraft |
-| 355 | [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core) | pamharvestcraft |
-| 356 | [Pam's HarvestCraft 2 - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended) | pamharvestcraft |
-| 357 | [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees) | pamharvestcraft |
-| 358 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) | Vazkii |
-| 359 | [Pig Pen Cipher](https://www.curseforge.com/minecraft/mc-mods/pig-pen-cipher) | DarkhaxDev |
-| 360 | [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez) | henkelmax |
-| 361 | [Pipez More Pipes](https://www.curseforge.com/minecraft/mc-mods/pipez-more-pipes) | Saku_rain |
-| 362 | [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) | Shadows_of_Fire |
-| 363 | [playerAnimator](https://www.curseforge.com/minecraft/mc-mods/playeranimator) | KosmX |
-| 364 | [Plushie Buddies](https://www.curseforge.com/minecraft/mc-mods/plushie-buddies) | subthy |
-| 365 | [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized) | desht_08 |
-| 366 | [PolyLib](https://www.curseforge.com/minecraft/mc-mods/polylib) | Official_CreeperHost |
-| 367 | [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) | TheIllusiveC4 |
-| 368 | [Powah Addon](https://www.curseforge.com/minecraft/mc-mods/powah-addon) | wiliantv |
-| 369 | [Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected) | thetechnici4n |
-| 370 | [Prefab](https://www.curseforge.com/minecraft/mc-mods/prefab) | wuestman |
-| 371 | [Prickle](https://www.curseforge.com/minecraft/mc-mods/prickle) | DarkhaxDev |
-| 372 | [Prism [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/prism-lib) | Grend_G |
-| 373 | [Productive Bees](https://www.curseforge.com/minecraft/mc-mods/productivebees) | LobsterJonn |
-| 374 | [Productive Farming](https://www.curseforge.com/minecraft/mc-mods/productivefarming) | LobsterJonn |
-| 375 | [Productive Metalworks](https://www.curseforge.com/minecraft/mc-mods/productive-metalworks) | LobsterJonn |
-| 376 | [Productive Tree + Mekanism Compatibility](https://www.curseforge.com/minecraft/mc-mods/productive-tree-mekanism-compatibility) | Saereth |
-| 377 | [Productive Trees](https://www.curseforge.com/minecraft/mc-mods/productivetrees) | LobsterJonn |
-| 378 | [Punchy! - First person animations](https://www.curseforge.com/minecraft/mc-mods/punchy) | DevPunchyMan |
-| 379 | [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) | Fuzs |
-| 380 | [Pylons](https://www.curseforge.com/minecraft/mc-mods/pylons) | MutantGumdrop |
-| 381 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) | Vazkii |
-| 382 | [Quest Completion Broadcast: FTB Quests](https://www.curseforge.com/minecraft/mc-mods/quest-completion-broadcast) | KURONAMl |
-| 383 | [quick pack](https://www.curseforge.com/minecraft/mc-mods/quick-pack) | drexhd |
-| 384 | [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps) | raoulvdberge |
-| 385 | [Reap Mod](https://www.curseforge.com/minecraft/mc-mods/reap-mod) | henkelmax |
-| 386 | [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled) | SuperMartijn642 |
-| 387 | [Redstone Pen](https://www.curseforge.com/minecraft/mc-mods/redstone-pen) | wilechaote |
-| 388 | [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage) | raoulvdberge |
-| 389 | [Refined Storage - Curios Integration](https://www.curseforge.com/minecraft/mc-mods/refined-storage-curios-integration) | raoulvdberge |
-| 390 | [Refined Storage - JEI Integration](https://www.curseforge.com/minecraft/mc-mods/refined-storage-jei-integration) | raoulvdberge |
-| 391 | [Refined Storage - Mekanism Integration](https://www.curseforge.com/minecraft/mc-mods/refined-storage-mekanism-integration) | raoulvdberge |
-| 392 | [Refined Storage - Quartz Arsenal](https://www.curseforge.com/minecraft/mc-mods/refined-storage-quartz-arsenal) | raoulvdberge |
-| 393 | [Refined Storage Search History](https://www.curseforge.com/minecraft/mc-mods/rs-search-history) | hp12138 |
-| 394 | [Refined Storage: Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify) | Buuz135 |
-| 395 | [Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod) | SSKirillSS |
-| 396 | [Relics & Artifacts](https://www.curseforge.com/minecraft/mc-mods/relicsartifacts) | xsoras |
-| 397 | [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations) | P3pp3rF1y |
-| 398 | [Reliquified Artifacts](https://www.curseforge.com/minecraft/mc-mods/reliquified-artifacts) | SSKirillSS |
-| 399 | [Repurposed Structures (Neoforge/Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) | telepathicgrunt |
-| 400 | [Repurposed Structures - Better Strongholds Compat Datapack](https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-strongholds-datapack) | telepathicgrunt |
-| 401 | [Repurposed Structures - Farmer's Delight Compat Mod](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-farmers-delight-compat-mod) | telepathicgrunt |
-| 402 | [Repurposed Structures - PneumaticCraft: Repressurized Compat Mod](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-pneumaticcraft-repressurized-compat-mod) | telepathicgrunt |
-| 403 | [Resourceful Config](https://www.curseforge.com/minecraft/mc-mods/resourceful-config) | ThatGravyBoat |
-| 404 | [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib) | ThatGravyBoat |
-| 405 | [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base) | McJty |
-| 406 | [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder) | McJty |
-| 407 | [RFTools Power](https://www.curseforge.com/minecraft/mc-mods/rftools-power) | McJty |
-| 408 | [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage) | McJty |
-| 409 | [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility) | McJty |
-| 410 | [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) | Lat |
-| 411 | [Runelic](https://www.curseforge.com/minecraft/mc-mods/runelic) | DarkhaxDev |
-| 412 | [Runes](https://www.curseforge.com/minecraft/mc-mods/rune-crafting) | daedelus_dev |
-| 413 | [Scalable Cat's Force](https://www.curseforge.com/minecraft/mc-mods/scalable-cats-force) | Kotori316 |
-| 414 | [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) | Jaredlll08 |
-| 415 | [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft) | Geforce132 |
-| 416 | [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) | TheAdubbz |
-| 417 | [Serene Seasons Plus](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-plus) | Gaboouu |
-| 418 | [ShatterLib \| OctoLib](https://www.curseforge.com/minecraft/mc-mods/shatterbyte-lib) | SSKirillSS |
-| 419 | [Sildur's Vibrant shaders](https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders) | Sildur |
-| 420 | [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear) | SilentChaos512 |
-| 421 | [Silent Gear JEI](https://www.curseforge.com/minecraft/mc-mods/silent-gear-jei) | Drowningfish233 |
-| 422 | [Silent Gear Metalworks](https://www.curseforge.com/minecraft/mc-mods/silent-gear-metalworks) | LobsterJonn |
-| 423 | [Silent Lib (silentlib)](https://www.curseforge.com/minecraft/mc-mods/silent-lib) | SilentChaos512 |
-| 424 | [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems) | SilentChaos512 |
-| 425 | [Simple Magnets](https://www.curseforge.com/minecraft/mc-mods/simple-magnets) | SuperMartijn642 |
-| 426 | [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) | tr7zw |
-| 427 | [Sky Villages [Forge]](https://www.curseforge.com/minecraft/mc-mods/sky-villages-forge) | Aureljz |
-| 428 | [SmartBrainLib (Forge/Fabric/Quilt)](https://www.curseforge.com/minecraft/mc-mods/smartbrainlib) | Scimiguy |
-| 429 | [Smelting Enchantment (Fabric/Forge/NeoForge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/smelting-enchantment) | lullaby6 |
-| 430 | [Smithing Template Viewer for JEI/EMI](https://www.curseforge.com/minecraft/mc-mods/smithing-template-viewer) | Buuz135 |
-| 431 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | JellySquid |
-| 432 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | FlashyReese |
-| 433 | [Solar Industrialization](https://www.curseforge.com/minecraft/mc-mods/solar-industrialization) | MIK0os |
-| 434 | [Sophisticated Backpack Allthemodium Tier](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpack-allthemodium-tier) | mobsmasher4000 |
-| 435 | [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) | P3pp3rF1y |
-| 436 | [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) | P3pp3rF1y |
-| 437 | [Sophisticated Inventory Interactions](https://www.curseforge.com/minecraft/mc-mods/sophisticated-inventory-interactions) | P3pp3rF1y |
-| 438 | [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage) | P3pp3rF1y |
-| 439 | [Sophisticated Storage Allthemodium tier](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-allthemodium-tier) | mobsmasher4000 |
-| 440 | [Soulplied Energistics](https://www.curseforge.com/minecraft/mc-mods/soulplied-energistics) | Buuz135 |
-| 441 | [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) | henkelmax |
-| 442 | [spark](https://www.curseforge.com/minecraft/mc-mods/spark) | Iucko |
-| 443 | [Spartan Shields Unofficial](https://www.curseforge.com/minecraft/mc-mods/spartan-shields-unofficial) | mai_xiyu |
-| 444 | [Spartan Weaponry Unofficial](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-unofficial) | mai_xiyu |
-| 445 | [Spell Codex: Iron's Spells 'n Spellbooks Addon](https://www.curseforge.com/minecraft/mc-mods/spell-codex-irons-spells-n-spellbooks-addon) | SemSemSem |
-| 446 | [Spell Engine](https://www.curseforge.com/minecraft/mc-mods/spell-engine) | daedelus_dev |
-| 447 | [Spell Power Attributes](https://www.curseforge.com/minecraft/mc-mods/spell-power) | daedelus_dev |
-| 448 | [SpellActionbar](https://www.curseforge.com/minecraft/mc-mods/spellactionbar) | SemSemSem |
-| 449 | [Spider Overhaul](https://www.curseforge.com/minecraft/mc-mods/spider-overhaul) | Chybx |
-| 450 | [Stay Clear](https://www.curseforge.com/minecraft/texture-packs/stay-clear) | Robdog |
-| 451 | [Structure Layout Optimizer](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer) | telepathicgrunt |
-| 452 | [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib) | SuperMartijn642 |
-| 453 | [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib) | SuperMartijn642 |
-| 454 | [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) | MehVahdJukaar |
-| 455 | [Supplementaries Squared](https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared) | plantspookable |
-| 456 | [TerraBlender (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/terrablender-neoforge) | TheAdubbz |
-| 457 | [Tesseract API (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/tesseract-api-neoforge) | swedzish |
-| 458 | [The Bumblezone (NeoForge/Forge)](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge) | telepathicgrunt |
-| 459 | [Time in a Bottle](https://www.curseforge.com/minecraft/mc-mods/time-in-a-bottle) | MangoRage |
-| 460 | [Time in a Bottle Fix - Tiab fix](https://www.curseforge.com/minecraft/mc-mods/time-in-a-bottle-fix-tiab-fix) | Zulussu |
-| 461 | [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium) | Buuz135 |
-| 462 | [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) | Shadows_of_Fire |
-| 463 | [Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage) | tom54541 |
-| 464 | [Tom's Simple Storage NBT Fix [JEI]](https://www.curseforge.com/minecraft/mc-mods/toms-simple-storage-nbt-fix-jei) | Veydiz |
-| 465 | [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt) | gigaherz |
-| 466 | [Tooltip Overhaul](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul) | xylonity |
-| 467 | [Torches Reimagined](https://www.curseforge.com/minecraft/texture-packs/torches-reimagined) | Reijvi |
-| 468 | [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans) | SuperMartijn642 |
-| 469 | [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot) | BlayTheNinth |
-| 470 | [TxniLib](https://www.curseforge.com/minecraft/mc-mods/txnilib) | Txni |
-| 471 | [Underground Villages, Stoneholm (Fabric/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/underground-villages-stoneholm) | Reggarf |
-| 472 | [Utilitarian](https://www.curseforge.com/minecraft/mc-mods/utilitarian) | LobsterJonn |
-| 473 | [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) | ValhelsiaTeam |
-| 474 | [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) | Serilum |
-| 475 | [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) | BlayTheNinth |
-| 476 | [What Are They Up To (Watut)](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) | Corosus |
-| 477 | [Wireless Chargers](https://www.curseforge.com/minecraft/mc-mods/wireless-chargers) | SuperMartijn642 |
-| 478 | [Wither Spawn Animation](https://www.curseforge.com/minecraft/mc-mods/wither-spawn-animation) | bo_bo0 |
-| 479 | [Woot Revived](https://www.curseforge.com/minecraft/mc-mods/woot-revived) | pharuxtan |
-| 480 | [WorldWeaver: New Dawn](https://www.curseforge.com/minecraft/mc-mods/worldweaver-neoforge) | Raijin2312 |
-| 481 | [WunderLib: New Dawn](https://www.curseforge.com/minecraft/mc-mods/wunderlib-neoforge) | Raijin2312 |
-| 482 | [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet) | McJty |
-| 483 | [XyCraft](https://www.curseforge.com/minecraft/mc-mods/xycraft) | Soaryn |
-| 484 | [XyCraft: Machines](https://www.curseforge.com/minecraft/mc-mods/xycraft-machines) | Soaryn |
-| 485 | [XyCraft: Override](https://www.curseforge.com/minecraft/mc-mods/xycraft-override) | Soaryn |
-| 486 | [XyCraft: World](https://www.curseforge.com/minecraft/mc-mods/xycraft-world) | Soaryn |
-| 487 | [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl) | isXander |
-| 488 | [Yung Structures Addon for Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/yung-structures-addon-for-loot-integrations) | someaddon |
-| 489 | [YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-api-neoforge) | YUNGNICKYOUNG |
-| 490 | [YUNG's Better Caves (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves) | YUNGNICKYOUNG |
-| 491 | [YUNG's Better Desert Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-neoforge) | YUNGNICKYOUNG |
-| 492 | [YUNG's Better Dungeons (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-neoforge) | YUNGNICKYOUNG |
-| 493 | [YUNG's Better End Island (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island-neoforge) | YUNGNICKYOUNG |
-| 494 | [YUNG's Better Jungle Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-neoforge) | YUNGNICKYOUNG |
-| 495 | [YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-neoforge) | YUNGNICKYOUNG |
-| 496 | [YUNG's Better Nether Fortresses (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-neoforge) | YUNGNICKYOUNG |
-| 497 | [YUNG's Better Ocean Monuments (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-neoforge) | YUNGNICKYOUNG |
-| 498 | [YUNG's Better Strongholds (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-neoforge) | YUNGNICKYOUNG |
-| 499 | [YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-neoforge) | YUNGNICKYOUNG |
-| 500 | [YUNG's Bridges (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-neoforge) | YUNGNICKYOUNG |
-| 501 | [YUNG's Cave Biomes (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes) | YUNGNICKYOUNG |
-| 502 | [ZambieLib](https://www.curseforge.com/minecraft/mc-mods/zambielib) | ZambieD |
-| 503 | [ZeroCore 2](https://www.curseforge.com/minecraft/mc-mods/zerocore) | ZeroNoRyouki |
-| 504 | [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) | Vazkii |
+| 130 | [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker) | KyaniteMods |
+| 131 | [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) | BlayTheNinth |
+| 132 | [Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table) | Lupin |
+| 133 | [Disable ingame tutorial](https://www.curseforge.com/minecraft/mc-mods/disable-ingame-tutorial) | Toma |
+| 134 | [DontCrashTom (Fixes for Tom's Simple Storage Mod)](https://www.curseforge.com/minecraft/mc-mods/dontcrashtom-fixes-for-toms-simple-storage-mod) | Navrelis |
+| 135 | [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) | brandon3055 |
+| 136 | [Draconic Evolution Render Patcher](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution-render-patcher) | yrley |
+| 137 | [Dragon Scale [More Magic Series]](https://www.curseforge.com/minecraft/mc-mods/dragon-scale) | Carlogamer |
+| 138 | [Dragonsteel & Star Alloy [Magical Metallurgy Series]](https://www.curseforge.com/minecraft/mc-mods/dragonsteel-more-magic-series) | Carlogamer |
+| 139 | [Drippy Early Loading Module](https://www.curseforge.com/minecraft/mc-mods/drippy-early-loading-module) | Keksuccino |
+| 140 | [Drippy Loading Screen](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen) | Keksuccino |
+| 141 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | juliand665 |
+| 142 | [Easy Disenchanting](https://www.curseforge.com/minecraft/mc-mods/easy-disenchanting) | Txni |
+| 143 | [Easy Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/easy-farmers-delight) | Celerbi |
+| 144 | [Easy Mob Farm](https://www.curseforge.com/minecraft/mc-mods/easy-mob-farm) | Kaworru |
+| 145 | [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) | henkelmax |
+| 146 | [Enchanting Infuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser) | Fuzs |
+| 147 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | DarkhaxDev |
+| 148 | [Enchantment Descriptions Compat](https://www.curseforge.com/minecraft/texture-packs/enchantment-descriptions-compat) | CyberRat2 |
+| 149 | [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) | crazypants_mc_the_second |
+| 150 | [Ender IO × Mob Grinding Utils Compatibility](https://www.curseforge.com/minecraft/mc-mods/ender-io-mob-grinding-utils-compatibility) | sinistar26alpha |
+| 151 | [Ender Logistics Network](https://www.curseforge.com/minecraft/mc-mods/ender-logistics-network) | meekeyn |
+| 152 | [Ender Storage 1.8.+](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8) | covers1624 |
+| 153 | [Enderman Overhaul](https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul) | joosh_7889 |
+| 154 | [Enhanced Boss Bars](https://www.curseforge.com/minecraft/texture-packs/enhanced-boss-bars) | Nakuring |
+| 155 | [Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling) | tr7zw |
+| 156 | [EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft) | kroeser |
+| 157 | [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) | Chaosyr |
+| 158 | [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting) | BlakeBr0 |
+| 159 | [Extended Industrialization](https://www.curseforge.com/minecraft/mc-mods/extended-industrialization) | swedzish |
+| 160 | [ExtendedAE](https://www.curseforge.com/minecraft/mc-mods/ex-pattern-provider) | GlodBlock |
+| 161 | [Extra Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/extra-hostile-neural-networks) | LMor |
+| 162 | [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) | ZeroNoRyouki |
+| 163 | [Extreme sound muffler - (Neo)Forge](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler) | LeoBeliik |
+| 164 | [Fancy Beds](https://www.curseforge.com/minecraft/texture-packs/fancy-beds) | Agente_511 |
+| 165 | [Fancy World Animations](https://www.curseforge.com/minecraft/mc-mods/fwa) | maDU59_ |
+| 166 | [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) | Keksuccino |
+| 167 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) | vectorwing |
+| 168 | [Farmer's Delight: Extended](https://www.curseforge.com/minecraft/mc-mods/farmersdelight-extended) | EeveeBeby |
+| 169 | [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads) | BlayTheNinth |
+| 170 | [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) | olafskiii |
+| 171 | [FastBoot](https://www.curseforge.com/minecraft/mc-mods/fastboot) | dnlayu |
+| 172 | [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) | Shadows_of_Fire |
+| 173 | [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | malte0811 |
+| 174 | [fix GPU memory leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak) | someaddon |
+| 175 | [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks) | sonar_sonic |
+| 176 | [Flux Networks Ultimate Addon](https://www.curseforge.com/minecraft/mc-mods/flux-networks-ultimate-addon) | gugugaga233 |
+| 177 | [Flux Overdrive](https://www.curseforge.com/minecraft/mc-mods/flux-overdrive) | Aquariverr |
+| 178 | [Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | cesarzorak |
+| 179 | [Formations (Structure Library)](https://www.curseforge.com/minecraft/mc-mods/formations) | SuperMartijn642 |
+| 180 | [Formations Nether](https://www.curseforge.com/minecraft/mc-mods/formations-nether) | SuperMartijn642 |
+| 181 | [Formations Overworld](https://www.curseforge.com/minecraft/mc-mods/formations-overworld) | SuperMartijn642 |
+| 182 | [Framework](https://www.curseforge.com/minecraft/mc-mods/framework) | MrCrayfish |
+| 183 | [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) | FreshLX |
+| 184 | [Fresh Animations: Player Extension](https://www.curseforge.com/minecraft/texture-packs/fa-player-extension) | FreshLX |
+| 185 | [FTB Backups 2](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2) | FTB |
+| 186 | [FTB Chunks (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) | FTB |
+| 187 | [FTB Essentials (Forge & Fabric)](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials) | FTB |
+| 188 | [FTB Filter System](https://www.curseforge.com/minecraft/mc-mods/ftb-filter-system) | FTB |
+| 189 | [FTB Library (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) | FTB |
+| 190 | [FTB Quests (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) | FTB |
+| 191 | [FTB Quests Optimizer](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer) | big_energy |
+| 192 | [FTB Ranks (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge) | FTB |
+| 193 | [FTB Teams (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) | FTB |
+| 194 | [FTB Ultimine (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | FTB |
+| 195 | [Functional Chemical](https://www.curseforge.com/minecraft/mc-mods/functional-chemical) | GlodBlock |
+| 196 | [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage) | Buuz135 |
+| 197 | [Functional Storage: Create & Aero](https://www.curseforge.com/minecraft/mc-mods/functional-storage-create-aero) | Buuz135 |
+| 198 | [Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) | SuperMartijn642 |
+| 199 | [Fzzy Config](https://www.curseforge.com/minecraft/mc-mods/fzzy-config) | fzzyhmstrs |
+| 200 | [Gabou's Libs](https://www.curseforge.com/minecraft/mc-mods/gabous-libs) | Gaboouu |
+| 201 | [Gadgets Against Grind](https://www.curseforge.com/minecraft/mc-mods/gag) | MaxNeedsSnacks |
+| 202 | [Gateways to Eternity](https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity) | Shadows_of_Fire |
+| 203 | [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib) | Gecko |
+| 204 | [Generator Galore](https://www.curseforge.com/minecraft/mc-mods/generatorgalore) | LobsterJonn |
+| 205 | [Glassential Renewed](https://www.curseforge.com/minecraft/mc-mods/glassential-renewed) | big_energy |
+| 206 | [GlitchCore](https://www.curseforge.com/minecraft/mc-mods/glitchcore) | TheAdubbz |
+| 207 | [Glodium](https://www.curseforge.com/minecraft/mc-mods/glodium) | GlodBlock |
+| 208 | [Grim Pipe Industries](https://www.curseforge.com/minecraft/mc-mods/grim-pipe-industries) | xTri6 |
+| 209 | [Grim Soul Industries](https://www.curseforge.com/minecraft/mc-mods/grim-soul-industries) | xTri6 |
+| 210 | [Grim Storage Industries](https://www.curseforge.com/minecraft/mc-mods/grim-storage-industries) | xTri6 |
+| 211 | [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers) | almightytallestred |
+| 212 | [GuideME](https://www.curseforge.com/minecraft/mc-mods/guideme) | shartte |
+| 213 | [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted) | terrariumearth |
+| 214 | [Hostile Neural Industrialization](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-industrialization) | Luligabi12 |
+| 215 | [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks) | Shadows_of_Fire |
+| 216 | [Iceberg [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/iceberg) | Grend_G |
+| 217 | [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | RaphiMC |
+| 218 | [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) | BluSunrize |
+| 219 | [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing) | Buuz135 |
+| 220 | [Industrial Foregoing Souls](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-souls) | Buuz135 |
+| 221 | [Industrial Foregoing: Additional](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-additional) | MrPup |
+| 222 | [Industrial Foregoing: Extra Upgrades](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-extra-upgrades) | y_xiao233 |
+| 223 | [Industrial Foregoing: Woot Addon](https://www.curseforge.com/minecraft/mc-mods/ifwootaddon) | pharuxtan |
+| 224 | [Industrial Foregoing：More Upgrade Plugins](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing-more-upgrade-plugins) | wither_redstone |
+| 225 | [Industrialization Overdrive](https://www.curseforge.com/minecraft/mc-mods/industrialization-overdrive) | WhitePhantom |
+| 226 | [Integrated Crafting](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting) | kroeser |
+| 227 | [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics) | kroeser |
+| 228 | [Integrated Mekanism](https://www.curseforge.com/minecraft/mc-mods/integrated-mekanism) | kroeser |
+| 229 | [Integrated NBT](https://www.curseforge.com/minecraft/mc-mods/integrated-nbt) | scleox |
+| 230 | [Integrated Scripting](https://www.curseforge.com/minecraft/mc-mods/integrated-scripting) | kroeser |
+| 231 | [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals) | kroeser |
+| 232 | [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels) | kroeser |
+| 233 | [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) | cpw |
+| 234 | [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | coderbot |
+| 235 | [Iron Apples: Overhauled](https://www.curseforge.com/minecraft/mc-mods/iron-apples-overhauled) | FluffyMoment |
+| 236 | [Iron Core](https://www.curseforge.com/minecraft/mc-mods/iron-core) | FluffyMoment |
+| 237 | [Iron Furnaces](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces) | XenoMustache |
+| 238 | [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks) | BlakeBr0 |
+| 239 | [Iron's Lib](https://www.curseforge.com/minecraft/mc-mods/irons-lib) | Iron431 |
+| 240 | [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks) | Iron431 |
+| 241 | [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors) | SuperMartijn642 |
+| 242 | [Jade 🔍](https://www.curseforge.com/minecraft/mc-mods/jade) | Snownee |
+| 243 | [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) | techbrew |
+| 244 | [Just Dire Things](https://www.curseforge.com/minecraft/mc-mods/just-dire-things) | Direwolf20 |
+| 245 | [Just Dire Things Extra](https://www.curseforge.com/minecraft/mc-mods/jdte) | rulanup |
+| 246 | [Just Enough Breeding (JEBr)](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding) | Christofmeg |
+| 247 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | mezz |
+| 248 | [Just Enough Mekanism Multiblocks](https://www.curseforge.com/minecraft/mc-mods/just-enough-mekanism-multiblocks) | gisellevonbingen |
+| 249 | [Just Enough Professions (JEP)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep) | Mrbysco |
+| 250 | [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | way2muchnoise |
+| 251 | [JustHammers](https://www.curseforge.com/minecraft/mc-mods/justhammers) | ErrorMikey |
+| 252 | [Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete) | Keksuccino |
+| 253 | [Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge) | thedarkcolour |
+| 254 | [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) | Lat |
+| 255 | [KubeJS Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/kubejs-ars-nouveau) | BobVarioa |
+| 256 | [KubeJS Industrial Foregoing (Neoforge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-industrial-foregoing-neoforge) | NadienDev |
+| 257 | [KubeJS Powah](https://www.curseforge.com/minecraft/mc-mods/kubejs-powah) | BobVarioa |
+| 258 | [L2 Library](https://www.curseforge.com/minecraft/mc-mods/l2library) | lcy0x1 |
+| 259 | [L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm) | mcl_ender |
+| 260 | [Lanterns Belong on Walls](https://www.curseforge.com/minecraft/mc-mods/lanterns-bow) | CoalTheBurnRock |
+| 261 | [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio) | Direwolf20 |
+| 262 | [LDLib](https://www.curseforge.com/minecraft/mc-mods/ldlib) | KilaBash |
+| 263 | [Legendary Tooltips [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) | Grend_G |
+| 264 | [Library Ferret - NeoForge](https://www.curseforge.com/minecraft/mc-mods/library-ferret-neoforge) | jtl_elisa |
+| 265 | [Lionfish API](https://www.curseforge.com/minecraft/mc-mods/lionfish-api) | mcl_ender |
+| 266 | [Lithium (Fabric/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/lithium) | JellySquid |
+| 267 | [Little Big Redstone](https://www.curseforge.com/minecraft/mc-mods/little-big-redstone) | swedzish |
+| 268 | [Load My F***ing Tags](https://www.curseforge.com/minecraft/mc-mods/lmft) | Blodhgarm |
+| 269 | [Logistics Network](https://www.curseforge.com/minecraft/mc-mods/logistics-network) | Almana21 |
+| 270 | [Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations) | someaddon |
+| 271 | [Loot Integrations: Formations Overworld & Nether](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-formations-overworld-nether) | someaddon |
+| 272 | [Lootr (Forge & NeoForge)](https://www.curseforge.com/minecraft/mc-mods/lootr) | Noobanidus |
+| 273 | [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges) | sketch_macaw |
+| 274 | [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors) | sketch_macaw |
+| 275 | [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls) | sketch_macaw |
+| 276 | [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture) | sketch_macaw |
+| 277 | [Macaw's Lights and Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps) | sketch_macaw |
+| 278 | [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings) | sketch_macaw |
+| 279 | [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings) | sketch_macaw |
+| 280 | [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs) | sketch_macaw |
+| 281 | [Macaw's Stairs](https://www.curseforge.com/minecraft/mc-mods/macaws-stairs) | sketch_macaw |
+| 282 | [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors) | sketch_macaw |
+| 283 | [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows) | sketch_macaw |
+| 284 | [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) | McJty |
+| 285 | [ME Soul Card](https://www.curseforge.com/minecraft/mc-mods/me-soul-card) | yrley |
+| 286 | [Measurements](https://www.curseforge.com/minecraft/mc-mods/measurements) | Mrbysco |
+| 287 | [MEGA Cells](https://www.curseforge.com/minecraft/mc-mods/mega-cells) | ninety |
+| 288 | [MekaGenJei (Mekanism Generator addon)](https://www.curseforge.com/minecraft/mc-mods/mekagenjei-mekanism-generator-addon) | DevDyna |
+| 289 | [MekaJadeUpgrades (Mekanism addon)](https://www.curseforge.com/minecraft/mc-mods/mekajadeupgrades) | DevDyna |
+| 290 | [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) | bradyaidanc |
+| 291 | [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions) | bradyaidanc |
+| 292 | [Mekanism Curios](https://www.curseforge.com/minecraft/mc-mods/mekanism-curios) | TonimatasDEV |
+| 293 | [Mekanism Extras](https://www.curseforge.com/minecraft/mc-mods/mekanism-extras) | lost_myself8 |
+| 294 | [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators) | bradyaidanc |
+| 295 | [Mekanism Pipez Fix](https://www.curseforge.com/minecraft/mc-mods/mekanism-pipez-fix) | yuuki1293 |
+| 296 | [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools) | bradyaidanc |
+| 297 | [Mekanism Unleashed](https://www.curseforge.com/minecraft/mc-mods/mekanism-unleashed) | WhitePhantom |
+| 298 | [Mekanism: CompactSunCompat](https://www.curseforge.com/minecraft/mc-mods/mekanism-compactsuncompat) | mumu17 |
+| 299 | [Mekanism: Enchantable MekaSuit](https://www.curseforge.com/minecraft/mc-mods/mekanism-enchantable-mekasuit) | mumu17 |
+| 300 | [Mekanism: Weapons](https://www.curseforge.com/minecraft/mc-mods/mekanism-weapons) | oMeranha_ |
+| 301 | [Mekanism:More Machine](https://www.curseforge.com/minecraft/mc-mods/mekanism-more-machine) | lost_myself8 |
+| 302 | [Mekanistic Routers](https://www.curseforge.com/minecraft/mc-mods/mekanistic-routers) | matyrobbrt |
+| 303 | [Melody](https://www.curseforge.com/minecraft/mc-mods/melody) | Keksuccino |
+| 304 | [MES - Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures) | finndog_123 |
+| 305 | [Mineable/Minable AllTheModium Ores](https://www.curseforge.com/minecraft/mc-mods/mineable-minable-allthemodium-ores) | ton185 |
+| 306 | [MmmMmmMmmMmm (Target Dummy)](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm) | MehVahdJukaar |
+| 307 | [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils) | vadis365 |
+| 308 | [Mod Change Log](https://www.curseforge.com/minecraft/mc-mods/mod-change-log) | _nArUTo_ |
+| 309 | [Modded Omelet - Modern Spawn Eggs](https://www.curseforge.com/minecraft/texture-packs/modded-omelet) | L200 |
+| 310 | [Modern Industrial Routers](https://www.curseforge.com/minecraft/mc-mods/modern-industrial-routers) | matyrobbrt |
+| 311 | [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization) | thetechnici4n |
+| 312 | [Modern Industrialization Sound Addon](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization-sound-addon) | static |
+| 313 | [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) | embeddedt |
+| 314 | [Modonomicon](https://www.curseforge.com/minecraft/mc-mods/modonomicon) | kli_kli |
+| 315 | [Modular Bees](https://www.curseforge.com/minecraft/mc-mods/modular-bees) | GlodBlock |
+| 316 | [Modular Golems](https://www.curseforge.com/minecraft/mc-mods/modulargolems) | lcy0x1 |
+| 317 | [Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers) | desht_08 |
+| 318 | [MonoLib](https://www.curseforge.com/minecraft/mc-mods/monolib) | jason13official |
+| 319 | [Moog's Structure Lib (moogs_structures)](https://www.curseforge.com/minecraft/mc-mods/moogs-structure-lib) | finndog_123 |
+| 320 | [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene) | MehVahdJukaar |
+| 321 | [More Curios Slots](https://www.curseforge.com/minecraft/mc-mods/more-curios-slots) | letru |
+| 322 | [More Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs) | Darkere |
+| 323 | [More Functional Storage](https://www.curseforge.com/minecraft/mc-mods/more-functional-storage) | matyrobbrt |
+| 324 | [More Industrial Foregoing Addons (MIFA)](https://www.curseforge.com/minecraft/mc-mods/mifa) | Christofmeg |
+| 325 | [More Mekanism Processing](https://www.curseforge.com/minecraft/mc-mods/more-mekanism-processing) | gisellevonbingen |
+| 326 | [More Pylons](https://www.curseforge.com/minecraft/mc-mods/more-pylons) | run_angie_jar |
+| 327 | [More Relics](https://www.curseforge.com/minecraft/mc-mods/more-relics) | blorbilon |
+| 328 | [More Runes [More Magic Series]](https://www.curseforge.com/minecraft/mc-mods/more-runes-more-magic-series) | Carlogamer |
+| 329 | [More Spell Attributes [More Magic Series]](https://www.curseforge.com/minecraft/mc-mods/more-spell-attributes-more-magic-series) | Carlogamer |
+| 330 | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | YaLTeR |
+| 331 | [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs) | bobmowzie |
+| 332 | [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture) | MrCrayfish |
+| 333 | [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions) | BlakeBr0 |
+| 334 | [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture) | BlakeBr0 |
+| 335 | [Mystical Agriculture Compats](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-compats) | NadienDev |
+| 336 | [Mystical Agriculture Craftable Prosperity Shard](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-craftable-prosperity-shard) | GoddessK0re |
+| 337 | [Mystical Agriculture Plus](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-plus) | Guilei12 |
+| 338 | [Mystical Agriculture Tiered Crystals](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-tiered-crystals) | Electrolyte |
+| 339 | [Mystical Engineering](https://www.curseforge.com/minecraft/mc-mods/mystical-engineering) | DragonBlak |
+| 340 | [Mystical Extended Tier](https://www.curseforge.com/minecraft/mc-mods/mystical-extended-tier) | xVelvetCrowe |
+| 341 | [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) | Chaosyr |
+| 342 | [NightLib](https://www.curseforge.com/minecraft/mc-mods/nightlib) | Nighttie |
+| 343 | [Nirvana Library](https://www.curseforge.com/minecraft/mc-mods/nirvana-library) | Clefal15 |
+| 344 | [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | Aizistral |
+| 345 | [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) | tr7zw |
+| 346 | [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook) | SSKirillSS |
+| 347 | [Nyctography](https://www.curseforge.com/minecraft/mc-mods/nyctography) | DarkhaxDev |
+| 348 | [Occult Delight](https://www.curseforge.com/minecraft/mc-mods/occult-delight) | ItsSebastrn |
+| 349 | [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism) | kli_kli |
+| 350 | [Occultism KubeJS](https://www.curseforge.com/minecraft/mc-mods/occultism-kubejs) | kli_kli |
+| 351 | [Occultism: Extra Spirits](https://www.curseforge.com/minecraft/mc-mods/occultism-extra-spirits) | Eqis_Edu |
+| 352 | [Ok Zoomer - It's Zoom!](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) | EnnuiLangeweile |
+| 353 | [Omni Upgrades](https://www.curseforge.com/minecraft/mc-mods/omni-upgrades) | Saku_rain |
+| 354 | [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator) | vsngarcia |
+| 355 | [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech) | rearth |
+| 356 | [Oritech Things](https://www.curseforge.com/minecraft/mc-mods/oritech-things) | Lumengrid89 |
+| 357 | [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar) | tfarecnim |
+| 358 | [oωo (owo-lib)](https://www.curseforge.com/minecraft/mc-mods/owo-lib) | gliscowo |
+| 359 | [Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer) | TonimatasDEV |
+| 360 | [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops) | pamharvestcraft |
+| 361 | [Pam's HarvestCraft 2 - Fantasy](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-fantasy) | pamharvestcraft |
+| 362 | [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core) | pamharvestcraft |
+| 363 | [Pam's HarvestCraft 2 - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended) | pamharvestcraft |
+| 364 | [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees) | pamharvestcraft |
+| 365 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) | Vazkii |
+| 366 | [Pig Pen Cipher](https://www.curseforge.com/minecraft/mc-mods/pig-pen-cipher) | DarkhaxDev |
+| 367 | [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez) | henkelmax |
+| 368 | [Pipez More Pipes](https://www.curseforge.com/minecraft/mc-mods/pipez-more-pipes) | Saku_rain |
+| 369 | [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) | Shadows_of_Fire |
+| 370 | [playerAnimator](https://www.curseforge.com/minecraft/mc-mods/playeranimator) | KosmX |
+| 371 | [Plushie Buddies](https://www.curseforge.com/minecraft/mc-mods/plushie-buddies) | subthy |
+| 372 | [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized) | desht_08 |
+| 373 | [PolyLib](https://www.curseforge.com/minecraft/mc-mods/polylib) | Official_CreeperHost |
+| 374 | [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) | TheIllusiveC4 |
+| 375 | [Powah Addon](https://www.curseforge.com/minecraft/mc-mods/powah-addon) | wiliantv |
+| 376 | [Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected) | thetechnici4n |
+| 377 | [Prefab](https://www.curseforge.com/minecraft/mc-mods/prefab) | wuestman |
+| 378 | [Prickle](https://www.curseforge.com/minecraft/mc-mods/prickle) | DarkhaxDev |
+| 379 | [Prism [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/prism-lib) | Grend_G |
+| 380 | [Productive Bees](https://www.curseforge.com/minecraft/mc-mods/productivebees) | LobsterJonn |
+| 381 | [Productive Farming](https://www.curseforge.com/minecraft/mc-mods/productivefarming) | LobsterJonn |
+| 382 | [Productive Metalworks](https://www.curseforge.com/minecraft/mc-mods/productive-metalworks) | LobsterJonn |
+| 383 | [Productive Tree + Mekanism Compatibility](https://www.curseforge.com/minecraft/mc-mods/productive-tree-mekanism-compatibility) | Saereth |
+| 384 | [Productive Trees](https://www.curseforge.com/minecraft/mc-mods/productivetrees) | LobsterJonn |
+| 385 | [Punchy! - First person animations](https://www.curseforge.com/minecraft/mc-mods/punchy) | DevPunchyMan |
+| 386 | [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) | Fuzs |
+| 387 | [Pylons](https://www.curseforge.com/minecraft/mc-mods/pylons) | MutantGumdrop |
+| 388 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) | Vazkii |
+| 389 | [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | Vazkii |
+| 390 | [Quest Completion Broadcast: FTB Quests](https://www.curseforge.com/minecraft/mc-mods/quest-completion-broadcast) | KURONAMl |
+| 391 | [quick pack](https://www.curseforge.com/minecraft/mc-mods/quick-pack) | drexhd |
+| 392 | [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps) | raoulvdberge |
+| 393 | [Reap Mod](https://www.curseforge.com/minecraft/mc-mods/reap-mod) | henkelmax |
+| 394 | [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled) | SuperMartijn642 |
+| 395 | [Redstone Pen](https://www.curseforge.com/minecraft/mc-mods/redstone-pen) | wilechaote |
+| 396 | [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage) | raoulvdberge |
+| 397 | [Refined Storage - Curios Integration](https://www.curseforge.com/minecraft/mc-mods/refined-storage-curios-integration) | raoulvdberge |
+| 398 | [Refined Storage - JEI Integration](https://www.curseforge.com/minecraft/mc-mods/refined-storage-jei-integration) | raoulvdberge |
+| 399 | [Refined Storage - Mekanism Integration](https://www.curseforge.com/minecraft/mc-mods/refined-storage-mekanism-integration) | raoulvdberge |
+| 400 | [Refined Storage - Quartz Arsenal](https://www.curseforge.com/minecraft/mc-mods/refined-storage-quartz-arsenal) | raoulvdberge |
+| 401 | [Refined Storage Search History](https://www.curseforge.com/minecraft/mc-mods/rs-search-history) | hp12138 |
+| 402 | [Refined Storage: Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify) | Buuz135 |
+| 403 | [Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod) | SSKirillSS |
+| 404 | [Relics & Artifacts](https://www.curseforge.com/minecraft/mc-mods/relicsartifacts) | xsoras |
+| 405 | [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations) | P3pp3rF1y |
+| 406 | [Reliquified Artifacts](https://www.curseforge.com/minecraft/mc-mods/reliquified-artifacts) | SSKirillSS |
+| 407 | [Repurposed Structures (Neoforge/Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) | telepathicgrunt |
+| 408 | [Repurposed Structures - Better Strongholds Compat Datapack](https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-strongholds-datapack) | telepathicgrunt |
+| 409 | [Repurposed Structures - Farmer's Delight Compat Mod](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-farmers-delight-compat-mod) | telepathicgrunt |
+| 410 | [Repurposed Structures - PneumaticCraft: Repressurized Compat Mod](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-pneumaticcraft-repressurized-compat-mod) | telepathicgrunt |
+| 411 | [Resourceful Config](https://www.curseforge.com/minecraft/mc-mods/resourceful-config) | ThatGravyBoat |
+| 412 | [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib) | ThatGravyBoat |
+| 413 | [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base) | McJty |
+| 414 | [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder) | McJty |
+| 415 | [RFTools Power](https://www.curseforge.com/minecraft/mc-mods/rftools-power) | McJty |
+| 416 | [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage) | McJty |
+| 417 | [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility) | McJty |
+| 418 | [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) | Lat |
+| 419 | [Runelic](https://www.curseforge.com/minecraft/mc-mods/runelic) | DarkhaxDev |
+| 420 | [Runes](https://www.curseforge.com/minecraft/mc-mods/rune-crafting) | daedelus_dev |
+| 421 | [Scalable Cat's Force](https://www.curseforge.com/minecraft/mc-mods/scalable-cats-force) | Kotori316 |
+| 422 | [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) | Jaredlll08 |
+| 423 | [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft) | Geforce132 |
+| 424 | [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) | TheAdubbz |
+| 425 | [Serene Seasons Plus](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-plus) | Gaboouu |
+| 426 | [ShatterLib \| OctoLib](https://www.curseforge.com/minecraft/mc-mods/shatterbyte-lib) | SSKirillSS |
+| 427 | [Sildur's Vibrant shaders](https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders) | Sildur |
+| 428 | [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear) | SilentChaos512 |
+| 429 | [Silent Gear JEI](https://www.curseforge.com/minecraft/mc-mods/silent-gear-jei) | Drowningfish233 |
+| 430 | [Silent Gear Metalworks](https://www.curseforge.com/minecraft/mc-mods/silent-gear-metalworks) | LobsterJonn |
+| 431 | [Silent Lib (silentlib)](https://www.curseforge.com/minecraft/mc-mods/silent-lib) | SilentChaos512 |
+| 432 | [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems) | SilentChaos512 |
+| 433 | [Simple Magnets](https://www.curseforge.com/minecraft/mc-mods/simple-magnets) | SuperMartijn642 |
+| 434 | [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) | tr7zw |
+| 435 | [Sky Villages [Forge]](https://www.curseforge.com/minecraft/mc-mods/sky-villages-forge) | Aureljz |
+| 436 | [SmartBrainLib (Forge/Fabric/Quilt)](https://www.curseforge.com/minecraft/mc-mods/smartbrainlib) | Scimiguy |
+| 437 | [Smelting Enchantment (Fabric/Forge/NeoForge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/smelting-enchantment) | lullaby6 |
+| 438 | [Smithing Template Viewer for JEI/EMI](https://www.curseforge.com/minecraft/mc-mods/smithing-template-viewer) | Buuz135 |
+| 439 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | JellySquid |
+| 440 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | FlashyReese |
+| 441 | [Solar Industrialization](https://www.curseforge.com/minecraft/mc-mods/solar-industrialization) | MIK0os |
+| 442 | [Sophisticated Backpack Allthemodium Tier](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpack-allthemodium-tier) | mobsmasher4000 |
+| 443 | [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) | P3pp3rF1y |
+| 444 | [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) | P3pp3rF1y |
+| 445 | [Sophisticated Inventory Interactions](https://www.curseforge.com/minecraft/mc-mods/sophisticated-inventory-interactions) | P3pp3rF1y |
+| 446 | [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage) | P3pp3rF1y |
+| 447 | [Sophisticated Storage Allthemodium tier](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-allthemodium-tier) | mobsmasher4000 |
+| 448 | [Soulplied Energistics](https://www.curseforge.com/minecraft/mc-mods/soulplied-energistics) | Buuz135 |
+| 449 | [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) | henkelmax |
+| 450 | [spark](https://www.curseforge.com/minecraft/mc-mods/spark) | Iucko |
+| 451 | [Spartan Shields Unofficial](https://www.curseforge.com/minecraft/mc-mods/spartan-shields-unofficial) | mai_xiyu |
+| 452 | [Spartan Weaponry Unofficial](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-unofficial) | mai_xiyu |
+| 453 | [Spell Codex: Iron's Spells 'n Spellbooks Addon](https://www.curseforge.com/minecraft/mc-mods/spell-codex-irons-spells-n-spellbooks-addon) | SemSemSem |
+| 454 | [Spell Engine](https://www.curseforge.com/minecraft/mc-mods/spell-engine) | daedelus_dev |
+| 455 | [Spell Power Attributes](https://www.curseforge.com/minecraft/mc-mods/spell-power) | daedelus_dev |
+| 456 | [SpellActionbar](https://www.curseforge.com/minecraft/mc-mods/spellactionbar) | SemSemSem |
+| 457 | [Spider Overhaul](https://www.curseforge.com/minecraft/mc-mods/spider-overhaul) | Chybx |
+| 458 | [Stay Clear](https://www.curseforge.com/minecraft/texture-packs/stay-clear) | Robdog |
+| 459 | [Structure Layout Optimizer](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer) | telepathicgrunt |
+| 460 | [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib) | SuperMartijn642 |
+| 461 | [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib) | SuperMartijn642 |
+| 462 | [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) | MehVahdJukaar |
+| 463 | [Supplementaries Squared](https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared) | plantspookable |
+| 464 | [TerraBlender (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/terrablender-neoforge) | TheAdubbz |
+| 465 | [Tesseract API (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/tesseract-api-neoforge) | swedzish |
+| 466 | [The Bumblezone (NeoForge/Forge)](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge) | telepathicgrunt |
+| 467 | [Time in a Bottle](https://www.curseforge.com/minecraft/mc-mods/time-in-a-bottle) | MangoRage |
+| 468 | [Time in a Bottle Fix - Tiab fix](https://www.curseforge.com/minecraft/mc-mods/time-in-a-bottle-fix-tiab-fix) | Zulussu |
+| 469 | [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium) | Buuz135 |
+| 470 | [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) | Shadows_of_Fire |
+| 471 | [Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage) | tom54541 |
+| 472 | [Tom's Simple Storage NBT Fix [JEI]](https://www.curseforge.com/minecraft/mc-mods/toms-simple-storage-nbt-fix-jei) | Veydiz |
+| 473 | [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt) | gigaherz |
+| 474 | [Tooltip Overhaul](https://www.curseforge.com/minecraft/mc-mods/tooltip-overhaul) | xylonity |
+| 475 | [Torches Reimagined](https://www.curseforge.com/minecraft/texture-packs/torches-reimagined) | Reijvi |
+| 476 | [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans) | SuperMartijn642 |
+| 477 | [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot) | BlayTheNinth |
+| 478 | [TxniLib](https://www.curseforge.com/minecraft/mc-mods/txnilib) | Txni |
+| 479 | [Underground Villages, Stoneholm (Fabric/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/underground-villages-stoneholm) | Reggarf |
+| 480 | [Utilitarian](https://www.curseforge.com/minecraft/mc-mods/utilitarian) | LobsterJonn |
+| 481 | [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) | ValhelsiaTeam |
+| 482 | [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) | Serilum |
+| 483 | [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) | BlayTheNinth |
+| 484 | [What Are They Up To (Watut)](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) | Corosus |
+| 485 | [Wireless Chargers](https://www.curseforge.com/minecraft/mc-mods/wireless-chargers) | SuperMartijn642 |
+| 486 | [Wither Spawn Animation](https://www.curseforge.com/minecraft/mc-mods/wither-spawn-animation) | bo_bo0 |
+| 487 | [Woot Revived](https://www.curseforge.com/minecraft/mc-mods/woot-revived) | pharuxtan |
+| 488 | [WorldWeaver: New Dawn](https://www.curseforge.com/minecraft/mc-mods/worldweaver-neoforge) | Raijin2312 |
+| 489 | [WunderLib: New Dawn](https://www.curseforge.com/minecraft/mc-mods/wunderlib-neoforge) | Raijin2312 |
+| 490 | [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet) | McJty |
+| 491 | [XyCraft](https://www.curseforge.com/minecraft/mc-mods/xycraft) | Soaryn |
+| 492 | [XyCraft: Machines](https://www.curseforge.com/minecraft/mc-mods/xycraft-machines) | Soaryn |
+| 493 | [XyCraft: Override](https://www.curseforge.com/minecraft/mc-mods/xycraft-override) | Soaryn |
+| 494 | [XyCraft: World](https://www.curseforge.com/minecraft/mc-mods/xycraft-world) | Soaryn |
+| 495 | [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl) | isXander |
+| 496 | [Yung Structures Addon for Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/yung-structures-addon-for-loot-integrations) | someaddon |
+| 497 | [YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-api-neoforge) | YUNGNICKYOUNG |
+| 498 | [YUNG's Better Caves (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves) | YUNGNICKYOUNG |
+| 499 | [YUNG's Better Desert Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-neoforge) | YUNGNICKYOUNG |
+| 500 | [YUNG's Better Dungeons (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-neoforge) | YUNGNICKYOUNG |
+| 501 | [YUNG's Better End Island (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island-neoforge) | YUNGNICKYOUNG |
+| 502 | [YUNG's Better Jungle Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-neoforge) | YUNGNICKYOUNG |
+| 503 | [YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-neoforge) | YUNGNICKYOUNG |
+| 504 | [YUNG's Better Nether Fortresses (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-neoforge) | YUNGNICKYOUNG |
+| 505 | [YUNG's Better Ocean Monuments (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-neoforge) | YUNGNICKYOUNG |
+| 506 | [YUNG's Better Strongholds (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-neoforge) | YUNGNICKYOUNG |
+| 507 | [YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-neoforge) | YUNGNICKYOUNG |
+| 508 | [YUNG's Bridges (NeoForge) [1.20.4 - 1.21.1 ONLY]](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-neoforge) | YUNGNICKYOUNG |
+| 509 | [YUNG's Cave Biomes (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes) | YUNGNICKYOUNG |
+| 510 | [ZambieLib](https://www.curseforge.com/minecraft/mc-mods/zambielib) | ZambieD |
+| 511 | [ZeroCore 2](https://www.curseforge.com/minecraft/mc-mods/zerocore) | ZeroNoRyouki |
+| 512 | [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) | Vazkii |
 
 Thank you to every mod author whose work makes this pack possible. 💜

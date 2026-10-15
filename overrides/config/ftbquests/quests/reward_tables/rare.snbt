@@ -360,6 +360,58 @@
 			}
 			weight: 2.0f
 		}
+		{
+			count: 2
+			id: "4226A07A46D63BC1"
+			item: {
+				count: 1
+				id: "grimsoul:looting_card"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "12AFBA703A04A637"
+			item: {
+				count: 1
+				id: "grimsoul:data_core"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "0FF20AF861FCC99F"
+			item: {
+				count: 1
+				id: "grimpipes:restless_upgrade"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 8
+			id: "12FFA49DAF1EA113"
+			item: {
+				count: 1
+				id: "grimpipes:omni_pipe"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 4
+			id: "15F26F3D462CF27F"
+			item: {
+				count: 1
+				id: "grimstorage:infused_soulite"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "1473D11647453361"
+			item: {
+				count: 1
+				id: "grimstorage:speed_upgrade"
+			}
+			weight: 2.0f
+		}
 	]
 	use_title: true
 }

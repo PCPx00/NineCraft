@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"mysticalagriculture:soul_jar","components":"{\"mysticalagriculture:soul_jar\":{souls:10.0d,type:\"mysticalagriculture:zombie\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mysticalagriculture:zombie_seeds"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"silentgear:pickaxe_blueprint"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

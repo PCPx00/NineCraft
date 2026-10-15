@@ -1,0 +1,9 @@
+[gui]
+	#Look of the Grim Pipe Industries screens: REAPER (light gray and purple), VANILLA (classic Minecraft) or DARK.
+	#You can also switch it with the small button in the top-right corner of any pipe screen.
+	#Allowed Values: REAPER, VANILLA, DARK
+	theme = "DARK"
+
+[render]
+	#Show the flow animation on pipes that are moving something (the server can also turn it off for everyone).
+	flowAnimation = true

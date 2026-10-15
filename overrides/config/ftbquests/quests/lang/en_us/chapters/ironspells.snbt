@@ -1,57 +1,261 @@
 {
-	quest.0140E8787E204CC0.quest_desc: ["More still."]
+	quest.0140E8787E204CC0.quest_desc: [
+		"More still."
+		""
+		"§e§lHow to complete:§r Craft or make Enchanted Spell Book and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.0140E8787E204CC0.title: "Diamond Spellbook"
-	quest.10DD536A42CBEB0F.quest_desc: ["A rare metal found deep underground."]
+	quest.036C16BFE726A839.quest_desc: [
+		"Craft your own scrolls from ink, paper and a focus item."
+		""
+		"§e§lHow to complete:§r Craft or make Scroll Forge and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.036C16BFE726A839.title: "Scroll Forge"
+	quest.08851CC5C710E9D8.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Blood Rune and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.08851CC5C710E9D8.title: "Blood Rune"
+	quest.10208A16CAB45A6C.quest_desc: [
+		"Scrolls turn up in dungeon loot too. Read one to cast it once, or put it in your book."
+		""
+		"§e§lHow to complete:§r Craft or make Scroll and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.10208A16CAB45A6C.title: "Spell Scrolls"
+	quest.10DD536A42CBEB0F.quest_desc: [
+		"A rare metal found deep underground."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Mithril Ingot and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.10DD536A42CBEB0F.title: "Mithril"
+	quest.112679A0E4DD1773.quest_desc: [
+		"A basic mage armor."
+		""
+		"§e§lHow to complete:§r Craft or make Wizard Robes and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.112679A0E4DD1773.title: "Wizard Robes"
+	quest.12133B8A96274448.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Fire Rune and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.12133B8A96274448.title: "Fire Rune"
-	quest.1233F58D5487692E.quest_desc: ["A spellbook with a few slots."]
+	quest.1233F58D5487692E.quest_desc: [
+		"A spellbook with a few slots."
+		""
+		"§e§lHow to complete:§r Craft or make Ironbound Tome and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1233F58D5487692E.title: "Iron Spellbook"
-	quest.123BC2DE7FC2EE50.quest_desc: ["Put spell scrolls into your spellbook here."]
+	quest.123BC2DE7FC2EE50.quest_desc: [
+		"§eHow to add a spell:§r put your spellbook and a scroll in the Inscription Table. The spell moves into the book. Press the spell hotkey (default §eR§r) to open the spell wheel and cast."
+		""
+		"§e§lHow to complete:§r Craft or make Inscription Table and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.123BC2DE7FC2EE50.title: "Inscription Table"
-	quest.139FC0ED43651747.quest_desc: ["Each school has its own set of mage armor."]
+	quest.139FC0ED43651747.quest_desc: [
+		"Each school has its own set of mage armor."
+		""
+		"§e§lHow to complete:§r Craft or make Cryomancer Coat and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.139FC0ED43651747.title: "School Armor"
-	quest.143B18A894BC779E.quest_desc: ["Boost a school of magic on your armor."]
+	quest.1407719FCD15AEC2.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Uncommon Ink and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1407719FCD15AEC2.title: "Uncommon Ink"
+	quest.143B18A894BC779E.quest_desc: [
+		"Boost a school of magic on your armor."
+		""
+		"§e§lHow to complete:§r Craft or make Fire Upgrade Orb and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.143B18A894BC779E.title: "Upgrade Orbs"
-	quest.15A9CB9CE8FAE2FF.quest_desc: ["The base for elemental runes."]
+	quest.14F5376E8B7AA2ED.quest_desc: [
+		"Netherite book, netherite mage armor and legendary ink."
+		""
+		"§e§lHow to complete:§r Craft or make Ancient Codex, Netherite Battlemage Robes and Legendary Ink and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.14F5376E8B7AA2ED.title: "Archmage of Iron"
+	quest.15A9CB9CE8FAE2FF.quest_desc: [
+		"The base for elemental runes."
+		""
+		"§e§lHow to complete:§r Craft or make Blank Runestone and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.15A9CB9CE8FAE2FF.title: "Blank Rune"
-	quest.15FFC3A3746ECD2E.quest_desc: ["Brew potions, elixirs and inks."]
+	quest.15FFC3A3746ECD2E.quest_desc: [
+		"Brew potions, elixirs and inks."
+		""
+		"§e§lHow to complete:§r Craft or make Alchemist Cauldron and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.15FFC3A3746ECD2E.title: "Alchemist Cauldron"
+	quest.168A356E521FDDEB.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Holy Rune and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.168A356E521FDDEB.title: "Holy Rune"
+	quest.1809CA0FE0E8A202.quest_desc: [
+		"Top-tier mage armor."
+		""
+		"§e§lHow to complete:§r Craft or make Netherite Battlemage Robes and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1809CA0FE0E8A202.title: "Netherite Mage Armor"
 	quest.18CA9A3553BD6BD0.quest_desc: [
 		"All The Wizard Gear makes top mage armor from the special metals."
+		""
+		"§e§lHow to complete:§r Craft or make Allthemodium Mage Chestplate and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
 	]
 	quest.18CA9A3553BD6BD0.title: "Allthemodium Mage Armor"
-	quest.18CF1D4B245F643A.quest_desc: ["Upgrade scrolls and imbue weapons with spells."]
+	quest.18CF1D4B245F643A.quest_desc: [
+		"Upgrade scrolls and imbue weapons with spells."
+		""
+		"§e§lHow to complete:§r Craft or make Arcane Anvil and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.18CF1D4B245F643A.title: "Arcane Anvil"
-	quest.19F1075A91CCFE33.quest_desc: ["More slots."]
+	quest.193BE693AB49A705.quest_desc: [
+		"Weapons with a spell built in."
+		""
+		"§e§lHow to complete:§r Craft or make Boreal Blade and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.193BE693AB49A705.title: "Spell Blades"
+	quest.19C1C9C0190BE7FB.quest_desc: [
+		"The Dead King's prize."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Dead King Phylactery and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.19C1C9C0190BE7FB.title: "Phylactery"
+	quest.19F1075A91CCFE33.quest_desc: [
+		"More slots."
+		""
+		"§e§lHow to complete:§r Craft or make Apprentice's Spell Book and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.19F1075A91CCFE33.title: "Gold Spellbook"
+	quest.1A49B935A7B4AEA4.quest_desc: [
+		"Used in mage armor."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Arcane Cloth and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1A49B935A7B4AEA4.title: "Magic Cloth"
+	quest.1BB80F4C454C2FBE.quest_desc: [
+		"Boosts fire spells."
+		""
+		"§e§lHow to complete:§r Craft or make Pyromancer Robe and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1BB80F4C454C2FBE.title: "Pyromancer Armor"
 	quest.1C0AADC12D28BE24.quest_desc: [
-		"Iron's Spells gives you a spellbook full of ready-made spells, schools of magic and big bosses to fight."
+		"Iron's Spells 'n Spellbooks gives you a spellbook full of ready-made spells, from fireballs to summoning. Spells come as scrolls you slot into your book."
+		""
+		"§eThe path:§r get a spellbook, put scrolls in it at the Inscription Table, find better scrolls in loot and craft them with ink at the Scroll Forge. Later, craft school armor and fight the big bosses. Grab a few books first."
+		""
+		"§e§lHow to complete:§r Craft or make 3 x Book and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.1C0AADC12D28BE24.title: "Spells and Scrolls"
-	quest.1DCD4C3118317432.quest_desc: ["Craft scrolls with ink. Rarer ink makes stronger scrolls."]
-	quest.1DCD4C3118317432.title: "Ink"
-	quest.3597BAAFD7BAEC8B.quest_desc: ["For the strongest spells."]
-	quest.3597BAAFD7BAEC8B.title: "Legendary Ink"
-	quest.3C8748ECE325F31E.quest_desc: [
-		"&dNine Craft Quest Book&r"
+	quest.1CCF823EE19C62D6.quest_desc: [
+		"Staffs boost spell power when held."
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"§e§lHow to complete:§r Craft or make Graybeard Staff and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1CCF823EE19C62D6.title: "Staffs"
+	quest.1DCD4C3118317432.quest_desc: [
+		"Craft scrolls with ink. Rarer ink makes stronger scrolls."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Common Ink and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1DCD4C3118317432.title: "Ink"
+	quest.1FE92C6692EEA0FA.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Rare Ink and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1FE92C6692EEA0FA.title: "Rare Ink"
+	quest.23F46870A41C0687.quest_desc: [
+		"A magic crafting material from dungeons and mobs."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 8 x Arcane Essence and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.23F46870A41C0687.title: "Arcane Essence"
+	quest.3597BAAFD7BAEC8B.quest_desc: [
+		"For the strongest spells."
+		""
+		"§e§lHow to complete:§r Craft or make Legendary Ink and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.3597BAAFD7BAEC8B.title: "Legendary Ink"
+	quest.381CCBCBBC9068A3.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Nature Rune and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.381CCBCBBC9068A3.title: "Nature Rune"
+	quest.3C8748ECE325F31E.quest_desc: [
+		"§dNine Craft Quest Book§r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.3C8748ECE325F31E.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.3C8748ECE325F31E.title: "&5Nine Craft&r - Quest Book Notice"
-	quest.3FEC4FAA7EEC0757.quest_desc: ["For high-level spells."]
+	quest.3C8748ECE325F31E.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.3FEC4FAA7EEC0757.quest_desc: [
+		"For high-level spells."
+		""
+		"§e§lHow to complete:§r Craft or make Epic Ink and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.3FEC4FAA7EEC0757.title: "Epic Ink"
+	quest.476CA083638EA7A2.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Lightning Rune and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.476CA083638EA7A2.title: "Lightning Rune"
-	quest.6FBF526025F4F3E7.quest_desc: ["The best crafted book."]
+	quest.4956BFCB404066B5.quest_desc: [
+		"Brew powerful elixirs in the cauldron."
+		""
+		"§e§lHow to complete:§r Craft or make Evasion Elixir and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.4956BFCB404066B5.title: "Elixirs"
+	quest.511FBFD91A360391.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Evocation Rune and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.511FBFD91A360391.title: "Evocation Rune"
+	quest.5FA698E45A2C40E3.quest_desc: [
+		"Deep underground, rare."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Raw Mithril and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5FA698E45A2C40E3.title: "Raw Mithril"
+	quest.600D873470A76A0F.quest_desc: [
+		"Boosts holy spells."
+		""
+		"§e§lHow to complete:§r Craft or make Priest Robes and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.600D873470A76A0F.title: "Priest Armor"
+	quest.62506D6BB4F5759E.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Ender Rune and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.62506D6BB4F5759E.title: "Ender Rune"
+	quest.654108A53BBA7865.quest_desc: [
+		"A powerful book with lots of slots."
+		""
+		"§e§lHow to complete:§r Find, mine or loot Dragonskin Spell Book and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.654108A53BBA7865.title: "Dragonskin Spellbook"
+	quest.663109C90E880AC5.quest_desc: [
+		"The base for school upgrade orbs."
+		""
+		"§e§lHow to complete:§r Craft or make Empty Upgrade Orb and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.663109C90E880AC5.title: "Upgrade Orb"
+	quest.697B7F53EFF89F42.quest_desc: [
+		"Boosts lightning spells."
+		""
+		"§e§lHow to complete:§r Craft or make Electromancer Robe and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.697B7F53EFF89F42.title: "Electromancer Armor"
+	quest.6FBF526025F4F3E7.quest_desc: [
+		"The best crafted book."
+		""
+		"§e§lHow to complete:§r Craft or make Ancient Codex and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.6FBF526025F4F3E7.title: "Netherite Spellbook"
-	quest.7BA3F8D898A505B3.quest_desc: ["A crowned undead boss in a haunted crypt."]
+	quest.7BA3F8D898A505B3.quest_desc: [
+		"A crowned undead boss in a haunted crypt."
+		""
+		"§e§lHow to complete:§r Kill The Dead King. The quest completes on its own as soon as you do it."
+	]
 	quest.7BA3F8D898A505B3.title: "The Dead King"
+	quest.7C2A7F03E1C82F9B.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Ice Rune and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.7C2A7F03E1C82F9B.title: "Ice Rune"
 }

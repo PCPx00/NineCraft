@@ -340,6 +340,56 @@
 			}
 			weight: 1.0f
 		}
+		{
+			id: "785C595A8C76296F"
+			item: {
+				count: 1
+				id: "grimsoul:player_kill_card"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 4
+			id: "63BE9DD7FB35F9D3"
+			item: {
+				count: 1
+				id: "grimsoul:count_card"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "56C1C363DF40E3CA"
+			item: {
+				count: 1
+				id: "grimpipes:soulforged_upgrade"
+			}
+			weight: 1.0f
+		}
+		{
+			count: 2
+			id: "10E44720E2176BC8"
+			item: {
+				count: 1
+				id: "grimstorage:echo_soulite_alloy"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "29AEFB1895AD5C8D"
+			item: {
+				count: 1
+				id: "grimstorage:storage_cell_1m"
+			}
+			weight: 1.0f
+		}
+		{
+			id: "73C322C3565C5077"
+			item: {
+				count: 1
+				id: "grimsoul:soul_steel"
+			}
+			weight: 1.0f
+		}
 	]
 	use_title: true
 }

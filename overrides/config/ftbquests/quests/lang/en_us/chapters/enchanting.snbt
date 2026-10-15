@@ -1,56 +1,227 @@
 {
+	quest.06F3B6D5E97FDB58.quest_desc: [
+		"Adds a random affix."
+		""
+		"§e§lHow to complete:§r Craft or make Sigil of Malice and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.06F3B6D5E97FDB58.title: "Sigil of Malice"
+	quest.0B02566573ABAF68.quest_desc: [
+		"Stores even higher levels."
+		""
+		"§e§lHow to complete:§r Craft or make Library of Alexandria and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.0B02566573ABAF68.title: "Ender Library"
+	quest.0DE876A75B5BEDAC.quest_desc: [
+		"A shelf that lowers power. Handy for fine-tuning low enchants."
+		""
+		"§e§lHow to complete:§r Craft or make Stoneshelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.0DE876A75B5BEDAC.title: "Stoneshelf"
 	quest.110D3ADE8B48EE09.quest_desc: [
-		"Apothic Enchanting rebuilds the enchanting table. Different bookshelves change the table's power, quanta, arcana and more."
+		"Apothic Enchanting rebuilds enchanting from the ground up. The table has five stats: §eEterna§r (max level), §eQuanta§r (randomness), §eArcana§r (rarer enchants), Rectification and Clues."
+		""
+		"Different bookshelves change each stat. This chapter walks you from a vanilla setup to a table that rolls level 100+ enchantments. Get some lapis first."
+		""
+		"§e§lHow to complete:§r Find, mine or loot 16 x Lapis Lazuli and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.110D3ADE8B48EE09.title: "Deeper Enchanting"
-	quest.1119E7565D4F97B4.quest_desc: ["Rerolls affixes on gear."]
-	quest.1119E7565D4F97B4.title: "Reforging Table"
-	quest.1130E23358E9E07C.quest_desc: ["Pull a random enchantment off an item."]
-	quest.1130E23358E9E07C.title: "Scrap Tome"
-	quest.11792462C3B22932.quest_desc: ["Sculky shelves for high-level enchants."]
-	quest.11792462C3B22932.title: "Deepshelf"
-	quest.11CFE19ACBB65564.quest_desc: ["Pull every enchantment off an item."]
-	quest.11CFE19ACBB65564.title: "Extraction Tome"
-	quest.1507D21F0ABC31BC.quest_desc: ["Upgrades gem rarity."]
-	quest.1507D21F0ABC31BC.title: "Gem Cutting"
-	quest.168050DAD1612A76.title: "Infused Seashelf"
-	quest.18399C5702E27696.quest_desc: ["Breaks down gear into materials."]
-	quest.18399C5702E27696.title: "Salvaging Table"
-	quest.1A9D5F211B24398B.quest_desc: ["A Nether shelf with more power."]
-	quest.1A9D5F211B24398B.title: "Hellshelf"
-	quest.1B83619BBAD9B226.quest_desc: [
-		"&dNine Craft Quest Book&r"
+	quest.1119E7565D4F97B4.quest_desc: [
+		"Rerolls affixes on gear."
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"§e§lHow to complete:§r Craft or make Reforging Table and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1119E7565D4F97B4.title: "Reforging Table"
+	quest.1130E23358E9E07C.quest_desc: [
+		"Pull a random enchantment off an item."
+		""
+		"§e§lHow to complete:§r Craft or make Tome of Scrapping and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1130E23358E9E07C.title: "Scrap Tome"
+	quest.11792462C3B22932.quest_desc: [
+		"Sculky shelves for high-level enchants."
+		""
+		"§e§lHow to complete:§r Craft or make Deepshelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.11792462C3B22932.title: "Deepshelf"
+	quest.11CFE19ACBB65564.quest_desc: [
+		"Pull every enchantment off an item."
+		""
+		"§e§lHow to complete:§r Craft or make Tome of Extraction and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.11CFE19ACBB65564.title: "Extraction Tome"
+	quest.1507D21F0ABC31BC.quest_desc: [
+		"Upgrades gem rarity."
+		""
+		"§e§lHow to complete:§r Craft or make Gem Cutting Table and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1507D21F0ABC31BC.title: "Gem Cutting"
+	quest.165344BAF630AC7F.quest_desc: [
+		"Adds quanta."
+		""
+		"§e§lHow to complete:§r Craft or make Melonshelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.165344BAF630AC7F.title: "Melonshelf"
+	quest.168050DAD1612A76.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Infused Seashelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.168050DAD1612A76.title: "Infused Seashelf"
+	quest.18399C5702E27696.quest_desc: [
+		"Breaks down gear into materials."
+		""
+		"§e§lHow to complete:§r Craft or make Salvaging Table and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.18399C5702E27696.title: "Salvaging Table"
+	quest.1A11DDAB3F531D50.quest_desc: [
+		"Allows treasure enchantments like Mending."
+		""
+		"§e§lHow to complete:§r Craft or make Deepshelf of Arcane Treasures and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1A11DDAB3F531D50.title: "Treasure Shelf"
+	quest.1A9D5F211B24398B.quest_desc: [
+		"A Nether shelf with more power."
+		""
+		"§e§lHow to complete:§r Craft or make Hellshelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1A9D5F211B24398B.title: "Hellshelf"
+	quest.1B3F19A990DBA411.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Blazing Hellshelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1B3F19A990DBA411.title: "Blazing Hellshelf"
+	quest.1B83619BBAD9B226.quest_desc: [
+		"§dNine Craft Quest Book§r"
+		""
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.1B83619BBAD9B226.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.1B83619BBAD9B226.title: "&5Nine Craft&r - Quest Book Notice"
-	quest.1FADAB05F698FC62.quest_desc: ["An ocean shelf."]
+	quest.1B83619BBAD9B226.title: "§5Nine Craft§r - Quest Book Notice"
+	quest.1B83AB78939C38E6.quest_desc: [
+		"Stores gems."
+		""
+		"§e§lHow to complete:§r Craft or make Gem Case and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1B83AB78939C38E6.title: "Gem Case"
+	quest.1DA126A86D0D3EFE.quest_desc: [
+		"Adds lots of quanta."
+		""
+		"§e§lHow to complete:§r Craft or make Beeshelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1DA126A86D0D3EFE.title: "Beeshelf"
+	quest.1E4BC81C29EBCF59.quest_desc: [
+		"Tomes enchant as a specific item type, then the book works on anything."
+		""
+		"§e§lHow to complete:§r Craft or make Tome of the Miners and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1E4BC81C29EBCF59.title: "Tomes"
+	quest.1F0177DBCA03C971.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Heart-Forged Seashelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.1F0177DBCA03C971.title: "Heart Seashelf"
+	quest.1FADAB05F698FC62.quest_desc: [
+		"An ocean shelf."
+		""
+		"§e§lHow to complete:§r Craft or make Seashelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.1FADAB05F698FC62.title: "Seashelf"
-	quest.3E9CA2FA57D709A1.quest_desc: ["Infused for even more power."]
+	quest.2085B337DB563850.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Crystalline Seashelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.2085B337DB563850.title: "Crystal Seashelf"
+	quest.210D14139A708B5A.quest_desc: [
+		"Draconic shelves, an ender library and supremacy sigils."
+		""
+		"§e§lHow to complete:§r Craft or make 4 x Draconic Endshelf, Library of Alexandria and Sigil of Supremacy and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.210D14139A708B5A.title: "Enchanting Master"
+	quest.225BA0E6A883DC8B.quest_desc: [
+		"Rolls treasure enchants."
+		""
+		"§e§lHow to complete:§r Craft or make Echoing Sculkshelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.225BA0E6A883DC8B.title: "Echoing Sculkshelf"
+	quest.2DD72E038A9648D0.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Pearlescent Endshelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.2DD72E038A9648D0.title: "Pearl Endshelf"
+	quest.3E9CA2FA57D709A1.quest_desc: [
+		"Infused for even more power."
+		""
+		"§e§lHow to complete:§r Craft or make Infused Hellshelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.3E9CA2FA57D709A1.title: "Infused Hellshelf"
 	quest.3ED6EA1B72500412.quest_desc: [
-		"Stores enchanted books as points. Pull out any level you've stored."
+		"The Library stores enchanted books as points. Put books in, and pull out any level you've unlocked. The Ender Library holds even more."
+		""
+		"§e§lHow to complete:§r Craft or make Enchantment Library and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.3ED6EA1B72500412.title: "Enchantment Library"
-	quest.4525A64CCF9B53BC.quest_desc: ["Surround the table."]
+	quest.4525A64CCF9B53BC.quest_desc: [
+		"Place bookshelves around the table with one block of air between. Hover the table to see its stats. Apothic shelves stack much higher than vanilla ones."
+		""
+		"§e§lHow to complete:§r Craft or make 15 x Bookshelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.4525A64CCF9B53BC.title: "Bookshelves"
-	quest.4F590031817E7FE5.quest_desc: ["End-powered shelves."]
+	quest.4F590031817E7FE5.quest_desc: [
+		"End-powered shelves."
+		""
+		"§e§lHow to complete:§r Craft or make Endshelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.4F590031817E7FE5.title: "Endshelf"
-	quest.5C644C8EC89DD685.quest_desc: ["One of the strongest shelves."]
+	quest.5A9F608024817F6F.quest_desc: [
+		"Blocks certain enchantments from rolling."
+		""
+		"§e§lHow to complete:§r Craft or make Seashelf of Aquatic Filtration and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
+	quest.5A9F608024817F6F.title: "Filtering Shelf"
+	quest.5C644C8EC89DD685.quest_desc: [
+		"One of the strongest shelves."
+		""
+		"§e§lHow to complete:§r Craft or make Draconic Endshelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.5C644C8EC89DD685.title: "Draconic Endshelf"
-	quest.63F0779089759E7A.quest_desc: ["Adds a socket to an item."]
+	quest.5F1EBA9589AC2B33.quest_desc: [
+		"Rerolls a single affix."
+		""
+		"§e§lHow to complete:§r Craft or make Augmenting Table and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.5F1EBA9589AC2B33.title: "Augmenting Table"
+	quest.63F0779089759E7A.quest_desc: [
+		"Adds a socket to an item."
+		""
+		"§e§lHow to complete:§r Craft or make Sigil of Socketing and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.63F0779089759E7A.title: "Sigil of Socketing"
-	quest.6FD33302F40DB44D.quest_desc: ["Apotheosis gems socket into gear for bonus stats."]
+	quest.6D779DB903E355E7.quest_desc: [
+		"Upgrades an item's rarity."
+		""
+		"§e§lHow to complete:§r Craft or make Sigil of Supremacy and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.6D779DB903E355E7.title: "Sigil of Supremacy"
+	quest.6FD33302F40DB44D.quest_desc: [
+		"Apotheosis adds gems that go into sockets on your gear. Gems drop from mobs, and each rarity gives stronger bonuses."
+		""
+		"§e§lHow to complete:§r Craft or make Gem and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.6FD33302F40DB44D.title: "Gems"
-	quest.75D2105DD74987B2.quest_desc: ["Start with the vanilla table. It upgrades into Apothic's."]
+	quest.7115A67319CFD1C0.quest_desc: [
+		"§e§lHow to complete:§r Craft or make Glowing Hellshelf and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.7115A67319CFD1C0.title: "Glowing Hellshelf"
+	quest.75D2105DD74987B2.quest_desc: [
+		"Start with the vanilla table. It upgrades into Apothic's."
+		""
+		"§e§lHow to complete:§r Craft or make Enchanting Table and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
 	quest.75D2105DD74987B2.title: "Enchanting Table"
-	quest.7DD031C5BC6F5081.quest_desc: ["Tweak spawners with runes."]
+	quest.7DD031C5BC6F5081.quest_desc: [
+		"Tweak spawners with runes."
+		""
+		"§e§lHow to complete:§r Craft or make Spawner Rune and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in. §7(Optional: you can skip this one.)§r"
+	]
 	quest.7DD031C5BC6F5081.title: "Spawner Runes"
 }

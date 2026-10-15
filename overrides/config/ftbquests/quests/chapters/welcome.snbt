@@ -17,7 +17,7 @@
 			rotation: 0.0d
 			width: 17.25d
 			x: 0.0d
-			y: -6.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -27,7 +27,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: 1.0d
+			y: 3.0d
 		}
 		{
 			alpha: 70
@@ -36,8 +36,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 14.0d
-			y: -1.0d
+			x: 19.5d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -46,8 +46,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 5.0d
-			y: 7.0d
+			x: 8.0d
+			y: 9.0d
 		}
 		{
 			height: 4.5d
@@ -55,7 +55,7 @@
 			rotation: 0.0d
 			width: 8.0d
 			x: 0.0d
-			y: -9.5d
+			y: -7.5d
 		}
 	]
 	order_index: 0
@@ -83,7 +83,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["17C5A7EAE1285CF9"]
@@ -106,7 +106,7 @@
 				}
 			]
 			x: 2.5d
-			y: 0.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["22EB1F42A10865C9"]
@@ -129,7 +129,7 @@
 				}
 			]
 			x: 5.0d
-			y: -2.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["22EB1F42A10865C9"]
@@ -152,7 +152,7 @@
 				}
 			]
 			x: 5.0d
-			y: 0.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["5439CB8BD18979AD"]
@@ -185,7 +185,7 @@
 				}
 			]
 			x: 7.5d
-			y: -1.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["22EB1F42A10865C9"]
@@ -217,7 +217,7 @@
 				}
 			]
 			x: 5.0d
-			y: 2.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["19BE4CB03764EAF7"]
@@ -241,7 +241,7 @@
 				}
 			]
 			x: 7.5d
-			y: 2.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["19BE4CB03764EAF7"]
@@ -265,7 +265,7 @@
 				}
 			]
 			x: 7.5d
-			y: 3.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["15C92925388BFC18"]
@@ -289,7 +289,7 @@
 				}
 			]
 			x: 10.0d
-			y: -1.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["5439CB8BD18979AD"]
@@ -314,7 +314,107 @@
 				}
 			]
 			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["14502B5FB961713B"]
+			id: "3124B53467C7565A"
+			rewards: [
+				{
+					id: "1B9A1A2E71536649"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1789977318B1F98D"
+					item: {
+						count: 1
+						id: "minecraft:lantern"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["54B753C744A6B228"]
+			id: "16AD19EF8944F264"
+			optional: true
+			rewards: [
+				{
+					id: "1E011A88C2E45B0B"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1CDF7EE7D13140DB"
+					item: {
+						count: 1
+						id: "waystones:warp_plate"
+					}
+					type: "item"
+					count: 2L
+				}
+			]
+			x: 12.5d
 			y: 0.0d
+		}
+		{
+			dependencies: ["1C59C0E12A88BC5D"]
+			id: "10F0C4142CE0DBD5"
+			optional: true
+			rewards: [
+				{
+					id: "5FF65B9D0643FD8D"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2F3DEE3E47791F26"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:upgrade_base"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1F973064EABB2CE9", "15C92925388BFC18", "12A47C8D2F696610"]
+			id: "1D9C19627F3EDDE9"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "16D2780EE88A3C0F"
+					type: "xp_levels"
+					xp_levels: 7
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "249D59CDF35F1811"
+					item: {
+						count: 1
+						id: "minecraft:oak_sapling"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 15.5d
+			y: 3.0d
 		}
 		{
 			icon: {
@@ -333,7 +433,7 @@
 				}
 			]
 			x: -3.0d
-			y: -5.0d
+			y: -3.0d
 		}
 	]
 }

@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 13.5d
 			x: 5.75d
-			y: -10.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: 0.0d
+			y: 16.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 19.0d
-			y: -5.0d
+			x: 22.0d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 7.5d
-			y: 10.0d
+			x: 9.0d
+			y: 35.5d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,32 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 19.0d
-			y: 5.5d
+			x: 22.0d
+			y: 31.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/ironspells_0.png"
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.25d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/ironspells_1.png"
+			rotation: 0.0d
+			width: 5.5d
+			x: 1.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/ironspells_2.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 3.75d
+			y: 28.5d
 		}
 	]
 	order_index: 1
@@ -101,7 +125,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 6.5d
 		}
 		{
 			dependencies: ["1C0AADC12D28BE24"]
@@ -133,7 +157,7 @@
 				}
 			]
 			x: 2.5d
-			y: -3.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["123BC2DE7FC2EE50"]
@@ -156,7 +180,7 @@
 				}
 			]
 			x: 5.0d
-			y: -6.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1233F58D5487692E"]
@@ -179,7 +203,7 @@
 				}
 			]
 			x: 7.5d
-			y: -6.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["19F1075A91CCFE33"]
@@ -202,7 +226,7 @@
 				}
 			]
 			x: 10.0d
-			y: -6.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["0140E8787E204CC0"]
@@ -227,7 +251,7 @@
 				}
 			]
 			x: 12.5d
-			y: -6.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1C0AADC12D28BE24"]
@@ -251,15 +275,15 @@
 				}
 			]
 			x: 2.5d
-			y: -2.0d
+			y: 5.0d
 		}
 		{
-			dependencies: ["1DCD4C3118317432"]
+			dependencies: ["1FE92C6692EEA0FA"]
 			id: "3FEC4FAA7EEC0757"
 			rewards: [
 				{
 					id: "12F07A7A166C8234"
-					table_id: 6126799873689625950L
+					table_id: 1467623321632268434L
 					type: "random"
 				}
 			]
@@ -273,8 +297,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -4.0d
+			x: 10.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["3FEC4FAA7EEC0757"]
@@ -282,7 +306,7 @@
 			rewards: [
 				{
 					id: "108CD358E6E715E8"
-					table_id: 6126799873689625950L
+					table_id: 1467623321632268434L
 					type: "random"
 				}
 			]
@@ -296,8 +320,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -4.0d
+			x: 12.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["1C0AADC12D28BE24"]
@@ -320,11 +344,12 @@
 				}
 			]
 			x: 2.5d
-			y: 0.0d
+			y: 6.5d
 		}
 		{
-			dependencies: ["1C0AADC12D28BE24"]
+			dependencies: ["112679A0E4DD1773"]
 			id: "15A9CB9CE8FAE2FF"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "7B3F774F3FB73715"
@@ -342,12 +367,18 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: 2.0d
+			x: 0.0d
+			y: 21.5d
 		}
 		{
-			dependencies: ["15A9CB9CE8FAE2FF"]
+			dependencies: [
+				"7C2A7F03E1C82F9B"
+				"697B7F53EFF89F42"
+				"600D873470A76A0F"
+				"6FBF526025F4F3E7"
+			]
 			id: "12133B8A96274448"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "18783B82D64665BF"
@@ -365,8 +396,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -0.5d
+			x: 0.0d
+			y: 31.0d
 		}
 		{
 			dependencies: ["15A9CB9CE8FAE2FF"]
@@ -388,8 +419,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 1.5d
+			x: 2.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["15A9CB9CE8FAE2FF"]
@@ -411,8 +442,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 3.0d
+			x: 2.5d
+			y: 18.0d
 		}
 		{
 			dependencies: ["15A9CB9CE8FAE2FF"]
@@ -434,8 +465,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 5.0d
+			x: 2.5d
+			y: 19.5d
 		}
 		{
 			dependencies: ["1DCD4C3118317432"]
@@ -458,16 +489,16 @@
 				}
 			]
 			x: 5.0d
-			y: -2.5d
+			y: 3.5d
 		}
 		{
-			dependencies: ["1C0AADC12D28BE24"]
+			dependencies: ["5FA698E45A2C40E3"]
 			id: "10DD536A42CBEB0F"
 			rewards: [
 				{
 					id: "624B06046276E3F6"
 					type: "xp_levels"
-					xp_levels: 1
+					xp_levels: 2
 				}
 			]
 			tasks: [
@@ -480,16 +511,16 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: 3.5d
+			x: 5.0d
+			y: 11.0d
 		}
 		{
-			dependencies: ["10DD536A42CBEB0F"]
+			dependencies: ["663109C90E880AC5"]
 			id: "143B18A894BC779E"
 			rewards: [
 				{
 					id: "77ED93041D257CE0"
-					table_id: 6126799873689625950L
+					table_id: 1467623321632268434L
 					type: "random"
 				}
 			]
@@ -503,16 +534,16 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: 6.5d
+			x: 10.0d
+			y: 9.5d
 		}
 		{
-			dependencies: ["12133B8A96274448", "7C2A7F03E1C82F9B"]
+			dependencies: ["12133B8A96274448"]
 			id: "139FC0ED43651747"
 			rewards: [
 				{
 					id: "7A13607E829E354D"
-					table_id: 6126799873689625950L
+					table_id: 1467623321632268434L
 					type: "random"
 				}
 			]
@@ -526,8 +557,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 0.5d
+			x: 2.5d
+			y: 30.0d
 		}
 		{
 			dependencies: ["139FC0ED43651747"]
@@ -550,11 +581,11 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 0.5d
+			x: 5.0d
+			y: 30.0d
 		}
 		{
-			dependencies: ["6FBF526025F4F3E7"]
+			dependencies: ["1809CA0FE0E8A202"]
 			id: "7BA3F8D898A505B3"
 			rewards: [
 				{
@@ -573,8 +604,559 @@
 					value: 1L
 				}
 			]
+			x: 7.5d
+			y: 32.0d
+		}
+		{
+			dependencies: ["1DCD4C3118317432"]
+			id: "036C16BFE726A839"
+			rewards: [
+				{
+					id: "2ED0D44A22BB4339"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1ECF538BBC8D8283"
+					item: {
+						count: 1
+						id: "irons_spellbooks:scroll_forge"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["123BC2DE7FC2EE50"]
+			id: "10208A16CAB45A6C"
+			rewards: [
+				{
+					id: "10498B1EA9710FA3"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "58D21939FE9449C9"
+					item: {
+						count: 1
+						id: "irons_spellbooks:scroll"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1DCD4C3118317432"]
+			id: "1407719FCD15AEC2"
+			rewards: [
+				{
+					id: "1CED7D3C1FAD8A4A"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4B015C68E61816F5"
+					item: {
+						count: 1
+						id: "irons_spellbooks:uncommon_ink"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["1407719FCD15AEC2"]
+			id: "1FE92C6692EEA0FA"
+			rewards: [
+				{
+					id: "188E72ADEA906CD5"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "508F2884F1FF98C0"
+					item: {
+						count: 1
+						id: "irons_spellbooks:rare_ink"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1C0AADC12D28BE24"]
+			id: "23F46870A41C0687"
+			rewards: [
+				{
+					id: "11CD4FA85214E610"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "129F5B5F2A3C1FEF"
+					item: {
+						count: 1
+						id: "irons_spellbooks:arcane_essence"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 2.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["23F46870A41C0687"]
+			id: "1A49B935A7B4AEA4"
+			rewards: [
+				{
+					id: "140334600329346C"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1DFF78A2DAC25406"
+					item: {
+						count: 1
+						id: "irons_spellbooks:magic_cloth"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 5.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["1A49B935A7B4AEA4"]
+			id: "112679A0E4DD1773"
+			rewards: [
+				{
+					id: "1C2D2BF26D6DAD99"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "111BE882DF2AB97E"
+					item: {
+						count: 1
+						id: "irons_spellbooks:wizard_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["12133B8A96274448"]
+			id: "1BB80F4C454C2FBE"
+			rewards: [
+				{
+					id: "70271C27384FB071"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1E1363151E114552"
+					item: {
+						count: 1
+						id: "irons_spellbooks:pyromancer_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 32.0d
+		}
+		{
+			dependencies: ["476CA083638EA7A2"]
+			id: "697B7F53EFF89F42"
+			rewards: [
+				{
+					id: "79C0B03C566014E2"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "010D83C28BB6CAD9"
+					item: {
+						count: 1
+						id: "irons_spellbooks:electromancer_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["168A356E521FDDEB"]
+			id: "600D873470A76A0F"
+			rewards: [
+				{
+					id: "1406E9482E6C7BDA"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0FCA7BFFCF5B3E40"
+					item: {
+						count: 1
+						id: "irons_spellbooks:priest_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["15A9CB9CE8FAE2FF"]
+			id: "62506D6BB4F5759E"
+			rewards: [
+				{
+					id: "16EB561322119658"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2A61243D53606C3A"
+					item: {
+						count: 1
+						id: "irons_spellbooks:ender_rune"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["15A9CB9CE8FAE2FF"]
+			id: "511FBFD91A360391"
+			rewards: [
+				{
+					id: "3CE32B772E5C4FD9"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0AA3A9204D7946BE"
+					item: {
+						count: 1
+						id: "irons_spellbooks:evocation_rune"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 23.5d
+		}
+		{
+			dependencies: ["15A9CB9CE8FAE2FF"]
+			id: "08851CC5C710E9D8"
+			rewards: [
+				{
+					id: "019CD2991D40BFEA"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6F3B869DDD732335"
+					item: {
+						count: 1
+						id: "irons_spellbooks:blood_rune"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 25.0d
+		}
+		{
+			dependencies: ["15A9CB9CE8FAE2FF"]
+			id: "381CCBCBBC9068A3"
+			rewards: [
+				{
+					id: "2A600A370F68E180"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2C1E766F0B2EA477"
+					item: {
+						count: 1
+						id: "irons_spellbooks:nature_rune"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 26.5d
+		}
+		{
+			dependencies: ["1C0AADC12D28BE24"]
+			id: "5FA698E45A2C40E3"
+			rewards: [
+				{
+					id: "31726A283692722E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [
+				{
+					id: "493229E57BBB1B64"
+					item: {
+						count: 1
+						id: "irons_spellbooks:raw_mithril"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["10DD536A42CBEB0F"]
+			id: "663109C90E880AC5"
+			rewards: [
+				{
+					id: "1308F13E6C25DD2C"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7B5D83B073BAE641"
+					item: {
+						count: 1
+						id: "irons_spellbooks:upgrade_orb"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["15FFC3A3746ECD2E"]
+			id: "4956BFCB404066B5"
+			rewards: [
+				{
+					id: "1506550AE3B3E294"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1887066B600FECBF"
+					item: {
+						count: 1
+						id: "irons_spellbooks:evasion_elixir"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["10DD536A42CBEB0F"]
+			id: "1CCF823EE19C62D6"
+			rewards: [
+				{
+					id: "199AD39CB944944D"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1C984E012DB89DFA"
+					item: {
+						count: 1
+						id: "irons_spellbooks:graybeard_staff"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["10DD536A42CBEB0F"]
+			id: "193BE693AB49A705"
+			optional: true
+			rewards: [
+				{
+					id: "1072F0AD82849792"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1DEAD12FB525E834"
+					item: {
+						count: 1
+						id: "irons_spellbooks:boreal_blade"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["6FBF526025F4F3E7"]
+			id: "654108A53BBA7865"
+			rewards: [
+				{
+					id: "11FCEBBE4CF6CADA"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [
+				{
+					id: "0706E71F57F52B1E"
+					item: {
+						count: 1
+						id: "irons_spellbooks:dragonskin_spell_book"
+					}
+					type: "item"
+				}
+			]
 			x: 15.0d
-			y: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1BB80F4C454C2FBE"]
+			id: "1809CA0FE0E8A202"
+			rewards: [
+				{
+					id: "106FD4C88264818A"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "36813C334F2C564D"
+					item: {
+						count: 1
+						id: "irons_spellbooks:netherite_mage_chestplate"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 32.0d
+		}
+		{
+			dependencies: ["7BA3F8D898A505B3"]
+			id: "19C1C9C0190BE7FB"
+			rewards: [
+				{
+					id: "1BEE5BDD392BE038"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [
+				{
+					id: "597FA19A7CBC29D3"
+					item: {
+						count: 1
+						id: "irons_spellbooks:dead_king_phylactery"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 32.0d
+		}
+		{
+			dependencies: ["19C1C9C0190BE7FB", "3597BAAFD7BAEC8B"]
+			id: "14F5376E8B7AA2ED"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "19B9C0D3B0B18DE2"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "0DC35CC6EB1F8301"
+					item: {
+						count: 1
+						id: "irons_spellbooks:netherite_spell_book"
+					}
+					type: "item"
+				}
+				{
+					id: "1DF1D4418F140111"
+					item: {
+						count: 1
+						id: "irons_spellbooks:netherite_mage_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "30B26518C449E262"
+					item: {
+						count: 1
+						id: "irons_spellbooks:legendary_ink"
+					}
+					type: "item"
+				}
+			]
+			x: 18.0d
+			y: 16.0d
 		}
 		{
 			icon: {
@@ -593,7 +1175,7 @@
 				}
 			]
 			x: -3.0d
-			y: -9.0d
+			y: -3.0d
 		}
 	]
 }

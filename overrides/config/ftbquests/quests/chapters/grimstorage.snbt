@@ -1,0 +1,1452 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "grimstorage"
+	group: "4CB0509F050ABC8A"
+	icon: {
+		id: "grimstorage:network_controller"
+	}
+	id: "049264027C979994"
+	images: [
+		{
+			height: 3.0d
+			image: "ninecraft:textures/quests/titles/grimstorage.png"
+			rotation: 0.0d
+			width: 18.75d
+			x: 8.375d
+			y: -4.5d
+		}
+		{
+			alpha: 70
+			height: 5.0d
+			image: "item:grimstorage:network_controller"
+			order: -2
+			rotation: -12.0d
+			width: 5.0d
+			x: -5.5d
+			y: 26.0d
+		}
+		{
+			alpha: 70
+			height: 4.0d
+			image: "item:grimstorage:storage_cell_64m"
+			order: -2
+			rotation: 14.0d
+			width: 4.0d
+			x: 17.0d
+			y: 1.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:grimstorage:soul_terminal"
+			order: -2
+			rotation: -8.0d
+			width: 3.5d
+			x: 6.5d
+			y: 55.0d
+		}
+		{
+			alpha: 70
+			height: 3.5d
+			image: "item:grimstorage:singularity_core"
+			order: -2
+			rotation: 10.0d
+			width: 3.5d
+			x: 17.0d
+			y: 50.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimstorage_0.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimstorage_1.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 3.25d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimstorage_2.png"
+			rotation: 0.0d
+			width: 7.5d
+			x: 2.5d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimstorage_3.png"
+			rotation: 0.0d
+			width: 9.5d
+			x: 3.5d
+			y: 16.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimstorage_4.png"
+			rotation: 0.0d
+			width: 8.5d
+			x: 3.0d
+			y: 25.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimstorage_5.png"
+			rotation: 0.0d
+			width: 9.5d
+			x: 3.5d
+			y: 30.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimstorage_6.png"
+			rotation: 0.0d
+			width: 8.5d
+			x: 3.0d
+			y: 41.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/grimstorage_7.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: 2.75d
+			y: 48.0d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "319E04B0C953B10D"
+			rewards: [
+				{
+					id: "40BAE8974D7D60C9"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 8
+					id: "04329FDE83B156B4"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "28703DED532B649F"
+					item: {
+						count: 1
+						id: "grimstorage:raw_soulite"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["319E04B0C953B10D"]
+			id: "47503F847C66ADB2"
+			rewards: [
+				{
+					id: "756BA87950061230"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+				{
+					count: 16
+					id: "3AE639F8C770B821"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "43A2B3561EE8F24B"
+					item: {
+						count: 1
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "1F7A161070D395FC"
+					item: {
+						count: 1
+						id: "grimstorage:soulite_ingot"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["47503F847C66ADB2"]
+			id: "17D2CEF91C5928BF"
+			rewards: [
+				{
+					id: "4BDA8C41F4261C49"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1555923C3A1CFF7E"
+					item: {
+						count: 1
+						id: "grimstorage:guide_book"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["129EBD8B1FAA9004"]
+			id: "1C3350E7D009E705"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "11C6C4BE379414F7"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "10C1A513C829B405"
+					item: {
+						count: 1
+						id: "grimstorage:network_controller"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["1C3350E7D009E705"]
+			id: "42A7EA42C49D3DB3"
+			rewards: [
+				{
+					id: "1BEAA676E75E7995"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1726867B70362B3B"
+					item: {
+						count: 1
+						id: "grimstorage:soul_drive"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["42A7EA42C49D3DB3"]
+			id: "1EC340CDCFE8AB8A"
+			rewards: [
+				{
+					id: "279D4C3CA45572E3"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1890A6EE4C270491"
+					item: {
+						count: 1
+						id: "grimstorage:storage_cell_4k"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["47503F847C66ADB2"]
+			id: "129EBD8B1FAA9004"
+			rewards: [
+				{
+					id: "3598EDF0FAE8068A"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "191941B705AFBDA3"
+					item: {
+						count: 1
+						id: "grimstorage:soulite_glass"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1C3350E7D009E705"]
+			id: "141810D4A45FC679"
+			rewards: [
+				{
+					id: "111851D554F8FB2E"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5BF169B5295AAF39"
+					item: {
+						count: 1
+						id: "grimstorage:soul_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1EC340CDCFE8AB8A", "141810D4A45FC679"]
+			id: "17B89B061CAC4E73"
+			rewards: [
+				{
+					id: "6217E757F00720E7"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "5AC1AF7D8E30F8F9"
+					item: {
+						count: 1
+						id: "minecraft:string"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "6C908CD208F3B18F"
+					item: {
+						count: 1
+						id: "grimstorage:network_controller"
+					}
+					type: "item"
+				}
+				{
+					id: "103487AFB267EF91"
+					item: {
+						count: 1
+						id: "grimstorage:soul_drive"
+					}
+					type: "item"
+				}
+				{
+					id: "408C8FDC60AE2DB3"
+					item: {
+						count: 1
+						id: "grimstorage:storage_cell_4k"
+					}
+					type: "item"
+				}
+				{
+					id: "101DFDEF6D1EB640"
+					item: {
+						count: 1
+						id: "grimstorage:soul_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["17B89B061CAC4E73"]
+			id: "10B4810153F78B38"
+			rewards: [
+				{
+					id: "3F0A8C6E86B81770"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					id: "1472C02A280D3ABC"
+					item: {
+						count: 1
+						id: "minecraft:hopper"
+					}
+					type: "item"
+				}
+				{
+					id: "14AC6B190A9407AD"
+					item: {
+						count: 1
+						id: "minecraft:dropper"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "1D52631B0F72D68C"
+					item: {
+						count: 1
+						id: "grimstorage:soul_cable"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 10.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["17B89B061CAC4E73"]
+			id: "1140132B1767F4FC"
+			rewards: [
+				{
+					id: "10BC8C148709229F"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "781556F2E9FFC32F"
+					item: {
+						count: 1
+						id: "grimstorage:soul_wrench"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["10B4810153F78B38"]
+			id: "1D6CAFA5DED7DEBA"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "1A19F21AF28F9868"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7F3B7529F18CF486"
+					item: {
+						count: 1
+						id: "grimstorage:import_bus"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["1D6CAFA5DED7DEBA"]
+			id: "1DD9C843051B3EE9"
+			rewards: [
+				{
+					id: "1690376ABDD9C553"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7538A062F0484EA0"
+					item: {
+						count: 1
+						id: "grimstorage:export_bus"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["1D6CAFA5DED7DEBA"]
+			id: "194E8B67B25AD0E3"
+			rewards: [
+				{
+					id: "59F6B2612B9957C9"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5F300763313BB300"
+					item: {
+						count: 1
+						id: "grimstorage:network_interface"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["1D6CAFA5DED7DEBA"]
+			id: "4E75EB055B149DA6"
+			rewards: [
+				{
+					id: "18CDF0F954FC3FA7"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1E3074CD0776C255"
+					item: {
+						count: 1
+						id: "grimstorage:chest_link"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["1DD9C843051B3EE9"]
+			id: "17F4DA193ACFCADB"
+			rewards: [
+				{
+					id: "51C2F363411C0BBC"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6231B791B903D119"
+					item: {
+						count: 1
+						id: "grimstorage:redstone_emitter"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["1DD9C843051B3EE9"]
+			id: "109F767C86553A48"
+			rewards: [
+				{
+					id: "1257BE581405B77C"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "3F9543728CC1BFB1"
+					item: {
+						count: 1
+						id: "minecraft:soul_sand"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "13B6677B1F8FEE9A"
+					item: {
+						count: 1
+						id: "minecraft:quartz"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "138BDBC523EF5283"
+					item: {
+						count: 1
+						id: "grimstorage:soul_infuser"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["17B89B061CAC4E73"]
+			id: "30CCEC5CFE21BF1C"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "1054D877BF28E8E0"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0651F7630EA133B1"
+					item: {
+						count: 1
+						id: "grimstorage:fluid_cell_copper"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["30CCEC5CFE21BF1C"]
+			id: "4F47629AC1FA3AFB"
+			rewards: [
+				{
+					id: "25A990579E5498EB"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "426BEC47B1845975"
+					item: {
+						count: 1
+						id: "grimstorage:energy_cell_copper"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["30CCEC5CFE21BF1C"]
+			id: "19B20AD4CF6BED75"
+			rewards: [
+				{
+					id: "5D1EF8DE07636ABC"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6729A00342E73CEE"
+					item: {
+						count: 1
+						id: "grimstorage:experience_cell_copper"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["30CCEC5CFE21BF1C"]
+			id: "18477F4A60BF6FEC"
+			rewards: [
+				{
+					id: "4C8ECB69B3031CC9"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "46273F107DE8637C"
+					item: {
+						count: 1
+						id: "grimstorage:chemical_cell_copper"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["30CCEC5CFE21BF1C"]
+			id: "1E92BD87E7A1C737"
+			rewards: [
+				{
+					id: "126C27AFD95D5BC4"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "15C020BA024DB27F"
+					item: {
+						count: 1
+						id: "grimstorage:source_cell_copper"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["4F47629AC1FA3AFB", "19B20AD4CF6BED75"]
+			id: "407DB1B4A47159B8"
+			rewards: [
+				{
+					id: "17BC136CA6DCFA80"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "2C28BB4E36825FCD"
+					item: {
+						count: 1
+						id: "grimstorage:fluid_cell_copper"
+					}
+					type: "item"
+				}
+				{
+					id: "00A81456B373D80B"
+					item: {
+						count: 1
+						id: "grimstorage:energy_cell_copper"
+					}
+					type: "item"
+				}
+				{
+					id: "7AE4032667CA9522"
+					item: {
+						count: 1
+						id: "grimstorage:experience_cell_copper"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["17B89B061CAC4E73"]
+			id: "66A00EDEAF895161"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "4459504F98F0E8E8"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "169BF2DDD5F4777E"
+					item: {
+						count: 1
+						id: "minecraft:paper"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "14D3E4603DF7B8B7"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "7BA9E3D1F55AFD95"
+					item: {
+						count: 1
+						id: "grimstorage:soulite_block"
+					}
+					type: "item"
+					count: 2L
+				}
+			]
+			x: 0.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["66A00EDEAF895161"]
+			id: "1B7A66DFDD8E73E4"
+			rewards: [
+				{
+					id: "3A027301B01ED7F6"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5710B1A4AD6A43F1"
+					item: {
+						count: 1
+						id: "grimstorage:storage_cell_64k"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 26.5d
+		}
+		{
+			dependencies: ["66A00EDEAF895161"]
+			id: "41DBBF38885EA7F0"
+			rewards: [
+				{
+					id: "27BCDA99FE15E201"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "11AD03F2E26538D2"
+					item: {
+						count: 1
+						id: "grimstorage:recipe_card"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 2.5d
+			y: 28.5d
+		}
+		{
+			dependencies: ["41DBBF38885EA7F0"]
+			id: "31F5373F4303098D"
+			rewards: [
+				{
+					id: "1590D707E6D3BA5C"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5684D3FCFFFE195C"
+					item: {
+						count: 1
+						id: "grimstorage:soul_assembler"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["31F5373F4303098D"]
+			id: "19233C7FE9B6913C"
+			rewards: [
+				{
+					id: "11084E6A20715D95"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "1A1AD8BE7E0E2385"
+					item: {
+						count: 1
+						id: "grimstorage:soul_assembler"
+					}
+					type: "item"
+				}
+				{
+					id: "79707EC22C5AA842"
+					item: {
+						count: 1
+						id: "grimstorage:recipe_card"
+					}
+					type: "item"
+					count: 9L
+				}
+			]
+			x: 7.5d
+			y: 28.5d
+		}
+		{
+			dependencies: ["1B7A66DFDD8E73E4"]
+			id: "16DFFB18CE0B4ADA"
+			rewards: [
+				{
+					id: "2501E5B0CC1CA042"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0A4504816C67D544"
+					item: {
+						count: 1
+						id: "grimstorage:void_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["109F767C86553A48", "19233C7FE9B6913C"]
+			id: "6B4105C245127947"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "17632F5CB5429B08"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "17BCA523D89458A6"
+					item: {
+						count: 1
+						id: "minecraft:glowstone_dust"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "7DF0362FF9728E8A"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "167CB0AAEAE77DA3"
+					item: {
+						count: 1
+						id: "grimstorage:infused_soulite"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 0.0d
+			y: 35.5d
+		}
+		{
+			dependencies: ["6B4105C245127947"]
+			id: "2E45A7864257B87B"
+			rewards: [
+				{
+					id: "1A9DB040FBB31E1C"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2C21434E57B6E30C"
+					item: {
+						count: 1
+						id: "grimstorage:processing_card"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 32.0d
+		}
+		{
+			dependencies: ["2E45A7864257B87B"]
+			id: "44219D24EF3B514E"
+			rewards: [
+				{
+					id: "24B0F591FAA34079"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1A816773AEDDD13D"
+					item: {
+						count: 1
+						id: "grimstorage:machine_bus"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 33.0d
+		}
+		{
+			dependencies: ["6B4105C245127947"]
+			id: "1DED1171552394E3"
+			rewards: [
+				{
+					id: "3CB5CBE4A82F2547"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "16838EBA4DE9B6AA"
+					item: {
+						count: 1
+						id: "grimstorage:speed_upgrade"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 2.5d
+			y: 34.0d
+		}
+		{
+			dependencies: ["6B4105C245127947"]
+			id: "11FEE3C5D1BF8255"
+			rewards: [
+				{
+					id: "1C17067847EF2ACC"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3E6995FA2C11200B"
+					item: {
+						count: 1
+						id: "grimstorage:stock_keeper"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 35.5d
+		}
+		{
+			dependencies: ["6B4105C245127947"]
+			id: "1D8BFE2445D01902"
+			rewards: [
+				{
+					id: "077CA0B77044446C"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1BE47B173C983E64"
+					item: {
+						count: 1
+						id: "grimstorage:storage_cell_1m"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 37.5d
+		}
+		{
+			dependencies: ["6B4105C245127947"]
+			id: "1A9D4F34BDD2F4E7"
+			rewards: [
+				{
+					id: "15277FFB7FC97D4F"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "11C104BAA9DBCA82"
+					item: {
+						count: 1
+						id: "grimstorage:wireless_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 39.0d
+		}
+		{
+			dependencies: ["1D8BFE2445D01902", "44219D24EF3B514E"]
+			id: "28D210A57753C0CD"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "150D575F096385EE"
+					type: "xp_levels"
+					xp_levels: 7
+				}
+				{
+					count: 2
+					id: "144C5781FDB08BC5"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "168DBD187AB03B6A"
+					item: {
+						count: 1
+						id: "grimstorage:echo_soulite_shard"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 0.0d
+			y: 44.0d
+		}
+		{
+			dependencies: ["28D210A57753C0CD"]
+			id: "1221CF0A0423F847"
+			rewards: [
+				{
+					id: "1C834EA8CD458D52"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "17F42BFB85DA9696"
+					item: {
+						count: 1
+						id: "grimstorage:echo_soulite_alloy"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 2.5d
+			y: 44.0d
+		}
+		{
+			dependencies: ["1221CF0A0423F847"]
+			id: "1051A2969101A3FD"
+			rewards: [
+				{
+					id: "1D9B3A4F3C5C8049"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "62CBB1AF53EC7592"
+					item: {
+						count: 1
+						id: "grimstorage:storage_cell_64m"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 42.5d
+		}
+		{
+			dependencies: ["1221CF0A0423F847"]
+			id: "19731CA54ACF9590"
+			rewards: [
+				{
+					id: "18927248B941787F"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0FCE823D3933C95F"
+					item: {
+						count: 1
+						id: "grimstorage:processing_interface"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 44.0d
+		}
+		{
+			dependencies: ["1221CF0A0423F847"]
+			id: "5F4D69928C7CED99"
+			rewards: [
+				{
+					id: "1330FAF8B3710697"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4B8A585416C592D1"
+					item: {
+						count: 1
+						id: "grimstorage:quantum_link"
+					}
+					type: "item"
+					count: 2L
+				}
+			]
+			x: 5.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["5F4D69928C7CED99"]
+			id: "21B5970CFE4D2AB3"
+			rewards: [
+				{
+					id: "42BFFE9FBE17FCF6"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "15DA7F731F5C7CEC"
+					item: {
+						count: 1
+						id: "grimstorage:soul_tether"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 45.0d
+		}
+		{
+			dependencies: ["1051A2969101A3FD", "1A9D4F34BDD2F4E7"]
+			id: "06D4EDE39CCE86F0"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "2EA3A876A74E1D89"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [
+				{
+					id: "1A6EC77C2A2B6AF9"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 50.5d
+		}
+		{
+			dependencies: ["06D4EDE39CCE86F0"]
+			id: "240119797419B9B2"
+			rewards: [
+				{
+					id: "1DABD786736F076B"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "18040DEFA933D846"
+					item: {
+						count: 1
+						id: "grimstorage:singularity_core"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 50.5d
+		}
+		{
+			dependencies: ["240119797419B9B2"]
+			id: "17C7470B11469D0E"
+			rewards: [
+				{
+					id: "784E967B16E2E3CD"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "545775E00BDAEA7C"
+					item: {
+						count: 1
+						id: "grimstorage:singularity_cell"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 49.5d
+		}
+		{
+			dependencies: ["240119797419B9B2"]
+			id: "1F7C0A062899352F"
+			rewards: [
+				{
+					id: "54F09640A9F337F1"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "17A63FAFA65B8207"
+					item: {
+						count: 1
+						id: "grimstorage:singularity_terminal"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 51.5d
+		}
+		{
+			dependencies: [
+				"17C7470B11469D0E"
+				"1F7C0A062899352F"
+				"21B5970CFE4D2AB3"
+				"19731CA54ACF9590"
+				"11FEE3C5D1BF8255"
+				"16DFFB18CE0B4ADA"
+				"407DB1B4A47159B8"
+			]
+			id: "342FE142DEBCFB38"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "2286FCB4DA4EB922"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "14D256AE3375E77A"
+					item: {
+						count: 1
+						id: "grimstorage:singularity_cell"
+					}
+					type: "item"
+				}
+				{
+					id: "54F18D954968BD2D"
+					item: {
+						count: 1
+						id: "grimstorage:singularity_terminal"
+					}
+					type: "item"
+				}
+				{
+					id: "1972FA1E0A57654F"
+					item: {
+						count: 1
+						id: "grimstorage:storage_cell_64m"
+					}
+					type: "item"
+				}
+				{
+					id: "5834A5C7FCB842F4"
+					item: {
+						count: 1
+						id: "grimstorage:quantum_link"
+					}
+					type: "item"
+				}
+			]
+			x: 13.0d
+			y: 26.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ninecraft:textures/quests/emblem.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1CA7994B01E6A6C1"
+			invisible: true
+			shape: "octagon"
+			tasks: [
+				{
+					id: "104AB89D77F889B2"
+					type: "checkmark"
+				}
+			]
+			x: -3.0d
+			y: -3.0d
+		}
+	]
+}

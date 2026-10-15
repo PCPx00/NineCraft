@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 8.25d
 			x: 3.125d
-			y: -12.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: -1.5d
+			y: 16.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 19.0d
-			y: -7.0d
+			x: 29.5d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -43,8 +43,8 @@
 			order: -2
 			rotation: -8.0d
 			width: 3.5d
-			x: 7.5d
-			y: 8.5d
+			x: 13.0d
+			y: 35.0d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,32 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 19.0d
-			y: 4.0d
+			x: 29.5d
+			y: 30.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/equipped_0.png"
+			rotation: 0.0d
+			width: 11.0d
+			x: 4.25d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/equipped_1.png"
+			rotation: 0.0d
+			width: 10.5d
+			x: 4.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/equipped_2.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 3.25d
+			y: 23.0d
 		}
 	]
 	order_index: 0
@@ -91,7 +115,7 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["19EE00E236113052"]
@@ -123,7 +147,7 @@
 				}
 			]
 			x: 2.5d
-			y: -5.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["1EE1B65A0A582184"]
@@ -146,7 +170,7 @@
 				}
 			]
 			x: 5.0d
-			y: -5.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["2FBA865056E5CC9E"]
@@ -169,7 +193,7 @@
 				}
 			]
 			x: 7.5d
-			y: -8.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["2FBA865056E5CC9E"]
@@ -201,7 +225,7 @@
 				}
 			]
 			x: 7.5d
-			y: -6.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["1AE89A26BF77D165"]
@@ -224,7 +248,7 @@
 				}
 			]
 			x: 10.0d
-			y: -6.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["63FA918D87162382"]
@@ -247,7 +271,7 @@
 				}
 			]
 			x: 12.5d
-			y: -6.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["2FBA865056E5CC9E"]
@@ -271,7 +295,7 @@
 				}
 			]
 			x: 7.5d
-			y: -4.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["1A190ABD8477878B"]
@@ -295,16 +319,16 @@
 				}
 			]
 			x: 10.0d
-			y: -4.5d
+			y: 3.5d
 		}
 		{
-			dependencies: ["187AA27DA0CC9B87"]
+			dependencies: ["6BFE8B899D18E7AB"]
 			id: "16E40A621AD110FA"
 			optional: true
 			rewards: [
 				{
 					id: "41A183A88699C706"
-					table_id: 3087784268654967924L
+					table_id: 1597714221544942633L
 					type: "random"
 				}
 			]
@@ -320,12 +344,13 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -6.0d
+			x: 22.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["19EE00E236113052"]
 			id: "1E826FD31A404C21"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "3ACEF2E0973E7DFA"
@@ -352,8 +377,8 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: -3.5d
+			x: 0.0d
+			y: 20.0d
 		}
 		{
 			dependencies: ["1E826FD31A404C21"]
@@ -384,8 +409,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -3.5d
+			x: 2.5d
+			y: 20.0d
 		}
 		{
 			dependencies: ["496CCA9DF98D80ED"]
@@ -407,12 +432,13 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -2.5d
+			x: 5.0d
+			y: 19.0d
 		}
 		{
-			dependencies: ["1175EDFF464EBE23"]
+			dependencies: ["1C4508D5EA3794D7", "381FF939728C3C9D"]
 			id: "282CACF7DE68FE63"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "5D340EE1165D81AE"
@@ -430,8 +456,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -2.5d
+			x: 0.0d
+			y: 29.0d
 		}
 		{
 			dependencies: ["282CACF7DE68FE63"]
@@ -453,8 +479,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -2.5d
+			x: 2.5d
+			y: 26.5d
 		}
 		{
 			dependencies: ["31FF5972852C9A34"]
@@ -478,8 +504,8 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -2.5d
+			x: 5.0d
+			y: 27.0d
 		}
 		{
 			dependencies: ["19EE00E236113052"]
@@ -502,7 +528,7 @@
 				}
 			]
 			x: 2.5d
-			y: -2.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["19EE00E236113052"]
@@ -525,7 +551,7 @@
 				}
 			]
 			x: 2.5d
-			y: 0.0d
+			y: 6.5d
 		}
 		{
 			dependencies: ["1269E9C0B21EC87B"]
@@ -549,7 +575,7 @@
 				}
 			]
 			x: 5.0d
-			y: 0.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["19EE00E236113052"]
@@ -573,7 +599,7 @@
 				}
 			]
 			x: 2.5d
-			y: 2.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["19EE00E236113052"]
@@ -596,7 +622,7 @@
 				}
 			]
 			x: 2.5d
-			y: 3.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["19EE00E236113052"]
@@ -620,7 +646,7 @@
 				}
 			]
 			x: 2.5d
-			y: 5.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["496CCA9DF98D80ED"]
@@ -643,8 +669,634 @@
 					type: "item"
 				}
 			]
+			x: 5.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["16D0E07139947692"]
+			id: "1B278A8D0C151AA0"
+			optional: true
+			rewards: [
+				{
+					id: "583DCB2888DCE4BD"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5C74CA21629705A4"
+					item: {
+						count: 1
+						id: "grimsoul:reaper_block"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["19EE00E236113052"]
+			id: "13751010E02BE851"
+			rewards: [
+				{
+					id: "1D131691481C4EE6"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "18DAE772EF2CED33"
+					item: {
+						count: 1
+						id: "minecraft:iron_sword"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["19EE00E236113052"]
+			id: "57CBB9FEF1C0D8D7"
+			rewards: [
+				{
+					id: "08610AA4CA29C973"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "136CEA7DE3617FA6"
+					item: {
+						count: 1
+						id: "minecraft:bow"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["57CBB9FEF1C0D8D7"]
+			id: "07B55A2BD59790C9"
+			optional: true
+			rewards: [
+				{
+					id: "1EF3211F9867B5D3"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "75CB9BADE6E73B72"
+					item: {
+						count: 1
+						id: "minecraft:crossbow"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["13751010E02BE851"]
+			id: "151B532911D460C1"
+			rewards: [
+				{
+					id: "3D6A7EBF6C2AC176"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1BACC17496D827D2"
+					item: {
+						count: 1
+						id: "minecraft:diamond_sword"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["151B532911D460C1"]
+			id: "381FF939728C3C9D"
+			rewards: [
+				{
+					id: "11840884121F6EF0"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "71AE6DE4604FABAA"
+					item: {
+						count: 1
+						id: "minecraft:netherite_sword"
+					}
+					type: "item"
+				}
+			]
 			x: 7.5d
-			y: -1.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["282CACF7DE68FE63"]
+			id: "136EB18AA7B9569F"
+			rewards: [
+				{
+					id: "0823BB0C118841C6"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "13A28D670FA91F00"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_sword"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 28.0d
+		}
+		{
+			dependencies: ["136EB18AA7B9569F", "686849C126A9682A"]
+			id: "0610C23AEFD0B339"
+			rewards: [
+				{
+					id: "1D7A20CE1B68F8A4"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "11B8361B965C0033"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_sword"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 29.5d
+		}
+		{
+			dependencies: ["282CACF7DE68FE63"]
+			id: "1CF4767F57532DC4"
+			rewards: [
+				{
+					id: "1620F6395D766A09"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1A66D07CC3EE7E5A"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_helmet"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 30.0d
+		}
+		{
+			dependencies: ["282CACF7DE68FE63"]
+			id: "1A9712EFA9644E6F"
+			rewards: [
+				{
+					id: "78CCFDF98C271E96"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "74149E0B16360D40"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 31.5d
+		}
+		{
+			dependencies: ["686849C126A9682A"]
+			id: "76374AA5D6FDB449"
+			rewards: [
+				{
+					id: "10E90D19014D6CBC"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "111B5AE407F2B6F4"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_helmet"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 24.5d
+		}
+		{
+			dependencies: ["686849C126A9682A"]
+			id: "17E6D2FF2BD7A8DE"
+			rewards: [
+				{
+					id: "42CD8F9788BA4FFE"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1E42A8BA5CBF28AA"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_leggings"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 26.0d
+		}
+		{
+			dependencies: ["686849C126A9682A"]
+			id: "1DCDEAD906A645D3"
+			rewards: [
+				{
+					id: "1D087FA0FA1E8363"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1DE5ED36089ECC98"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 28.0d
+		}
+		{
+			dependencies: ["1175EDFF464EBE23"]
+			id: "1C4508D5EA3794D7"
+			rewards: [
+				{
+					id: "63DDCA8574328A33"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1001F86314941911"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["63FA918D87162382"]
+			id: "30D3EE9B5F179C18"
+			rewards: [
+				{
+					id: "6C052338758CE40F"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1BDFD0A253A4F688"
+					item: {
+						count: 1
+						id: "ironfurnaces:obsidian_furnace"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["187AA27DA0CC9B87"]
+			id: "3172B59255F1F4D0"
+			rewards: [
+				{
+					id: "1B1EF77C37E43A54"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "545A67417BB92980"
+					item: {
+						count: 1
+						id: "ironfurnaces:allthemodium_furnace"
+					}
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3172B59255F1F4D0"]
+			id: "13DD4D04B648B3F5"
+			rewards: [
+				{
+					id: "1D856BB2C7C23799"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "15F0B97FBF8D3F64"
+					item: {
+						count: 1
+						id: "ironfurnaces:vibranium_furnace"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["13DD4D04B648B3F5"]
+			id: "6BFE8B899D18E7AB"
+			rewards: [
+				{
+					id: "134B2B16F7797C61"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1328007FCC06C1AD"
+					item: {
+						count: 1
+						id: "ironfurnaces:unobtainium_furnace"
+					}
+					type: "item"
+				}
+			]
+			x: 20.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1A190ABD8477878B"]
+			id: "10F639CE80A31363"
+			optional: true
+			rewards: [
+				{
+					id: "59CAD995F9B2A68D"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "12AFBC238E17E9F9"
+					item: {
+						count: 1
+						id: "ironfurnaces:augment_fuel"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1A190ABD8477878B"]
+			id: "7E731F49EC1BA0F0"
+			optional: true
+			rewards: [
+				{
+					id: "198A4D394009CAC3"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "39BC66DB6DF36C99"
+					item: {
+						count: 1
+						id: "ironfurnaces:augment_blasting"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["63FA918D87162382"]
+			id: "13A63C15421371A0"
+			rewards: [
+				{
+					id: "5FAF370184EC4564"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1845638D875EF2F7"
+					item: {
+						count: 1
+						id: "ironfurnaces:heater"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["181C33AD334D04D9"]
+			id: "6A34AC6F9A3CFA65"
+			optional: true
+			rewards: [
+				{
+					id: "19E4171960BA2BC9"
+					table_id: 6126799873689625950L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3FF82A17E2D99844"
+					item: {
+						count: 1
+						id: "mekanism:jetpack"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1D6E3C7341CF4AAD"]
+			id: "1E769A38B3B6A922"
+			optional: true
+			rewards: [
+				{
+					id: "5D83142FA46E4B6D"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3DED9A362ED71772"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_exchanging"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 21.0d
+		}
+		{
+			dependencies: ["1E769A38B3B6A922"]
+			id: "1D9C3A30CC230B8F"
+			optional: true
+			rewards: [
+				{
+					id: "1EE65A5E418AA3E8"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "12C3A71DB4CFAB01"
+					item: {
+						count: 1
+						id: "buildinggadgets2:gadget_copy_paste"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 21.0d
+		}
+		{
+			dependencies: [
+				"76374AA5D6FDB449"
+				"17E6D2FF2BD7A8DE"
+				"1DCDEAD906A645D3"
+				"0610C23AEFD0B339"
+				"16E40A621AD110FA"
+				"1D6E3C7341CF4AAD"
+			]
+			id: "1E9E78099BBE6175"
+			hide_dependency_lines: true
+			rewards: [
+				{
+					id: "1D0119EB3309C272"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "489F99F033DF3167"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "149E2143B6A85CB0"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "1A6C5A9198A2049B"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "6A34953007010A81"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_boots"
+					}
+					type: "item"
+				}
+				{
+					id: "109D7129233ECAC8"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_sword"
+					}
+					type: "item"
+				}
+			]
+			x: 25.5d
+			y: 16.0d
 		}
 		{
 			icon: {
@@ -663,7 +1315,7 @@
 				}
 			]
 			x: -3.0d
-			y: -11.0d
+			y: -3.0d
 		}
 	]
 }

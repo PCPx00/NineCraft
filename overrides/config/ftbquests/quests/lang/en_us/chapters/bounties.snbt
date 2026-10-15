@@ -1,52 +1,191 @@
 {
-	quest.107E437769DB3F98.quest_desc: ["The monument's boss."]
+	quest.1065ED750E75A007.quest_desc: [
+		"They come for you when you don't sleep."
+		""
+		"§e§lHow to complete:§r Kill 5 x Phantom. The quest completes on its own as soon as you do it."
+	]
+	quest.1065ED750E75A007.title: "Phantoms"
+	quest.107E437769DB3F98.quest_desc: [
+		"The monument's boss."
+		""
+		"§e§lHow to complete:§r Kill Elder Guardian. The quest completes on its own as soon as you do it."
+	]
 	quest.107E437769DB3F98.title: "Elder Guardian"
-	quest.118EE28830B87DAF.quest_desc: ["A raid heavy-hitter."]
+	quest.118EE28830B87DAF.quest_desc: [
+		"A raid heavy-hitter."
+		""
+		"§e§lHow to complete:§r Kill Ravager. The quest completes on its own as soon as you do it."
+	]
 	quest.118EE28830B87DAF.title: "Ravager"
-	quest.13B2BE3463158BCE.quest_desc: ["Don't look them in the eye. Unless you're ready."]
+	quest.13B2BE3463158BCE.quest_desc: [
+		"Don't look them in the eye. Unless you're ready."
+		""
+		"§e§lHow to complete:§r Kill 10 x Enderman. The quest completes on its own as soon as you do it."
+	]
 	quest.13B2BE3463158BCE.title: "Endermen"
-	quest.141685E0BE13577C.quest_desc: ["Ocean monument guards."]
+	quest.141685E0BE13577C.quest_desc: [
+		"Ocean monument guards."
+		""
+		"§e§lHow to complete:§r Kill 10 x Guardian. The quest completes on its own as soon as you do it."
+	]
 	quest.141685E0BE13577C.title: "Guardians"
 	quest.147060482BAC2061.quest_desc: [
 		"Gate pearls open portals that spawn waves of mobs. Survive every wave for loot."
+		""
+		"§e§lHow to complete:§r Craft or make Gate Pearl and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.147060482BAC2061.title: "Gateways"
+	quest.1679588A12CF1EA7.quest_desc: [
+		"§e§lHow to complete:§r Kill 10 x Husk. The quest completes on its own as soon as you do it."
+	]
+	quest.1679588A12CF1EA7.title: "Husks"
+	quest.16A30293DDF2D533.quest_desc: [
+		"Found in trial chambers."
+		""
+		"§e§lHow to complete:§r Kill 5 x Breeze. The quest completes on its own as soon as you do it."
+	]
+	quest.16A30293DDF2D533.title: "Breezes"
+	quest.16C69D57754244ED.quest_desc: [
+		"§e§lHow to complete:§r Kill 10 x Blaze. The quest completes on its own as soon as you do it."
+	]
 	quest.16C69D57754244ED.title: "Blazes"
-	quest.17D07DBACE918743.quest_desc: ["Farm them for skulls."]
+	quest.17D07DBACE918743.quest_desc: [
+		"Farm them for skulls."
+		""
+		"§e§lHow to complete:§r Kill 10 x Wither Skeleton. The quest completes on its own as soon as you do it."
+	]
 	quest.17D07DBACE918743.title: "Wither Skeletons"
 	quest.188815320F4E27D1.quest_desc: [
-		"&dNine Craft Quest Book&r"
+		"§dNine Craft Quest Book§r"
 		""
-		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the &5Nine Craft&r modpack."
+		"Every quest, description, chapter layout and piece of chapter art in this book was written and drawn for the §5Nine Craft§r modpack."
 		""
 		"Copyright (c) 2026 Nine Craft. All Rights Reserved."
 		""
 		"You may play with, edit and share this book as part of Nine Craft. Please do not copy it into other public modpacks without written permission from the Nine Craft team."
 		""
-		"&8This quest is hidden and only appears in edit mode.&r"
+		"§8This quest is hidden and only appears in edit mode.§r"
 	]
 	quest.188815320F4E27D1.quest_subtitle: "Copyright (c) 2026 Nine Craft"
-	quest.188815320F4E27D1.title: "&5Nine Craft&r - Quest Book Notice"
+	quest.188815320F4E27D1.title: "§5Nine Craft§r - Quest Book Notice"
 	quest.1919FB1E2D0194CE.quest_desc: [
-		"A list of mobs to hunt, from zombies to wardens. Each one is worth a little XP."
+		"A list of mobs to hunt, from zombies to wardens. Each bounty is worth some XP, and the big ones pay off even more."
+		""
+		"Craft a bow to start. You'll want to hit things from a distance."
+		""
+		"§e§lHow to complete:§r Craft or make Bow and carry it in your inventory. Hover the item in JEI and press §eR§r to see how it is made. The quest checks your inventory on its own; you can also click the task to hand items in."
 	]
 	quest.1919FB1E2D0194CE.title: "Monster Hunting"
+	quest.1A1CA6008253D9AF.quest_desc: [
+		"Find one in a woodland mansion or a raid."
+		""
+		"§e§lHow to complete:§r Kill Evoker. The quest completes on its own as soon as you do it."
+	]
+	quest.1A1CA6008253D9AF.title: "Evoker"
+	quest.1B1BFCF779ADB80A.quest_desc: [
+		"§e§lHow to complete:§r Kill 5 x Hoglin. The quest completes on its own as soon as you do it."
+	]
+	quest.1B1BFCF779ADB80A.title: "Hoglins"
+	quest.1C9D1EBB67619711.quest_desc: [
+		"§e§lHow to complete:§r Kill 10 x Pillager. The quest completes on its own as soon as you do it."
+	]
+	quest.1C9D1EBB67619711.title: "Pillagers"
 	quest.1CAFCB0DB7C6BECB.quest_desc: [
 		"The deep dark's worst nightmare. You don't have to do this."
+		""
+		"§e§lHow to complete:§r Kill Warden. The quest completes on its own as soon as you do it."
 	]
 	quest.1CAFCB0DB7C6BECB.title: "The Warden"
+	quest.1CCD2D2F0FFB3AC9.quest_desc: [
+		"Found in swamps and slime chunks."
+		""
+		"§e§lHow to complete:§r Kill 10 x Slime. The quest completes on its own as soon as you do it."
+	]
+	quest.1CCD2D2F0FFB3AC9.title: "Slimes"
+	quest.1D52AE8870E7B1D6.quest_desc: [
+		"§e§lHow to complete:§r Kill 10 x Spider. The quest completes on its own as soon as you do it."
+	]
 	quest.1D52AE8870E7B1D6.title: "Spiders"
-	quest.1F07D123FC436D60.quest_desc: ["Punch the fireballs back."]
+	quest.1D86379E2F6FCF0B.quest_desc: [
+		"§e§lHow to complete:§r Kill 10 x Drowned. The quest completes on its own as soon as you do it."
+	]
+	quest.1D86379E2F6FCF0B.title: "Drowned"
+	quest.1F07D123FC436D60.quest_desc: [
+		"Punch the fireballs back."
+		""
+		"§e§lHow to complete:§r Kill 3 x Ghast. The quest completes on its own as soon as you do it."
+	]
 	quest.1F07D123FC436D60.title: "Ghasts"
-	quest.30225DF3B02D8A0B.quest_desc: ["Creeper Overhaul gives each biome its own creeper."]
+	quest.1FDB93A930362D33.quest_desc: [
+		"Every biome has its own creeper type."
+		""
+		"§e§lHow to complete:§r Kill 3 x Desert Creeper. The quest completes on its own as soon as you do it. §7(Optional: you can skip this one.)§r"
+	]
+	quest.1FDB93A930362D33.title: "More Creepers"
+	quest.25F69EC71B61904E.quest_desc: [
+		"§e§lHow to complete:§r Kill 10 x Magma Cube. The quest completes on its own as soon as you do it."
+	]
+	quest.25F69EC71B61904E.title: "Magma Cubes"
+	quest.2B7A5BAC79168D2A.quest_desc: [
+		"Warden, Wither and Dragon. Nothing left to hunt."
+		""
+		"§e§lHow to complete:§r Kill Warden, Wither and Ender Dragon. The quest completes on its own as soon as you do it."
+	]
+	quest.2B7A5BAC79168D2A.title: "Legendary Hunter"
+	quest.30225DF3B02D8A0B.quest_desc: [
+		"Creeper Overhaul gives each biome its own creeper."
+		""
+		"§e§lHow to complete:§r Kill Jungle Creeper. The quest completes on its own as soon as you do it. §7(Optional: you can skip this one.)§r"
+	]
 	quest.30225DF3B02D8A0B.title: "Creeper Variants"
-	quest.38D30160B339A6EC.quest_desc: ["Watch your walls."]
+	quest.38D30160B339A6EC.quest_desc: [
+		"Watch your walls."
+		""
+		"§e§lHow to complete:§r Kill 10 x Creeper. The quest completes on its own as soon as you do it."
+	]
 	quest.38D30160B339A6EC.title: "Creepers"
-	quest.3B66A01A0C6D00ED.quest_desc: ["Their shells make shulker boxes."]
+	quest.3B66A01A0C6D00ED.quest_desc: [
+		"Their shells make shulker boxes."
+		""
+		"§e§lHow to complete:§r Kill 5 x Shulker. The quest completes on its own as soon as you do it."
+	]
 	quest.3B66A01A0C6D00ED.title: "Shulkers"
-	quest.409FBCEA0E391AC5.quest_desc: ["Enderman Overhaul does the same for endermen."]
+	quest.404DA78C3D60642E.quest_desc: [
+		"Bastion bouncers."
+		""
+		"§e§lHow to complete:§r Kill 3 x Piglin Brute. The quest completes on its own as soon as you do it."
+	]
+	quest.404DA78C3D60642E.title: "Piglin Brutes"
+	quest.409FBCEA0E391AC5.quest_desc: [
+		"Enderman Overhaul does the same for endermen."
+		""
+		"§e§lHow to complete:§r Kill Desert Enderman. The quest completes on its own as soon as you do it. §7(Optional: you can skip this one.)§r"
+	]
 	quest.409FBCEA0E391AC5.title: "Enderman Variants"
+	quest.4AB30E7D7C09F4C9.quest_desc: [
+		"§e§lHow to complete:§r Kill 10 x Skeleton. The quest completes on its own as soon as you do it."
+	]
 	quest.4AB30E7D7C09F4C9.title: "Skeletons"
+	quest.4EDB0562CBE7A8EC.quest_desc: [
+		"§e§lHow to complete:§r Kill 10 x Stray. The quest completes on its own as soon as you do it."
+	]
+	quest.4EDB0562CBE7A8EC.title: "Strays"
+	quest.5FBC4785AC879A19.quest_desc: [
+		"§e§lHow to complete:§r Kill 3 x Endermite. The quest completes on its own as soon as you do it."
+	]
+	quest.5FBC4785AC879A19.title: "Endermites"
+	quest.63027DAC84ADFF37.quest_desc: [
+		"§e§lHow to complete:§r Kill 10 x Zombie. The quest completes on its own as soon as you do it."
+	]
 	quest.63027DAC84ADFF37.title: "Zombies"
+	quest.65557145F8074F4C.quest_desc: [
+		"§e§lHow to complete:§r Kill 3 x Witch. The quest completes on its own as soon as you do it."
+	]
 	quest.65557145F8074F4C.title: "Witches"
+	quest.736507F25080FA4C.quest_desc: [
+		"Evokers drop these. Keep one in your offhand!"
+		""
+		"§e§lHow to complete:§r Find, mine or loot Totem of Undying and carry it in your inventory. The quest checks your inventory on its own; you can also click the task to hand items in."
+	]
+	quest.736507F25080FA4C.title: "Totem of Undying"
 }

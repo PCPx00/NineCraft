@@ -14,7 +14,7 @@
 			rotation: 0.0d
 			width: 9.0d
 			x: 3.5d
-			y: -8.5d
+			y: -4.5d
 		}
 		{
 			alpha: 70
@@ -24,7 +24,7 @@
 			rotation: -12.0d
 			width: 5.0d
 			x: -5.5d
-			y: -0.5d
+			y: 15.0d
 		}
 		{
 			alpha: 70
@@ -33,8 +33,8 @@
 			order: -2
 			rotation: 14.0d
 			width: 4.0d
-			x: 24.0d
-			y: -3.0d
+			x: 24.5d
+			y: 1.0d
 		}
 		{
 			alpha: 70
@@ -44,7 +44,7 @@
 			rotation: -8.0d
 			width: 3.5d
 			x: 10.0d
-			y: 6.5d
+			y: 33.0d
 		}
 		{
 			alpha: 70
@@ -53,8 +53,40 @@
 			order: -2
 			rotation: 10.0d
 			width: 3.5d
-			x: 24.0d
-			y: 2.0d
+			x: 24.5d
+			y: 28.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/mi_digital_0.png"
+			rotation: 0.0d
+			width: 8.5d
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/mi_digital_1.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 3.75d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/mi_digital_2.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 3.25d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "ninecraft:textures/quests/tiers/mi_digital_3.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: 2.0d
+			y: 23.0d
 		}
 	]
 	order_index: 2
@@ -82,11 +114,17 @@
 				}
 			]
 			x: 0.0d
-			y: 0.0d
+			y: 2.0d
 		}
 		{
-			dependencies: ["03D94E95B8F7EEC7"]
+			dependencies: [
+				"1AE5B023F2914E79"
+				"1B5BD1A691F6422B"
+				"29EAE4B90F87D1E4"
+				"5235A166A48FFF0A"
+			]
 			id: "2B9047E018D78197"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "117B853D7FFAA202"
@@ -104,8 +142,8 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: -1.0d
+			x: 0.0d
+			y: 9.5d
 		}
 		{
 			dependencies: ["03D94E95B8F7EEC7"]
@@ -128,7 +166,7 @@
 				}
 			]
 			x: 2.5d
-			y: 1.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["0B2962947AEF05DB"]
@@ -174,7 +212,7 @@
 				}
 			]
 			x: 7.5d
-			y: 0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["176BA29AE6875AAA"]
@@ -197,15 +235,16 @@
 				}
 			]
 			x: 7.5d
-			y: 2.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["2B9047E018D78197"]
 			id: "54BF34F3FE07B46C"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "21F34ABC9D3FD10A"
-					table_id: 1467623321632268434L
+					table_id: 3087784268654967924L
 					type: "random"
 				}
 			]
@@ -219,8 +258,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -1.0d
+			x: 0.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["54BF34F3FE07B46C"]
@@ -228,7 +267,7 @@
 			rewards: [
 				{
 					id: "6033C2AD205A4C9D"
-					table_id: 1467623321632268434L
+					table_id: 3087784268654967924L
 					type: "random"
 				}
 			]
@@ -242,12 +281,13 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: -1.5d
+			x: 2.5d
+			y: 15.5d
 		}
 		{
-			dependencies: ["1ED73373756A8D22"]
+			dependencies: ["1256A28DFBBEC099"]
 			id: "219E864E5CBDC14E"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "5FE798CF151C91D4"
@@ -267,8 +307,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -1.5d
+			x: 0.0d
+			y: 27.0d
 		}
 		{
 			dependencies: ["219E864E5CBDC14E"]
@@ -276,7 +316,7 @@
 			rewards: [
 				{
 					id: "1A28331C7FF6A471"
-					table_id: 3087784268654967924L
+					table_id: 1597714221544942633L
 					type: "random"
 				}
 			]
@@ -290,8 +330,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -2.5d
+			x: 2.5d
+			y: 24.5d
 		}
 		{
 			dependencies: ["143F72981838B53A"]
@@ -299,7 +339,7 @@
 			rewards: [
 				{
 					id: "1359B2585A8ACAF4"
-					table_id: 3087784268654967924L
+					table_id: 1597714221544942633L
 					type: "random"
 				}
 			]
@@ -313,8 +353,8 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: -4.0d
+			x: 5.0d
+			y: 25.5d
 		}
 		{
 			dependencies: ["219E864E5CBDC14E"]
@@ -322,7 +362,7 @@
 			rewards: [
 				{
 					id: "5B8676EFD960F4BF"
-					table_id: 3087784268654967924L
+					table_id: 1597714221544942633L
 					type: "random"
 				}
 			]
@@ -336,11 +376,11 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -0.5d
+			x: 2.5d
+			y: 26.0d
 		}
 		{
-			dependencies: ["4D93DF8D3C7083F1", "29EAE4B90F87D1E4"]
+			dependencies: ["17E137AF37A10601"]
 			id: "16E4112FE909E2A8"
 			rewards: [
 				{
@@ -359,8 +399,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 1.0d
+			x: 5.0d
+			y: 9.5d
 		}
 		{
 			dependencies: ["16E4112FE909E2A8"]
@@ -382,16 +422,16 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: 1.0d
+			x: 7.5d
+			y: 9.5d
 		}
 		{
-			dependencies: ["1D51D692A3B0D6A6"]
+			dependencies: ["181C785B2025C7CE"]
 			id: "32E1E0047702A0B8"
 			rewards: [
 				{
 					id: "17D00F226F354692"
-					table_id: 3087784268654967924L
+					table_id: 1597714221544942633L
 					type: "random"
 				}
 			]
@@ -406,7 +446,7 @@
 				}
 			]
 			x: 15.0d
-			y: -0.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["1D51D692A3B0D6A6"]
@@ -429,8 +469,8 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: 1.5d
+			x: 10.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["1D51D692A3B0D6A6"]
@@ -452,8 +492,8 @@
 					type: "item"
 				}
 			]
-			x: 15.0d
-			y: 3.0d
+			x: 10.0d
+			y: 9.5d
 		}
 		{
 			dependencies: ["16F1419F93FA8430"]
@@ -477,12 +517,18 @@
 					type: "item"
 				}
 			]
-			x: 17.5d
-			y: 3.0d
+			x: 12.5d
+			y: 8.5d
 		}
 		{
-			dependencies: ["1D11E149A2746BF3"]
+			dependencies: [
+				"1D11E149A2746BF3"
+				"219E864E5CBDC14E"
+				"32E1E0047702A0B8"
+				"19B1B5021B81553A"
+			]
 			id: "6B07C15625C94F65"
+			hide_dependency_lines: true
 			rewards: [
 				{
 					id: "7DEDCFDECE0A031A"
@@ -490,7 +536,7 @@
 					type: "random"
 				}
 			]
-			shape: "hexagon"
+			shape: "pentagon"
 			size: 2.0d
 			tasks: [
 				{
@@ -503,8 +549,428 @@
 					count: 4L
 				}
 			]
-			x: 20.0d
+			x: 20.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["03D94E95B8F7EEC7"]
+			id: "1D5C1F622AB7EA3D"
+			rewards: [
+				{
+					id: "37F8DC81D891D3BE"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1ED5906F4F0A79DB"
+					item: {
+						count: 1
+						id: "modern_industrialization:transistor"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1D5C1F622AB7EA3D"]
+			id: "1AE5B023F2914E79"
+			rewards: [
+				{
+					id: "1E4B47229B8CB5AC"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "21FE0957171506D6"
+					item: {
+						count: 1
+						id: "modern_industrialization:diode"
+					}
+					type: "item"
+					count: 4L
+				}
+			]
+			x: 5.0d
 			y: 3.0d
+		}
+		{
+			dependencies: ["03D94E95B8F7EEC7"]
+			id: "1B5BD1A691F6422B"
+			rewards: [
+				{
+					id: "57BF2FB9133CA944"
+					table_id: 1467623321632268434L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "270E06B721703B33"
+					item: {
+						count: 1
+						id: "modern_industrialization:digital_circuit_board"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4D93DF8D3C7083F1"]
+			id: "5235A166A48FFF0A"
+			rewards: [
+				{
+					id: "4AD946FE10DE24CF"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "198B090914575DC5"
+					item: {
+						count: 1
+						id: "modern_industrialization:memory_management_unit"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2B9047E018D78197"]
+			id: "17E137AF37A10601"
+			rewards: [
+				{
+					id: "1E1FFE36DBE8DDEC"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "17D4112766A512F3"
+					item: {
+						count: 1
+						id: "modern_industrialization:processing_unit_board"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["54BF34F3FE07B46C"]
+			id: "1BE0164E5FA741C3"
+			rewards: [
+				{
+					id: "17A1842BF7C63BDA"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4597505DF978006D"
+					item: {
+						count: 1
+						id: "modern_industrialization:chromium_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["1ED73373756A8D22"]
+			id: "4885212266332043"
+			rewards: [
+				{
+					id: "1E6BBC4071A6FF18"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "126F6ECDDB617358"
+					item: {
+						count: 1
+						id: "modern_industrialization:titanium_hot_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["1ED73373756A8D22"]
+			id: "19B1B5021B81553A"
+			rewards: [
+				{
+					id: "1498D5AA017E5523"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "153187F5261095D9"
+					item: {
+						count: 1
+						id: "modern_industrialization:solid_titanium_machine_casing"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 5.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["1ED73373756A8D22"]
+			id: "1256A28DFBBEC099"
+			rewards: [
+				{
+					id: "10D16D40196B40DE"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "02D39D39AD771310"
+					item: {
+						count: 1
+						id: "modern_industrialization:nuclear_casing"
+					}
+					type: "item"
+					count: 16L
+				}
+			]
+			x: 5.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["219E864E5CBDC14E"]
+			id: "6A9403CDC52C11A5"
+			rewards: [
+				{
+					id: "1DF7DA480793A06D"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1BA3F003226507DA"
+					item: {
+						count: 1
+						id: "modern_industrialization:nuclear_fluid_hatch"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 28.0d
+		}
+		{
+			dependencies: ["1DDBCF4E0AA58AF9"]
+			id: "4C41C75F6623C498"
+			rewards: [
+				{
+					id: "1A09FD71F46959FA"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1773E5CBD05AC347"
+					item: {
+						count: 1
+						id: "modern_industrialization:heavy_water_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["4C41C75F6623C498"]
+			id: "1E9064659D83647F"
+			rewards: [
+				{
+					id: "71721C4316C5E46C"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "125C0C933EDB710E"
+					item: {
+						count: 1
+						id: "modern_industrialization:deuterium_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 27.0d
+		}
+		{
+			dependencies: ["1D51D692A3B0D6A6"]
+			id: "174C426ADE8357C1"
+			rewards: [
+				{
+					id: "4B5BC084D60E4DE1"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "2435FED2458B7064"
+					item: {
+						count: 1
+						id: "modern_industrialization:ev_energy_input_hatch"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["54BF34F3FE07B46C"]
+			id: "047F8A40F063E6DC"
+			rewards: [
+				{
+					id: "1FE4E967E13FFAB8"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1ACC343ACC9219D6"
+					item: {
+						count: 1
+						id: "modern_industrialization:turbo_upgrade"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["54BF34F3FE07B46C"]
+			id: "2AC57250FA2E9B41"
+			rewards: [
+				{
+					id: "6CE310E0A5928522"
+					table_id: 3087784268654967924L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "1A87A95561D02149"
+					item: {
+						count: 1
+						id: "modern_industrialization:turbo_machine_casing"
+					}
+					type: "item"
+					count: 8L
+				}
+			]
+			x: 2.5d
+			y: 21.0d
+		}
+		{
+			dependencies: ["16F1419F93FA8430"]
+			id: "181C785B2025C7CE"
+			rewards: [
+				{
+					id: "1BED7EE79C323315"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "189A0EC5DB87C377"
+					item: {
+						count: 1
+						id: "modern_industrialization:blastproof_alloy_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["32E1E0047702A0B8"]
+			id: "5C736DBD9025B125"
+			rewards: [
+				{
+					id: "1078A052EBBCFC17"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "67C97E9E12B8857F"
+					item: {
+						count: 1
+						id: "modern_industrialization:ultradense_metal_ball"
+					}
+					type: "item"
+				}
+			]
+			x: 17.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["219E864E5CBDC14E"]
+			id: "5FC738A8C170F1D4"
+			optional: true
+			rewards: [
+				{
+					id: "1A41FFED1C768BAC"
+					table_id: 1597714221544942633L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3FDBBE6D427C1504"
+					item: {
+						count: 1
+						id: "modern_industrialization:plutonium_battery"
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 29.5d
 		}
 		{
 			icon: {
@@ -523,7 +989,7 @@
 				}
 			]
 			x: -3.0d
-			y: -7.0d
+			y: -3.0d
 		}
 	]
 }
