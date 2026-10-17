@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>⚙️ Tech &nbsp;•&nbsp; 🔮 Magic &nbsp;•&nbsp; ⚔️ RPG &nbsp;•&nbsp; 🌻 Cozy &nbsp;•&nbsp; 🍲 Food &nbsp;•&nbsp; ⚡ Power</b><br>
-  <i>512 mods. 43 quest chapters. 1,650+ hand-written quests. One giant world where every playstyle lives side by side.</i>
+  <i>515 mods. 43 quest chapters. 1,700+ hand-written quests. Five shader packs. One giant world where every playstyle lives side by side.</i>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <a href="https://www.curseforge.com/minecraft/modpacks/nine-craft"><img src="https://img.shields.io/curseforge/dt/1703220?style=for-the-badge&logo=curseforge&label=Downloads&color=8B5CF6" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=for-the-badge" alt="Minecraft 1.21.1">
   <img src="https://img.shields.io/badge/NeoForge-21.1.250-E07A2E?style=for-the-badge" alt="NeoForge 21.1.250">
-  <img src="https://img.shields.io/badge/Version-v2.5.0-A855F7?style=for-the-badge" alt="Version v2.5.0">
+  <img src="https://img.shields.io/badge/Version-v2.5.3-A855F7?style=for-the-badge" alt="Version v2.5.3">
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
   <a href="../../issues/new/choose"><b>🐛 Report a Bug</b></a>
 </p>
 
-<p align="center"><img src="assets/branding/stats.gif" alt="512 mods, 43 chapters, 1650+ quests, NeoForge 1.21.1" width="840"></p>
+<p align="center"><img src="assets/branding/stats.gif" alt="515 mods, 43 chapters, 1700+ quests, NeoForge 1.21.1" width="840"></p>
 
 <p align="center"><img src="assets/branding/divider.gif" alt="" width="840"></p>
 
@@ -37,17 +37,17 @@ Build a roaring **Create** factory in the morning. Sling fireballs with **Iron's
 
 Every major system is tied together by a **fully original quest book**, so you always know what to try next.
 
-- 🟣 **512 hand-picked mods** covering tech, magic, RPG, building, farming, food and exploration
-- 📖 **43 quest chapters / 1,650+ quests**, all written from scratch for Nine Craft
+- 🟣 **515 hand-picked mods** covering tech, magic, RPG, building, farming, food, exploration and shaders
+- 📖 **43 quest chapters / 1,700+ quests**, all written from scratch for Nine Craft
 - ☠️ **Nine Craft's own Grim Industries mods** by xTri6, each with its own quest chapter
 - 🎁 **Custom loot tables** (Common ➜ Uncommon ➜ Rare ➜ **Epic**) that reward you for crafting
-- 🌄 **Shader-ready out of the box** with Iris plus Complementary Reimagined, Complementary Unbound and Sildur's Vibrant
+- 🌄 **Shader-ready out of the box** with Iris plus 5 shader packs: BSL, Bliss, MakeUp, Photon and Solas
 - 🚀 **Performance-tuned** with Sodium, Lithium, ImmediatelyFast, Entity Culling, FastBoot and more
 - 👥 **Built for friends** with FTB Teams, FTB Chunks claiming and shared quest progress
 
 <p align="center"><img src="assets/branding/choose_your_path.gif" alt="Choose your path: Tech, Magic, RPG, Cozy, Food, Power" width="840"></p>
 
-> 🆕 **v2.5.0 is out!** Grim Pipe Industries and Grim Storage Industries join the pack, the quest book grows to ~1,650 quests with tier rows in every chapter, and 95 mods get updates. [Read the full changelog ➜](CHANGELOG.md)
+> 🆕 **v2.5.3 is out!** Five cutting-edge shader packs (BSL, Bliss, MakeUp, Photon, Solas) bring stunning visuals, Mellow adds cozy recipe variety, and the quest book expands to 1,700+ quests. [Read the full changelog ➜](CHANGELOG.md)
 
 <p align="center"><img src="assets/branding/grim_banner.gif" alt="Grim Industries" width="840"></p>
 <p align="center"><i>Three original mods, made by xTri6 for Nine Craft.</i></p>

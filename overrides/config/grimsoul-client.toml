@@ -1,5 +1,0 @@
-[gui]
-	#Look of the Grim Soul Industries machine screens: REAPER (light gray and purple), VANILLA (classic Minecraft) or DARK.
-	#You can also switch it with the small button in the top-right corner of any machine screen.
-	#Allowed Values: REAPER, VANILLA, DARK
-	theme = "REAPER"

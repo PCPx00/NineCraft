@@ -1,5 +1,39 @@
 # 📜 Nine Craft Changelog
 
+## 💜 v2.5.3
+
+**Minecraft 1.21.1 · NeoForge 21.1.250 · 515 mods · 43 quest chapters · ~1,700+ quests**
+
+### 🎨 Visual Enhancement
+Nine Craft now includes **5 cutting-edge shader packs** for stunning visual customization:
+- **BSL Shaders**: realistic lighting and shadows
+- **Bliss Shaders**: vibrant colors and smooth visuals
+- **MakeUp - Ultra Fast**: lightweight, high-performance shaders
+- **Photon Shader**: clean, bright aesthetic
+- **Solas Shader**: warm, atmospheric lighting
+
+### 🍽️ Food & Comfort
+- **Mellow**: cozy recipe additions and food variety
+
+### ➕ Mods Added (6)
+- 5 shader packs: BSL, Bliss, MakeUp, Photon, Solas
+- Mellow (food & recipe expansion)
+
+### ➖ Mods Removed (3)
+- Better End Cities compat (Better End Cities)
+- Enchantment Descriptions Compat
+- Extreme Sound Muffler
+
+### 📖 Quest Book Updates
+- Expanded with **new quests** across multiple chapters
+- Quest book now features **~1,700+ quests** with fresh content
+
+### 🔄 Updates & Fixes
+- Compatibility improvements for the latest mod versions
+- Performance optimizations for shader rendering
+
+---
+
 ## 💜 v2.5.0
 
 **Minecraft 1.21.1 · NeoForge 21.1.250 · 512 mods · 43 quest chapters · ~1,650 quests**

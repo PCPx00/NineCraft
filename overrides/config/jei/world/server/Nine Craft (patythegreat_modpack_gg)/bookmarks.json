@@ -1,0 +1,8 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"apotheosis:sigil_of_rebirth"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"grimstorage:soulite_ingot_from_raw_blasting","recipeType":"minecraft:blasting","bookmarkType":"RECIPE"},
+  {"recipe":"minecraft:iron_ingot_from_smelting_raw_iron","recipeType":"minecraft:smelting","bookmarkType":"RECIPE"},
+  {"recipe":"hostilenetworks:loot_fabricator","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"mysticalagriculture:prosperity_seed_base","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

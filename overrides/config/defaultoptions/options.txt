@@ -6,8 +6,8 @@ entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
-fov:0.0
-fovEffectScale:1.0
+fov:1.0
+fovEffectScale:0.0
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
@@ -15,7 +15,7 @@ prioritizeChunkUpdates:0
 fullscreen:false
 gamma:0.5
 graphicsMode:1
-guiScale:0
+guiScale:2
 maxFps:120
 mipmapLevels:4
 narrator:0
@@ -24,7 +24,7 @@ reducedDebugInfo:false
 renderClouds:"true"
 renderDistance:12
 simulationDistance:12
-screenEffectScale:1.0
+screenEffectScale:0.0
 soundDevice:""
 autoJump:false
 operatorItemsTab:false
@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["modularbees:dynamic_assets","mod/punchy:resourcepacks/punchy","vanilla","fabric","mod_resources","add_xycraft_overrides_stone","add_xycraft_overrides_metal","add_xycraft_overrides_glass","moonlight:merged_pack","file/Ars Nouveau Refresh 1.2.0.zip","file/Beautiful Enchanted Books - MC 1.21.1 - 8.0.0.zip","file/Better Vanilla GUI (With OptiGUI) - MC 1.21.1 - 4.0.0.zip","file/FA+Player-v1.1.zip","file/Fancy_Beds-v4.2.zip","file/FreshAnimations_v1.10.4.zip","file/Repurposed_Structures-Better_Strongholds_v8.zip","file/[1.6] Enhanced Boss Bars.zip","file/boss-refreshed-v2-1.19-1.21.zip","file/Modded Omelet [120] [171].zip","file/Stay Clear V1.1 [1.21.1].zip","file/§eTorches§8-§eReimagined§0_§8[v1.8]§0.zip","file/9MMCraft_QuestArt","file/EnderEyes_26.3_v3.1.zip"]
+resourcePacks:["modularbees:dynamic_assets","mod/punchy:resourcepacks/punchy","vanilla","fabric","mod_resources","add_xycraft_overrides_stone","add_xycraft_overrides_metal","add_xycraft_overrides_glass","moonlight:merged_pack","file/Ars Nouveau Refresh 1.2.0.zip","file/Beautiful Enchanted Books - MC 1.21.1 - 8.0.0.zip","file/FA+Player-v1.1.zip","file/Fancy_Beds-v4.2.zip","file/FreshAnimations_v1.10.4.zip","file/Repurposed_Structures-Better_Strongholds_v8.zip","file/[1.6] Enhanced Boss Bars.zip","file/boss-refreshed-v2-1.19-1.21.zip","file/Modded Omelet [120] [171].zip","file/Stay Clear V1.1 [1.21.1].zip","file/§eTorches§8-§eReimagined§0_§8[v1.8]§0.zip","file/9MMCraft_QuestArt","file/EnderEyes_26.3_v3.1.zip","file/Better Vanilla GUI (With OptiGUI) - MC 1.21.1 - 4.0.0.zip","mod/allthemodium:resourcepacks/sussyblind"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -58,7 +58,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0

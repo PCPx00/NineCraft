@@ -138,42 +138,42 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:zombie": true
-			"creeperoverhaul:cave_creeper": true
-			"aquaculture:perch": false
-			"quark:toretoise": true
-			"minecraft:cow": true
-			"quark:stoneling": true
-			"mowziesmobs:grottol": true
-			"irons_spellbooks:necromancer": true
-			"mekanismadditions:baby_skeleton": true
-			"quark:forgotten": true
-			"aquaculture:smallmouth_bass": false
-			"minecraft:chicken": true
-			"minecraft:glow_squid": true
-			"minecraft:creeper": true
-			"minecraft:pig": true
-			"minecraft:spider": true
-			"productivebees:mason_bee": true
-			"aquaculture:carp": false
-			"ars_nouveau:whirlisprig": true
-			"minecraft:sheep": true
-			"artifacts:mimic": true
-			"aquaculture:catfish": false
-			"minecraft:skeleton": true
-			"aquaculture:gar": false
-			"mowziesmobs:ferrous_wroughtnaut": true
-			"aquaculture:muskellunge": false
-			"aquaculture:minnow": false
 			"minecraft:enderman": true
-			"minecraft:squid": true
-			"aquaculture:bluegill": false
-			"aquaculture:brown_trout": false
+			"aquaculture:muskellunge": false
+			"minecraft:chicken": true
 			"spider_overhaul:cavern_spider": true
-			"minecraft:bat": true
-			"minecraft:horse": true
+			"minecraft:spider": true
+			"minecraft:glow_squid": true
+			"mowziesmobs:grottol": true
+			"aquaculture:catfish": false
 			"ars_nouveau:drygmy": true
+			"aquaculture:brown_trout": false
+			"ars_nouveau:whirlisprig": true
+			"quark:toretoise": true
+			"productivebees:mason_bee": true
 			"productivebees:green_carpenter_bee": true
+			"minecraft:zombie": true
+			"minecraft:squid": true
+			"minecraft:cow": true
+			"quark:forgotten": true
+			"artifacts:mimic": true
+			"minecraft:pig": true
+			"aquaculture:bluegill": false
+			"aquaculture:gar": false
+			"minecraft:sheep": true
+			"quark:stoneling": true
+			"minecraft:skeleton": true
+			"mekanismadditions:baby_skeleton": true
+			"irons_spellbooks:necromancer": true
+			"aquaculture:minnow": false
+			"minecraft:creeper": true
+			"minecraft:bat": true
+			"creeperoverhaul:cave_creeper": true
+			"aquaculture:carp": false
+			"aquaculture:perch": false
+			"mowziesmobs:ferrous_wroughtnaut": true
+			"minecraft:horse": true
+			"aquaculture:smallmouth_bass": false
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
